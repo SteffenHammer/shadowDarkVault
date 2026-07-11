@@ -1,5 +1,7 @@
 ---
 title: <Adventure Title>
+type: <one-shot | single-adventure | campaign-adventure>
+campaign: "[[00-campaign|<Campaign Title>]]"   # campaign adventures only, omit otherwise
 system: <RPG system, e.g. Shadowdark>
 levels: <level range, e.g. 1-3>
 party-size: <e.g. 3-5>
