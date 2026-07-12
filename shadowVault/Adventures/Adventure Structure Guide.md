@@ -34,7 +34,7 @@ The adventure structure itself (overview, acts, scenes, statblocks) is identical
 
 ## Adventure Concepts
 
-An adventure may begin as a **concept**: a file in `Adventures/Ideas/` built from `concept-template.md` and developed until `status: ready`. A ready concept answers everything the generation checklist below needs — premise, truth, stakes, cast, structure, opposition, rewards, constraints — so building the adventure from it requires inventing nothing load-bearing. After the build, the concept stays in `Ideas/` as the record of intent.
+An adventure may begin as a **concept**: a file in `Adventures/Ideas/` built from `concept-template.md` and developed until `status: ready`. A ready concept answers everything the generation checklist below needs — premise, truth, stakes, cast, structure, opposition, rewards, constraints — so building the adventure from it requires inventing nothing load-bearing. After the build, the concept stays in `Ideas/` as the record of intent (`status: built`, linking to the built adventure).
 
 ## Folder Layout
 

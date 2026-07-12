@@ -5,7 +5,7 @@ system: Shadowdark
 levels: <e.g. 1-3>
 party-size: <e.g. 3-5>
 sessions: <expected count; campaigns: per adventure>
-status: in-progress   # in-progress | ready
+status: in-progress   # in-progress | ready | built
 tags: [adventure-concept]
 ---
 
