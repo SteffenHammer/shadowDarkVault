@@ -13,7 +13,7 @@ tags: [npc]
 - **Motivation:** His greatest fear is insignificance. He wants immortality, dominion over the Black Sea, and a legacy that changes the world. He sees the ritual not as a curse but as a coronation.
 - **Secrets:** He hears voices from the deep guiding him (since Adventure I). He believes the Leviathan has *chosen* him. He fears his soul is already half lost. He does not know the ritual will make him not immortal, but unhuman.
 - **Relationships:** Commands the [[the-tideblade|Tideblade]] and her crew (tools, possible heirs, possible sacrifices, possible threats — depending on how the characters act, he treats them as children to raise, rivals, traitors, or worthy successors). Bound, unknowingly, to the Leviathan through the [[ritual-book]] and the [[shard-of-the-deep]].
-- **Stat block:** none yet — he does not fight the party in Adventure I. His ritual form (Adventure III boss) will be converted with that adventure.
+- **Stat block:** none by design — he does not fight the party in Adventure I, and in [[01-the-drowning|Adventure II's prologue]] he executes them in an unwinnable set-piece with no stat block (like the Warden of the Deep). His ritual form (Adventure III boss) will be converted with that adventure.
 
 ## Playing Rauthorn (GM)
 
@@ -24,5 +24,5 @@ tags: [npc]
 ## Development Across the Campaign
 
 - **Adventure I:** obsessed but still controlled; reads as a hard yet capable captain.
-- **Adventure II:** sleepless, ghostly; his eyes seem deeper, his voice echoes strangely; he begins to lose the crew.
+- **Adventure II:** sleepless, ghostly; his eyes seem deeper, his voice echoes strangely; he begins to lose the crew. He appears only in the prologue — the beach, the judgment, the execution ([[01-the-drowning|The Drowning]]); **record each PC's last stand and final words — he remembers them.** Afterwards he is an offstage threat: he strikes the party's names from the muster, tells the ports they turned on him, and hunts a new path to the ritual.
 - **Adventure III:** half man, half ritual-creature; his presence chills the air; he will sacrifice anything — including the characters.

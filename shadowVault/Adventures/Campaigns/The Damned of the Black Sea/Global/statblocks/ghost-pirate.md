@@ -25,4 +25,4 @@ Undead souls bound to the Shard of the Deep — translucent bodies in shredded p
 >
 > **Wail (1/day).** All within near make a DC 12 WIS check or take −1 on attacks for 1d4 rounds.
 
-- **Found in:** campaign `Global/statblocks/` — appears in Adventure I (temple, random encounters) and Adventure II (bound to anchor-objects).
+- **Found in:** campaign `Global/statblocks/` — appears in Adventure I (temple, random encounters). *(The old Adventure II anchor-object hints were dropped when [[02-The Sea Between/00-overview|The Sea Between]] was built fresh; kept in `Global/` in case later adventures reuse them.)*
