@@ -3,6 +3,7 @@ title: The Shard of the Deep
 type: campaign-adventure
 campaign: "[[00-campaign|The Damned of the Black Sea]]"
 system: Shadowdark
+theme: shadowdeep
 levels: 1-3
 party-size: 3-5
 sessions: 2-3
