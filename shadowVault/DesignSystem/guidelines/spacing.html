@@ -1,0 +1,25 @@
+<!-- @dsCard group="Spacing" viewport="700x230" subtitle="4 → 60px step scale used for gaps and padding" name="Spacing scale" -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: #0a0908; padding: 24px; display: flex; flex-direction: column; gap: 9px; }
+  .row { display: flex; align-items: center; gap: 14px; }
+  .tok { flex: none; width: 78px; font-family: var(--font-mono); font-size: 10px; letter-spacing: .06em; color: #8f8674; }
+  .bar { height: 12px; background: #ece7db; }
+  .px { font-family: var(--font-mono); font-size: 10px; color: #6b6350; }
+</style>
+</head>
+<body>
+  <div class="row"><span class="tok">--space-1</span><span class="bar" style="width:4px"></span><span class="px">4</span></div>
+  <div class="row"><span class="tok">--space-3</span><span class="bar" style="width:8px"></span><span class="px">8</span></div>
+  <div class="row"><span class="tok">--space-5</span><span class="bar" style="width:12px"></span><span class="px">12</span></div>
+  <div class="row"><span class="tok">--space-6</span><span class="bar" style="width:16px"></span><span class="px">16</span></div>
+  <div class="row"><span class="tok">--space-8</span><span class="bar" style="width:24px"></span><span class="px">24</span></div>
+  <div class="row"><span class="tok">--space-9</span><span class="bar" style="width:32px"></span><span class="px">32</span></div>
+  <div class="row"><span class="tok">--space-10</span><span class="bar" style="width:44px"></span><span class="px">44</span></div>
+  <div class="row"><span class="tok">--space-11</span><span class="bar" style="width:60px"></span><span class="px">60</span></div>
+</body>
+</html>

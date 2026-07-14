@@ -1,0 +1,37 @@
+<!-- @dsCard group="Type" viewport="700x330" subtitle="Five voices: display, head, body, flavor, mono" name="Type families" -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: #0a0908; padding: 24px; color: #ece3d2; }
+  .row { display: flex; align-items: baseline; gap: 18px; padding: 13px 0; border-bottom: 1px solid rgba(236,231,219,.12); }
+  .row:last-child { border-bottom: 0; }
+  .tag { flex: none; width: 118px; font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: #8f8674; line-height: 1.5; }
+  .spec { flex: 1; min-width: 0; }
+</style>
+</head>
+<body>
+  <div class="row">
+    <div class="tag">Display<br>Pirata One</div>
+    <div class="spec" style="font-family:var(--font-display);font-size:34px;letter-spacing:.05em;text-shadow:0 2px 0 rgba(0,0,0,.55)">GRIMOIRE</div>
+  </div>
+  <div class="row">
+    <div class="tag">Head<br>Cinzel</div>
+    <div class="spec" style="font-family:var(--fhead);font-weight:700;font-size:30px;letter-spacing:.02em">Every world built on the dark</div>
+  </div>
+  <div class="row">
+    <div class="tag">Body<br>IM Fell English</div>
+    <div class="spec" style="font-family:var(--fbody);font-size:18px;line-height:1.55">The torch gutters. Somewhere ahead, water drips into a room that has not been opened in an age.</div>
+  </div>
+  <div class="row">
+    <div class="tag">Flavor<br>EB Garamond ital.</div>
+    <div class="spec" style="font-family:var(--font-flavor);font-style:italic;font-size:19px;line-height:1.5;color:#a99e88">A short, evocative line, read aloud at the table.</div>
+  </div>
+  <div class="row">
+    <div class="tag">Mono<br>Courier New</div>
+    <div class="spec" style="font-family:var(--font-mono);font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#ece7db">STR · DEX · CON · INT · WIS · CHA</div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+/* ============================================================
+   SPACING, BORDERS, SHADOWS
+   Grimoire is carved, not rounded: radius is 0 everywhere.
+   Structure reads through 1px parchment-tinted borders and
+   deep, soft black shadows — never colored glows (except the
+   torch accent used sparingly on the wordmark diamond).
+   ============================================================ */
+
+:root {
+  /* Spacing scale (px) */
+  --space-1: 4px;
+  --space-2: 6px;
+  --space-3: 8px;
+  --space-4: 10px;
+  --space-5: 12px;
+  --space-6: 16px;
+  --space-7: 20px;
+  --space-8: 24px;
+  --space-9: 32px;
+  --space-10: 44px;
+  --space-11: 60px;
+
+  /* Page rhythm */
+  --page-max: 1520px;      /* wide index / grid views */
+  --reading-max: 860px;    /* single-column sheets & adventures */
+  --gutter: clamp(20px, 5vw, 60px);
+
+  /* Corners — sharp, always */
+  --radius: 0;
+
+  /* Borders */
+  --border-1: 1px solid var(--border);
+  --border-strong-1: 1px solid var(--border-strong);
+  --border-accent-1: 1px solid var(--accent);
+
+  /* Shadows */
+  --shadow-card: 0 20px 44px rgba(0,0,0,.66);   /* card hover lift */
+  --shadow-panel: 0 20px 50px rgba(0,0,0,.5);   /* raised sheet / stat block */
+  --shadow-modal: 0 34px 80px rgba(0,0,0,.62);  /* login card, dropdowns */
+  --shadow-drop: 0 16px 34px rgba(0,0,0,.6);    /* menu popovers */
+
+  /* Framed-button inset (the signature triple-inset ring) */
+  --inset-ring: inset 0 0 0 3px var(--accent-soft);
+
+  /* Motion */
+  --ease: cubic-bezier(.2,.7,.3,1);
+  --dur-fast: .18s;
+  --dur: .28s;
+}

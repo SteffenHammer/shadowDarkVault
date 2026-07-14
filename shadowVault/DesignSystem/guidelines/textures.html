@@ -1,0 +1,27 @@
+<!-- @dsCard group="Brand" viewport="700x210" subtitle="Grain film, vignette, and the striped art placeholder" name="Textures" -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: #0a0908; padding: 22px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 14px; }
+  .tile { position: relative; height: 150px; border: 1px solid rgba(236,231,219,.16); overflow: hidden; }
+  .cap { position: absolute; left: 10px; bottom: 9px; font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: #a1977f; z-index: 2; }
+  .grainhost { position: relative; }
+  .grainhost .gr-grain { position: absolute; opacity: .55; }
+</style>
+</head>
+<body>
+  <div class="grid">
+    <div class="tile grainhost" style="background:radial-gradient(120% 90% at 50% 0,rgba(236,231,219,.16),transparent 60%),#0a0908">
+      <div class="gr-grain"></div><span class="cap">grain · overlay</span>
+    </div>
+    <div class="tile" style="background:#1a1512">
+      <div class="gr-vignette" style="position:absolute"></div><span class="cap">vignette</span>
+    </div>
+    <div class="tile gr-media"><span class="cap" style="color:rgba(255,255,255,.4)">art placeholder</span></div>
+  </div>
+</body>
+</html>

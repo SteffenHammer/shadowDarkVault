@@ -1,0 +1,37 @@
+<!-- @dsCard group="Colors" viewport="700x260" subtitle="Each subsystem re-flavors the same tokens — ground + accent" name="Subsystem flavors" -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: #050505; padding: 22px; }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .sys { border: 1px solid var(--border); background: var(--appbg); padding: 16px 14px 14px; min-height: 150px; display: flex; flex-direction: column; justify-content: space-between; }
+  .sys__name { font-family: var(--fhead); font-weight: 700; font-size: 19px; letter-spacing: var(--hspace); text-transform: var(--htransform); color: var(--text); }
+  .sys__tag { font-family: var(--font-mono); font-size: 9.5px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin-top: 4px; }
+  .sys__row { display: flex; align-items: center; gap: 8px; margin-top: 14px; }
+  .sys__id { font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; color: var(--muted); }
+</style>
+</head>
+<body>
+  <div class="grid">
+    <div class="sys" data-system="shadowdark">
+      <div><span class="gr-diamond"></span><div class="sys__name" style="margin-top:10px">Shadowdark</div><div class="sys__tag">Lantern-lit dungeon crawl</div></div>
+      <div class="sys__id">data-system="shadowdark"</div>
+    </div>
+    <div class="sys" data-system="shadowdeep">
+      <div><span class="gr-diamond"></span><div class="sys__name" style="margin-top:10px">Shadowdeep</div><div class="sys__tag">Pirate crawl on black seas</div></div>
+      <div class="sys__id">data-system="shadowdeep"</div>
+    </div>
+    <div class="sys" data-system="shadowhammer">
+      <div><span class="gr-diamond"></span><div class="sys__name" style="margin-top:10px">ShadowHammer</div><div class="sys__tag">Grimdark fantasy war</div></div>
+      <div class="sys__id">data-system="shadowhammer"</div>
+    </div>
+    <div class="sys" data-system="shadowhammer-40k">
+      <div><span class="gr-diamond"></span><div class="sys__name" style="margin-top:10px">ShadowHammer 40K</div><div class="sys__tag">Grimdark far-future war</div></div>
+      <div class="sys__id">data-system="…-40k"</div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+/* ============================================================
+   TYPOGRAPHY TOKENS
+   Four voices, drawn straight from the app:
+   - Display  (Pirata One)        the GRIMOIRE wordmark only
+   - Head     (--fhead, themed)   titles, section labels, buttons
+   - Body     (--fbody, themed)   running prose, stat values
+   - Flavor   (EB Garamond ital)  read-aloud / evocative text
+   - Mono     (Courier New)       eyebrows, labels, metadata, rolls
+   ============================================================ */
+
+:root {
+  /* Font-size scale */
+  --fs-eyebrow: 11px;     /* mono, wide-tracked kickers */
+  --fs-label: 10px;       /* mono form / stat labels */
+  --fs-meta: 11px;        /* mono metadata rows */
+  --fs-body-sm: 14.5px;
+  --fs-body: 16px;
+  --fs-body-lg: 18px;
+  --fs-flavor: 17px;      /* italic read-aloud */
+  --fs-section: 18px;     /* uppercase H2 */
+  --fs-card-title: 21px;
+  --fs-stat: 25px;        /* ability score numerals */
+  --fs-h1: clamp(34px, 5vw, 54px);
+  --fs-h1-hero: clamp(38px, 6vw, 68px);
+  --fs-wordmark: 24px;
+
+  /* Letter-spacing (tracking) — the app leans on wide mono tracking */
+  --track-eyebrow: .30em;
+  --track-kicker: .24em;
+  --track-label: .14em;
+  --track-meta: .08em;
+  --track-section: .16em;
+  --track-btn: .16em;
+
+  /* Line-heights */
+  --lh-tight: 1.04;
+  --lh-title: 1.1;
+  --lh-body: 1.6;
+  --lh-prose: 1.62;
+}

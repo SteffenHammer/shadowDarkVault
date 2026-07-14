@@ -1,0 +1,4 @@
+/* Grimoire webfonts — hosted by Google Fonts, exactly the families the app loads.
+   @import must come first in any CSS file. These declare the @font-face rules
+   for the whole design system. */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Cinzel+Decorative:wght@700;900&family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=IM+Fell+English:ital@0;1&family=Pirata+One&family=Oswald:wght@300;400;500;600&family=Rajdhani:wght@400;500;600&display=swap');

@@ -1,0 +1,24 @@
+<!-- @dsCard group="Brand" viewport="700x210" subtitle="The rotated-square diamond in every guise, plus the divider" name="Diamond & divider" -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="../styles.css">
+<style>
+  body { margin: 0; background: #0a0908; padding: 26px; display: flex; flex-direction: column; gap: 26px; }
+  .demos { display: flex; align-items: center; gap: 34px; }
+  .demo { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+  .cap { font-family: var(--font-mono); font-size: 9px; letter-spacing: .1em; text-transform: uppercase; color: #8f8674; }
+</style>
+</head>
+<body>
+  <div class="demos">
+    <div class="demo"><span class="gr-diamond gr-diamond--sm"></span><span class="cap">sm</span></div>
+    <div class="demo"><span class="gr-diamond"></span><span class="cap">base</span></div>
+    <div class="demo"><span class="gr-diamond gr-diamond--lg"></span><span class="cap">lg</span></div>
+    <div class="demo"><span class="gr-diamond gr-diamond--outline gr-diamond--lg"></span><span class="cap">outline</span></div>
+    <div class="demo"><span class="gr-diamond gr-diamond--lg gr-diamond--glow gr-torch"></span><span class="cap">torch</span></div>
+  </div>
+  <div class="gr-divider"><span class="gr-diamond gr-diamond--sm"></span><span class="gr-diamond gr-diamond--outline"></span><span class="gr-diamond gr-diamond--sm"></span></div>
+</body>
+</html>

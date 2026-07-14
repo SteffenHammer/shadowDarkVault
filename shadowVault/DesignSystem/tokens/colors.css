@@ -1,0 +1,86 @@
+/* ============================================================
+   COLORS & THEME SCOPES
+   ------------------------------------------------------------
+   The variable NAMES here match the ones the Grimoire app sets
+   on its root element at runtime (--accent, --text, --panel,
+   --fhead, --htransform, ...). That is deliberate: any markup
+   built with these tokens, dropped inside the app's adventure
+   view, inherits the *current subsystem's* flavor automatically.
+
+   Standalone (spec cards, example adventures), the theme is set
+   with a `data-system="…"` attribute on a wrapping element.
+   No attribute == Shadowdark (the base).
+   ============================================================ */
+
+:root {
+  /* ---- Shadowdark (base / default) ---- */
+  --appbg: radial-gradient(130% 90% at 50% -20%, rgba(236,231,219,.13), transparent 55%),
+           radial-gradient(100% 70% at 50% 118%, rgba(236,231,219,.05), transparent 60%), #0a0908;
+  --bg: #0a0908;
+  --panel: #141110;
+  --text: #ece3d2;
+  --muted: #a1977f;
+  --accent: #ece7db;
+  --accent-soft: rgba(236,231,219,.16);
+  --border: rgba(236,231,219,.16);
+  --border-strong: rgba(236,231,219,.28);
+  --fhead: 'Cinzel', Georgia, serif;
+  --fbody: 'IM Fell English', Georgia, serif;
+  --htransform: none;
+  --hspace: .02em;
+
+  /* ---- Constants shared across every subsystem ---- */
+  --font-mono: 'Courier New', ui-monospace, monospace;
+  --font-display: 'Pirata One', 'Cinzel Decorative', serif;   /* the GRIMOIRE wordmark */
+  --font-flavor: 'EB Garamond', Georgia, serif;               /* italic read-aloud / flavor */
+  --danger: #c06a55;
+  --danger-soft: rgba(192,106,85,.14);
+  --danger-border: rgba(192,106,85,.5);
+  --field-bg: rgba(0,0,0,.30);   /* inset input / inner-panel wells */
+  --well-bg: rgba(0,0,0,.20);
+  --well-bg-soft: rgba(0,0,0,.14);
+}
+
+/* Explicit Shadowdark scope (same as :root, for authors who prefer to be explicit) */
+[data-system="shadowdark"] {
+  --appbg: radial-gradient(130% 90% at 50% -20%, rgba(236,231,219,.13), transparent 55%),
+           radial-gradient(100% 70% at 50% 118%, rgba(236,231,219,.05), transparent 60%), #0a0908;
+  --bg: #0a0908; --panel: #141110; --text: #ece3d2; --muted: #a1977f;
+  --accent: #ece7db; --accent-soft: rgba(236,231,219,.16);
+  --border: rgba(236,231,219,.16); --border-strong: rgba(236,231,219,.28);
+  --fhead: 'Cinzel', Georgia, serif; --fbody: 'IM Fell English', Georgia, serif;
+  --htransform: none; --hspace: .02em;
+}
+
+/* Shadowdeep — pirate crawl on black seas. Teal-black ground, gold accent. */
+[data-system="shadowdeep"] {
+  --appbg: radial-gradient(120% 85% at 50% -15%, rgba(64,157,138,.16), transparent 55%),
+           radial-gradient(100% 70% at 50% 122%, rgba(205,154,63,.07), transparent 60%), #06100e;
+  --bg: #06100e; --panel: #0d1a17; --text: #dde7df; --muted: #7f948b;
+  --accent: #cf9c40; --accent-soft: rgba(207,156,64,.16);
+  --border: rgba(207,156,64,.20); --border-strong: rgba(207,156,64,.34);
+  --fhead: 'Cinzel', Georgia, serif; --fbody: 'IM Fell English', Georgia, serif;
+  --htransform: none; --hspace: .03em;
+}
+
+/* ShadowHammer — grimdark fantasy war. Bruised black ground, blood-red accent, uppercase display. */
+[data-system="shadowhammer"] {
+  --appbg: radial-gradient(120% 85% at 50% 120%, rgba(183,58,47,.16), transparent 55%),
+           radial-gradient(90% 60% at 50% -12%, rgba(183,58,47,.07), transparent 60%), #0d0807;
+  --bg: #0d0807; --panel: #1a100e; --text: #e7d8c8; --muted: #a08a7a;
+  --accent: #c24437; --accent-soft: rgba(194,68,55,.17);
+  --border: rgba(194,68,55,.22); --border-strong: rgba(194,68,55,.36);
+  --fhead: 'Cinzel Decorative', 'Cinzel', serif; --fbody: 'IM Fell English', Georgia, serif;
+  --htransform: uppercase; --hspace: .04em;
+}
+
+/* ShadowHammer 40K — grimdark far-future war. Cold steel ground, cyan accent, sans display. */
+[data-system="shadowhammer-40k"] {
+  --appbg: linear-gradient(180deg, #0b1214, #06090a),
+           radial-gradient(100% 70% at 50% -10%, rgba(70,166,172,.12), transparent 55%);
+  --bg: #07090a; --panel: #10171a; --text: #d4dee0; --muted: #7e9296;
+  --accent: #4bacba; --accent-soft: rgba(75,172,186,.15);
+  --border: rgba(75,172,186,.20); --border-strong: rgba(75,172,186,.34);
+  --fhead: 'Oswald', sans-serif; --fbody: 'Rajdhani', sans-serif;
+  --htransform: uppercase; --hspace: .06em;
+}
