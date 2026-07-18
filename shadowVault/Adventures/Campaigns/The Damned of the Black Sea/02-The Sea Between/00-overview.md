@@ -38,7 +38,21 @@ Killed by their own captain for destroying the Shard of the Deep, the party wake
 | 5 | Close enough to *hear* — the groan of a breaking hull (the Warden's sound from Adventure I). Storm rising. |
 | 6 | The storm crossing — the finale; it catches up. |
 
-**Nightfall check.** At each dimming the ladder normally climbs 1 step. Weigh the day first — each of these adds **+1**: the ship stopped or drifted unmanned for a watch; someone accepted or entertained a boarder's bargain ("let me think on it" counts); the bilge door stood open at dusk; a passenger was given away (automatic). Each of these adds **−1**: a repair beat DC 12 (DC 15 from Night 4); a full watch rotation was kept with nobody alone; a bargain was refused out loud in the lantern's light; the old man was relieved at the helm to rest. The ladder climbs **1 + (net)**, minimum 0, maximum 2 per night.
+> [!info] Nightfall check — procedure
+> The ladder is a *position* (how close the pursuer is), not a calendar — acts trigger when the ladder **reaches** a step, however many dimmings that takes. During play, quietly note marks as they happen; at each dimming, tally and climb.
+>
+> **The ladder climbs 1 + (net marks) — minimum 0, maximum 2 per night.**
+>
+> | +1 mark each (fed the pursuit) | −1 mark each (held it off) |
+> | --- | --- |
+> | The ship stopped or drifted unmanned for a watch | A repair beat DC 12 (DC 15 from Night 4) |
+> | Someone accepted *or entertained* a boarder's bargain — "let me think on it" counts | A full watch rotation was kept, nobody alone |
+> | The bilge door stood open at dusk | A bargain was refused out loud in the lantern's light |
+> | A passenger was given away (automatic) | The old man was relieved at the helm to rest |
+>
+> *Example:* full watch rotation + a repair beat DC 12 → 1 + (−2) = **0**, the ladder holds. Drifted a watch + someone said "let me think on it" → 1 + 2 → clamped to **2**, the pursuer jumps two steps.
+>
+> The ladder never climbs backwards — careful sailing *stalls* death's law, never undoes it. The clamp guarantees at least three nights before the storm; a careful crew may see eight or more. Narrate each new step's manifestation together with the [[the-halcyon|Halcyon's]] matching decay state.
 
 **Permanent loss.** A soul the pursuer takes — a PC who accepts a boarder's bargain, falls overboard, or is caught in the finale — becomes a [[drowned-sailor|drowned sailor]]. Final death; the party may later face what was taken, wearing a friend's face.
 
