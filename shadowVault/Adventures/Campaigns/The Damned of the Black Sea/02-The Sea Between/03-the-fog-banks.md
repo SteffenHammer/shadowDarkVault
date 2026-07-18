@@ -121,18 +121,20 @@ What they want, and what they carry ([[the-dead-crew]] for voices and lines):
 
 - **Purpose:** Temptation and truth in one room — the Undertow's own voice, and the most honest thing aboard.
 - **Trigger:** Whenever the party finally opens the lowest door — the one the old man asked them to keep shut. (He asks; he never forbids.)
-- **Setup:** Below the waterline, at the foot of a stair that is longer going down than coming up: a low door, swollen in its frame. Behind it, standing black water that does not move with the ship — and reflections that misbehave worst of all.
+- **Setup:** Below the waterline, at the foot of a stair that is longer going down than coming up: a low door, swollen in its frame. Behind it, no bilge at all — an endless black sea that does not move with the ship, and reflections that misbehave worst of all.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The water behind the low door is black, and still — still in a way the sea outside never is, still like the pool in the temple. It does not slosh with the ship's roll. Your lamplight goes into it and stops.
+> The door swings inward onto no bilge, no hull, no ship. Behind the low frame lies a sea. It goes out forever — black water, flat as struck glass, still in a way the sea outside never is, still like the pool in the temple. No sky above it, no horizon to end it, no light anywhere down here — and you see all of it anyway, the way you see things in dreams.
 >
-> Your reflection is there. It is half a second behind you. And when it catches up, for one blink, it is wearing what you wore on the beach — torn where you were torn.
+> Your lamplight crosses the threshold and simply stops, as if it knows better.
 >
-> The water says, politely: "You have questions. I don't lie. It's the one thing I have never needed."
+> Your reflection is out there on the still surface, close to the door. It is half a second behind you. And when it catches up, for one blink, it is wearing what you wore on the beach — torn where you were torn.
+>
+> Then a voice — from nowhere and from everywhere, from the water and from just behind your ear, patient and polite: "Are you finally ready to go where you belong?"
 
-The bilge water is the Undertow's mouth aboard ([[the-undertow]] for its voice). It answers questions honestly — and its honesty is the trap, because every true answer walks toward the bargain:
+However the party answers, the voice continues, mildly: *"You have questions. I don't lie. It's the one thing I have never needed."* The bilge water is the Undertow's mouth aboard ([[the-undertow]] for its voice). It answers questions honestly — and its honesty is the trap, because every true answer walks toward the bargain:
 
 - It confirms what the dead crew said: Rauthorn lives; he tells his own story; days pass ashore.
 - It names the old man only *"the ferryman"* and *"the thief."* (Clue.) Asked what was stolen, it says: *"What I am owed."*
@@ -141,7 +143,7 @@ The bilge water is the Undertow's mouth aboard ([[the-undertow]] for its voice).
 
 **Hazard: The Standing Water**
 - Effect: listening is safe by the door; *lingering* is not. Each full minute at the water's edge, DC 12 WIS check or the listener kneels to hear better — one more failure and they reach for the water (companions can pull them back; touching it costs 1d6 cold damage and one true, unwelcome answer delivered straight into their head)
-- Counter: the old man's asked-for state — the door kept shut; leaving takes no check at all, and the voice never pursues past the door. An open bilge door at dusk is **+1 Nightfall mark**.
+- Counter: the old man's asked-for state — the door kept shut; leaving takes no check at all, and the voice never pursues past the door. Opening the bilge door at all is **+1 Nightfall mark** (once per night, however often it's opened).
 
 > [!tip] GM Guidance
 > This room is the GM's pressure valve: when the players are lost, the truth-that-tempts lives here. Give straight answers in the Undertow's voice and let their accuracy be the horror. It never raises its voice, never threatens, and thanks them when they leave: *"Take your time. I have all of it."*

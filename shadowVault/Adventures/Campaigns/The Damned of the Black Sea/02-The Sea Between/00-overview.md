@@ -46,7 +46,7 @@ Killed by their own captain for destroying the Shard of the Deep, the party wake
 > | Marks against | | Marks for |
 > | --- | --- | --- |
 > | **+1** — *lapse:* the ship stopped or drifted unmanned for a watch | | **−1** — a repair beat DC 12 (DC 15 from Night 4) |
-> | **+1** — *lapse:* the bilge door was opened or stood open at dusk | | **−1** — a full watch rotation was kept, nobody alone |
+> | **+1** — *lapse:* the bilge door was opened at all (once per night, however often) | | **−1** — a full watch rotation was kept, nobody alone |
 > | **+3** — *decision:* someone accepted or *entertained* a boarder's bargain — "let me think on it" counts | | **−1** — a bargain was refused out loud in the lantern's light |
 > | **+3** — *decision:* a passenger was given away (automatic) | | **−1** — the old man was relieved at the helm to rest |
 >
