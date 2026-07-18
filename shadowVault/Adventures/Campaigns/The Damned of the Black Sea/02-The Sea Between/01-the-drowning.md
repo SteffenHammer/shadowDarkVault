@@ -61,7 +61,7 @@ The party flees back the way they came — and gets exactly one room. The Chambe
 >
 > At the center of the line stands Captain Rauthorn, and where his saber passes, the drowned go down and *stay* down. He sees you in the surf. For one heartbeat something like relief crosses his face.
 >
-> Then the island shakes again, hard, and his eyes go to the skull-rock behind you — where the temple's glow is guttering out — and the relief dies.
+> Then the island shakes again, hard, and his eyes go north — to where the temple lies hidden behind the island's tangled green. You cannot see it from here. But now a glow rises from that hidden place and climbs into the night sky, a light that was not there before.
 
 **Encounter: The Drowned Line**
 - Enemies: 1d4+1 × [[drowned-sailor]] (per PC engaged, more wading out behind — this is a backdrop, not a set-piece)
