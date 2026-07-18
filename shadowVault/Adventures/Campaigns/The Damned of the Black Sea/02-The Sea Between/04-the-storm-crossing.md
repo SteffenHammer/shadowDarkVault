@@ -60,7 +60,7 @@ tags: [act]
 - Enemies: 1 × [[the-herald]]
 - Trigger: the second wave, or the first time the party clearly refuses to pay
 - Tactics: mast-tall, it steps over the rail like a stile; it announces terms in every drowned voice at once, then collects — grapple, carry, over the side; it interposes its own bulk between PCs and whoever it has taken; it fights amid its own Mooring-Men without crowding itself
-- Terrain: its weight lists the deck (while the Herald is aboard, all station checks are DC 15); it cannot enter the lantern's circle — but by Night 6 the circle holds two people, no more
+- Terrain: its weight lists the deck (while the Herald is aboard, all station checks are DC 15); the guttering light hampers it like every drowned thing (disadvantage in or into the circle — see the [[00-overview|overview]]) — but by Night 6 the circle holds two people, no more
 - Treasure: none — but see Broken, Not Beaten in its stat block: felling it breaks the boarding for 1d4 rounds and buys the parley room to breathe
 
 > [!tip] GM Guidance

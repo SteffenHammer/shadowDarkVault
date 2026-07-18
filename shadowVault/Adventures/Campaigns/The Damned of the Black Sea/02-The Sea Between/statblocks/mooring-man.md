@@ -21,6 +21,6 @@ Boarders of wet rope, barnacle, and green lantern-light — the Undertow's finge
 >
 > **Haul Away.** Instead of attacking, it drags one lashed target near-distance toward the rail. Two Mooring-Men hauling the same target drag with advantage.
 >
-> **Lantern-Shy.** It cannot enter the warm light of the ferryman's lantern, and drops any target it is dragged into the light with.
+> **Lantern-Shy.** While the lantern burns full (through Night 3) it cannot enter the warm light, and drops any target it is dragged into the light with. Once the light gutters (Night 4 on — see the [[00-overview|overview]]) it can cross the line, but everything it attempts in or into the light is at disadvantage, and targets it holds there tear free with advantage.
 
 - **Found in:** this adventure's `statblocks/` — boarding waves throughout [[03-the-fog-banks|Act 3]] and [[04-the-storm-crossing|Act 4]].

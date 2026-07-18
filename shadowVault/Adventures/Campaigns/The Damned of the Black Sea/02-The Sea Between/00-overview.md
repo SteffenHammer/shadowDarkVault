@@ -60,6 +60,15 @@ Killed by their own captain for destroying the Shard of the Deep, the party wake
 >
 > Beyond that, the ladder never climbs backwards — careful sailing *stalls* death's law. The clamp guarantees at least three nights before the storm; a careful crew may see eight or more. Narrate each new step's manifestation together with the [[the-halcyon|Halcyon's]] matching decay state.
 
+> [!info] The lantern's circle — sanctuary that fails
+> The warm circle around the ferryman's lantern is his protection made visible, and it fails as he does:
+>
+> - **Full light (Nights 0–3):** sanctuary. The drowned *cannot* enter it, full stop, and the borrowed voices go quiet inside. Never explain why.
+> - **Guttering (Nights 4–5):** the edge frays. The drowned can cross the line for the first time — but everything they attempt in or into the light is at **disadvantage**, and anyone standing in it has **advantage** on checks to resist being grabbed, dragged, or deceived. Play the first wet rope-hand crossing the line as the horror beat it is: the thing the players trusted absolutely has begun to fail.
+> - **The last stride (Night 6):** the same advantage and disadvantage — but the circle shelters two people, no more.
+>
+> The circle protects; it does not win. Enemies never besiege it — they ignore it and collect what it doesn't cover: the passengers, the stations, the ship herself. A crew that huddles in the light isn't safe; it is choosing what to lose, one watch at a time.
+
 **Permanent loss.** A soul the pursuer takes — a PC who accepts a boarder's bargain, falls overboard, or is caught in the finale — becomes a [[drowned-sailor|drowned sailor]]. Final death; the party may later face what was taken, wearing a friend's face.
 
 **The Toll ledger (finale currency).** The Leviathan holds **3 Interventions** for the rest of the campaign — moments it can shield, aid, or save the party against Rauthorn's ritual. Each piece of its strength given to the Undertow at the storm-wall deletes one forever (and the lantern dims a step, and the old man ages years, on the spot). Record what remains in [[00-campaign|the campaign threads]] after the finale. He can never pay the *whole* debt — at least one soul must come from aboard.
