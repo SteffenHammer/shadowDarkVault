@@ -8,14 +8,16 @@ tags: [statblock]
 
 The thing in the nets: a snarl the size of a longboat's bow — rope, weed, and pale fish all facing the same way, packed like sleepers, with patient hands holding the mesh from the inside. It speaks in the voices of those on deck. It does not want to kill anyone; it wants to take one of them home. Cut apart, it comes undone all at once, like a knot finally given up.
 
-> [!info]+ The Catch — LV 3
-> **AC** 12 · **HP** 15 · **MV** close (drags itself) / near (swim) · **AL** C
+> [!info]+ The Catch — LV 4
+> **AC** 12 · **HP** 26 · **MV** close (drags itself) / near (swim) · **AL** C
 >
-> **ATK** 2 net-limb +3 (1d6)
+> **ATK** 2 net-limb +4 (1d6)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | -1  | +1  | -2  | +1  | +0  |
+>
+> **Only the Top.** The snarl on deck is the crown of a mass still hanging in the sea. At the start of its turn, if it touches the rail, the hands haul fresh mesh aboard: it regains 1d6 HP. It cannot regain HP while any part of it is in the lantern's light.
 >
 > **Borrowed Voices.** It speaks in the voice of anyone present. In the first round, each PC makes a DC 12 WIS check or is surprised (no action) — the voice was a friend's.
 >

@@ -122,6 +122,9 @@ Standing watches is how the party earns **−1 Nightfall marks** (full rotation,
 - Terrain: wet stern deck; the rail; the lantern's circle amidships — it will not haul itself into the light
 - Treasure: tangled in the snarl, a Tideblade oilskin jacket, name-tally stitched in the collar — a crewmate the party knew, one they last saw alive on the beach
 
+> [!tip] GM Guidance — staging the Catch
+> It was never caught: the net *is* its body, and the snarl on deck is only the top of a larger mass still hanging in the water. Don't morph it into a monster shape — it stays rope, weed, fish, and hands all fight long; only the behavior changes (every fish turns its head the same way at once; the fish mouths speak in unison; the hands climb the mesh like sailors working rigging). Its net-limbs are thrown loops of mesh that lace a target in — which is why an edge frees instantly. It drags no one by force: once someone is enmeshed, the submerged half simply *sinks*, and the hands patiently take up slack. Run the deck as three zones and say them aloud — lantern circle (safe), open deck, stern rail — with someone a zone closer to one end every round. Cut apart, it doesn't die; it comes undone, every knot at once, leaving only ordinary debris and the jacket.
+
 > [!tip] GM Guidance
 > The jacket is the scene's real payload: someone they *knew* went into the water at that beach. Let the players sit with what that means; answer no questions about it. If they show the jacket to the old man he folds it very gently, sets it under the lantern, and stands the rest of the watch himself.
 
