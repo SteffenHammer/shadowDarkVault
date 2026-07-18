@@ -29,30 +29,36 @@ Killed by their own captain for destroying the Shard of the Deep, the party wake
 
 **The Night Ladder (the clock).** There is no sun — but periodically the grey twilight dims to true black: a *night*. Each night the pursuer manifests one step closer and the [[the-halcyon|Halcyon]] visibly decays in step (her states are in her location file):
 
-| Night | What manifests |
-| --- | --- |
-| 1 | The wake stops fading — stretched taut to the horizon like a towline. |
-| 2 | A second silhouette on the horizon, hull-down, matching course. The dead wounds ache. |
-| 3 | The fog banks begin — first boarders. The old man starts sleeping (he never slept before). |
-| 4 | The pursuer's bow wave is visible; the sea slopes gently backwards toward it, as if downhill. |
-| 5 | Close enough to *hear* — the groan of a breaking hull (the Warden's sound from Adventure I). Storm rising. |
-| 6 | The storm crossing — the finale; it catches up. |
+| Night | What manifests                                                                                             |
+| ----- | ---------------------------------------------------------------------------------------------------------- |
+| 1     | The wake stops fading — stretched taut to the horizon like a towline.                                      |
+| 2     | A second silhouette on the horizon, hull-down, matching course. The dead wounds ache.                      |
+| 3     | The fog banks begin — first boarders. The old man starts sleeping (he never slept before).                 |
+| 4     | The pursuer's bow wave is visible; the sea slopes gently backwards toward it, as if downhill.              |
+| 5     | Close enough to *hear* — the groan of a breaking hull (the Warden's sound from Adventure I). Storm rising. |
+| 6     | The storm crossing — the finale; it catches up.                                                            |
 
 > [!info] Nightfall check — procedure
 > The ladder is a *position* (how close the pursuer is), not a calendar — acts trigger when the ladder **reaches** a step, however many dimmings that takes. During play, quietly note marks as they happen; at each dimming, tally and climb.
 >
 > **The ladder climbs 1 + (net marks) — minimum 0, maximum 2 per night.**
 >
-> | +1 mark each (fed the pursuit) | −1 mark each (held it off) |
-> | --- | --- |
-> | The ship stopped or drifted unmanned for a watch | A repair beat DC 12 (DC 15 from Night 4) |
-> | Someone accepted *or entertained* a boarder's bargain — "let me think on it" counts | A full watch rotation was kept, nobody alone |
-> | The bilge door stood open at dusk | A bargain was refused out loud in the lantern's light |
-> | A passenger was given away (automatic) | The old man was relieved at the helm to rest |
+> | Marks against | | Marks for |
+> | --- | --- | --- |
+> | **+1** — *lapse:* the ship stopped or drifted unmanned for a watch | | **−1** — a repair beat DC 12 (DC 15 from Night 4) |
+> | **+1** — *lapse:* the bilge door was opened or stood open at dusk | | **−1** — a full watch rotation was kept, nobody alone |
+> | **+3** — *decision:* someone accepted or *entertained* a boarder's bargain — "let me think on it" counts | | **−1** — a bargain was refused out loud in the lantern's light |
+> | **+3** — *decision:* a passenger was given away (automatic) | | **−1** — the old man was relieved at the helm to rest |
 >
-> *Example:* full watch rotation + a repair beat DC 12 → 1 + (−2) = **0**, the ladder holds. Drifted a watch + someone said "let me think on it" → 1 + 2 → clamped to **2**, the pursuer jumps two steps.
+> Lapses are seamanship — a good day's work offsets them. Decisions are consent, and death's law is merciless about consent: a +3 voids more than a whole day of good marks can cover, and takes two rested-ferryman nights to claw back.
 >
-> The ladder never climbs backwards — careful sailing *stalls* death's law, never undoes it. The clamp guarantees at least three nights before the storm; a careful crew may see eight or more. Narrate each new step's manifestation together with the [[the-halcyon|Halcyon's]] matching decay state.
+> **If the ladder climbs 2 in one night, both steps' manifestations play out that same night** — the fog rolls in *and* the bow wave rises, in one dimming. Bad nights compound; let the table feel it.
+>
+> *Examples:* full watch rotation + a repair beat DC 12 → 1 + (−2) = **0**, the ladder holds. Someone said "let me think on it" despite a full rotation and a repair → 1 + 3 − 2 = 2 → the pursuer jumps two steps and both manifestations land that night.
+>
+> **The rested ferryman (the one way back).** If the night's marks tally to **net −1 or lower** *and* the old man was among them — relieved at the helm and truly rested — he spends the strength the crew gave him: the ladder **falls one step** instead of holding. Come the grey morning he stands straighter, years younger for a day; the wake hangs slack, the silhouette drops hull-down, the fog thins. Scenes already played stay played — the sea gives back distance, not what happened. He can manage this **twice per crossing**; the third time the strength simply isn't there, and the party sees it.
+>
+> Beyond that, the ladder never climbs backwards — careful sailing *stalls* death's law. The clamp guarantees at least three nights before the storm; a careful crew may see eight or more. Narrate each new step's manifestation together with the [[the-halcyon|Halcyon's]] matching decay state.
 
 **Permanent loss.** A soul the pursuer takes — a PC who accepts a boarder's bargain, falls overboard, or is caught in the finale — becomes a [[drowned-sailor|drowned sailor]]. Final death; the party may later face what was taken, wearing a friend's face.
 

@@ -118,7 +118,7 @@ Standing watches is how the party earns **−1 Nightfall marks** (full rotation,
 
 **Encounter: The Catch**
 - Enemies: 1 × [[the-catch]]
-- Tactics: it speaks in the voices of those on deck to freeze hesitation, tangles whoever hauls, and tries to drag one victim over the rail rather than kill anyone; it slackens instantly if offered a passenger instead (do not explain why — and note the **+1 Nightfall mark** if anyone entertains that trade)
+- Tactics: it speaks in the voices of those on deck to freeze hesitation, tangles whoever hauls, and tries to drag one victim over the rail rather than kill anyone; it slackens instantly if offered a passenger instead (do not explain why — and note the **+3 Nightfall marks** if anyone entertains that trade)
 - Terrain: wet stern deck; the rail; the lantern's circle amidships — it will not haul itself into the light
 - Treasure: tangled in the snarl, a Tideblade oilskin jacket, name-tally stitched in the collar — a crewmate the party knew, one they last saw alive on the beach
 

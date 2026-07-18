@@ -51,7 +51,7 @@ The Pilot's pitch, over as many rounds of talk as the players will give him ([[t
 ### Outcomes
 
 - Offer refused in the lantern's light, out loud → **−1 Nightfall mark**; the fog thins by morning → the act continues.
-- Offer entertained ("let us think on it") → **+1 Nightfall mark**; the Pilot bows: *"I'll call again."* — and the fog keeps his door open → he returns each night until refused or fought.
+- Offer entertained ("let us think on it") → **+3 Nightfall marks** (a decision, not a lapse); the Pilot bows: *"I'll call again."* — and the fog keeps his door open → he returns each night until refused or fought.
 - A PC boards his boat → collected, final → the table learns what the bargains cost.
 
 ## Scene: Fog & the Mooring-Men
@@ -148,7 +148,7 @@ The bilge water is the Undertow's mouth aboard ([[the-undertow]] for its voice).
 ### Outcomes
 
 - The party leaves with answers and the door shut → the act continues, heavier.
-- A bargain is struck at the water's edge → resolve it exactly as spoken — the Undertow keeps every bargain to the letter (a named passenger walks up the stairs and over the rail that night, unresisting; the giver takes **+1 Nightfall mark** and the old man's quiet: *"That was not yours to spend."*).
+- A bargain is struck at the water's edge → resolve it exactly as spoken — the Undertow keeps every bargain to the letter (a named passenger walks up the stairs and over the rail that night, unresisting; the giver takes **+3 Nightfall marks** and the old man's quiet: *"That was not yours to spend."*).
 
 ## Scene: The Crow's Nest
 
