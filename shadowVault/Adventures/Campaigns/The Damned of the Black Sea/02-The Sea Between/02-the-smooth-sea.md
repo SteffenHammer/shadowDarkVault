@@ -55,19 +55,19 @@ The old man answers questions readily but briefly (see [[the-old-sailor]] for hi
 ### What Happens
 
 > [!quote] Read Aloud
-> The passenger hold is warm. A little iron stove glows in the corner — you never see anyone feed it — and the air smells of tea, though no pot is ever on. Five people look up as you come down the companionway, and every one of them nods as if you'd all been introduced years ago.
+> The passenger hold is warm. A little iron stove glows in the corner and the air smells of tea, though no pot can be seen. Five people look up as you come down the companionway, and every one of them nods as if you'd all been introduced years ago.
 >
 > An upright silver-haired man is oiling a fencing blade with a cloth. A girl of ten or so sits cross-legged in a hammock, tying and untying knots in a loop of cord, humming under her breath. A big man sleeps in the driest corner, curled around a sea chest, breathing slow. A woman with ink to her elbows has charts spread over half the table. At the other half, a man in a good coat gone shabby is dealing cards to nobody, strange coins walking across his knuckles all the while.
 
 Nobody — not the old man, not the passengers themselves — remembers these people embarking, and none of them finds that strange. Each has a looping routine, a signature object they are never seen without, and a wrong memory of boarding. Full pages: [[the-fencing-master]], [[the-quiet-girl]], [[the-gambler]], [[the-cartographer]], [[the-sleeping-man]].
 
-| Passenger | Loop | Object (never call it out mechanically) | Mirrors |
+| Passenger | Loop | Object (never call it out mechanically) | Gift (what it represents) |
 | --- | --- | --- | --- |
-| The Fencing Master | dawn drill against the mainmast; offers to school anyone with a blade | one small pull from an exotic, unlabeled bottle after every drill; offers it to no one | the fighter |
-| The Quiet Girl | hums the same tune; ties and unties a loop of knotted cord | the knotted cord | the priest — the tune is a hymn only the priest's order sings, a verse laypeople never hear |
-| The Gambler | plays cards every dog-watch; wins every hand; always folds the last one | strange blank-faced coins rolled across his knuckles | the thief |
-| The Cartographer | charts coastlines that don't exist; asks about the stars and doesn't like the answers | a bone tube she taps when she thinks | the wizard |
-| The Sleeping Man | sleeps; breathes in time with the ship's three creaks | a sea chest nobody has ever seen opened | no one — the biggest gift sleeps deepest |
+| The Fencing Master | dawn drill against the mainmast; offers to school anyone with a blade | one small pull from an exotic, unlabeled bottle after every drill; offers it to no one | a physical attribute, fitted to the character who receives it |
+| The Quiet Girl | hums the same tune; ties and unties a loop of knotted cord | the knotted cord | a new minor ability, fitted to the character who receives it |
+| The Gambler | plays cards every dog-watch; wins every hand; always folds the last one | strange blank-faced coins rolled across his knuckles | an additional luck token |
+| The Cartographer | charts coastlines that don't exist; asks about the stars and doesn't like the answers | a bone tube she taps when she thinks | guidance for the adventures ahead — a map, a logbook, or the like |
+| The Sleeping Man | sleeps; breathes in time with the ship's three creaks | a sea chest nobody has ever seen opened | a physical gift, fitted to the character who receives it — armor, a weapon, or the like |
 
 > [!tip] GM Guidance
 > The passengers are the adventure's treasure, though neither the players nor the passengers know it. Spend real table time here across all of Act 2 — the drills, the card games, the girl teaching a PC a knot. The objects are pure set dressing: never mechanical, never remarked on. Asked their names, the passengers smile and the conversation drifts — and nobody notices no answer came. Asked about the old man, each remembers a different name for him. All wrong.
