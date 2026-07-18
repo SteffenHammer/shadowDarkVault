@@ -70,7 +70,7 @@ The Pilot's pitch, over as many rounds of talk as the players will give him ([[t
 - Enemies: 1d4+1 × [[mooring-man]] (Night 3–4) or 2d4 × [[mooring-man]] (Night 5)
 - Tactics: they come over the dark rail together and press for the original debt — always a PC first, wherever one can be reached, lashed fast and hauled for the water; they never strike to kill, only to take; through Night 3 they will not enter the lantern's circle, and from Night 4 its guttering light only hampers them (Lantern-Shy; see the [[00-overview|overview]]) — and as the circle shrinks night by night there is more deck that belongs to them
 - Terrain: the lantern's circle (safe, shrinking — guttering from Night 4); rigging to climb; nets and lines everywhere — cover for them, trip hazards for everyone
-- The circle protects; it does not win: the Mooring-Men never besiege it — a crew that huddles beyond their reach *makes* the passengers the only souls on offer, and watches them collected
+- The circle protects; it does not win: the Mooring-Men never besiege it — a crew that huddles beyond their reach *makes* the passengers the only souls in reach, and watches them dragged down. A passenger taken by force settles **nothing** ([[00-overview|overview]]): the gift is destroyed, uncounted, and the debt still stands whole
 - Treasure: none — what they take is the treasure
 
 > [!tip] GM Guidance
@@ -139,7 +139,7 @@ However the party answers, the voice continues, mildly: *"You have questions. I 
 - It confirms what the dead crew said: Rauthorn lives; he tells his own story; days pass ashore.
 - It names the old man only *"the ferryman"* and *"the thief."* (Clue.) Asked what was stolen, it says: *"What I am owed."*
 - Asked directly *"are we dead?"* it says exactly this, and no scene may go further: *"Nothing is being done to you. Something was done to* me. *You drowned. You are owed to me. The ferryman is a thief."* An accuser's claim — the fog's whole pitch would sound just like it. Nothing aboard corroborates it. (Hard ambiguity constraint, [[00-overview|overview]].)
-- **The arithmetic, stated once, mildly:** *"I am owed one for each of you. Any souls will balance it. The ones below decks — no one will miss what no one remembers boarding."* This is the first full statement of the finale's terms.
+- **The arithmetic, stated once, mildly:** *"I am owed one for each of you. Any souls will balance it — given, not taken. The ones below decks — no one will miss what no one remembers boarding."* This is the first full statement of the finale's terms — including, half-heard, its strictest clause: substitutes count only *freely given* ([[00-overview|overview]]).
 
 **Hazard: The Standing Water**
 - Effect: listening is safe by the door; *lingering* is not. Each full minute at the water's edge, DC 12 WIS check or the listener kneels to hear better — one more failure and they reach for the water (companions can pull them back; touching it costs 1d6 cold damage and one true, unwelcome answer delivered straight into their head)
