@@ -52,7 +52,7 @@ tags: [act]
 
 **Encounter: The Boarding Waves**
 - Enemies: 2d4 × [[mooring-man]] every other round, over the dark rails — they do not stop coming until the debt is settled
-- Tactics: lash and haul for the rail; they take the unguarded first — passengers above decks, then PCs outside the lantern's stride-wide circle; they never strike the old man, and will not look at him
+- Tactics: lash and haul for the rail; the original debt comes first — they press for PCs wherever one stands outside the lantern's stride-wide circle, and turn to the unguarded passengers only when no debtor can be reached; they never strike the old man, and will not look at him
 - Terrain: the storm gauntlet everywhere; the lantern's last circle; rigged lines as handholds; the rail is *the* line — nothing taken past it comes back
 - Treasure: none
 

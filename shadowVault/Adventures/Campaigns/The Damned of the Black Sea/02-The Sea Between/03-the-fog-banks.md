@@ -68,9 +68,9 @@ The Pilot's pitch, over as many rounds of talk as the players will give him ([[t
 
 **Encounter: Boarding Wave**
 - Enemies: 1d4+1 × [[mooring-man]] (Night 3–4) or 2d4 × [[mooring-man]] (Night 5)
-- Tactics: they come over the dark rail together, lash the nearest living thing fast, and haul for the water — they never strike to kill, only to take; through Night 3 they will not enter the lantern's circle, and from Night 4 its guttering light only hampers them (Lantern-Shy; see the [[00-overview|overview]]) — and as the circle shrinks night by night there is more deck that belongs to them
+- Tactics: they come over the dark rail together and press for the original debt — always a PC first, wherever one can be reached, lashed fast and hauled for the water; they never strike to kill, only to take; through Night 3 they will not enter the lantern's circle, and from Night 4 its guttering light only hampers them (Lantern-Shy; see the [[00-overview|overview]]) — and as the circle shrinks night by night there is more deck that belongs to them
 - Terrain: the lantern's circle (safe, shrinking — guttering from Night 4); rigging to climb; nets and lines everywhere — cover for them, trip hazards for everyone
-- The circle protects; it does not win: the Mooring-Men never besiege it — a crew that huddles in the light watches them collect everything it doesn't cover, passengers first
+- The circle protects; it does not win: the Mooring-Men never besiege it — a crew that huddles beyond their reach *makes* the passengers the only souls on offer, and watches them collected
 - Treasure: none — what they take is the treasure
 
 > [!tip] GM Guidance
