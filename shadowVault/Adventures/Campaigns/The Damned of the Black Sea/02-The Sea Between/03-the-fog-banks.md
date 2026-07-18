@@ -156,8 +156,8 @@ However the party answers, the voice continues, mildly: *"You have questions. I 
 ## Scene: The Crow's Nest
 
 - **Purpose:** The midpoint reversal — kill the rescue story with a telescope, and let "we are dead" become the best remaining theory without one word of confirmation.
-- **Trigger:** Any climb to the masthead (DC 9 DEX in calm, DC 12 in fog) — but the *sighting* fires at Night 4–5, when the GM wants the floor to drop.
-- **Setup:** From the masthead, and only from there, sharp eyes glimpse the *other* sea.
+- **Trigger:** The Halcyon has no crow's nest until **Night 4** — that grey morning it is simply *there*, high on the mainmast: new wood on a ship that is losing everything else, and nobody aboard finds it strange. Any climb after that (DC 9 DEX in calm, DC 12 in fog); the *sighting* fires at Night 4–5, when the GM wants the floor to drop.
+- **Setup:** From the masthead, and only from there, sharp eyes glimpse the *other* sea. (Why now, GM only: the crossing is more than half made — they are near enough to life that the ship can finally *see* it, and she grows the eye to look.)
 
 ### What Happens
 
