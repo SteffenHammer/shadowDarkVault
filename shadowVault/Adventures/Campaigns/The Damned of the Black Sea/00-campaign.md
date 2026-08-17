@@ -1,55 +1,55 @@
 ---
-title: The Damned of the Black Sea
+title: Die Verdammten der Schwarzen See
 system: Shadowdark
 levels: 1-5   # Adventures 1-2; full campaign span TBD as Adventure 3 is built
 status: draft
 tags: [campaign]
 ---
 
-# The Damned of the Black Sea
+# Die Verdammten der Schwarzen See
 
 ## Premise & Tone
 
-The characters are crew aboard the [[the-tideblade|Tideblade]], the infamous ship of [[captain-rauthorn|Captain Rauthorn]]. Since the captain seized a mysterious [[ritual-book|ritual book]] from a slaughtered navy warship, he has sailed the crew beyond every chart, chasing an ancient artifact — the [[shard-of-the-deep|Shard of the Deep]] — that he believes will grant him immortality. The tone is grim, nautical, and occult: fog, drowned things, whispering water, and a captain sliding from hard-but-fair into something no longer human.
+Die Charaktere sind Mannschaft an Bord der [[the-tideblade|Gezeitenklinge]], des berüchtigten Schiffs von [[captain-rauthorn|Kapitän Rauthorn]]. Seit der Kapitän ein geheimnisvolles [[ritual-book|Ritualbuch]] von einem abgeschlachteten Kriegsschiff der Marine an sich gebracht hat, segelt er mit der Mannschaft jenseits aller Karten, auf der Jagd nach einem uralten Artefakt — dem [[shard-of-the-deep|Splitter der Tiefe]] —, von dem er glaubt, es werde ihm Unsterblichkeit schenken. Der Ton ist düster, nautisch und okkult: Nebel, Ertrunkenes, flüsterndes Wasser und ein Kapitän, der von hart-aber-gerecht in etwas abgleitet, das nicht mehr menschlich ist.
 
 ## Campaign Arc (GM only)
 
-After the massacre of a navy warship, Rauthorn found the ritual book and changed. The book describes a ritual of the Black Sea that promises immortality; its key is the Shard of the Deep — a fragment of the bound Leviathan, an ancient god-beast of the ocean. What Rauthorn does not know: the ritual will not make him immortal, but *unhuman*, and every step toward it feeds the Leviathan's awakening.
+Nach dem Massaker an einem Kriegsschiff der Marine fand Rauthorn das Ritualbuch und veränderte sich. Das Buch beschreibt ein Ritual der Schwarzen See, das Unsterblichkeit verspricht; sein Schlüssel ist der Splitter der Tiefe — ein Fragment des gebundenen Leviathans, einer uralten Gottbestie des Ozeans. Was Rauthorn nicht weiß: Das Ritual wird ihn nicht unsterblich machen, sondern *unmenschlich*, und jeder Schritt darauf zu nährt das Erwachen des Leviathans.
 
-The campaign runs across three adventures, with Rauthorn deteriorating throughout (see his development notes in [[captain-rauthorn]]):
+Die Kampagne erstreckt sich über drei Abenteuer, in deren Verlauf Rauthorn zunehmend verfällt (siehe seine Entwicklungsnotizen in [[captain-rauthorn|Kapitän Rauthorn]]):
 
-1. **[[01-The Shard of the Deep/00-overview|The Shard of the Deep]]** — the crew retrieves the Shard from a cursed island temple. Rauthorn is obsessed but still controlled.
-2. **[[02-The Sea Between/00-overview|The Sea Between]]** — killed by Rauthorn for destroying the Shard, the party crosses the sea between death and life aboard the freed Leviathan's ferry, hunted by the Undertow — death's law come to collect. Rauthorn is sleepless and spectral; he appears only as the prologue's executioner, then moves offstage — surviving, telling the ports his own story of the island, seeking a new path to the ritual. *(The old Adventure II source hints — anchor-bound ghost pirates, Black Sea cultists, the soothsayer of the "Möwe", the First Pirate's crypt — are dropped entirely; Adventures II and III are rebuilt fresh from the destroyed-Shard branch.)*
-3. **Adventure III** *(to be designed fresh from Adventure II's outcome — the Shard is destroyed, so the ritual book must name another way, and the Leviathan itself now swims free and weak; the old source hints are dropped)*. Rauthorn is ready to sacrifice everything, including the characters.
+1. **[[01-The Shard of the Deep/00-overview|Der Splitter der Tiefe]]** — die Mannschaft birgt den Splitter aus einem Tempel auf einer verfluchten Insel. Rauthorn ist besessen, aber noch beherrscht.
+2. **[[02-The Sea Between/00-overview|Die See dazwischen]]** — von Rauthorn getötet, weil sie den Splitter zerstört hat, überquert die Gruppe die See zwischen Tod und Leben an Bord der Fähre des befreiten Leviathans, gejagt vom Sog — dem Gesetz des Todes, das eintreiben kommt. Rauthorn ist schlaflos und geisterhaft; er tritt nur als Henker des Prologs auf und verschwindet dann von der Bühne — er überlebt, erzählt den Häfen seine eigene Version der Insel und sucht einen neuen Weg zum Ritual. *(Die alten Quellenandeutungen für Abenteuer II — ankergebundene Geisterpiraten, Kultisten der Schwarzen See, die Wahrsagerin der „Möwe", die Krypta des Ersten Piraten — werden vollständig fallen gelassen; die Abenteuer II und III werden vom Zweig des zerstörten Splitters aus neu aufgebaut.)*
+3. **Abenteuer III** *(wird neu entworfen, ausgehend vom Ausgang von Abenteuer II — der Splitter ist zerstört, also muss das Ritualbuch einen anderen Weg nennen, und der Leviathan selbst schwimmt nun frei und schwach; die alten Quellenandeutungen entfallen)*. Rauthorn ist bereit, alles zu opfern, auch die Charaktere.
 
 ## Recurring Cast & Factions
 
-| Name | Role | One-liner | Appears in |
+| Name | Rolle | Einzeiler | Auftritt in |
 | ---- | ---- | --------- | ---------- |
-| [[captain-rauthorn\|Captain Rauthorn]] | patron → villain | Charismatic, ruthless captain sliding into ritual-madness. | Adventures I–III |
-| [[the-tideblade\|The Tideblade]] | location | The crew's ship — feared flagship now, curse-bearer later. | Adventures I–III |
-| [[shard-of-the-deep\|The Shard of the Deep]] | artifact | Fragment of the bound Leviathan; key to the ritual; has a will of its own. | Adventures I–III |
-| [[ghost-pirate\|Ghost Pirates]] | threat | Restless drowned souls bound to the Shard and its anchors. | Adventure I |
-| The Leviathan | looming power | The god-beast of the Black Sea — bound in I, freed and newborn-weak since; ferries the party in human guise as [[the-old-sailor\|the Old Sailor]]. Good, evil, or older than both: open. | Background, Adventures II–III |
-| [[the-undertow\|The Undertow]] | looming power | Death's law given driftwood shape; keeps ledgers and never forgets a soul that escaped it. | Adventure II; its ledger recurs |
-| [[the-gift-boat\|The Gift Boat]] | location | The party's vessel from II's landing on — the ferryman's deniable last gift, her stores unopened. | Adventures II–III |
+| [[captain-rauthorn\|Kapitän Rauthorn]] | Auftraggeber → Schurke | Charismatischer, skrupelloser Kapitän, der in Ritualwahn abgleitet. | Abenteuer I–III |
+| [[the-tideblade\|Die Gezeitenklinge]] | Schauplatz | Das Schiff der Mannschaft — jetzt gefürchtetes Flaggschiff, später Fluchträger. | Abenteuer I–III |
+| [[shard-of-the-deep\|Der Splitter der Tiefe]] | Artefakt | Fragment des gebundenen Leviathans; Schlüssel zum Ritual; hat einen eigenen Willen. | Abenteuer I–III |
+| [[ghost-pirate\|Geisterpiraten]] | Bedrohung | Ruhelose ertrunkene Seelen, an den Splitter und seine Anker gebunden. | Abenteuer I |
+| Der Leviathan | drohende Macht | Die Gottbestie der Schwarzen See — in I gebunden, seither befreit und neugeborenen-schwach; setzt die Gruppe in Menschengestalt als [[the-old-sailor\|der alte Seemann]] über. Gut, böse oder älter als beides: offen. | Hintergrund, Abenteuer II–III |
+| [[the-undertow\|Der Sog]] | drohende Macht | Das Gesetz des Todes in Treibholzgestalt; führt Schuldbücher und vergisst nie eine Seele, die ihm entkam. | Abenteuer II; sein Schuldbuch kehrt wieder |
+| [[the-gift-boat\|Das Gabenboot]] | Schauplatz | Das Gefährt der Gruppe ab der Landung in II — die bestreitbare letzte Gabe des Fährmanns, ihre Vorräte ungeöffnet. | Abenteuer II–III |
 
 ## Adventures
 
-- [[01-The Shard of the Deep/00-overview|Adventure 1: The Shard of the Deep]] — retrieve the Leviathan-shard from a cursed island temple; end with the choice to take or destroy it.
-- [[02-The Sea Between/00-overview|Adventure 2: The Sea Between]] — killed for destroying the Shard, the party crosses the sea between death and life aboard the ferryman's failing ketch, one night ahead of the Undertow.
-- Adventure 3 — *to be designed* (Rauthorn's new path to the ritual; opens with the gift boat's stores).
+- [[01-The Shard of the Deep/00-overview|Abenteuer 1: Der Splitter der Tiefe]] — birgt den Leviathan-Splitter aus einem Tempel auf einer verfluchten Insel; endet mit der Wahl, ihn zu nehmen oder zu zerstören.
+- [[02-The Sea Between/00-overview|Abenteuer 2: Die See dazwischen]] — getötet für die Zerstörung des Splitters, überquert die Gruppe die See zwischen Tod und Leben an Bord der verfallenden Ketsch des Fährmanns, eine Nacht vor dem Sog.
+- Abenteuer 3 — *noch zu entwerfen* (Rauthorns neuer Weg zum Ritual; beginnt mit den Vorräten des Gabenboots).
 
 ## Threads Between Adventures
 
-**Adventure 1 → 2.** Adventure 1 ends the moment the party chooses what to do with the Shard. **The written Adventure 2 follows the destroyed-Shard branch** — its prologue (the collapsing temple, the beach, Rauthorn's judgment) is that branch made playable. The took-the-Shard branch remains unwritten; a table that took it needs a different Adventure II.
+**Abenteuer 1 → 2.** Abenteuer 1 endet in dem Moment, in dem die Gruppe entscheidet, was sie mit dem Splitter tut. **Das ausgearbeitete Abenteuer 2 folgt dem Zweig des zerstörten Splitters** — sein Prolog (der einstürzende Tempel, der Strand, Rauthorns Urteil) ist dieser Zweig in spielbarer Form. Der Zweig, in dem der Splitter genommen wird, bleibt ungeschrieben; eine Gruppe, die ihn genommen hat, braucht ein anderes Abenteuer II.
 
-**Adventure 2 → 3.** Record these at the end of The Sea Between and carry them forward:
+**Abenteuer 2 → 3.** Halte diese Punkte am Ende von Die See dazwischen fest und trage sie weiter:
 
-- **The gifts are cargo, not a scene — do not forget at the Adventure III build:** the gifts of every *surviving* passenger are stowed aboard [[the-gift-boat]] in mundane, deniable form (the bottle, the sea chest, the knotted cords, the coins, the map in its bone tube), and the party discovers and redeems them **early in Adventure III**. Only surviving passengers' cargo is aboard; a sacrificed passenger's gift category is deleted from the game, its absence unmarked.
-- **The Leviathan's Interventions: record the remainder (of 3).** Each piece of strength tolled at the storm-wall deleted one — a weakened Leviathan means measurably less protection and aid against Rauthorn's ritual in the adventures ahead.
-- **The Leviathan's true nature stays open** — good, evil, or something older than both? It repaid its debt; that proves bookkeeping, not kindness. Its regathering strength carries forward.
-- **Rauthorn's new path:** the Shard is destroyed, so the ritual book must name another way (the Leviathan itself now swims free…). He survived the beach, struck the party's names from the muster, and tells the ports they turned on him. What he does next opens Adventure III.
-- **The Undertow keeps ledgers:** it never forgets souls that escaped it — including any PC lost to it (now a [[drowned-sailor|drowned sailor]] the party may face again, wearing a friend's face). Any time a PC nearly drowns in later adventures, something in the water recognizes them.
-- **"Are we dead?" is never answered — a campaign-level rule:** no NPC, vision, or god ever confirms what happened between the beach and the dawn.
-- **The gift boat sails on:** the party's vessel into Adventure III (they'll need her to follow the Cartographer's map). Whether she is ordinary or the ferryman's leavings is never settled; if wrecked or given up, the sea takes her quietly — no wreckage is ever found.
+- **Die Gaben sind Fracht, keine Szene — beim Bau von Abenteuer III nicht vergessen:** Die Gaben jedes *überlebenden* Passagiers sind an Bord des [[the-gift-boat|Gabenboots]] verstaut, in profaner, bestreitbarer Form (die Flasche, die Seekiste, die geknoteten Schnüre, die Münzen, die Karte in ihrer Knochenröhre), und die Gruppe entdeckt und löst sie **früh in Abenteuer III** ein. Nur die Fracht überlebender Passagiere ist an Bord; die Gabenkategorie eines geopferten Passagiers wird aus dem Spiel gestrichen, ihr Fehlen bleibt unmarkiert.
+- **Die Interventionen des Leviathans: Notiere den Rest (von 3).** Jedes an der Sturmwand als Zoll entrichtete Stück Kraft hat eine gestrichen — ein geschwächter Leviathan bedeutet messbar weniger Schutz und Beistand gegen Rauthorns Ritual in den kommenden Abenteuern.
+- **Die wahre Natur des Leviathans bleibt offen** — gut, böse oder etwas Älteres als beides? Er hat seine Schuld beglichen; das beweist Buchführung, nicht Güte. Seine sich wieder sammelnde Kraft wird weitergetragen.
+- **Rauthorns neuer Weg:** Der Splitter ist zerstört, also muss das Ritualbuch einen anderen Weg nennen (der Leviathan selbst schwimmt nun frei…). Er hat den Strand überlebt, die Namen der Gruppe aus der Musterrolle gestrichen und erzählt den Häfen, sie hätten sich gegen ihn gewandt. Was er als Nächstes tut, eröffnet Abenteuer III.
+- **Der Sog führt Schuldbücher:** Er vergisst nie Seelen, die ihm entkommen sind — auch keinen an ihn verlorenen SC (jetzt ein [[drowned-sailor|ertrunkener Matrose]], dem die Gruppe wieder gegenüberstehen kann, mit dem Gesicht eines Freundes). Wann immer ein SC in späteren Abenteuern beinahe ertrinkt, erkennt ihn etwas im Wasser wieder.
+- **„Sind wir tot?" wird nie beantwortet — eine Regel auf Kampagnenebene:** Kein NSC, keine Vision, kein Gott bestätigt je, was zwischen dem Strand und der Morgendämmerung geschehen ist.
+- **Das Gabenboot segelt weiter:** das Gefährt der Gruppe in Abenteuer III (sie werden es brauchen, um der Karte der Kartographin zu folgen). Ob es gewöhnlich ist oder die Hinterlassenschaft des Fährmanns, wird nie geklärt; wird es zerstört oder aufgegeben, nimmt die See es still — es wird nie Wrackgut gefunden.

@@ -1,14 +1,14 @@
 ---
-title: The Fencing Master
+title: Der Fechtmeister
 tags: [npc]
 ---
 
-# The Fencing Master
+# Der Fechtmeister
 
-- **Role:** passenger — secretly one of the Leviathan's embodied gifts; sacrifice currency at the Toll
-- **Appearance:** Silver-haired, immaculate posture, a working blade kept oiled and a coat brushed threadbare. He moves like a man half his apparent age and stands like a man twice anyone's rank.
-- **Personality:** Courtly, exacting, generous with correction. *Mannerism:* after every dawn drill he takes **one small pull from an exotic, unlabeled bottle** — and offers it to no one, ever. (His signature object; never call it out mechanically.)
-- **Motivation:** To keep living his loop: the dawn drill against the mainmast, footwork on the wet planking, schooling anyone willing — he drills the party's **fighter** by preference (*"Your measure is short by a hand. Again."*). He doesn't know what he is.
-- **Secrets:** (GM only) He embodies the gift of **a physical attribute for every PC — a permanent improvement fitted to the character who receives it** (an attribute point, a Shadowdark talent, or the like). His wrong memory of boarding: engaged at Karst harbor to escort a bride's dowry — the port, the bride, and the season change with each telling, and he doesn't notice. Asked his name, he smiles and the conversation drifts; nobody notices no answer came. If given to the Undertow, he goes to the rail unresisting, bottle in hand — and the bottle vanishes with him: the whole party's attribute gift is deleted from the game, discovered only as an absence aboard [[the-gift-boat]] in Adventure III.
-- **Relationships:** Gift of [[the-old-sailor|the ferryman]]; fellow passenger to [[the-quiet-girl]], [[the-gambler]], [[the-cartographer]], [[the-sleeping-man]]. Nobody remembers him embarking — including him, though he'd dispute it.
-- **Stat block:** none needed — if he must hold a storm-station in Act 4 he counts as a steady hand (auto-succeeds DC 12 station checks; the sea would not dare).
+- **Role:** Passagier — insgeheim eine der verkörperten Gaben des Leviathans; Opferwährung beim Zoll
+- **Appearance:** Silberhaarig, makellose Haltung, eine stets geölte Gebrauchsklinge und ein Mantel, vom Bürsten fadenscheinig. Er bewegt sich wie ein Mann von der Hälfte seines scheinbaren Alters und steht da wie ein Mann vom doppelten Rang eines jeden.
+- **Personality:** Höfisch, penibel, großzügig mit Korrekturen. *Eigenart:* Nach jedem Morgendrill nimmt er **einen kleinen Schluck aus einer exotischen Flasche ohne Etikett** — und bietet sie niemandem an, niemals. (Sein Signaturgegenstand; nie mechanisch hervorheben.)
+- **Motivation:** Seine Schleife weiterzuleben: der Morgendrill gegen den Großmast, Beinarbeit auf den nassen Planken, Unterricht für jeden, der willig ist — bevorzugt drillt er den **Kämpfer** der Gruppe (*„Eure Mensur ist eine Hand zu kurz. Noch einmal.“*). Er weiß nicht, was er ist.
+- **Secrets:** (nur GM) Er verkörpert die Gabe **eines körperlichen Attributs für jeden SC — eine dauerhafte Verbesserung, zugeschnitten auf den Charakter, der sie erhält** (ein Attributspunkt, ein Shadowdark-Talent oder dergleichen). Seine falsche Einschiffungserinnerung: im Hafen von Karst angeheuert, um die Mitgift einer Braut zu geleiten — Hafen, Braut und Jahreszeit ändern sich mit jedem Erzählen, und er bemerkt es nicht. Nach seinem Namen gefragt, lächelt er, und das Gespräch driftet ab; niemand bemerkt, dass keine Antwort kam. Wird er dem Sog gegeben, geht er widerstandslos zur Reling, die Flasche in der Hand — und die Flasche verschwindet mit ihm: Die Attributsgabe der ganzen Gruppe wird aus dem Spiel gelöscht und erst als Fehlstelle an Bord [[the-gift-boat|des Gabenboots]] in Abenteuer III entdeckt.
+- **Relationships:** Gabe [[the-old-sailor|des Fährmanns]]; Mitreisender von [[the-quiet-girl|dem stillen Mädchen]], [[the-gambler|dem Spieler]], [[the-cartographer|der Kartographin]] und [[the-sleeping-man|dem schlafenden Mann]]. Niemand erinnert sich an seine Einschiffung — er selbst auch nicht, obwohl er das bestreiten würde.
+- **Stat block:** keiner nötig — muss er in Act 4 eine Sturmstation halten, zählt er als sichere Hand (besteht DC 12 Stationsproben automatisch; die See würde es nicht wagen).

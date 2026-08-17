@@ -1,135 +1,135 @@
 ---
-title: The Storm Crossing
+title: Die Sturmüberfahrt
 act: 4
 tags: [act]
 ---
 
-# Act 4: The Storm Crossing
+# Act 4: Die Sturmüberfahrt
 
 ## Act Overview
 
-- **Purpose:** Night 6 — the finale. The Undertow draws level inside the storm and states the debt, correct to the letter. While boarders swarm the deck, the party chooses what crosses and what is given. Then dawn, the beach, the last glimpse, and the boat in the shallows.
-- **State of the world:** True storm — the first weather of the entire adventure. The [[the-halcyon|Halcyon]] is a fraction of herself: three doors below decks, the hold and helm nearly one room, the lantern's circle a stride across. The old man can barely stand; the human shape is failing at the edges (in lightning, for a blink, it is not a man's outline at all — never dwell, never confirm).
-- **Ways it can end:** The debt is settled — in passengers, in party, in the old man's strength, or by default — and the ship crosses the wall of black water into dawn. Every path ends on the beach. What differs is what's left: which gifts still exist, who still exists, and how strong the Leviathan remains for the rest of the campaign.
+- **Purpose:** Nacht 6 — das Finale. Der Sog zieht im Sturm gleich und benennt die Schuld, korrekt bis aufs Wort. Während Enterer das Deck überschwemmen, wählt die Gruppe, was hinüberkommt und was gegeben wird. Dann Morgengrauen, der Strand, der letzte Blick und das Boot in den Untiefen.
+- **State of the world:** Echter Sturm — das erste Wetter des gesamten Abenteuers. Die [[the-halcyon|Halcyon]] ist ein Bruchteil ihrer selbst: drei Türen unter Deck, Laderaum und Ruder fast ein Raum, der Laternenkreis einen Schritt breit. Der alte Mann kann kaum stehen; die Menschengestalt versagt an den Rändern (im Blitzlicht ist es für einen Lidschlag überhaupt nicht der Umriss eines Mannes — nie verweilen, nie bestätigen).
+- **Ways it can end:** Die Schuld wird beglichen — in Passagieren, in der Gruppe, in der Kraft des alten Mannes oder durch Verzug — und das Schiff durchquert die Wand aus schwarzem Wasser ins Morgengrauen. Jeder Pfad endet am Strand. Was sich unterscheidet, ist, was übrig bleibt: welche Gaben noch existieren, wer noch existiert und wie stark der Leviathan für den Rest der Kampagne bleibt.
 
-> [!warning] Run the whole act on two clocks
-> **The storm** (a hazard gauntlet, every round) and **the debt** (the Toll, resolved in parley amid the fighting). Neither pauses for the other — that pressure *is* the finale. And the ambiguity rule holds to the last line of the epilogue: nothing confirms what the party is, was, or survived.
+> [!warning] Spiele den ganzen Akt auf zwei Uhren
+> **Der Sturm** (ein Gefahren-Spießrutenlauf, jede Runde) und **die Schuld** (der Zoll, verhandelt im Gespräch mitten im Kampf). Keine pausiert für die andere — dieser Druck *ist* das Finale. Und die Ambiguitätsregel hält bis zur letzten Zeile des Epilogs: Nichts bestätigt, was die Gruppe ist, war oder überlebt hat.
 
-## Scene: The Undertow Draws Level
+## Scene: Der Sog zieht gleich
 
-- **Purpose:** The antagonist arrives whole; the debt is stated; the storm gauntlet begins.
-- **Trigger:** The Night 6 dimming — which does not lift.
-- **Setup:** Ahead: a wall of black water spanning the world, lit from beyond by something that might be dawn. Astern and closing: the Undertow.
+- **Purpose:** Der Antagonist trifft als Ganzes ein; die Schuld wird benannt; der Sturm-Spießrutenlauf beginnt.
+- **Trigger:** Die Verdunkelung von Nacht 6 — die sich nicht mehr hebt.
+- **Setup:** Voraus: eine Wand aus schwarzem Wasser, die die Welt überspannt, von jenseits erleuchtet von etwas, das Morgengrauen sein könnte. Achteraus und aufkommend: der Sog.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The dark comes down and does not lift. The wind that began last night is a full gale now, and it is not blowing you off course — it is blowing you *along* it, toward a wall of black water that stands across the whole world ahead, taller than any cliff, lit from behind by a color you have not seen in six nights and cannot name for fear of being wrong.
+> Das Dunkel senkt sich und hebt sich nicht mehr. Der Wind, der letzte Nacht begann, ist jetzt ein voller Sturm, und er weht euch nicht vom Kurs — er weht euch *ihn entlang*, auf eine Wand aus schwarzem Wasser zu, die voraus quer über der ganzen Welt steht, höher als jede Klippe, von hinten erleuchtet von einer Farbe, die ihr seit sechs Nächten nicht gesehen habt und die ihr nicht zu benennen wagt, aus Angst, euch zu irren.
 >
-> And behind — the horizon arrives. Not one ship. Hundreds. Galleons grown into frigates grown into longboats, keels jutting like broken ribs, a mountain of everything the sea ever swallowed, sailing without sails, without haste, without the possibility of stopping. Green lanterns burn in a thousand portholes. You have been looking at its fingertips for six nights. This is the hand.
+> Und achtern — der Horizont trifft ein. Nicht ein Schiff. Hunderte. Galeonen, gewachsen in Fregatten, gewachsen in Langboote, Kiele ragen wie gebrochene Rippen, ein Gebirge aus allem, was die See je verschlungen hat, segelnd ohne Segel, ohne Eile, ohne die Möglichkeit anzuhalten. Grüne Laternen brennen in tausend Bullaugen. Sechs Nächte lang habt ihr auf seine Fingerspitzen gesehen. Dies ist die Hand.
 >
-> The bilge, the rain, the wake, the mouths of the things climbing the rail — everything wet speaks at once, politely, in one voice:
+> Die Bilge, der Regen, das Kielwasser, die Münder der Dinger, die die Reling erklimmen — alles Nasse spricht auf einmal, höflich, mit einer Stimme:
 >
-> "Nothing is being done to you. Something was done to me. You drowned. You are owed to me — one for each. Any souls will balance. The ferryman is a thief, and the sea keeps honest books. Pay, and cross."
+> „Euch wird nichts angetan. Etwas wurde mir angetan. Ihr seid ertrunken. Ihr werdet mir geschuldet — eine für jeden. Beliebige Seelen gleichen es aus. Der Fährmann ist ein Dieb, und die See führt ehrliche Bücher. Zahlt, und fahrt hinüber."
 
-**Hazard: The Storm Gauntlet (every round of the act, until the crossing)**
-- Effect: each round on deck, every PC makes a DC 12 DEX or STR check (their choice — clinging or bracing) or is knocked prone and slides toward the rail; a wave breaks over the deck on any natural 1, dealing 1d6 to everyone in the open. Three ship-stations must be manned every round — **helm, pumps, sheets** — each a DC 12 check (DC 15 in rounds when the Herald is aboard); every unmanned or failed station puts one **storm-mark** on the ship.
-- Counter: lines rigged along the deck (advantage on the round's brace checks, costs one PC's action to rig); passengers can hold stations — the Fencing Master and the Gambler are steady hands, and the players must decide whether to put the treasure they don't know is treasure out on a storm deck.
-- At **three storm-marks**, something structural goes: the GM removes one option from the deck (a mast stays but the crow's nest is gone; the pumps flood; a hold section — and whoever's in it — needs rescuing). Reset the count and continue.
+**Hazard: Der Sturm-Spießrutenlauf (jede Runde des Akts, bis zur Überfahrt)**
+- Effect: jede Runde an Deck legt jeder SC eine DC 12 DEX- oder STR-Probe ab (eigene Wahl — festklammern oder stemmen) oder wird zu Boden geworfen und rutscht Richtung Reling; bei jeder natürlichen 1 bricht eine Welle über das Deck und verursacht 1d6 Schaden bei allen im Freien. Drei Schiffsstationen müssen jede Runde bemannt sein — **Ruder, Pumpen, Schoten** — jede eine DC 12 Probe (DC 15 in Runden, in denen der Herold an Bord ist); jede unbemannte oder misslungene Station setzt einen **Sturmstrich** auf das Schiff.
+- Counter: entlang des Decks gespannte Strecktaue (Vorteil auf die Halteproben der Runde, kostet die Aktion eines SC zum Spannen); Passagiere können Stationen halten — der Fechtmeister und der Spieler sind sichere Hände, und die Spieler müssen entscheiden, ob sie den Schatz, von dem sie nicht wissen, dass er ein Schatz ist, auf ein Sturmdeck hinausstellen.
+- Bei **drei Sturmstrichen** gibt etwas Strukturelles nach: Die SL entfernt eine Option vom Deck (ein Mast bleibt, aber das Krähennest ist fort; die Pumpen laufen voll; ein Abschnitt des Laderaums — und wer darin ist — muss gerettet werden). Setze den Zähler zurück und mach weiter.
 
 ### Outcomes
 
-- The debt is answered (any way) → the crossing → The Landing.
-- The debt is ignored → the Boarding intensifies until the Toll is answered or defaults.
+- Die Schuld wird beantwortet (gleich wie) → die Überfahrt → Die Landung.
+- Die Schuld wird ignoriert → das Entern verschärft sich, bis der Zoll beantwortet wird oder in Verzug gerät.
 
-## Scene: The Boarding
+## Scene: Das Entern
 
-- **Purpose:** The battle inside the choice: waves of Mooring-Men and the Herald, fighting not to kill but to *collect*.
-- **Trigger:** One round after the debt is stated.
-- **Setup:** The Undertow does not ram — it doesn't need to. Its bow shadow falls across the ketch, and its fingers come aboard.
+- **Purpose:** Die Schlacht innerhalb der Wahl: Wellen von Festmachern und der Herold, die nicht kämpfen, um zu töten, sondern um *einzusammeln*.
+- **Trigger:** Eine Runde, nachdem die Schuld benannt wurde.
+- **Setup:** Der Sog rammt nicht — er hat es nicht nötig. Der Schatten seines Bugs fällt über die Ketsch, und seine Finger kommen an Bord.
 
 ### What Happens
 
-**Encounter: The Boarding Waves**
-- Enemies: 2d4 × [[mooring-man]] every other round, over the dark rails — they do not stop coming until the debt is settled
-- Tactics: lash and haul for the rail; the original debt comes first — they press for PCs wherever one stands outside the lantern's stride-wide circle, and turn to the unguarded passengers only when no debtor can be reached; they never strike the old man, and will not look at him
-- Terrain: the storm gauntlet everywhere; the lantern's last circle; rigged lines as handholds; the rail is *the* line — nothing taken past it comes back
-- Treasure: none
+**Encounter: Die Enterwellen**
+- Enemies: 2d4 × [[mooring-man|Festmacher]] jede zweite Runde, über die dunklen Relings — sie hören nicht auf zu kommen, bis die Schuld beglichen ist
+- Tactics: festzurren und Richtung Reling schleppen; die ursprüngliche Schuld kommt zuerst — sie setzen SC zu, wo immer einer außerhalb des schrittbreiten Laternenkreises steht, und wenden sich den unbewachten Passagieren erst zu, wenn kein Schuldner erreichbar ist; den alten Mann schlagen sie nie und sehen ihn nicht an
+- Terrain: der Sturm-Spießrutenlauf überall; der letzte Kreis der Laterne; gespannte Strecktaue als Halt; die Reling ist *die* Linie — nichts, was über sie hinweggenommen wird, kommt zurück
+- Treasure: keiner
 
-**Encounter: The Herald**
-- Enemies: 1 × [[the-herald]]
-- Trigger: the second wave, or the first time the party clearly refuses to pay
-- Tactics: mast-tall, it steps over the rail like a stile; it announces terms in every drowned voice at once, then collects — grapple, carry, over the side; it interposes its own bulk between PCs and whoever it has taken; it fights amid its own Mooring-Men without crowding itself
-- Terrain: its weight lists the deck (while the Herald is aboard, all station checks are DC 15); the guttering light hampers it like every drowned thing (disadvantage in or into the circle — see the [[00-overview|overview]]) — but by Night 6 the circle holds two people, no more
-- Treasure: none — but see Broken, Not Beaten in its stat block: felling it breaks the boarding for 1d4 rounds and buys the parley room to breathe
+**Encounter: Der Herold**
+- Enemies: 1 × [[the-herald|der Herold]]
+- Trigger: die zweite Welle, oder das erste Mal, dass die Gruppe die Zahlung klar verweigert
+- Tactics: masthoch steigt er über die Reling wie über einen Zauntritt; er verkündet die Bedingungen mit allen ertrunkenen Stimmen zugleich, dann sammelt er ein — packen, tragen, über Bord; er schiebt seine eigene Masse zwischen die SC und den, den er genommen hat; er kämpft inmitten seiner eigenen Festmacher, ohne sich selbst im Weg zu stehen
+- Terrain: sein Gewicht legt das Deck schräg (solange der Herold an Bord ist, sind alle Stationsproben DC 15); das flackernde Licht behindert ihn wie jedes ertrunkene Ding (Nachteil im Kreis oder in ihn hinein — siehe die [[00-overview|Übersicht]]) — aber in Nacht 6 schützt der Kreis zwei Personen, nicht mehr
+- Treasure: keiner — aber siehe Zerbrochen, nicht besiegt in seinem Statblock: ihn zu fällen bricht das Entern für 1d4 Runden ab und verschafft der Verhandlung Luft zum Atmen
 
 > [!tip] GM Guidance
-> The fight cannot "win" the finale — the Undertow itself is unfightable ([[the-undertow]]), and the waves are literally endless. What fighting *buys* is time, rescues, and dignity: every round the deck holds is a round the Toll can be argued on the party's terms. Make that explicit through the old man: *"You can't beat the sea's books, but you can hold the deck while we settle them."*
+> Der Kampf kann das Finale nicht „gewinnen" — der Sog selbst ist unbekämpfbar ([[the-undertow|der Sog]]), und die Wellen sind buchstäblich endlos. Was Kämpfen *erkauft*, sind Zeit, Rettungen und Würde: Jede Runde, die das Deck hält, ist eine Runde, in der der Zoll zu den Bedingungen der Gruppe verhandelt werden kann. Mach das durch den alten Mann ausdrücklich: „*Die Bücher der See könnt ihr nicht schlagen, aber ihr könnt das Deck halten, während wir sie begleichen.*"
 
 ### Outcomes
 
-- The deck holds long enough for the Toll to be answered → The Toll.
-- The party is overrun (every PC lashed or down at once) → the Toll resolves by default (below) — the Undertow takes, correct to the letter, never more than it is owed.
+- Das Deck hält lange genug, dass der Zoll beantwortet wird → Der Zoll.
+- Die Gruppe wird überrannt (jeder SC zugleich verzurrt oder am Boden) → der Zoll wird durch Verzug abgewickelt (unten) — der Sog nimmt, korrekt bis aufs Wort, nie mehr, als ihm geschuldet wird.
 
-## Scene: The Toll
+## Scene: Der Zoll
 
-- **Purpose:** The forced choice the whole adventure has been arming. Four options on the table; every one costs; deciding slowly is also deciding.
-- **Trigger:** Runs *during* the boarding, whenever the party engages with the debt.
-- **Setup:** The old man at the lantern, one hand on the helm, aged past mortal now. The wall of black water fills the sky ahead. The debt: **one soul per PC**. A PC already collected this voyage counts against it, as does any passenger *freely given* in an earlier bargain — but anything the sea **took by force** settled nothing ([[00-overview|overview]]): those gifts are simply gone, and the debt stands whole.
+- **Purpose:** Die erzwungene Wahl, auf die das ganze Abenteuer hingearbeitet hat. Vier Optionen auf dem Tisch; jede kostet; langsam zu entscheiden ist auch eine Entscheidung.
+- **Trigger:** Läuft *während* des Enterns, wann immer die Gruppe sich mit der Schuld befasst.
+- **Setup:** Der alte Mann an der Laterne, eine Hand am Ruder, jetzt über jedes sterbliche Maß hinaus gealtert. Die Wand aus schwarzem Wasser füllt den Himmel voraus. Die Schuld: **eine Seele pro SC**. Ein auf dieser Reise bereits eingesammelter SC zählt dagegen, ebenso jeder Passagier, der in einem früheren Handel *freiwillig gegeben* wurde — aber alles, was die See **mit Gewalt nahm**, hat nichts beglichen ([[00-overview|Übersicht]]): Diese Gaben sind einfach fort, und die Schuld bleibt in voller Höhe bestehen.
 
 ### What Happens
 
-The options, priced. The Undertow keeps every bargain to the letter — and accepts any mix that sums to the debt:
+Die Optionen, mit Preis. Der Sog hält jeden Handel aufs Wort — und akzeptiert jede Mischung, die sich zur Schuld summiert:
 
-1. **Give passengers.** A passenger named to the sea walks to the rail unresisting, confused, clutching their object — which vanishes with them. Each passenger given: **one soul**; that entire gift category is deleted from the game forever (nothing marks its absence until the party opens [[the-gift-boat|the gift boat's]] stores in Adventure III and finds that space simply empty). The old man says only: *"That was not yours to spend."* — and is quieter afterward, permanently.
-2. **Give one of themselves.** A PC who goes to the rail is drowned, final — **one soul**. They rise again in the campaign as a [[drowned-sailor|drowned sailor]], wearing a friend's face; note it in the campaign threads. Give the player the dignity of a last-stand vignette on the way down — the second of their career.
-3. **Accept the old man's quiet offer.** He can settle **up to three souls** with pieces of his newborn strength — but never the whole debt: *at least one soul must come from aboard.* Each piece paid, on the spot: the lantern dims one visible step, he ages years in seconds — and one of the Leviathan's three **Interventions** is deleted from the rest of the campaign (see [[00-overview|the overview]] and record the remainder in [[00-campaign|the campaign threads]]). Show it has teeth *now*: the storm bites harder the dimmer the lantern (each piece paid widens wave damage by +1) — less of him is holding the sea back.
-4. **Deciding slowly is also a choice.** Each full round the debt stands unanswered after the Herald first states terms, roll 1d6 on the storm's tithe: **1–2** a passenger is swept to the rail (savable — one rescue action; lost this way, the gift is destroyed *and settles nothing* — taken, not given); **3** the lantern gutters (this round, no safe circle); **4** a random PC's carried gear goes over; **5** 2d6 to a random PC; **6** the old man burns a piece of himself just holding the ship together — an Intervention deleted, the lantern a step dimmer, and the debt untouched: spent, not tendered.
+1. **Passagiere geben.** Ein der See benannter Passagier geht ohne Widerstand zur Reling, verwirrt, sein Objekt umklammernd — das mit ihm verschwindet. Jeder gegebene Passagier: **eine Seele**; diese gesamte Gabenkategorie wird für immer aus dem Spiel gelöscht (nichts markiert ihr Fehlen, bis die Gruppe in Abenteuer III die Vorräte des [[the-gift-boat|Gabenboots]] öffnet und diesen Platz einfach leer findet). Der alte Mann sagt nur: „*Das war nicht deins auszugeben.*" — und ist danach stiller, dauerhaft.
+2. **Einen von sich selbst geben.** Ein SC, der zur Reling geht, ertrinkt, endgültig — **eine Seele**. Er ersteht in der Kampagne als [[drowned-sailor|ertrunkener Matrose]] wieder, mit dem Gesicht eines Freundes; halte es in den Kampagnenfäden fest. Gib dem Spieler auf dem Weg hinab die Würde einer Vignette des letzten Gefechts — der zweiten seiner Laufbahn.
+3. **Das leise Angebot des alten Mannes annehmen.** Er kann **bis zu drei Seelen** mit Stücken seiner neugeborenen Kraft begleichen — aber nie die ganze Schuld: *Mindestens eine Seele muss von Bord kommen.* Für jedes gezahlte Stück, auf der Stelle: Die Laterne wird eine sichtbare Stufe dunkler, er altert in Sekunden um Jahre — und eine der drei **Interventionen** des Leviathan wird aus dem Rest der Kampagne gelöscht (siehe [[00-overview|die Übersicht]] und halte den Rest in [[00-campaign|den Kampagnenfäden]] fest). Zeige *jetzt*, dass es Zähne hat: Der Sturm beißt härter, je dunkler die Laterne (jedes gezahlte Stück erhöht den Wellenschaden um +1) — weniger von ihm hält die See zurück.
+4. **Langsam entscheiden ist auch eine Wahl.** Für jede volle Runde, die die Schuld unbeantwortet steht, nachdem der Herold die Bedingungen erstmals benannt hat, würfle 1d6 auf den Zehnt des Sturms: **1–2** ein Passagier wird zur Reling gespült (rettbar — eine Rettungsaktion; geht er so verloren, ist die Gabe zerstört *und begleicht nichts* — genommen, nicht gegeben); **3** die Laterne flackert (diese Runde kein sicherer Kreis); **4** die getragene Ausrüstung eines zufälligen SC geht über Bord; **5** 2d6 auf einen zufälligen SC; **6** der alte Mann verbrennt ein Stück von sich selbst, nur um das Schiff zusammenzuhalten — eine Intervention gelöscht, die Laterne eine Stufe dunkler, und die Schuld unberührt: ausgegeben, nicht dargeboten.
 
-**Default (nobody pays, deck overrun, or the storm outlasts the argument):** force can collect only the original debt — so the Undertow comes for the *party*, and the passengers caught in the chaos are simply dragged down, destroyed, crediting nothing. The old man tenders every piece he has left to cover what he can, and it is not enough, and he looks at the party while the sea decides which of them balances the book (GM picks by fiction: nearest the rail, most marks, or the volunteer who hesitated). The worst ending arrives politely, by arithmetic — and having refused to choose, they lose the gifts *and* pay the debt.
+**Verzug (niemand zahlt, das Deck wird überrannt oder der Sturm überdauert die Debatte):** Gewalt kann nur die ursprüngliche Schuld eintreiben — also kommt der Sog nach der *Gruppe*, und die Passagiere, die ins Chaos geraten, werden einfach hinabgezerrt, zerstört, ohne dass etwas gutgeschrieben wird. Der alte Mann bietet jedes Stück dar, das ihm noch bleibt, um zu decken, was er kann, und es reicht nicht, und er sieht die Gruppe an, während die See entscheidet, wer von ihnen das Buch ausgleicht (die SL wählt nach der Fiktion: am nächsten an der Reling, die meisten Striche, oder der Freiwillige, der zögerte). Das schlimmste Ende trifft höflich ein, per Arithmetik — und weil sie die Wahl verweigert haben, verlieren sie die Gaben *und* zahlen die Schuld.
 
 > [!warning]
-> Never soften the letter of a bargain and never let one be taken back — the Undertow's absolute reliability is its horror and the campaign's future leverage (*it keeps ledgers*). But also: it takes **only** what it is owed, and its books credit substitutes only *freely given* — what its fingers seize that is not the debt goes down uncounted, gone. The moment the sum balances, every Mooring-Man aboard lets go, steps backward over the rail, and is gone — mid-swing if need be.
+> Weiche nie den Wortlaut eines Handels auf und lass nie einen zurücknehmen — die absolute Verlässlichkeit des Sogs ist sein Schrecken und der künftige Hebel der Kampagne (*er führt Schuldbücher*). Aber auch: Er nimmt **nur**, was ihm geschuldet wird, und seine Bücher schreiben Ersatz nur *freiwillig gegeben* gut — was seine Finger greifen und was nicht die Schuld ist, geht ungezählt hinab, fort. In dem Moment, in dem die Summe aufgeht, lässt jeder Festmacher an Bord los, tritt rückwärts über die Reling und ist fort — mitten im Schwung, wenn es sein muss.
 
-> [!quote] Read Aloud — The Crossing (when the debt balances)
-> Everything wet goes silent at once. The things on the deck let go — mid-motion, without malice, the way a dock hand drops a line when the knot is made — and step backward into the sea.
+> [!quote] Read Aloud — Die Überfahrt (wenn die Schuld aufgeht)
+> Alles Nasse verstummt auf einmal. Die Dinger auf dem Deck lassen los — mitten in der Bewegung, ohne Bosheit, so, wie ein Hafenarbeiter eine Leine fallen lässt, wenn der Knoten sitzt — und treten rückwärts in die See.
 >
-> Behind you, the mountain of hulls begins, very slowly, to fall away astern. It does not turn. It simply stops being interested.
+> Hinter euch beginnt das Gebirge aus Rümpfen, sehr langsam, achteraus zurückzufallen. Es dreht nicht bei. Es hört einfach auf, interessiert zu sein.
 >
-> Ahead, the wall of black water leans over the mast — and the old man, hand steady on the wheel, sails her straight in. Lightning breaks once, close, and for that one white instant his eyes catch it wrong — two points of cold light, like stars seen from under water. Then it is dark, and he is an old man at a wheel, and the last thing you hear before the water takes all sound is the lantern's pulse, slow and blue at the heart of the flame. The last thing you feel is the deck rising, like a chest filling for a breath.
+> Voraus lehnt sich die Wand aus schwarzem Wasser über den Mast — und der alte Mann, die Hand ruhig am Rad, segelt sie geradewegs hinein. Ein Blitz bricht einmal, nah, und für diesen einen weißen Augenblick fangen seine Augen ihn falsch — zwei Punkte kalten Lichts, wie Sterne, von unter Wasser gesehen. Dann ist es dunkel, und er ist ein alter Mann an einem Rad, und das Letzte, was ihr hört, bevor das Wasser allen Klang nimmt, ist der Puls der Laterne, langsam und blau im Herzen der Flamme. Das Letzte, was ihr spürt, ist das Deck, das sich hebt, wie eine Brust, die sich für einen Atemzug füllt.
 >
-> And then — light.
+> Und dann — Licht.
 
 ### Outcomes
 
-- The debt balances, any mix → the crossing → The Landing.
-- Record permanently: which passengers crossed, which were given, the Interventions remaining, and any PC lost.
+- Die Schuld geht auf, in beliebiger Mischung → die Überfahrt → Die Landung.
+- Halte dauerhaft fest: welche Passagiere hinübergekommen sind, welche gegeben wurden, die verbleibenden Interventionen und jeden verlorenen SC.
 
-## Scene: The Landing
+## Scene: Die Landung
 
-- **Purpose:** The epilogue: dawn, the beach where it began, the last glimpse, the boat in the shallows — and every question intact.
-- **Trigger:** The crossing.
-- **Setup:** The prologue's beach at true dawn — the adventure's first sunlight. Days have passed ashore (about six, if anyone counts the debris's weathering; be vague). The Tideblade is gone.
+- **Purpose:** Der Epilog: Morgengrauen, der Strand, wo es begann, der letzte Blick, das Boot in den Untiefen — und jede Frage unversehrt.
+- **Trigger:** Die Überfahrt.
+- **Setup:** Der Strand des Prologs bei wahrem Morgengrauen — das erste Sonnenlicht des Abenteuers. An Land sind Tage vergangen (etwa sechs, falls jemand die Verwitterung der Trümmer zählt; bleib vage). Die Gezeitenklinge ist fort.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> You wake gasping, face-down in wet sand, in *sunlight* — real, low, gold, the first dawn you have seen in living memory. You are on the beach. That beach. The battle's litter is all around you, days old: burnt-out fires, a split boat, rope gone stiff with salt. The dead of that night lie where they fell, and the sea has been respectful of them.
+> Ihr erwacht keuchend, mit dem Gesicht im nassen Sand, im *Sonnenlicht* — echt, tief, golden, das erste Morgengrauen, das ihr seht, soweit eure Erinnerung reicht. Ihr seid am Strand. An jenem Strand. Der Unrat der Schlacht liegt überall um euch, Tage alt: ausgebrannte Feuer, ein gespaltenes Boot, Tauwerk, steif vom Salz. Die Toten jener Nacht liegen, wo sie fielen, und die See ist respektvoll mit ihnen umgegangen.
 >
-> You wake among them, exactly where you fell.
+> Ihr erwacht mitten unter ihnen, genau dort, wo ihr gefallen seid.
 >
-> Of the ketch — nothing. No wreck, no sail, no wake. And far out, at the edge of the dawn haze, something vast breaches once — a dark back, sunlit spray, impossibly large — and dives, and does not come up again.
+> Von der Ketsch — nichts. Kein Wrack, kein Segel, kein Kielwasser. Und weit draußen, am Rand des Morgendunsts, durchbricht etwas Gewaltiges ein einziges Mal die Oberfläche — ein dunkler Rücken, sonnenbeschienene Gischt, unmöglich groß — und taucht, und kommt nicht wieder herauf.
 >
-> It could have been a whale.
+> Es könnte ein Wal gewesen sein.
 
-- **The last glimpse is never ruled on.** Players who assembled the ferryman clue trail ([[00-overview|overview]]) will know what they saw and what they were given; the others carry the question home. Neither the old man's identity nor what happened between the beach and the dawn is *ever* confirmed — this outlives the adventure as a campaign rule.
-- **What crosses back.** Each PC wakes clutching one small object from the ship — a mug still faintly warm, a scrap of patched tan sail, a brass belaying pin, a stub of card — mundane, except it is dry when everything else on this beach is soaked. On close inspection, each bears a tiny scratched wave-mark: the *"born in the depths of the sea"* symbol from the Gate of Three Bindings. And each PC's death-wound is now a pale scar that aches near deep water. Never explained.
-- **The Tideblade is gone** — and with her, the party's standing in the living world: Rauthorn survived, struck their names from the muster, and tells the ports they turned on him. They are stranded, presumed traitors, on an island the world now believes cursed twice over.
-- **The ferryman's last gift.** Anchored in the shallows rides a small, weathered fishing boat, seaworthy and empty — no crew, no name on her stern, provisions and water stowed for exactly the party's number. She has the ketch's own lines, the same patched tan sail; her ropes are dry when everything else is soaked; and anyone who sails her long enough will hear it — the same three creaks, in the same order, like a heartbeat they already know. Low on her transom, half-hidden under old paint: the scratched wave-mark. Everything about her is deniable. She is also the only way off the island. Full page: [[the-gift-boat]].
+- **Über den letzten Blick wird nie entschieden.** Spieler, die die Hinweisspur des Fährmanns zusammengesetzt haben ([[00-overview|Übersicht]]), werden wissen, was sie gesehen haben und was ihnen geschenkt wurde; die anderen tragen die Frage nach Hause. Weder die Identität des alten Mannes noch das, was zwischen dem Strand und dem Morgengrauen geschah, wird *jemals* bestätigt — das überdauert das Abenteuer als Kampagnenregel.
+- **Was zurückkommt.** Jeder SC erwacht mit einem kleinen Gegenstand vom Schiff in der Hand — ein noch schwach warmer Becher, ein Fetzen geflickten braunen Segels, ein Belegnagel aus Messing, ein Stummel einer Spielkarte — alltäglich, außer dass er trocken ist, während alles andere an diesem Strand durchnässt ist. Bei genauem Hinsehen trägt jeder ein winziges eingeritztes Wellenzeichen: das Symbol „*geboren in den Tiefen der See*" vom Tor der drei Bindungen. Und die Todeswunde jedes SC ist jetzt eine blasse Narbe, die in der Nähe tiefen Wassers schmerzt. Nie erklärt.
+- **Die Gezeitenklinge ist fort** — und mit ihr das Ansehen der Gruppe in der lebenden Welt: Rauthorn hat überlebt, ihre Namen aus der Musterrolle gestrichen und erzählt in den Häfen, sie hätten sich gegen ihn gewandt. Sie sind gestrandet, mutmaßliche Verräter, auf einer Insel, die die Welt nun für doppelt verflucht hält.
+- **Die letzte Gabe des Fährmanns.** In den Untiefen reitet vor Anker ein kleines, verwittertes Fischerboot, seetüchtig und leer — keine Mannschaft, kein Name am Heck, Proviant und Wasser verstaut für genau die Zahl der Gruppe. Es hat die Linien der Ketsch selbst, dasselbe geflickte braune Segel; sein Tauwerk ist trocken, während alles andere durchnässt ist; und wer es lange genug segelt, wird es hören — dieselben drei Knarrlaute, in derselben Reihenfolge, wie ein Herzschlag, den sie bereits kennen. Tief am Spiegelheck, halb verborgen unter alter Farbe: das eingeritzte Wellenzeichen. Alles an ihm ist bestreitbar. Es ist außerdem der einzige Weg von der Insel. Vollständige Seite: [[the-gift-boat|das Gabenboot]].
 
-> [!tip] GM Guidance — closing the table
-> End the session on the boat riding at anchor, not on answers. Do **not** open her stores on-screen: the cargo aboard — and what is missing from it — is Adventure III's opening (the gifts of every *surviving* passenger wait there in mundane, deniable form; a sacrificed passenger's cargo simply is not aboard, and its absence is how the party learns, days later, exactly what they spent). If a PC was lost this adventure, their player enters Adventure III with a new character — and the table may yet meet the old one, wearing the Undertow's green light.
+> [!tip] GM Guidance — den Tisch schließen
+> Beende die Session mit dem Boot, das vor Anker reitet, nicht mit Antworten. Öffne seine Vorräte **nicht** auf offener Bühne: Die Fracht an Bord — und was in ihr fehlt — ist der Auftakt von Abenteuer III (die Gaben jedes *überlebenden* Passagiers warten dort in alltäglicher, bestreitbarer Form; die Fracht eines geopferten Passagiers ist schlicht nicht an Bord, und ihr Fehlen ist, wie die Gruppe Tage später erfährt, was genau sie ausgegeben hat). Wurde in diesem Abenteuer ein SC verloren, beginnt sein Spieler Abenteuer III mit einem neuen Charakter — und der Tisch mag dem alten noch begegnen, im grünen Licht des Sogs.
 
 ### Outcomes
 
-- The party puts to sea in the gift boat → **Adventure III** (Rauthorn's story, the Cartographer's coastline, and the cargo in the stores — see the threads in [[00-campaign|the campaign overview]]).
+- Die Gruppe sticht im Gabenboot in See → **Abenteuer III** (Rauthorns Geschichte, die Küstenlinie der Kartographin und die Fracht in den Vorräten — siehe die Fäden in [[00-campaign|der Kampagnenübersicht]]).

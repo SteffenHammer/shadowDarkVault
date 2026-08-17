@@ -1,56 +1,56 @@
 ---
-title: Prologue — The Tideblade
+title: Prolog — Die Gezeitenklinge
 act: 1
 tags: [act]
 ---
 
-# Act 1: Prologue — The Tideblade
+# Act 1: Prolog — Die Gezeitenklinge
 
 ## Act Overview
 
-- **Purpose:** Establish the characters as trusted crew of [[captain-rauthorn|Captain Rauthorn]], show the moment he changed (the massacre and the [[ritual-book|ritual book]]), and deliver the ship to the cursed island.
-- **State of the world:** The [[the-tideblade|Tideblade]] has sailed off every chart for weeks. Supplies are exhausted, the crew is restless, and the ship drifts through an unnatural fog.
-- **Ways it can end:** The fog breaks and the island appears — continue to [[02-the-cursed-island|Act 2]].
+- **Purpose:** Die Charaktere als vertraute Mannschaft von [[captain-rauthorn|Kapitän Rauthorn]] etablieren, den Moment zeigen, in dem er sich veränderte (das Massaker und das [[ritual-book|Ritualbuch]]), und das Schiff zur verfluchten Insel bringen.
+- **State of the world:** Die [[the-tideblade|Gezeitenklinge]] segelt seit Wochen jenseits aller Karten. Die Vorräte sind erschöpft, die Mannschaft ist unruhig, und das Schiff treibt durch einen unnatürlichen Nebel.
+- **Ways it can end:** Der Nebel reißt auf und die Insel erscheint — weiter zu [[02-the-cursed-island|Akt 2]].
 
-## Scene: The Long Wake
+## Scene: Das lange Kielwasser
 
-- **Purpose:** Ground the characters in the crew, foreshadow Rauthorn's corruption, and set the grim nautical tone.
-- **Trigger:** Opening scene of the adventure.
-- **Setup:** The Tideblade glides through dense fog. The read-aloud carries the characters' memories back through the months that brought them here.
+- **Purpose:** Die Charaktere in der Mannschaft verankern, Rauthorns Verderbnis andeuten und den düsteren nautischen Ton setzen.
+- **Trigger:** Eröffnungsszene des Abenteuers.
+- **Setup:** Die Gezeitenklinge gleitet durch dichten Nebel. Der vorzulesende Text trägt die Erinnerungen der Charaktere zurück durch die Monate, die sie hierher geführt haben.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The fog lies over the sea like a heavy, damp shroud, so dense that even the creaking of the planks sounds muffled. As you glide slowly through this unnatural grey wall, your thoughts drift inevitably back to the road that brought you here.
+> Der Nebel liegt über der See wie ein schweres, feuchtes Leichentuch, so dicht, dass selbst das Knarren der Planken gedämpft klingt. Während ihr langsam durch diese unnatürliche graue Wand gleitet, wandern eure Gedanken unweigerlich zurück zu dem Weg, der euch hierher gebracht hat.
 >
-> Many moons ago you signed on aboard the *Tideblade* — that legendary ship whose name is spoken in whispers in the taverns of the coastal towns. Under the command of the notorious Captain Rauthorn: a man as famous for his merciless harshness toward traitors as for his lavish generosity toward those loyal to him.
+> Vor vielen Monden habt ihr an Bord der *Gezeitenklinge* angeheuert — jenes legendären Schiffs, dessen Name in den Tavernen der Küstenstädte nur im Flüsterton ausgesprochen wird. Unter dem Kommando des berüchtigten Kapitän Rauthorn: ein Mann, ebenso bekannt für seine gnadenlose Härte gegenüber Verrätern wie für seine verschwenderische Großzügigkeit gegenüber den Getreuen.
 >
-> He promised you fame and riches, and he kept his word. Gold, plunder, recognition — all of it you have won in abundance these past months. Through courage, skill, and loyalty you have earned a place of standing in the crew and the captain's trust.
+> Er versprach euch Ruhm und Reichtum, und er hielt Wort. Gold, Beute, Anerkennung — all das habt ihr in den vergangenen Monaten im Überfluss errungen. Durch Mut, Geschick und Loyalität habt ihr euch einen angesehenen Platz in der Mannschaft und das Vertrauen des Kapitäns verdient.
 >
-> But then came that day. The day after the massacre. And since then, nothing has been as it was.
+> Doch dann kam jener Tag. Der Tag nach dem Massaker. Und seither ist nichts mehr, wie es war.
 >
-> You still remember every detail: the splintering wood of the enemy warship, the screams of the wounded, the thunder of the cannons.
+> Ihr erinnert euch noch an jedes Detail: das splitternde Holz des feindlichen Kriegsschiffs, die Schreie der Verwundeten, den Donner der Kanonen.
 
 > [!tip] GM Guidance
-> The massacre can be played out as a flashback boarding fight (below) or narrated straight through — decide by how much your table wants combat in session one. If narrated, continue directly with the read-aloud that follows.
+> Das Massaker kann als Rückblende mit Enterkampf ausgespielt (unten) oder durcherzählt werden — entscheide danach, wie viel Kampf deine Runde in der ersten Sitzung will. Wird es erzählt, fahre direkt mit dem folgenden vorzulesenden Text fort.
 
-**Encounter: Boarding the Navy Warship (optional flashback)**
-- Enemies: 4 × [[navy-sailor]], 2 × [[navy-marine]], 1 × [[navy-gunner]], 1 × [[navy-officer]] (scale to party size)
-- Tactics: sailors swarm and surround; marines fight in pairs and open with pistols; the gunner keeps distance behind cover; the officer holds the line from behind and uses Command Shout when it turns
-- Terrain: rigging and rails (climb checks), smoke, swinging boarding lines
-- Treasure: this is where Rauthorn finds the [[ritual-book]]
+**Encounter: Das Entern des Marinekriegsschiffs (optionale Rückblende)**
+- Enemies: 4 × [[navy-sailor|Marinematrose]], 2 × [[navy-marine|Marinesoldat]], 1 × [[navy-gunner|Marinekanonier]], 1 × [[navy-officer|Marineoffizier]] (an Gruppengröße anpassen)
+- Tactics: Matrosen schwärmen aus und kreisen ein; Soldaten kämpfen in Paaren und eröffnen mit Pistolen; der Kanonier hält Abstand hinter Deckung; der Offizier hält die Linie von hinten und nutzt Befehlsruf, wenn das Blatt sich wendet
+- Terrain: Takelage und Reling (Kletterproben), Rauch, schwingende Entertaue
+- Treasure: hier findet Rauthorn das [[ritual-book|Ritualbuch]]
 
 > [!quote] Read Aloud
-> Between blood and smoke, Captain Rauthorn found that old, mystical book. A find that changed his very nature.
+> Zwischen Blut und Rauch fand Kapitän Rauthorn jenes alte, mystische Buch. Ein Fund, der sein ganzes Wesen veränderte.
 >
-> From that moment he began to withdraw. His eyes grew fevered, his words riddling. He spoke of an ancient artifact — a shard waiting for him somewhere beyond the known sea. And so he steered the *Tideblade* ever further out: away from the trade routes, away from every chart, deep into waters even seasoned sailors avoid.
+> Von diesem Moment an begann er, sich zurückzuziehen. Seine Augen wurden fiebrig, seine Worte rätselhaft. Er sprach von einem uralten Artefakt — einem Splitter, der irgendwo jenseits der bekannten See auf ihn warte. Und so steuerte er die *Gezeitenklinge* immer weiter hinaus: fort von den Handelsrouten, fort von jeder Karte, tief in Gewässer, die selbst erfahrene Seeleute meiden.
 >
-> The crew grew restless. Distrust festered. But the captain seemed to follow nothing now except the whispering of the book.
+> Die Mannschaft wurde unruhig. Misstrauen schwelte. Doch der Kapitän schien nichts mehr zu folgen außer dem Flüstern des Buches.
 >
-> Now, weeks later, the stores are empty. Stomachs growl, throats burn, and for hours you have sailed through this cursed fog that swallows all bearing. No bird, no gust of wind, no sound but the muffled slap of waves against the hull.
+> Nun, Wochen später, sind die Vorräte leer. Die Mägen knurren, die Kehlen brennen, und seit Stunden segelt ihr durch diesen verfluchten Nebel, der jede Orientierung verschluckt. Kein Vogel, kein Windstoß, kein Laut außer dem dumpfen Klatschen der Wellen gegen den Rumpf.
 >
-> And as you stare into the grey emptiness, one question forces itself ever more strongly into your thoughts: will you ever feel solid ground beneath your feet again — or has the *Tideblade* long since set course for her own grave?
+> Und während ihr in die graue Leere starrt, drängt sich eine Frage immer stärker in eure Gedanken: Werdet ihr je wieder festen Boden unter den Füßen spüren — oder hat die *Gezeitenklinge* längst Kurs auf ihr eigenes Grab genommen?
 
 ### Outcomes
 
-- The fog parts and the island rises ahead → leads to [[02-the-cursed-island|Act 2: The Cursed Island]]
+- Der Nebel teilt sich und die Insel erhebt sich voraus → führt zu [[02-the-cursed-island|Act 2: Die verfluchte Insel]]

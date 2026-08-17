@@ -1,5 +1,5 @@
 ---
-title: The Sea Between
+title: Die See dazwischen
 type: campaign-adventure
 campaign: "[[00-campaign|The Damned of the Black Sea]]"
 system: Shadowdark
@@ -10,125 +10,125 @@ status: draft
 tags: [adventure]
 ---
 
-# The Sea Between
+# Die See dazwischen
 
 ## Premise & Hook
 
-Killed by their own captain for destroying the Shard of the Deep, the party wakes aboard an impossible little fishing ketch on a windless grey sea, where an old sailor claims he fished them from the wreck and is sailing them home. Behind them, one step closer each night, comes the Undertow: every ship the sea ever swallowed fused into one patient mountain of hulls, politely insisting that drowned souls are owed to it. To reach the dawn they must keep the failing ship sailing, refuse the fog's sweet bargains, and at the storm-wall decide what — or whom — to feed to death's law, never knowing for certain that they are dead. Eerie, gloomy, ambiguous; grim nautical-occult continuity with [[01-The Shard of the Deep/00-overview|The Shard of the Deep]].
+Vom eigenen Kapitän getötet, weil sie den Splitter der Tiefe zerstört haben, erwacht die Gruppe an Bord einer unmöglichen kleinen Fischerketsch auf einer windstillen grauen See, wo ein alter Seemann behauptet, er habe sie aus dem Wrack gefischt und segle sie nach Hause. Hinter ihnen, jede Nacht einen Schritt näher, kommt der Sog: jedes Schiff, das die See je verschlungen hat, verschmolzen zu einem geduldigen Gebirge aus Rümpfen, das höflich darauf besteht, dass ertrunkene Seelen ihm zustehen. Um die Morgendämmerung zu erreichen, müssen sie das zerfallende Schiff am Segeln halten, die süßen Handel des Nebels ausschlagen und an der Sturmwand entscheiden, was — oder wen — sie dem Gesetz des Todes zum Fraß vorwerfen, ohne je mit Gewissheit zu wissen, dass sie tot sind. Unheimlich, düster, uneindeutig; grimmige nautisch-okkulte Kontinuität mit [[01-The Shard of the Deep/00-overview|Der Splitter der Tiefe]].
 
 ## Background (GM only)
 
-**The truth.** The old sailor is the Leviathan in human guise, freed when the party shattered the Shard. Out of gratitude it ferries their souls across the sea between death and life. It is a god of the sea, not of death — it can sail the border but not overrule death's law. It is *smuggling* their souls back, and the pursuer in the wake is death's law coming to collect. Newly reborn and weak, a frail ship and a human shape are all it can hold; at full power the crossing would take a night — weakened, it takes the whole adventure. (Its regathering strength is a campaign thread — see [[00-campaign|the campaign overview]].)
+**Die Wahrheit.** Der alte Seemann ist der Leviathan in Menschengestalt, befreit, als die Gruppe den Splitter zerschmetterte. Aus Dankbarkeit setzt er ihre Seelen über die See zwischen Tod und Leben über. Er ist ein Gott der See, nicht des Todes — er kann die Grenze befahren, aber das Gesetz des Todes nicht außer Kraft setzen. Er *schmuggelt* ihre Seelen zurück, und der Verfolger im Kielwasser ist das Gesetz des Todes, das eintreiben kommt. Eben erst wiedergeboren und schwach, sind eine gebrechliche Ketsch und eine Menschengestalt alles, was er halten kann; bei voller Kraft würde die Überfahrt eine Nacht dauern — geschwächt dauert sie das ganze Abenteuer. (Seine sich wieder sammelnde Kraft ist ein Kampagnenfaden — siehe [[00-campaign|die Kampagnenübersicht]].)
 
-**The Undertow** wants the party's souls **because** they drowned and drowned souls are owed to it — the ferryman is a thief and the debt must balance. It has collected every wreck since the sea began. Every fog-bank boarder is the Undertow reaching forward; all their bargains are its bargains; anyone who accepts is collected. **It always reaches for the original debt first:** its boarders press for a PC wherever one can be reached, and turn to substitutes only when a soul is formally offered — or when the debtors keep themselves beyond reach. It is polite, patient, and correct — the horror is that it isn't wrong. See [[the-undertow]].
+**Der Sog** will die Seelen der Gruppe, **weil** sie ertrunken sind und ertrunkene Seelen ihm geschuldet werden — der Fährmann ist ein Dieb, und die Schuld muss ausgeglichen werden. Er hat jedes Wrack eingesammelt, seit es die See gibt. Jeder Enterer aus den Nebelbänken ist der Sog, der vorausgreift; alle ihre Handel sind seine Handel; wer annimmt, wird eingesammelt. **Er greift immer zuerst nach der ursprünglichen Schuld:** Seine Enterer setzen einem SC zu, wo immer einer erreichbar ist, und wenden sich Ersatz erst dann zu, wenn eine Seele förmlich angeboten wird — oder wenn die Schuldner sich außer Reichweite halten. Er ist höflich, geduldig und korrekt — der Schrecken liegt darin, dass er nicht unrecht hat. Siehe [[the-undertow|der Sog]].
 
-**The passengers are the treasure (the hidden twist).** Every nameless passenger aboard is an embodied gift of the Leviathan — a new ability, an attribute point, a rare item it means to grant *each* soul it lands alive. Death's law is arithmetic: it is owed N souls (one per PC) and will accept *any* N — **but a substitute counts only if freely given.** A passenger tendered in a spoken bargain settles one soul and deletes that entire gift category from the game forever. A passenger *taken by force* — hauled over a rail, swept by the storm — settles **nothing**: the gift is destroyed all the same, gone uncounted, and the debt stands whole. The old man's strength works the same way — a piece he is forced to burn (holding the ship together mid-storm) is an Intervention lost without touching the debt; only what he tenders at the Toll counts. Force can ever collect only the original debt: the PCs themselves. The rule is **never explained until after the landing**: the players are only teased ("*That was not yours to spend*"). The gifts themselves are cargo aboard [[the-gift-boat]], discovered in Adventure III — not a scene in this adventure.
+**Die Passagiere sind der Schatz (der verborgene Twist).** Jeder namenlose Passagier an Bord ist eine verkörperte Gabe des Leviathan — eine neue Fähigkeit, ein Attributspunkt, ein seltener Gegenstand, den er *jeder* Seele zugedacht hat, die er lebend an Land bringt. Das Gesetz des Todes ist Arithmetik: Ihm werden N Seelen geschuldet (eine pro SC), und es akzeptiert *beliebige* N — **aber ein Ersatz zählt nur, wenn er freiwillig gegeben wird.** Ein Passagier, der in einem ausgesprochenen Handel dargeboten wird, begleicht eine Seele und löscht diese gesamte Gabenkategorie für immer aus dem Spiel. Ein Passagier, der *mit Gewalt genommen* wird — über eine Reling gezerrt, vom Sturm fortgerissen — begleicht **nichts**: Die Gabe ist trotzdem zerstört, ungezählt dahin, und die Schuld bleibt in voller Höhe bestehen. Die Kraft des alten Mannes funktioniert genauso — ein Stück, das er zu verbrennen gezwungen ist (um das Schiff mitten im Sturm zusammenzuhalten), ist eine verlorene Intervention, ohne die Schuld anzurühren; nur was er am Zoll darbietet, zählt. Gewalt kann immer nur die ursprüngliche Schuld eintreiben: die SC selbst. Die Regel wird **bis nach der Landung niemals erklärt**: Die Spieler werden nur geneckt („*Das war nicht deins auszugeben*"). Die Gaben selbst sind Fracht an Bord des [[the-gift-boat|Gabenboots]], entdeckt in Abenteuer III — keine Szene in diesem Abenteuer.
 
-> [!warning] Ambiguity is a hard constraint on every scene
-> The party is never told they are dead — they may only ever suspect it. No NPC, read-aloud, or mechanic may state it outright. The Undertow's *"You drowned"* is an accuser's claim, corroborated by nothing; the old man's rescue story is a plausible lie. This rule outlives the adventure — see the campaign threads. Grim but not graphic: dread, drowning imagery, hard choices; no lingering gore or torture.
+> [!warning] Ambiguität ist eine harte Vorgabe für jede Szene
+> Der Gruppe wird nie gesagt, dass sie tot ist — sie darf es immer nur vermuten. Kein NSC, kein Read Aloud, keine Mechanik darf es ausdrücklich feststellen. Das „*Ihr seid ertrunken*" des Sogs ist die Behauptung eines Anklägers, durch nichts bestätigt; die Rettungsgeschichte des alten Mannes ist eine plausible Lüge. Diese Regel überdauert das Abenteuer — siehe die Kampagnenfäden. Grimmig, aber nicht drastisch: Beklemmung, Bilder des Ertrinkens, harte Entscheidungen; kein ausgewalztes Blutvergießen, keine Folter.
 
-**The Night Ladder (the clock).** There is no sun — but periodically the grey twilight dims to true black: a *night*. Each night the pursuer manifests one step closer and the [[the-halcyon|Halcyon]] visibly decays in step (her states are in her location file):
+**Die Nachtleiter (die Uhr).** Es gibt keine Sonne — aber in Abständen verdunkelt sich das graue Zwielicht zu wahrem Schwarz: eine *Nacht*. Mit jeder Nacht manifestiert sich der Verfolger einen Schritt näher, und die [[the-halcyon|Halcyon]] verfällt sichtbar im Gleichschritt (ihre Zustände stehen in ihrer Ortsdatei):
 
-| Night | What manifests                                                                                             |
+| Nacht | Was sich manifestiert                                                                                             |
 | ----- | ---------------------------------------------------------------------------------------------------------- |
-| 1     | The wake stops fading — stretched taut to the horizon like a towline.                                      |
-| 2     | A second silhouette on the horizon, hull-down, matching course. The dead wounds ache.                      |
-| 3     | The fog banks begin — first boarders. The old man starts sleeping (he never slept before).                 |
-| 4     | The pursuer's bow wave is visible; the sea slopes gently backwards toward it, as if downhill.              |
-| 5     | Close enough to *hear* — the groan of a breaking hull (the Warden's sound from Adventure I). Storm rising. |
-| 6     | The storm crossing — the finale; it catches up.                                                            |
+| 1     | Das Kielwasser verblasst nicht mehr — bis zum Horizont straff gespannt wie eine Schleppleine.                                      |
+| 2     | Eine zweite Silhouette am Horizont, der Rumpf noch unter der Kimm, auf gleichem Kurs. Die Todeswunden schmerzen.                      |
+| 3     | Die Nebelbänke beginnen — erste Enterer. Der alte Mann beginnt zu schlafen (zuvor schlief er nie).                 |
+| 4     | Die Bugwelle des Verfolgers ist sichtbar; die See fällt sanft nach achtern zu ihm ab, wie bergab.              |
+| 5     | Nah genug, um ihn zu *hören* — das Ächzen eines brechenden Rumpfs (der Klang des Wächters aus Abenteuer I). Der Sturm zieht auf. |
+| 6     | Die Sturmüberfahrt — das Finale; er holt sie ein.                                                            |
 
-> [!info] Nightfall check — procedure
-> The ladder is a *position* (how close the pursuer is), not a calendar — acts trigger when the ladder **reaches** a step, however many dimmings that takes. During play, quietly note marks as they happen; at each dimming, tally and climb.
+> [!info] Einbruch der Nacht — Vorgehen
+> Die Leiter ist eine *Position* (wie nah der Verfolger ist), kein Kalender — Akte werden ausgelöst, wenn die Leiter eine Stufe **erreicht**, egal wie viele Verdunkelungen das braucht. Notiere im Spiel unauffällig Striche, sobald sie anfallen; bei jeder Verdunkelung zähle zusammen und steige.
 >
-> **The ladder climbs 1 + (net marks) — minimum 0, maximum 2 per night.**
+> **Die Leiter steigt um 1 + (Netto-Striche) — mindestens 0, höchstens 2 pro Nacht.**
 >
-> | Marks against | | Marks for |
+> | Striche dagegen | | Striche dafür |
 > | --- | --- | --- |
-> | **+1** — *lapse:* the ship stopped or drifted unmanned for a watch | | **−1** — a repair beat DC 12 (DC 15 from Night 4) |
-> | **+1** — *lapse:* the bilge door was opened at all (once per night, however often) | | **−1** — a full watch rotation was kept, nobody alone |
-> | **+3** — *decision:* someone accepted or *entertained* a boarder's bargain — "let me think on it" counts | | **−1** — a bargain was refused out loud in the lantern's light |
-> | **+3** — *decision:* a passenger was given away (automatic) | | **−1** — the old man was relieved at the helm to rest |
+> | **+1** — *Versäumnis:* das Schiff lag eine Wache lang gestoppt oder trieb unbemannt | | **−1** — eine Reparatur gegen DC 12 gelang (ab Nacht 4 DC 15) |
+> | **+1** — *Versäumnis:* die Bilgentür wurde überhaupt geöffnet (einmal pro Nacht, egal wie oft) | | **−1** — eine volle Wachrotation wurde gehalten, niemand allein |
+> | **+3** — *Entscheidung:* jemand hat den Handel eines Enterers angenommen oder auch nur *erwogen* — „lasst mich darüber nachdenken" zählt | | **−1** — ein Handel wurde laut im Licht der Laterne ausgeschlagen |
+> | **+3** — *Entscheidung:* ein Passagier wurde weggegeben (automatisch) | | **−1** — der alte Mann wurde am Ruder abgelöst, um zu ruhen |
 >
-> Lapses are seamanship — a good day's work offsets them. Decisions are consent, and death's law is merciless about consent: a +3 voids more than a whole day of good marks can cover, and takes two rested-ferryman nights to claw back.
+> Versäumnisse sind Seemannschaft — ein gutes Tagwerk gleicht sie aus. Entscheidungen sind Einwilligung, und das Gesetz des Todes ist gnadenlos, was Einwilligung angeht: Ein +3 macht mehr zunichte, als ein ganzer Tag guter Striche decken kann, und braucht zwei Nächte mit ausgeruhtem Fährmann, um wieder hereingeholt zu werden.
 >
-> **If the ladder climbs 2 in one night, both steps' manifestations play out that same night** — the fog rolls in *and* the bow wave rises, in one dimming. Bad nights compound; let the table feel it.
+> **Steigt die Leiter in einer Nacht um 2, spielen sich die Manifestationen beider Stufen noch in derselben Nacht ab** — der Nebel rollt heran *und* die Bugwelle steigt, in einer einzigen Verdunkelung. Schlechte Nächte verstärken einander; lass den Tisch es spüren.
 >
-> *Examples:* full watch rotation + a repair beat DC 12 → 1 + (−2) = **0**, the ladder holds. Someone said "let me think on it" despite a full rotation and a repair → 1 + 3 − 2 = 2 → the pursuer jumps two steps and both manifestations land that night.
+> *Beispiele:* volle Wachrotation + eine Reparatur gegen DC 12 → 1 + (−2) = **0**, die Leiter hält. Jemand sagte „lasst mich darüber nachdenken", trotz voller Rotation und einer Reparatur → 1 + 3 − 2 = 2 → der Verfolger springt zwei Stufen, und beide Manifestationen treffen noch in dieser Nacht ein.
 >
-> **The rested ferryman (the one way back).** If the night's marks tally to **net −1 or lower** *and* the old man was among them — relieved at the helm and truly rested — he spends the strength the crew gave him: the ladder **falls one step** instead of holding. Come the grey morning he stands straighter, years younger for a day; the wake hangs slack, the silhouette drops hull-down, the fog thins. Scenes already played stay played — the sea gives back distance, not what happened. He can manage this **twice per crossing**; the third time the strength simply isn't there, and the party sees it.
+> **Der ausgeruhte Fährmann (der einzige Weg zurück).** Wenn die Striche der Nacht **netto −1 oder weniger** ergeben *und* der alte Mann darunter war — am Ruder abgelöst und wirklich ausgeruht — gibt er die Kraft aus, die die Crew ihm geschenkt hat: Die Leiter **fällt eine Stufe**, statt zu halten. Am grauen Morgen steht er aufrechter, für einen Tag um Jahre jünger; das Kielwasser hängt schlaff, die Silhouette sinkt unter die Kimm, der Nebel lichtet sich. Bereits gespielte Szenen bleiben gespielt — die See gibt Abstand zurück, nicht das Geschehene. Das schafft er **zweimal pro Überfahrt**; beim dritten Mal ist die Kraft schlicht nicht da, und die Gruppe sieht es.
 >
-> Beyond that, the ladder never climbs backwards — careful sailing *stalls* death's law. The clamp guarantees at least three nights before the storm; a careful crew may see eight or more. Narrate each new step's manifestation together with the [[the-halcyon|Halcyon's]] matching decay state.
+> Darüber hinaus steigt die Leiter niemals rückwärts — sorgfältiges Segeln bringt das Gesetz des Todes *ins Stocken*. Die Begrenzung garantiert mindestens drei Nächte vor dem Sturm; eine sorgfältige Crew mag acht oder mehr erleben. Erzähle die Manifestation jeder neuen Stufe zusammen mit dem passenden Verfallszustand der [[the-halcyon|Halcyon]].
 
-> [!info] The lantern's circle — sanctuary that fails
-> The warm circle around the ferryman's lantern is his protection made visible, and it fails as he does:
+> [!info] Der Laternenkreis — eine Zuflucht, die versagt
+> Der warme Kreis um die Laterne des Fährmanns ist sein Schutz, sichtbar gemacht, und er versagt, wie er selbst versagt:
 >
-> - **Full light (Nights 0–3):** sanctuary. The drowned *cannot* enter it, full stop, and the borrowed voices go quiet inside. Never explain why.
-> - **Guttering (Nights 4–5):** the edge frays. The drowned can cross the line for the first time — but everything they attempt in or into the light is at **disadvantage**, and anyone standing in it has **advantage** on checks to resist being grabbed, dragged, or deceived. Play the first wet rope-hand crossing the line as the horror beat it is: the thing the players trusted absolutely has begun to fail.
-> - **The last stride (Night 6):** the same advantage and disadvantage — but the circle shelters two people, no more.
+> - **Volles Licht (Nächte 0–3):** Zuflucht. Die Ertrunkenen *können* ihn nicht betreten, Punkt, und die geborgten Stimmen verstummen darin. Erkläre niemals, warum.
+> - **Flackernd (Nächte 4–5):** Der Rand franst aus. Die Ertrunkenen können die Linie zum ersten Mal überschreiten — aber alles, was sie im Licht oder ins Licht hinein versuchen, geschieht mit **Nachteil**, und wer darin steht, hat **Vorteil** auf Proben, sich dagegen zu wehren, gepackt, fortgezerrt oder getäuscht zu werden. Spiele die erste nasse Tauhand, die die Linie überquert, als den Horrormoment, der sie ist: Das, worauf die Spieler sich absolut verlassen haben, hat zu versagen begonnen.
+> - **Der letzte Schritt (Nacht 6):** derselbe Vorteil und Nachteil — aber der Kreis schützt zwei Personen, nicht mehr.
 >
-> The circle protects; it does not win. Enemies never besiege it — they ignore it and collect what it doesn't cover: the passengers, the stations, the ship herself. A crew that huddles in the light isn't safe; it is choosing what to lose, one watch at a time.
+> Der Kreis schützt; er gewinnt nicht. Feinde belagern ihn nie — sie ignorieren ihn und sammeln ein, was er nicht abdeckt: die Passagiere, die Stationen, das Schiff selbst. Eine Crew, die sich im Licht zusammendrängt, ist nicht sicher; sie wählt nur aus, was sie verliert, eine Wache nach der anderen.
 
-**Permanent loss.** A soul the pursuer takes — a PC who accepts a boarder's bargain, falls overboard, or is caught in the finale — becomes a [[drowned-sailor|drowned sailor]]. Final death; the party may later face what was taken, wearing a friend's face.
+**Endgültiger Verlust.** Eine Seele, die der Verfolger nimmt — ein SC, der den Handel eines Enterers annimmt, über Bord geht oder im Finale gefasst wird — wird zu einem [[drowned-sailor|ertrunkenen Matrosen]]. Endgültiger Tod; die Gruppe mag später dem gegenüberstehen, was genommen wurde, mit dem Gesicht eines Freundes.
 
-**The Toll ledger (finale currency).** The Leviathan holds **3 Interventions** for the rest of the campaign — moments it can shield, aid, or save the party against Rauthorn's ritual. Each piece of its strength given to the Undertow at the storm-wall deletes one forever (and the lantern dims a step, and the old man ages years, on the spot). Record what remains in [[00-campaign|the campaign threads]] after the finale. He can never pay the *whole* debt — at least one soul must come from aboard.
+**Das Schuldbuch des Zolls (Währung des Finales).** Der Leviathan hält **3 Interventionen** für den Rest der Kampagne — Momente, in denen er die Gruppe gegen Rauthorns Ritual abschirmen, ihr beistehen oder sie retten kann. Jedes Stück seiner Kraft, das an der Sturmwand dem Sog gegeben wird, löscht eine davon für immer (und die Laterne wird eine Stufe dunkler, und der alte Mann altert um Jahre, auf der Stelle). Halte nach dem Finale in [[00-campaign|den Kampagnenfäden]] fest, was übrig bleibt. Die *ganze* Schuld kann er niemals zahlen — mindestens eine Seele muss von Bord kommen.
 
-**The ferryman mystery (clue trail).** The old man's identity is a puzzle, never a reveal. The build seeds these; let the table connect them:
+**Das Fährmann-Rätsel (Spur der Hinweise).** Die Identität des alten Mannes ist ein Puzzle, niemals eine Enthüllung. Der Aufbau streut diese Hinweise; lass den Tisch sie verbinden:
 
-| Clue | Seeded in |
+| Hinweis | Gestreut in |
 | --- | --- |
-| He has no name — every name he gives is an old word for the sea; the passengers each remember a different name, all wrong | Act 2, [[the-old-sailor]] |
-| The lantern's light pulses with the same slow bluish beat as the temple walls and the Shard | Act 2, the helm |
-| When he touches the water, the sea goes glass-smooth to the horizon; nobody remarks on it | Act 2 watches |
-| His shadow on the sail is too large and wrong-shaped in lantern-lit glimpses | Act 2–3, any night scene |
-| The drowned fear this ship — boarders won't name him; the Undertow calls him "the ferryman" and "the thief" | Act 3, boarders & bilge |
-| In the storm, one lightning-lit instant: his eyes flash like two cold stars — the visions' signature | Act 4 |
-| The tokens carried back bear a tiny scratched wave-mark — the "born in the depths of the sea" symbol from the Gate of Three Bindings | Act 4 epilogue |
-| The boat in the shallows has the ketch's lines, her three creaks, and the wave-mark under old paint on her transom | Act 4 landing, [[the-gift-boat]] |
+| Er hat keinen Namen — jeder Name, den er nennt, ist ein altes Wort für die See; die Passagiere erinnern sich an je einen anderen Namen, alle falsch | Akt 2, [[the-old-sailor|der alte Seemann]] |
+| Das Licht der Laterne pulsiert im selben langsamen bläulichen Takt wie die Tempelwände und der Splitter | Akt 2, das Ruder |
+| Wenn er das Wasser berührt, wird die See bis zum Horizont glasglatt; niemand verliert ein Wort darüber | Akt 2, Wachen |
+| Sein Schatten auf dem Segel ist in laternenbeleuchteten Augenblicken zu groß und falsch geformt | Akt 2–3, jede Nachtszene |
+| Die Ertrunkenen fürchten dieses Schiff — Enterer nennen seinen Namen nicht; der Sog nennt ihn „den Fährmann" und „den Dieb" | Akt 3, Enterer & Bilge |
+| Im Sturm, ein blitzerhellter Augenblick: Seine Augen blitzen wie zwei kalte Sterne — die Signatur der Visionen | Akt 4 |
+| Die zurückgetragenen Andenken tragen ein winziges eingeritztes Wellenzeichen — das Symbol „geboren in den Tiefen der See" vom Tor der drei Bindungen | Akt 4, Epilog |
+| Das Boot in den Untiefen hat die Linien der Ketsch, ihre drei Knarrlaute und das Wellenzeichen unter alter Farbe am Spiegelheck | Akt 4, Landung, [[the-gift-boat|das Gabenboot]] |
 
-**Advancement.** The party enters at level 3. Level 4 at the end of Act 2; level 5 at the end of Act 3; the finale is played at 5.
+**Aufstieg.** Die Gruppe beginnt auf Stufe 3. Stufe 4 am Ende von Akt 2; Stufe 5 am Ende von Akt 3; das Finale wird auf Stufe 5 gespielt.
 
-**While they sail.** Time passes strangely ashore. Rauthorn survives, tells his own story of the island, and moves toward the ritual — the stakes include *what they return to* (Adventure III).
+**Während sie segeln.** An Land vergeht die Zeit seltsam. Rauthorn überlebt, erzählt seine eigene Geschichte von der Insel und bewegt sich auf das Ritual zu — zum Einsatz gehört auch, *was sie bei der Rückkehr vorfinden* (Abenteuer III).
 
 ## Cast & Factions
 
-| Name | Role | One-liner | Appears in |
+| Name | Rolle | Einzeiler | Auftritt in |
 | ---- | ---- | --------- | ---------- |
-| [[the-old-sailor\|The Old Sailor]] | guide / ferryman | The freed Leviathan in a failing human guise; weakens visibly each night. | Acts 2–4 |
-| [[the-undertow\|The Undertow]] | antagonist | Every ship the sea ever swallowed, fused into one patient mountain of hulls; polite, correct, unfightable. | Acts 2–4 |
-| [[the-pilot\|The Pilot]] | liar | Face of the Undertow; offers the "faster way home". | Act 3 |
-| [[the-fencing-master\|The Fencing Master]] | passenger (gift) | Drills the fighter each dawn; one pull from an unlabeled bottle after. | Acts 2–4 |
-| [[the-quiet-girl\|The Quiet Girl]] | passenger (gift) | Hums a hymn only the priest's order sings; works a loop of knotted cord. | Acts 2–4 |
-| [[the-gambler\|The Gambler]] | passenger (gift) | Wins every hand and folds the last; rolls strange coins across his knuckles. | Acts 2–4 |
-| [[the-cartographer\|The Cartographer]] | passenger (gift) | Sketches coastlines that don't exist yet, rolled in a bone tube. | Acts 2–4 |
-| [[the-sleeping-man\|The Sleeping Man]] | passenger (gift) | Never wakes; curled around a sea chest; the biggest gift sleeps deepest. | Acts 2–4 |
-| [[the-dead-crew\|The Dead of the Tideblade]] | boarders | Drowned crewmates who want the party to stop running — "it doesn't hurt, after." | Act 3 |
-| [[captain-rauthorn\|Captain Rauthorn]] | prologue executioner | Kills the party for destroying the Shard; offstage threat afterwards. | Act 1 |
-| [[drowned-sailor\|Drowned Sailors]] | threat | The Undertow's fingertips; what a taken soul becomes. | Acts 1, 4 |
-| [[mooring-man\|Mooring-Men]] | threat | Boarders of wet rope, barnacle, and green lantern-light — the signature creature. | Acts 3–4 |
-| [[the-herald\|The Herald]] | boss | The Undertow's figurehead torn free; it collects, it does not kill. | Act 4 |
-| [[the-catch\|The Catch]] | threat | The thing in the nets; speaks in borrowed voices. | Act 2 |
+| [[the-old-sailor\|Der alte Seemann]] | Führer / Fährmann | Der befreite Leviathan in einer versagenden Menschengestalt; wird jede Nacht sichtbar schwächer. | Akte 2–4 |
+| [[the-undertow\|Der Sog]] | Antagonist | Jedes Schiff, das die See je verschlungen hat, verschmolzen zu einem geduldigen Gebirge aus Rümpfen; höflich, korrekt, unbekämpfbar. | Akte 2–4 |
+| [[the-pilot\|Der Lotse]] | Lügner | Gesicht des Sogs; bietet den „schnelleren Weg nach Hause" an. | Akt 3 |
+| [[the-fencing-master\|Der Fechtmeister]] | Passagier (Gabe) | Drillt den Kämpfer jeden Morgen; danach ein Zug aus einer unbeschrifteten Flasche. | Akte 2–4 |
+| [[the-quiet-girl\|Das stille Mädchen]] | Passagierin (Gabe) | Summt eine Hymne, die nur der Orden des Priesters singt; arbeitet an einer Schlaufe geknoteter Schnur. | Akte 2–4 |
+| [[the-gambler\|Der Spieler]] | Passagier (Gabe) | Gewinnt jede Hand und passt bei der letzten; lässt fremdartige Münzen über die Knöchel rollen. | Akte 2–4 |
+| [[the-cartographer\|Die Kartographin]] | Passagierin (Gabe) | Skizziert Küstenlinien, die es noch nicht gibt, gerollt in einer Knochenröhre. | Akte 2–4 |
+| [[the-sleeping-man\|Der schlafende Mann]] | Passagier (Gabe) | Erwacht nie; um eine Seekiste gekrümmt; die größte Gabe schläft am tiefsten. | Akte 2–4 |
+| [[the-dead-crew\|Die Toten der Gezeitenklinge]] | Enterer | Ertrunkene Kameraden, die wollen, dass die Gruppe aufhört zu fliehen — „danach tut es nicht mehr weh". | Akt 3 |
+| [[captain-rauthorn\|Kapitän Rauthorn]] | Henker des Prologs | Tötet die Gruppe für die Zerstörung des Splitters; danach Bedrohung hinter der Bühne. | Akt 1 |
+| [[drowned-sailor\|Ertrunkene Matrosen]] | Bedrohung | Die Fingerspitzen des Sogs; das, was aus einer genommenen Seele wird. | Akte 1, 4 |
+| [[mooring-man\|Festmacher]] | Bedrohung | Enterer aus nassem Tau, Seepocken und grünem Laternenlicht — die Signaturkreatur. | Akte 3–4 |
+| [[the-herald\|Der Herold]] | Boss | Die losgerissene Galionsfigur des Sogs; er sammelt ein, er tötet nicht. | Akt 4 |
+| [[the-catch\|Der Fang]] | Bedrohung | Das Ding in den Netzen; spricht mit geborgten Stimmen. | Akt 2 |
 
 ## Structure
 
-- [[01-the-drowning|Act 1: The Drowning]] — the prologue: escape, execution, and rebirth (~half session).
-	- The Temple Comes Down — the collapse takes the whole way out at once; the glowing pool is the only door.
-	- The Beach — the unwinnable fight; last-stand vignettes; death is certain, how they die is theirs.
-	- The Sea Between — the rebirth vision; waking to the same three creaks.
-- [[02-the-smooth-sea|Act 2: The Smooth Sea]] — Nights 0–2: the cover story and the cracks in it.
-	- Aboard the Halcyon — the old man's plausible lie; the ship that is bigger below than she has any right to be.
-	- The Passengers — five loops, five signature objects, and nobody remembers them embarking.
-	- Watches & Cracks — ship routine; the wounds, the sky, the reflections, the hunger that never comes.
-	- Something in the Nets — Night 2: a single weird fight, and a jacket with a name they know.
-- [[03-the-fog-banks|Act 3: The Fog Banks]] — Nights 3–5: boarders, bargains, and the death of the rescue story.
-	- The Pilot's Offer — the "faster way home"; social trap, then a fight.
-	- Fog & the Mooring-Men — don't answer your own voice; boarding waves.
-	- The Dead of the Tideblade — grief as a weapon; Rauthorn lives.
-	- The Bilge Door — the Undertow speaks; temptation and truth in one room.
-	- The Crow's Nest — the midpoint reversal: the Tideblade under full sail on the other sea.
-	- Night 5: The Groan — the ship forgets herself; storm rising.
-- [[04-the-storm-crossing|Act 4: The Storm Crossing]] — Night 6: the debt is stated and paid.
-	- The Undertow Draws Level — the mountain of hulls states its terms.
-	- The Boarding — Mooring-Men waves and the Herald.
-	- The Toll — passengers, themselves, the old man's strength, or delay; every option costs.
-	- The Landing — dawn, waking among the dead, the last glimpse, and the boat in the shallows.
+- [[01-the-drowning|Act 1: Die Ertränkung]] — der Prolog: Flucht, Hinrichtung und Wiedergeburt (~halbe Session).
+	- Der Tempel stürzt ein — der Einsturz nimmt den ganzen Ausweg auf einmal; der leuchtende Pool ist die einzige Tür.
+	- Der Strand — der nicht gewinnbare Kampf; Vignetten des letzten Gefechts; der Tod ist gewiss, wie sie sterben, gehört ihnen.
+	- Die See dazwischen — die Wiedergeburtsvision; das Erwachen zu denselben drei Knarrlauten.
+- [[02-the-smooth-sea|Act 2: Die glatte See]] — Nächte 0–2: die Deckgeschichte und die Risse darin.
+	- An Bord der Halcyon — die plausible Lüge des alten Mannes; das Schiff, das unter Deck größer ist, als sie je sein dürfte.
+	- Die Passagiere — fünf Schleifen, fünf Signaturobjekte, und niemand erinnert sich, wie sie an Bord kamen.
+	- Wachen & Risse — Schiffsroutine; die Wunden, der Himmel, die Spiegelungen, der Hunger, der nie kommt.
+	- Etwas in den Netzen — Nacht 2: ein einzelner unheimlicher Kampf und eine Jacke mit einem Namen, den sie kennen.
+- [[03-the-fog-banks|Act 3: Die Nebelbänke]] — Nächte 3–5: Enterer, Handel und der Tod der Rettungsgeschichte.
+	- Das Angebot des Lotsen — der „schnellere Weg nach Hause"; soziale Falle, dann ein Kampf.
+	- Nebel & die Festmacher — antwortet nicht auf die eigene Stimme; Enterwellen.
+	- Die Toten der Gezeitenklinge — Trauer als Waffe; Rauthorn lebt.
+	- Die Bilgentür — der Sog spricht; Versuchung und Wahrheit in einem Raum.
+	- Das Krähennest — die Wende zur Mitte: die Gezeitenklinge unter vollen Segeln auf der anderen See.
+	- Nacht 5: Das Ächzen — das Schiff vergisst sich selbst; der Sturm zieht auf.
+- [[04-the-storm-crossing|Act 4: Die Sturmüberfahrt]] — Nacht 6: die Schuld wird benannt und beglichen.
+	- Der Sog zieht gleich — das Gebirge aus Rümpfen nennt seine Bedingungen.
+	- Das Entern — Wellen von Festmachern und der Herold.
+	- Der Zoll — Passagiere, sie selbst, die Kraft des alten Mannes oder Aufschub; jede Option kostet.
+	- Die Landung — Morgengrauen, Erwachen unter den Toten, der letzte Blick und das Boot in den Untiefen.

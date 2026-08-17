@@ -1,26 +1,26 @@
 ---
-title: Mooring-Man
+title: Festmacher
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Mooring-Man
+# Festmacher
 
-Boarders of wet rope, barnacle, and green lantern-light — the Undertow's fingers given form. A man-shape of coiled, knotted cordage that climbs the hull without haste and never strikes to kill: only to make fast, and haul away. When its errand fails it goes slack and slides overboard, rope again.
+Enterer aus nassem Tau, Seepocken und grünem Laternenlicht — die Finger des Sogs, zu Gestalt geworden. Eine Mannsform aus aufgeschossenem, verknotetem Tauwerk, die ohne Hast den Rumpf erklimmt und nie zum Töten schlägt: nur um festzumachen und fortzuschleppen. Scheitert ihr Auftrag, wird sie schlaff und gleitet über Bord, wieder Tau.
 
-> [!info]+ Mooring-Man — LV 3
-> **AC** 13 · **HP** 14 · **MV** near (climb, swim) · **AL** C
+> [!info]+ Festmacher — LV 3
+> **AC** 13 · **HP** 14 · **MV** near (kletternd, schwimmend) · **AL** C
 >
-> **ATK** 2 rope-lash +3 (1d6)
+> **ATK** 2 Tauhieb +3 (1d6)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | +1  | +1  | -1  | +0  | -3  |
 >
-> **Made Fast.** On a rope-lash hit, DC 12 STR or DEX check (target's choice) or lashed: no movement, and the Mooring-Man is anchored to the target. DC 12 STR as an action to tear free; cutting the lash (any edge, 3+ damage in one blow) frees instantly.
+> **Festgemacht.** Bei einem Treffer mit dem Tauhieb: DC 12 STR- oder DEX-Probe (Wahl des Ziels) oder vertäut: keine Bewegung, und der Festmacher ist am Ziel verankert. DC 12 STR als Aktion, um sich loszureißen; das Tau zu durchtrennen (jede Klinge, 3+ Schaden mit einem Hieb) befreit sofort.
 >
-> **Haul Away.** Instead of attacking, it drags one lashed target near-distance toward the rail. Two Mooring-Men hauling the same target drag with advantage.
+> **Fortschleppen.** Statt anzugreifen, zerrt er ein vertäutes Ziel near-Distanz zur Reling. Zwei Festmacher, die dasselbe Ziel schleppen, zerren mit Vorteil.
 >
-> **Lantern-Shy.** While the lantern burns full (through Night 3) it cannot enter the warm light, and drops any target it is dragged into the light with. Once the light gutters (Night 4 on — see the [[00-overview|overview]]) it can cross the line, but everything it attempts in or into the light is at disadvantage, and targets it holds there tear free with advantage.
+> **Laternenscheu.** Solange die Laterne voll brennt (bis einschließlich Nacht 3), kann er das warme Licht nicht betreten und lässt jedes Ziel fallen, mit dem er ins Licht gezerrt wird. Sobald das Licht flackert (ab Nacht 4 — siehe die [[00-overview|Übersicht]]), kann er die Linie überschreiten, aber alles, was er im Licht oder ins Licht hinein versucht, geschieht mit Nachteil, und Ziele, die er dort hält, reißen sich mit Vorteil los.
 
-- **Found in:** this adventure's `statblocks/` — boarding waves throughout [[03-the-fog-banks|Act 3]] and [[04-the-storm-crossing|Act 4]].
+- **Found in:** `statblocks/` dieses Abenteuers — Enterwellen überall in [[03-the-fog-banks|Act 3]] und [[04-the-storm-crossing|Act 4]].

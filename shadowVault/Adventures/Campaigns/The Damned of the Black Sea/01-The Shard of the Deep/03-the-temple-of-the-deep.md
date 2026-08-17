@@ -1,238 +1,238 @@
 ---
-title: The Temple of the Deep
+title: Der Tempel der Tiefe
 act: 3
 tags: [act]
 ---
 
-# Act 3: The Temple of the Deep
+# Act 3: Der Tempel der Tiefe
 
 ## Act Overview
 
-- **Purpose:** The dungeon crawl. The party descends through six rooms of the drowned temple, survives its hazards, learns the truth of the previous expedition, and opens the Gate of Three Bindings.
-- **State of the world:** The temple is damp, cold, and feels like a living organism. Water drips everywhere, the walls seem to pulse faintly, and a bluish glow runs like veins through the stone. Dungeon map: ![[temple-of-the-deep-map.png]]
-- **Ways it can end:** The corridor beyond the gate leads to the Shard's chamber — continue to [[04-the-shard|Act 4]]. A retreating party can leave the way it came.
+- **Purpose:** Der Dungeon-Crawl. Die Gruppe steigt durch sechs Räume des ertrunkenen Tempels hinab, überlebt seine Gefahren, erfährt die Wahrheit über die frühere Expedition und öffnet das Tor der drei Bindungen.
+- **State of the world:** Der Tempel ist feucht, kalt und fühlt sich an wie ein lebender Organismus. Überall tropft Wasser, die Wände scheinen schwach zu pulsieren, und ein bläuliches Glühen zieht sich wie Adern durch den Stein. Dungeon-Karte: ![[temple-of-the-deep-map.png]]
+- **Ways it can end:** Der Korridor jenseits des Tors führt zur Kammer des Splitters — weiter zu [[04-the-shard|Akt 4]]. Eine Gruppe auf dem Rückzug kann den Weg zurück nehmen, den sie gekommen ist.
 
-## Scene: The Maw of the Temple (Room 1)
+## Scene: Der Schlund des Tempels (Raum 1)
 
-- **Purpose:** Set the dungeon's tone; a first cheap lesson that the temple itself is hostile.
-- **Trigger:** The party enters through the skull's mouth.
-- **Setup:** A low, gaping entrance passage like a gullet; cold wind flows out of it.
+- **Purpose:** Den Ton des Dungeons setzen; eine erste billige Lektion, dass der Tempel selbst feindselig ist.
+- **Trigger:** Die Gruppe tritt durch den Mund des Schädels ein.
+- **Setup:** Ein niedriger, klaffender Eingangsgang wie ein Schlund; kalter Wind strömt heraus.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The temple's entrance lies before you like a torn-open maw. The passage beyond is low and gaping, and the rock walls seem to bulge unnaturally inward, as if they meant to swallow you. A cold wind streams out of the darkness — far too cold for the island's humid climate — carrying a deep, barely audible droning: a sound felt rather than heard.
+> Der Eingang des Tempels liegt vor euch wie ein aufgerissener Schlund. Der Gang dahinter ist niedrig und klaffend, und die Felswände scheinen sich unnatürlich nach innen zu wölben, als wollten sie euch verschlingen. Ein kalter Wind strömt aus der Dunkelheit — viel zu kalt für das feuchte Klima der Insel — und trägt ein tiefes, kaum hörbares Dröhnen mit sich: ein Geräusch, das man eher fühlt als hört.
 >
-> The floor gleams wet, as if the stone itself had been sweating. Every step makes the water smack softly, and the rocks underfoot are treacherously smooth. Long, irregular claw marks run along the walls, torn deep into the stone. They all run in the same direction — inward, into the dark.
+> Der Boden glänzt nass, als hätte der Stein selbst geschwitzt. Jeder Schritt lässt das Wasser leise schmatzen, und die Felsen unter euren Füßen sind tückisch glatt. Lange, unregelmäßige Krallenspuren ziehen sich an den Wänden entlang, tief in den Stein gerissen. Sie verlaufen alle in dieselbe Richtung — nach innen, ins Dunkel.
 
-**Hazard: Slick Floor**
-- Effect: DC 12 DEX check or fall, taking 1d4 damage <!-- Source DC 11, snapped to the Shadowdark ladder -->
+**Hazard: Glitschiger Boden**
+- Effect: DC 12 DEX-Probe oder Sturz mit 1d4 Schaden <!-- Quelle DC 11, an die Shadowdark-Stufenleiter angeglichen -->
 
-**Clue:** the claw marks — *something was dragged in here.*
+**Clue:** die Krallenspuren — *etwas wurde hier hineingeschleift.*
 
 ### Outcomes
 
-- Onward into the temple → leads to the Halls of Whispering Waves
+- Weiter in den Tempel → führt zu den Hallen der flüsternden Wogen
 
-## Scene: The Halls of Whispering Waves (Room 2)
+## Scene: Die Hallen der flüsternden Wogen (Raum 2)
 
-- **Purpose:** Introduce the ghost pirates and plant the "captain betrayed us" thread.
-- **Trigger:** The party follows the passage into the echo chamber.
-- **Setup:** A wide chamber of dripstone columns; whispering fills the air though no one speaks.
+- **Purpose:** Die Geisterpiraten einführen und den Faden „der Kapitän hat uns verraten" legen.
+- **Trigger:** Die Gruppe folgt dem Gang in die Echokammer.
+- **Setup:** Eine weite Kammer aus Tropfsteinsäulen; Flüstern erfüllt die Luft, obwohl niemand spricht.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The passage opens into a wide chamber whose walls are sheathed in dripstone. Some of the hanging formations reach to the floor, forming natural columns between which your torchlight flickers. Every drop that falls from the ceiling echoes far too loudly — as if the room greedily swallowed every sound and gave it back distorted.
+> Der Gang öffnet sich in eine weite Kammer, deren Wände von Tropfstein überzogen sind. Manche der hängenden Formationen reichen bis zum Boden und bilden natürliche Säulen, zwischen denen euer Fackellicht flackert. Jeder Tropfen, der von der Decke fällt, hallt viel zu laut — als würde der Raum jedes Geräusch gierig verschlucken und verzerrt zurückgeben.
 >
-> Then you hear something else. A whispering. Soft at first, barely more than a breath, then clearer — voices losing themselves in the shadows. None of you is speaking, and yet the room seems full of words. Some sound like warnings, some like laments, some like the whispering of the drowning.
+> Dann hört ihr etwas anderes. Ein Flüstern. Erst leise, kaum mehr als ein Hauch, dann deutlicher — Stimmen, die sich in den Schatten verlieren. Keiner von euch spricht, und doch scheint der Raum voller Worte zu sein. Manche klingen wie Warnungen, manche wie Klagen, manche wie das Wispern von Ertrinkenden.
 
-When the party moves deeper into the halls:
+Wenn die Gruppe tiefer in die Hallen vordringt:
 
 > [!quote] Read Aloud
-> Between the columns, figures begin to appear: translucent bodies in shredded pirate clothing, their faces twisted with pain and confusion. They seem to advance on you and shrink from you at once, caught between memory and curse.
+> Zwischen den Säulen beginnen Gestalten zu erscheinen: durchscheinende Körper in zerfetzter Piratenkleidung, die Gesichter von Schmerz und Verwirrung verzerrt. Sie scheinen zugleich auf euch zuzukommen und vor euch zurückzuweichen, gefangen zwischen Erinnerung und Fluch.
 >
-> One of the ghosts raises its head as if it recognized you. Its voice is barely more than a gust of wind, yet the words cut clearly through the silence:
+> Einer der Geister hebt den Kopf, als hätte er euch erkannt. Seine Stimme ist kaum mehr als ein Windstoß, und doch schneiden die Worte klar durch die Stille:
 >
-> *"The captain… he betrayed us… he abandoned us."*
+> *„Der Kapitän… er hat uns verraten… er hat uns im Stich gelassen."*
 >
-> The others begin to flicker restlessly, their forms distorting, as if something inside them were waking.
+> Die anderen beginnen, unruhig zu flackern, ihre Gestalten verzerren sich, als erwache etwas in ihnen.
 
-**Encounter: The Restless Crew**
-- Enemies: 1d4+2 × [[ghost-pirate]]
-- Tactics: the ghosts are confused, not immediately hostile — they warn the party. The longer the party stays in the room, the greater the chance they attack: each round, roll 1d4 + rounds spent in the room; on 4+ the ghosts turn hostile
-- Terrain: dripstone columns break line of sight; the ghosts drift through them
-- Treasure: none
+**Encounter: Die ruhelose Mannschaft**
+- Enemies: 1d4+2 × [[ghost-pirate|Geisterpirat]]
+- Tactics: die Geister sind verwirrt, nicht sofort feindselig — sie warnen die Gruppe. Je länger die Gruppe im Raum bleibt, desto größer die Chance, dass sie angreifen: würfle jede Runde 1d4 + im Raum verbrachte Runden; bei 4+ werden die Geister feindselig
+- Terrain: Tropfsteinsäulen unterbrechen die Sichtlinie; die Geister schweben hindurch
+- Treasure: keiner
 
 > [!tip] GM Guidance
-> The murmured line is a deliberate double hook: it is the *dead pirate captain* who betrayed these ghosts — and it foreshadows what [[captain-rauthorn|Rauthorn]] may yet do to the party. Players who parley instead of fighting can leave this room without a fight.
+> Die gemurmelte Zeile ist ein bewusster Doppelhaken: Es ist der *tote Piratenkapitän*, der diese Geister verraten hat — und sie deutet voraus, was [[captain-rauthorn|Rauthorn]] der Gruppe noch antun könnte. Spieler, die verhandeln statt zu kämpfen, können diesen Raum ohne Kampf verlassen.
 
 ### Outcomes
 
-- Party slips through quickly or parleys → leads to the Drowned Steps
-- Ghosts turn hostile → fight or flee forward
+- Die Gruppe schlüpft schnell hindurch oder verhandelt → führt zu den ertrunkenen Stufen
+- Die Geister werden feindselig → kämpfen oder nach vorn fliehen
 
-## Scene: The Drowned Steps (Room 3)
+## Scene: Die ertrunkenen Stufen (Raum 3)
 
-- **Purpose:** A crossing hazard that punishes carelessness and rewards planning.
-- **Trigger:** The party descends the broad staircase.
-- **Setup:** A long flooded hall, hip-deep water, pillar tops offering a dry path; shadows moving below the surface.
+- **Purpose:** Eine Überquerungsgefahr, die Unachtsamkeit bestraft und Planung belohnt.
+- **Trigger:** Die Gruppe steigt die breite Treppe hinab.
+- **Setup:** Eine lange geflutete Halle, hüfttiefes Wasser, Säulenkronen bieten einen trockenen Pfad; Schatten bewegen sich unter der Oberfläche.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The staircase before you is broad, but its steps vanish quickly beneath dark water. The room beyond stretches long like an underground canal, flooded hip-deep. The water is cold, surprisingly clear — and yet it seems to swallow every step.
+> Die Treppe vor euch ist breit, doch ihre Stufen verschwinden schnell unter dunklem Wasser. Der Raum dahinter erstreckt sich lang wie ein unterirdischer Kanal, hüfttief geflutet. Das Wasser ist kalt, überraschend klar — und doch scheint es jeden Schritt zu verschlucken.
 >
-> Several stone pillars rise from the surface, smooth and wet, just high enough to offer a path across the water. Their glistening film makes them look treacherous, as if they had already let many slide into the deep.
+> Mehrere Steinsäulen ragen aus der Oberfläche, glatt und nass, gerade hoch genug, um einen Pfad über das Wasser zu bieten. Ihr glänzender Film lässt sie tückisch wirken, als hätten sie schon viele in die Tiefe gleiten lassen.
 >
-> Beneath the surface, shadows glide along — soundless and fast. Again and again something darts between the pillars, too quick to make out clearly: a silvery flash, a brief shimmer, as if light itself were taking shape.
+> Unter der Oberfläche gleiten Schatten entlang — lautlos und schnell. Immer wieder huscht etwas zwischen den Säulen hindurch, zu schnell, um es klar zu erkennen: ein silbriges Aufblitzen, ein kurzes Schimmern, als nähme das Licht selbst Gestalt an.
 >
-> The water stays still. Too still. And yet you feel that something waits down there… and that it watches every movement.
+> Das Wasser bleibt still. Zu still. Und doch spürt ihr, dass dort unten etwas wartet… und dass es jede Bewegung beobachtet.
 
-**Hazard: Slick Pillars**
-- Effect: DC 12 DEX check per crossing stretch or fall into the water <!-- Source DC 11, snapped -->
+**Hazard: Glitschige Säulen**
+- Effect: DC 12 DEX-Probe pro Wegstück oder Sturz ins Wasser <!-- Quelle DC 11, angeglichen -->
 
-**Hazard: Ghost Fish**
-- Effect: anyone in the water takes 1d4 damage per round — not a fightable enemy
+**Hazard: Geisterfische**
+- Effect: wer im Wasser ist, erleidet 1d4 Schaden pro Runde — kein bekämpfbarer Gegner
 
-**Hazard: Drowning Hands**
-- Effect: climbing out is exceptionally hard — invisible hands pull at the character: DC 12 DEX **and** DC 15 STR checks to get back onto a pillar or the stairs
+**Hazard: Ertränkende Hände**
+- Effect: das Herausklettern ist außergewöhnlich schwer — unsichtbare Hände zerren am Charakter: DC 12 DEX- **und** DC 15 STR-Probe, um zurück auf eine Säule oder die Treppe zu gelangen
 
 ### Outcomes
 
-- Crossing made → leads to the Gallery of the Drowned
+- Überquerung geschafft → führt zur Galerie der Ertrunkenen
 
-## Scene: The Gallery of the Drowned (Room 4)
+## Scene: Die Galerie der Ertrunkenen (Raum 4)
 
-- **Purpose:** The temple's centerpiece: the corpse field, the dead pirate captain, and the Gate of Three Bindings puzzle.
-- **Trigger:** The party enters the vast hall at the end of the flooded canal.
-- **Setup:** A huge room with a ceiling beyond torchlight; dozens of pirate corpses; a massive stone door at the far end.
+- **Purpose:** Das Herzstück des Tempels: das Leichenfeld, der tote Piratenkapitän und das Rätsel des Tors der drei Bindungen.
+- **Trigger:** Die Gruppe betritt die gewaltige Halle am Ende des gefluteten Kanals.
+- **Setup:** Ein riesiger Raum mit einer Decke jenseits des Fackellichts; Dutzende Piratenleichen; eine massive Steintür am anderen Ende.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The passage opens into a vast room whose ceiling is so high your torches barely reach it. Damp drops fall out of the darkness, echoing through the silence like single heartbeats. The floor is uneven, strewn with broken weapons, torn ropes… and bodies.
+> Der Gang öffnet sich in einen gewaltigen Raum, dessen Decke so hoch liegt, dass eure Fackeln sie kaum erreichen. Feuchte Tropfen fallen aus der Dunkelheit und hallen durch die Stille wie einzelne Herzschläge. Der Boden ist uneben, übersät mit zerbrochenen Waffen, zerrissenen Tauen… und Leichen.
 >
-> Dozens of corpses lie scattered, as if they had fallen in a single desperate moment. Their skin is pale, almost waxen, and though they are covered in deep claw marks, they look strangely preserved.
+> Dutzende Leichen liegen verstreut, als wären sie in einem einzigen verzweifelten Moment gefallen. Ihre Haut ist bleich, fast wächsern, und obwohl sie von tiefen Krallenspuren bedeckt sind, wirken sie seltsam gut erhalten.
 >
-> At the end of the room rises a massive stone door, so large it nearly fills the wall. Before it slumps the missing pirate captain, his body half upright, as if in dying he had still tried to reach the door. His eyes are open, glassy, staring straight at you.
+> Am Ende des Raums erhebt sich eine massive Steintür, so groß, dass sie fast die ganze Wand ausfüllt. Davor kauert der verschollene Piratenkapitän, sein Körper halb aufgerichtet, als hätte er im Sterben noch versucht, die Tür zu erreichen. Seine Augen sind offen, glasig, und starren euch direkt an.
 >
-> Set into the door are several stone plates, each with a different symbol, each slightly movable. A faint bluish glow seeps from the cracks between them, as if something behind were breathing.
+> In die Tür eingelassen sind mehrere Steinplatten, jede mit einem anderen Symbol, jede leicht beweglich. Ein schwaches bläuliches Glühen sickert aus den Ritzen zwischen ihnen, als würde dahinter etwas atmen.
 >
-> And then… you think you hear a whisper. Very soft. Very near. As if the dead in this room were waiting to see what you do next.
+> Und dann… glaubt ihr, ein Flüstern zu hören. Ganz leise. Ganz nah. Als warteten die Toten in diesem Raum darauf, was ihr als Nächstes tut.
 
-**The Gate of Three Bindings.** Above the gate, carved deep in ancient script:
+**Das Tor der drei Bindungen.** Über dem Tor, tief in uralter Schrift eingemeißelt:
 
-> *"Born in the depths of the sea, bound by human hand, never may he return."*
+> *„Geboren in den Tiefen der See, gebunden von Menschenhand, nie darf er wiederkehren."*
 
-Three rotatable stone plates, each with five symbols, each beneath a carved sign. The door opens only when all three plates point to the correct symbol simultaneously. Give the players ![[handout-gate-of-three-bindings.md]].
+Drei drehbare Steinplatten, jede mit fünf Symbolen, jede unter einem eingemeißelten Zeichen. Die Tür öffnet sich nur, wenn alle drei Platten gleichzeitig auf das richtige Symbol zeigen. Gib den Spielern ![[handout-gate-of-three-bindings.md]].
 
-| Plate | Sign above | Symbols | Solution |
+| Platte | Zeichen darüber | Symbole | Lösung |
 | --- | --- | --- | --- |
-| 1 — *"Born in the depths of the sea"* | dark shadow of a monstrous beast | wave, rock, shell, maelstrom, darkness | **Wave** — the creature was born of the deep sea |
-| 2 — *"Bound by human hand"* | a monstrous beast | chain, anchor, warding sign, key, wall | **Chain** — humans bound and sealed it |
-| 3 — *"Never may he return"* | a hand pressing down | sun, sprout, flame, skull with rising light, abyss | **Skull with rising light** — choosing the resurrection symbol shows they understand the prohibition |
+| 1 — *„Geboren in den Tiefen der See"* | dunkler Schatten einer monströsen Bestie | Welle, Fels, Muschel, Mahlstrom, Dunkelheit | **Welle** — die Kreatur wurde aus der tiefen See geboren |
+| 2 — *„Gebunden von Menschenhand"* | eine monströse Bestie | Kette, Anker, Schutzzeichen, Schlüssel, Mauer | **Kette** — Menschen banden und versiegelten sie |
+| 3 — *„Nie darf er wiederkehren"* | eine niederdrückende Hand | Sonne, Spross, Flamme, Schädel mit aufsteigendem Licht, Abgrund | **Schädel mit aufsteigendem Licht** — die Wahl des Auferstehungssymbols zeigt, dass sie das Verbot verstanden haben |
 
 > [!tip] GM Guidance
-> The shrine reliefs from [[02-the-cursed-island|Act 2]] give the answers without speaking them. Parties who skipped the village can still reason it out from the inscription.
+> Die Schreinreliefs aus [[02-the-cursed-island|Akt 2]] geben die Antworten, ohne sie auszusprechen. Gruppen, die das Dorf ausgelassen haben, können die Lösung immer noch aus der Inschrift herleiten.
 
-> [!warning] Failing the puzzle
-> On each wrong combination, a cold gust sweeps the room and the corpses' eyes begin to glow blue — the ghosts of the pirates pour into the dead:
-> - **1st failure:** 1d4 × [[zombie-pirate]] rise.
-> - **2nd failure:** 1d6 × [[zombie-pirate]] rise.
-> - **3rd failure:** the captain rises — [[zombie-captain]] (mini-boss).
-> - If the players thought to dismember the corpses beforehand: instead of zombies, a failure raises a [[flesh-golem]] from the mutilated remains.
+> [!warning] Scheitern am Rätsel
+> Bei jeder falschen Kombination fegt ein kalter Windstoß durch den Raum und die Augen der Leichen beginnen, blau zu glühen — die Geister der Piraten fahren in die Toten:
+> - **1. Fehlversuch:** 1d4 × [[zombie-pirate|Zombie-Pirat]] erheben sich.
+> - **2. Fehlversuch:** 1d6 × [[zombie-pirate|Zombie-Pirat]] erheben sich.
+> - **3. Fehlversuch:** der Kapitän erhebt sich — [[zombie-captain|Zombie-Kapitän]] (Mini-Boss).
+> - Falls die Spieler auf die Idee kamen, die Leichen vorher zu zerstückeln: statt Zombies erhebt ein Fehlversuch einen [[flesh-golem|Fleischgolem]] aus den verstümmelten Überresten.
 >
-> When the puzzle is solved, all the risen dead collapse lifeless.
+> Sobald das Rätsel gelöst ist, brechen alle erhobenen Toten leblos zusammen.
 
 ### Outcomes
 
-- Puzzle solved → the gate grinds open → leads to the Corridor of the Wailing
-- Party retreats under zombie pressure → back across the Drowned Steps
+- Rätsel gelöst → das Tor knirscht auf → führt zum Korridor des Wehklagens
+- Die Gruppe weicht unter Zombiedruck zurück → zurück über die ertrunkenen Stufen
 
-## Scene: The Corridor of the Wailing (Room 5)
+## Scene: Der Korridor des Wehklagens (Raum 5)
 
-- **Purpose:** A psychic gauntlet that drains resolve before the finale and delivers a last warning.
-- **Trigger:** The party passes the opened stone gate.
-- **Setup:** A long, narrow corridor; ghostly faces cover the walls and ceiling, all with open mouths.
+- **Purpose:** Ein psychischer Spießrutenlauf, der vor dem Finale die Entschlossenheit zehrt und eine letzte Warnung überbringt.
+- **Trigger:** Die Gruppe durchschreitet das geöffnete Steintor.
+- **Setup:** Ein langer, schmaler Korridor; geisterhafte Gesichter bedecken Wände und Decke, alle mit offenen Mündern.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> Beyond the heavy stone door opens a long, narrow corridor. The air is colder here, heavier. Your steps echo dully — but the echo sounds… wrong. Distorted. As if something were speaking along with you.
+> Hinter der schweren Steintür öffnet sich ein langer, schmaler Korridor. Die Luft ist hier kälter, schwerer. Eure Schritte hallen dumpf — doch das Echo klingt… falsch. Verzerrt. Als spräche etwas mit euch mit.
 >
-> On the walls and even the ceiling, ghostly faces stand out — half formed from the stone, half from mist. Some look twisted with pain; others stare into the dark with empty eyes. Their mouths are open as if screaming — but what you hear is a whisper. An endless, plaintive wispering that creeps into your ears like cold water.
+> An den Wänden und selbst an der Decke zeichnen sich geisterhafte Gesichter ab — halb aus dem Stein geformt, halb aus Nebel. Manche wirken schmerzverzerrt; andere starren mit leeren Augen ins Dunkel. Ihre Münder sind geöffnet wie zum Schrei — doch was ihr hört, ist ein Flüstern. Ein endloses, klagendes Wispern, das euch wie kaltes Wasser in die Ohren kriecht.
 >
-> The voices overlap, unintelligible and yet full of despair. Sometimes you think you catch single words: *"Help…" "Why…?" "Don't forget…" "Too deep…" "Too late…"*
+> Die Stimmen überlagern sich, unverständlich und doch voller Verzweiflung. Manchmal glaubt ihr, einzelne Worte aufzuschnappen: *„Hilfe…" „Warum…?" „Vergesst nicht…" „Zu tief…" „Zu spät…"*
 >
-> The further you go, the louder the whispering grows — and the harder it becomes to keep your own thoughts apart from the voices.
+> Je weiter ihr geht, desto lauter wird das Flüstern — und desto schwerer fällt es, die eigenen Gedanken von den Stimmen zu trennen.
 
-**Hazard: The Wailing**
-- Effect: each round in the corridor, every character makes a WIS check, DC 12 +2 per round already spent here; on a failure, roll 1d4 on the table below
-- Counter: crossing quickly — the DC climbs the longer they linger
+**Hazard: Das Wehklagen**
+- Effect: jede Runde im Korridor legt jeder Charakter eine WIS-Probe ab, DC 12 +2 pro bereits hier verbrachter Runde; bei Misserfolg würfle 1d4 auf der Tabelle unten
+- Counter: schnelles Durchqueren — der DC steigt, je länger sie verweilen
 
-| 1d4 | Effect |
+| 1d4 | Effekt |
 | --- | --- |
-| 1 | **Whispered doubts:** −1 on the character's next attack or check against a harmful effect |
-| 2 | **Headache of the deep:** 1d4 psychic damage |
-| 3 | **Lost thoughts:** the character loses their action for 1 round |
-| 4 | **Voices of the dead:** the character hears a clear message — *"Prevent his awakening…"* — and is frightened for 1 round |
+| 1 | **Eingeflüsterte Zweifel:** −1 auf den nächsten Angriff des Charakters oder die nächste Probe gegen einen schädlichen Effekt |
+| 2 | **Kopfschmerz der Tiefe:** 1d4 psychischer Schaden |
+| 3 | **Verlorene Gedanken:** der Charakter verliert für 1 Runde seine Aktion |
+| 4 | **Stimmen der Toten:** der Charakter hört eine klare Botschaft — *„Verhindert sein Erwachen…"* — und ist für 1 Runde verängstigt |
 
 ### Outcomes
 
-- The corridor is crossed → leads to the Chamber of Splintered Truth
+- Der Korridor ist durchquert → führt zur Kammer der zersplitterten Wahrheit
 
-## Scene: The Chamber of Splintered Truth (Room 6)
+## Scene: Die Kammer der zersplitterten Wahrheit (Raum 6)
 
-- **Purpose:** Show both possible futures before the party must choose — the adventure's moral fulcrum.
-- **Trigger:** The party enters the round chamber at the corridor's end.
-- **Setup:** A circular room of polished obsidian-like stone; a still, shallow pool at its center.
+- **Purpose:** Beide möglichen Zukünfte zeigen, bevor die Gruppe wählen muss — der moralische Angelpunkt des Abenteuers.
+- **Trigger:** Die Gruppe betritt die runde Kammer am Ende des Korridors.
+- **Setup:** Ein kreisrunder Raum aus poliertem, obsidianartigem Stein; ein stilles, flaches Becken in seiner Mitte.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The corridor opens into a round chamber whose walls gleam smooth and damp, as if made of polished obsidian. At the center of the room lies a shallow pool, barely ankle-deep, its surface so perfectly still it looks like a black mirror. A bluish shimmer pulses deep inside it, as if something breathed below the surface.
+> Der Korridor öffnet sich in eine runde Kammer, deren Wände glatt und feucht glänzen, wie aus poliertem Obsidian. In der Mitte des Raums liegt ein flaches Becken, kaum knöcheltief, seine Oberfläche so vollkommen still, dass sie wie ein schwarzer Spiegel wirkt. Tief darin pulsiert ein bläulicher Schimmer, als würde etwas unter der Oberfläche atmen.
 >
-> The air is still. No drop falls, no wind moves. And yet you feel something watching you — not from the darkness, but from the water itself. As you approach, the surface begins to flicker faintly… and shows not your reflection, but something else.
+> Die Luft steht still. Kein Tropfen fällt, kein Wind regt sich. Und doch spürt ihr, dass euch etwas beobachtet — nicht aus der Dunkelheit, sondern aus dem Wasser selbst. Als ihr näher kommt, beginnt die Oberfläche schwach zu flackern… und zeigt nicht euer Spiegelbild, sondern etwas anderes.
 
-Whoever looks into the pool sees vague images of possible futures. **DC 12 WIS check or 1d4 psychic damage.** <!-- Source DC 13, snapped to the Shadowdark ladder --> Show one or both visions:
+Wer in das Becken blickt, sieht vage Bilder möglicher Zukünfte. **DC 12 WIS-Probe oder 1d4 psychischer Schaden.** <!-- Quelle DC 13, an die Shadowdark-Stufenleiter angeglichen --> Zeige eine oder beide Visionen:
 
-> [!quote] Read Aloud — Vision: The Waking of the Leviathan
-> The water's surface turns black as ink. Then a blazing crack breaks through it — a splinter of light that burns in your eyes. You see your own hand reach for it… and then the shard shatters.
+> [!quote] Read Aloud — Vision: Das Erwachen des Leviathans
+> Die Wasseroberfläche wird schwarz wie Tinte. Dann bricht ein gleißender Riss hindurch — ein Splitter aus Licht, der in euren Augen brennt. Ihr seht eure eigene Hand danach greifen… und dann zerspringt der Splitter.
 >
-> A sharp, rending sound fills the chamber, as if the world itself were tearing. The sky above you darkens in an instant, as if someone had snuffed out the sun. Clouds pile up, black and heavy, and lightning twitches through them like spasming veins.
+> Ein scharfes, reißendes Geräusch erfüllt die Kammer, als würde die Welt selbst zerreißen. Der Himmel über euch verdunkelt sich in einem Augenblick, als hätte jemand die Sonne ausgelöscht. Wolken türmen sich auf, schwarz und schwer, und Blitze zucken durch sie hindurch wie krampfende Adern.
 >
-> Beneath your feet the earth begins to shake. First a tremble, then a deep, growling quake that eats through stone and bone. Cracks split the ground, and cold mist rises from them.
+> Unter euren Füßen beginnt die Erde zu beben. Erst ein Zittern, dann ein tiefes, grollendes Beben, das sich durch Stein und Knochen frisst. Risse spalten den Boden, und kalter Nebel steigt aus ihnen auf.
 >
-> Then you see the sea. Endless. Black. And there, far out, a shadow rises. A vast, terrifying shadow, greater than any ship, greater than any cliff. It climbs slowly from the deep, as if an ancient being were waking from unending sleep. You make out no clear form — only eyes burning like cold stars, and a silhouette that makes the sea itself shudder.
+> Dann seht ihr die See. Endlos. Schwarz. Und dort, weit draußen, erhebt sich ein Schatten. Ein gewaltiger, furchteinflößender Schatten, größer als jedes Schiff, größer als jede Klippe. Langsam steigt er aus der Tiefe, als erwache ein uraltes Wesen aus endlosem Schlaf. Ihr erkennt keine klare Gestalt — nur Augen, die wie kalte Sterne brennen, und eine Silhouette, die die See selbst erschaudern lässt.
 >
-> And then… the creature's gaze turns to *you*.
+> Und dann… wendet sich der Blick der Kreatur *euch* zu.
 >
-> The water in the pool pulses. A surge of bluish light bursts from it and wraps around you. You feel power — raw, untamed power — rising within you. It is cold as the deep, heavy as the sea, and it whispers that you are chosen. Chosen to destroy… or to preserve.
+> Das Wasser im Becken pulsiert. Eine Woge bläulichen Lichts bricht daraus hervor und legt sich um euch. Ihr spürt Macht — rohe, ungezähmte Macht —, die in euch aufsteigt. Sie ist kalt wie die Tiefe, schwer wie die See, und sie flüstert, dass ihr auserwählt seid. Auserwählt zu zerstören… oder zu bewahren.
 >
-> The vision ends abruptly. The water stills. But the feeling of power remains — like an echo that will not fade.
+> Die Vision endet abrupt. Das Wasser wird still. Doch das Gefühl der Macht bleibt — wie ein Echo, das nicht verklingen will.
 
-> [!quote] Read Aloud — Vision: The Cursed Crew
-> The water's surface turns milky and begins to swirl, as if something unseen circled within. Then the pool clears — so clear you believe you are looking straight into another world.
+> [!quote] Read Aloud — Vision: Die verfluchte Mannschaft
+> Die Wasseroberfläche wird milchig und beginnt zu wirbeln, als kreise etwas Unsichtbares darin. Dann klart das Becken auf — so klar, dass ihr glaubt, geradewegs in eine andere Welt zu blicken.
 >
-> You see yourselves. You stand in a vast chamber of black stone. Before you floats the Shard of the Deep, pulsing like a heart. One of you lifts the pearl — and lays it in the stone basin. A soft click, a breath of relief… and the Shard slips free of its binding.
+> Ihr seht euch selbst. Ihr steht in einer gewaltigen Kammer aus schwarzem Stein. Vor euch schwebt der Splitter der Tiefe und pulsiert wie ein Herz. Einer von euch hebt die Perle — und legt sie in das steinerne Becken. Ein leises Klicken, ein erleichtertes Aufatmen… und der Splitter löst sich aus seiner Bindung.
 >
-> But not into your hands.
+> Doch nicht in eure Hände.
 >
-> Captain Rauthorn steps from the shadows — pale, half decayed, but his eyes burn with triumphant greed. He holds the Shard high, and the blue light within it grows brighter, sharper, hungrier. The light cuts through the chamber like a blade.
+> Kapitän Rauthorn tritt aus den Schatten — bleich, halb verwest, doch seine Augen brennen vor triumphierender Gier. Er hält den Splitter hoch, und das blaue Licht darin wird heller, schärfer, hungriger. Das Licht schneidet durch die Kammer wie eine Klinge.
 >
-> Then you see yourselves again — kneeling this time, around a circle of salt and blood. Your hands are red, the ground beneath you soaked dark. You speak words that are not yours, words that run over your tongues like cold water. The Shard floats above you, and every pulse of its light draws something out of you.
+> Dann seht ihr euch selbst wieder — diesmal kniend, um einen Kreis aus Salz und Blut. Eure Hände sind rot, der Boden unter euch dunkel getränkt. Ihr sprecht Worte, die nicht eure sind, Worte, die wie kaltes Wasser über eure Zungen laufen. Der Splitter schwebt über euch, und jeder Puls seines Lichts zieht etwas aus euch heraus.
 >
-> Something important. Something that does not come back.
+> Etwas Wichtiges. Etwas, das nicht zurückkommt.
 >
-> You see your own shadows peel from the floor… and vanish. Your eyes turn empty, colorless, like hollowed shells. Your voices fall silent. And then you stand up — slowly, mechanically, like marionettes whose strings are pulled by the deep itself.
+> Ihr seht, wie sich eure eigenen Schatten vom Boden lösen… und verschwinden. Eure Augen werden leer, farblos, wie ausgehöhlte Schalen. Eure Stimmen verstummen. Und dann steht ihr auf — langsam, mechanisch, wie Marionetten, deren Fäden von der Tiefe selbst gezogen werden.
 >
-> You are still alive. But you are no longer yourselves.
+> Ihr lebt noch. Aber ihr seid nicht mehr ihr selbst.
 >
-> You are immortal. Immortal… and lost.
+> Ihr seid unsterblich. Unsterblich… und verloren.
 >
-> The vision breaks off. The water turns black again. But for a moment you feel a cold in your chest — as if something had reached for your soul…
+> Die Vision bricht ab. Das Wasser wird wieder schwarz. Doch für einen Moment spürt ihr eine Kälte in der Brust — als hätte etwas nach eurer Seele gegriffen…
 
 ### Outcomes
 
-- The party presses on, forewarned → leads to [[04-the-shard|Act 4: The Shard]]
+- Die Gruppe geht gewarnt weiter → führt zu [[04-the-shard|Act 4: Der Splitter]]

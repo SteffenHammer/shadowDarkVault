@@ -1,28 +1,28 @@
 ---
-title: Captain Rauthorn
+title: Kapitän Rauthorn
 tags: [npc]
 ---
 
-# Captain Rauthorn
+# Kapitän Rauthorn
 
 ![[captain-rauthorn-portrait.png]]
 
-- **Role:** patron → villain (captain of the [[the-tideblade|Tideblade]])
-- **Appearance:** A middle-aged man the sea has marked: gaunt, angular face cut with deep furrows; ice-grey eyes that seem to look *through* people; black, salt-crusted hair in a wild braid; a long sea-leather coat hung with shells and bone talismans; a saber whose blade shimmers strangely dark. He smells of storm, salt, and cold iron. Since he took the [[ritual-book|ritual book]], his skin has paled as if lit from within, his veins show blue-black — as if the Black Sea itself flowed through him — and a blue light flickers in his eyes when he is angry (see ![[captain-rauthorn-portrait-changed.png]]).
-- **Personality:** Driven by insatiable greed for power and immortality — and a deep, unspoken fear of death. Charismatic but dangerous: fatherly one moment, ice-cold the next. Cruel to traitors, generous to the loyal, manipulative, and since the book, nearly sleepless. *Mannerism:* speaks calmly, almost in a whisper, in images and metaphors ("The sea knows no mercy… and neither do I."), and sometimes talks to someone who isn't there.
-- **Motivation:** His greatest fear is insignificance. He wants immortality, dominion over the Black Sea, and a legacy that changes the world. He sees the ritual not as a curse but as a coronation.
-- **Secrets:** He hears voices from the deep guiding him (since Adventure I). He believes the Leviathan has *chosen* him. He fears his soul is already half lost. He does not know the ritual will make him not immortal, but unhuman.
-- **Relationships:** Commands the [[the-tideblade|Tideblade]] and her crew (tools, possible heirs, possible sacrifices, possible threats — depending on how the characters act, he treats them as children to raise, rivals, traitors, or worthy successors). Bound, unknowingly, to the Leviathan through the [[ritual-book]] and the [[shard-of-the-deep]].
-- **Stat block:** none by design — he does not fight the party in Adventure I, and in [[01-the-drowning|Adventure II's prologue]] he executes them in an unwinnable set-piece with no stat block (like the Warden of the Deep). His ritual form (Adventure III boss) will be converted with that adventure.
+- **Role:** Auftraggeber → Schurke (Kapitän der [[the-tideblade|Gezeitenklinge]])
+- **Appearance:** Ein Mann mittleren Alters, den die See gezeichnet hat: hageres, kantiges Gesicht mit tiefen Furchen; eisgraue Augen, die *durch* Menschen hindurchzusehen scheinen; schwarzes, salzverkrustetes Haar in einem wilden Zopf; ein langer Mantel aus Seeleder, behängt mit Muscheln und Knochentalismanen; ein Säbel, dessen Klinge seltsam dunkel schimmert. Er riecht nach Sturm, Salz und kaltem Eisen. Seit er das [[ritual-book|Ritualbuch]] an sich nahm, ist seine Haut erblasst, als wäre sie von innen erleuchtet, seine Adern zeichnen sich blauschwarz ab — als flösse die Schwarze See selbst durch ihn — und ein blaues Licht flackert in seinen Augen, wenn er zornig ist (siehe ![[captain-rauthorn-portrait-changed.png]]).
+- **Personality:** Getrieben von unstillbarer Gier nach Macht und Unsterblichkeit — und einer tiefen, unausgesprochenen Angst vor dem Tod. Charismatisch, aber gefährlich: im einen Moment väterlich, im nächsten eiskalt. Grausam zu Verrätern, großzügig zu den Loyalen, manipulativ und seit dem Buch beinahe schlaflos. *Mannerism:* spricht ruhig, fast im Flüsterton, in Bildern und Metaphern („Die See kennt keine Gnade… und ich auch nicht."), und redet manchmal mit jemandem, der nicht da ist.
+- **Motivation:** Seine größte Angst ist Bedeutungslosigkeit. Er will Unsterblichkeit, Herrschaft über die Schwarze See und ein Vermächtnis, das die Welt verändert. Er sieht das Ritual nicht als Fluch, sondern als Krönung.
+- **Secrets:** Er hört Stimmen aus der Tiefe, die ihn leiten (seit Abenteuer I). Er glaubt, der Leviathan habe ihn *erwählt*. Er fürchtet, seine Seele sei bereits halb verloren. Er weiß nicht, dass das Ritual ihn nicht unsterblich, sondern unmenschlich machen wird.
+- **Relationships:** Befehligt die [[the-tideblade|Gezeitenklinge]] und ihre Mannschaft (Werkzeuge, mögliche Erben, mögliche Opfer, mögliche Bedrohungen — je nachdem, wie die Charaktere handeln, behandelt er sie als Kinder, die es zu erziehen gilt, als Rivalen, Verräter oder würdige Nachfolger). Ohne es zu wissen, durch das [[ritual-book|Ritualbuch]] und den [[shard-of-the-deep|Splitter der Tiefe]] an den Leviathan gebunden.
+- **Stat block:** bewusst keiner — er kämpft in Abenteuer I nicht gegen die Gruppe, und im [[01-the-drowning|Prolog von Abenteuer II]] richtet er sie in einer nicht gewinnbaren Set-Piece-Szene ohne Statblock hin (wie der Wächter der Tiefe). Seine Ritualgestalt (Endgegner von Abenteuer III) wird mit jenem Abenteuer umgesetzt.
 
-## Playing Rauthorn (GM)
+## Rauthorn spielen (GM)
 
-- **Voice:** quiet, controlled, almost whispering; loud only when he loses control.
-- **Behavior:** watches the characters closely; rewards loyalty generously; punishes doubt subtly; grows more unpredictable as the ritual nears.
-- **Dramatic moments:** he speaks with "someone" who isn't there; stares long at the sea as if hearing answers; he doesn't dream — he has visions.
+- **Stimme:** leise, kontrolliert, fast flüsternd; laut nur, wenn er die Beherrschung verliert.
+- **Verhalten:** beobachtet die Charaktere genau; belohnt Loyalität großzügig; bestraft Zweifel subtil; wird unberechenbarer, je näher das Ritual rückt.
+- **Dramatische Momente:** Er spricht mit „jemandem", der nicht da ist; starrt lange auf die See, als hörte er Antworten; er träumt nicht — er hat Visionen.
 
-## Development Across the Campaign
+## Entwicklung über die Kampagne
 
-- **Adventure I:** obsessed but still controlled; reads as a hard yet capable captain.
-- **Adventure II:** sleepless, ghostly; his eyes seem deeper, his voice echoes strangely; he begins to lose the crew. He appears only in the prologue — the beach, the judgment, the execution ([[01-the-drowning|The Drowning]]); **record each PC's last stand and final words — he remembers them.** Afterwards he is an offstage threat: he strikes the party's names from the muster, tells the ports they turned on him, and hunts a new path to the ritual.
-- **Adventure III:** half man, half ritual-creature; his presence chills the air; he will sacrifice anything — including the characters.
+- **Abenteuer I:** besessen, aber noch beherrscht; wirkt wie ein harter, aber fähiger Kapitän.
+- **Abenteuer II:** schlaflos, geisterhaft; seine Augen wirken tiefer, seine Stimme hallt seltsam; er beginnt, die Mannschaft zu verlieren. Er tritt nur im Prolog auf — der Strand, das Urteil, die Hinrichtung ([[01-the-drowning|Die Ertränkung]]); **halte für jeden SC das letzte Gefecht und die letzten Worte fest — er erinnert sich daran.** Danach ist er eine Bedrohung hinter der Bühne: Er streicht die Namen der Gruppe aus der Musterrolle, erzählt den Häfen, sie hätten sich gegen ihn gewandt, und jagt einem neuen Weg zum Ritual nach.
+- **Abenteuer III:** halb Mensch, halb Ritualkreatur; seine Gegenwart lässt die Luft erkalten; er wird alles opfern — auch die Charaktere.

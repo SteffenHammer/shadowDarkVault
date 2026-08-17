@@ -1,24 +1,24 @@
 ---
-title: Drowned Sailor
+title: Ertrunkener Matrose
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Drowned Sailor
+# Ertrunkener Matrose
 
-Bloated, barnacled, streaming, with a green light behind the eyes like lanterns seen through fathoms — the Undertow's fingertips, and what a soul it collects becomes. They do not flee; they recede, like a tide going out, when their errand is done.
+Aufgedunsen, von Seepocken überkrustet, triefend, mit einem grünen Licht hinter den Augen wie Laternen, gesehen durch Faden von Wasser — die Fingerspitzen des Sogs, und das, was aus einer Seele wird, die er eintreibt. Sie fliehen nicht; sie weichen zurück wie eine ablaufende Flut, wenn ihr Auftrag erledigt ist.
 
-> [!info]+ Drowned Sailor — LV 2
-> **AC** 11 · **HP** 10 · **MV** near (swim) · **AL** C
+> [!info]+ Ertrunkener Matrose — LV 2
+> **AC** 11 · **HP** 10 · **MV** near (schwimmend) · **AL** C
 >
-> **ATK** 1 grasp +2 (1d6) or 1 rusted blade +2 (1d6)
+> **ATK** 1 Griff +2 (1d6) oder 1 rostige Klinge +2 (1d6)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | -1  | +1  | -2  | +0  | -2  |
 >
-> **Drag Under.** On a grasp hit, DC 12 STR check or the target is dragged close-distance toward the nearest open water. A target held in water takes 1d4 damage per round (drowning) until they break free (DC 12 STR).
+> **Hinabziehen.** Bei einem Treffer mit dem Griff: DC 12 STR-Probe, oder das Ziel wird close in Richtung des nächsten offenen Wassers gezogen. Ein im Wasser festgehaltenes Ziel erleidet 1d4 Schaden pro Runde (Ertrinken), bis es sich losreißt (DC 12 STR).
 >
-> **The Sea's Fingers.** Takes no morale, no fear, no bribes — it is an errand, not a creature. When the errand ends (its master satisfied or its target lost), it walks backward into the water and is gone.
+> **Die Finger der See.** Kennt keine Moral, keine Furcht, keine Bestechung — er ist ein Auftrag, keine Kreatur. Endet der Auftrag (sein Herr zufriedengestellt oder sein Ziel verloren), geht er rückwärts ins Wasser und ist fort.
 
-- **Found in:** campaign `Global/statblocks/` — the beach battle of [[01-the-drowning|Adventure II's prologue]] and the storm crossing; any later adventure where the Undertow's ledger comes due (a PC taken by the Undertow rises as one, wearing a friend's face).
+- **Found in:** Kampagne `Global/statblocks/` — die Strandschlacht im [[01-the-drowning|Prolog von Abenteuer II]] und die Sturmüberfahrt; jedes spätere Abenteuer, in dem das Schuldbuch des Sogs fällig wird (ein vom Sog genommener SC ersteht als einer von ihnen wieder auf, mit dem Gesicht eines Freundes).

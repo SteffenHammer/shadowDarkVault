@@ -1,31 +1,31 @@
 ---
-title: The Halcyon
+title: Die Halcyon
 tags: [location]
 ---
 
-# The Halcyon
+# Die Halcyon
 
-A weathered two-masted fishing ketch, absurdly small for open water, her patched tan sail drawing steadily in no wind at all. She creaks wrong — always the same three creaks, in the same order, like a heartbeat — and below decks she doesn't end: more doors than the hull has length. Nobody aboard comments on it.
+Eine verwitterte zweimastige Fischerketsch, absurd klein für die offene See, deren geflicktes braunes Segel stetig zieht, ganz ohne Wind. Sie knarrt falsch — immer dieselben drei Knarrlaute, in derselben Reihenfolge, wie ein Herzschlag — und unter Deck endet sie nicht: mehr Türen, als der Rumpf Länge hat. Niemand an Bord verliert ein Wort darüber.
 
-- **Type:** ship — the adventure's only stage from Act 2 to the storm-wall
+- **Type:** ship — die einzige Bühne des Abenteuers von Act 2 bis zur Sturmwand
 - **Notable features:**
-	- **The helm & the lantern** — [[the-old-sailor|the old man's]] post. A lantern that burns without oil, the only warm color in the world; at its heart the flame pulses with the same slow bluish beat as the temple's veined walls and the Shard. Boarders will not step into its circle while it burns full; from Night 4 the guttering light hampers rather than bars them (see the [[00-overview|overview]]) — and the circle dims as he weakens (Night 0: most of the deck; Night 6: a stride across).
-	- **The passenger hold** — an always-lit stove that is never fed; the smell of tea nobody brews; the five passengers and their looping routines. Where the party learns to care about what they may have to spend.
-	- **The lowest door / the bilge** — below the waterline, a door the old man asks them to keep shut. Behind it: standing black water that does not move with the ship, where [[the-undertow|the Undertow]] speaks and reflections misbehave worst. Temptation and truth in one room ([[03-the-fog-banks|Act 3]]).
-	- **The crow's nest** — not there until Night 4, when it simply appears at the mainmast top: the one thing the forgetting ship *grows*, because she is near enough to life to see it. From the masthead, and only from there, sharp eyes glimpse the *other* sea: gulls, sunlight, a coastline, sails of the living world. Proof the destination is real; agony that it's so far ([[03-the-fog-banks|Act 3: The Crow's Nest]]).
-- **Inhabitants & factions:** [[the-old-sailor]] at the helm; [[the-fencing-master]], [[the-quiet-girl]], [[the-gambler]], [[the-cartographer]], [[the-sleeping-man]] below.
-- **Secrets (GM only):** She is the Leviathan's own shape — a frail ship is all its newborn strength can hold, and the lantern is a piece of it. As it weakens, the ship *forgets herself*. At the landing she is simply gone — no wreck, no sail, no wake — and [[the-gift-boat|a boat with her lines]] rides in the shallows.
+	- **Das Ruder & die Laterne** — der Posten [[the-old-sailor|des alten Mannes]]. Eine Laterne, die ohne Öl brennt, die einzige warme Farbe der Welt; in ihrem Herzen pulsiert die Flamme im selben langsamen bläulichen Takt wie die geäderten Wände des Tempels und der Splitter. Enterer betreten ihren Kreis nicht, solange sie voll brennt; ab Nacht 4 behindert das flackernde Licht sie nur noch, statt sie auszusperren (siehe die [[00-overview|Übersicht]]) — und der Kreis schrumpft, während der alte Mann schwächer wird (Nacht 0: fast das ganze Deck; Nacht 6: ein Schritt weit).
+	- **Der Passagierraum** — ein stets brennender Ofen, der nie gefüttert wird; der Geruch von Tee, den niemand kocht; die fünf Passagiere und ihre sich wiederholenden Routinen. Hier lernt die Gruppe, an dem zu hängen, was sie vielleicht wird ausgeben müssen.
+	- **Die unterste Tür / die Bilge** — unter der Wasserlinie eine Tür, die der alte Mann geschlossen zu halten bittet. Dahinter: stehendes schwarzes Wasser, das sich nicht mit dem Schiff bewegt, in dem [[the-undertow|der Sog]] spricht und Spiegelbilder sich am schlimmsten danebenbenehmen. Versuchung und Wahrheit in einem Raum ([[03-the-fog-banks|Act 3]]).
+	- **Das Krähennest** — nicht vorhanden bis Nacht 4, dann erscheint es einfach an der Spitze des Großmasts: das Einzige, was das vergessende Schiff *wachsen lässt*, weil sie dem Leben nah genug ist, um es zu sehen. Vom Masttopp aus, und nur von dort, erhaschen scharfe Augen die *andere* See: Möwen, Sonnenlicht, eine Küstenlinie, Segel der lebenden Welt. Beweis, dass das Ziel wirklich ist; Qual, dass es so fern ist ([[03-the-fog-banks|Act 3: Das Krähennest]]).
+- **Inhabitants & factions:** [[the-old-sailor|der alte Seemann]] am Ruder; [[the-fencing-master|der Fechtmeister]], [[the-quiet-girl|das stille Mädchen]], [[the-gambler|der Spieler]], [[the-cartographer|die Kartographin]], [[the-sleeping-man|der schlafende Mann]] unter Deck.
+- **Secrets (GM only):** Sie ist die eigene Gestalt des Leviathans — ein gebrechliches Schiff ist alles, was seine neugeborene Kraft halten kann, und die Laterne ist ein Stück von ihm. Während er schwächer wird, *vergisst das Schiff sich selbst*. Bei der Landung ist sie einfach fort — kein Wrack, kein Segel, kein Kielwasser — und [[the-gift-boat|ein Boot mit ihren Linien]] schaukelt im Flachwasser.
 - **Appears in:** [[02-the-smooth-sea|Act 2]], [[03-the-fog-banks|Act 3]], [[04-the-storm-crossing|Act 4]].
 
-## Decay by Night (the ladder made visible)
+## Verfall Nacht für Nacht (die Leiter sichtbar gemacht)
 
-As the pursuer closes, the ship decays in step — and the inside *shrinks*: doors gone, stairs shorter, as if the ship were forgetting itself. Nobody aboard notices but the party.
+Während der Verfolger aufholt, verfällt das Schiff im Gleichschritt — und das Innere *schrumpft*: Türen verschwunden, Treppen kürzer, als vergäße das Schiff sich selbst. Niemand an Bord bemerkt es außer der Gruppe.
 
-| Night | Above decks | Below decks |
+| Nacht | An Deck | Unter Deck |
 | --- | --- | --- |
-| 0–1 | Weathered but sound; lantern circle covers most of the deck | Nine doors off the lower passage — more ship than hull |
-| 2 | Paint peeling in patterns like tide-lines; rigging grows slack by dusk, taut by "morning" | Seven doors; one cabin now opens onto bare planking |
-| 3 | Seams weep; the three creaks come a little slower | Six doors; the stair to the hold has one step fewer |
-| 4 | Sail patched where no one patched it, with cloth from nowhere; **a crow's nest at the mainmast top that was never there before** | Five doors; two passengers now share what was three rooms |
-| 5 | Deck visibly shorter mast-to-mast; lantern circle barely clears the helm | Three doors; the passenger hold is one room; the Gambler's table is gone and he deals onto bare deck |
-| 6 | A fraction of herself; helm and hold nearly one space | Two doors: the hold, and the bilge — which is always, stubbornly, still there |
+| 0–1 | Verwittert, aber intakt; der Laternenkreis deckt fast das ganze Deck ab | Neun Türen am unteren Gang — mehr Schiff als Rumpf |
+| 2 | Farbe blättert in Mustern wie Gezeitenlinien; das Rigg hängt zur Abenddämmerung schlaff, zum „Morgen" wieder straff | Sieben Türen; eine Kajüte öffnet sich jetzt auf nackte Planken |
+| 3 | Die Nähte weinen; die drei Knarrlaute kommen ein wenig langsamer | Sechs Türen; die Treppe zum Laderaum hat eine Stufe weniger |
+| 4 | Das Segel geflickt, wo niemand geflickt hat, mit Tuch aus dem Nichts; **ein Krähennest an der Spitze des Großmasts, das nie zuvor da war** | Fünf Türen; zwei Passagiere teilen sich jetzt, was einmal drei Räume waren |
+| 5 | Das Deck von Mast zu Mast sichtbar kürzer; der Laternenkreis reicht kaum noch übers Ruder hinaus | Drei Türen; der Passagierraum ist ein einziger Raum; der Tisch des Spielers ist fort, und er gibt die Karten auf nacktes Deck |
+| 6 | Ein Bruchteil ihrer selbst; Ruder und Laderaum fast ein einziger Raum | Zwei Türen: der Laderaum und die Bilge — die immer noch da ist, hartnäckig, wie stets |

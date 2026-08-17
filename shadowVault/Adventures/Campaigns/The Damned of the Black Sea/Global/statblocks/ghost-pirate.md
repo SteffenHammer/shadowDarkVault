@@ -1,28 +1,28 @@
 ---
-title: Ghost Pirate
+title: Geisterpirat
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Ghost Pirate
+# Geisterpirat
 
-Undead souls bound to the Shard of the Deep — translucent bodies in shredded pirate garb, faces twisted with pain and confusion, caught between memory and curse. They cannot flee their binding.
+Untote Seelen, an den Splitter der Tiefe gebunden — durchscheinende Körper in zerfetzter Piratenkluft, die Gesichter von Schmerz und Verwirrung verzerrt, gefangen zwischen Erinnerung und Fluch. Sie können ihrer Bindung nicht entfliehen.
 
-> [!info]+ Ghost Pirate — LV 3
-> **AC** 14 · **HP** 10 · **MV** near (fly) · **AL** C
+> [!info]+ Geisterpirat — LV 3
+> **AC** 14 · **HP** 10 · **MV** near (fliegend) · **AL** C
 >
-> **ATK** 1 ghost blade +3 (1d6 + 1d4 necrotic)
+> **ATK** 1 Geisterklinge +3 (1d6 + 1d4 nekrotisch)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | -1  | +2  | +0  | +0  | +1  | +0  |
 >
-> **Ethereal.** Physical attacks miss it on a d20 roll of 10 or less (50%).
+> **Ätherisch.** Physische Angriffe verfehlen ihn bei einem d20-Wurf von 10 oder weniger (50%).
 >
-> **Curse of the Deep.** On a hit, the target makes a DC 12 WIS check or is frightened for 1 round.
+> **Fluch der Tiefe.** Bei einem Treffer legt das Ziel eine DC 12 WIS-Probe ab oder ist für 1 Runde verängstigt.
 >
-> **Bound.** Cannot stray farther than far (~100 ft) from the place of its death or its anchor-object.
+> **Gebunden.** Kann sich nicht weiter als far (~100 ft) vom Ort seines Todes oder seinem Ankerobjekt entfernen.
 >
-> **Wail (1/day).** All within near make a DC 12 WIS check or take −1 on attacks for 1d4 rounds.
+> **Klagen (1/Tag).** Alle innerhalb von near legen eine DC 12 WIS-Probe ab oder erhalten für 1d4 Runden −1 auf Angriffe.
 
-- **Found in:** campaign `Global/statblocks/` — appears in Adventure I (temple, random encounters). *(The old Adventure II anchor-object hints were dropped when [[02-The Sea Between/00-overview|The Sea Between]] was built fresh; kept in `Global/` in case later adventures reuse them.)*
+- **Found in:** Kampagne `Global/statblocks/` — tritt in Abenteuer I auf (Tempel, Zufallsbegegnungen). *(Die alten Ankerobjekt-Andeutungen für Abenteuer II wurden fallen gelassen, als [[02-The Sea Between/00-overview|Die See dazwischen]] neu aufgebaut wurde; in `Global/` behalten, falls spätere Abenteuer sie wiederverwenden.)*

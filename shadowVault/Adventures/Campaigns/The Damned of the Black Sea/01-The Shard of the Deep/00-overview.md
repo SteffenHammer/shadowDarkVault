@@ -1,5 +1,5 @@
 ---
-title: The Shard of the Deep
+title: Der Splitter der Tiefe
 type: campaign-adventure
 campaign: "[[00-campaign|The Damned of the Black Sea]]"
 system: Shadowdark
@@ -11,48 +11,48 @@ status: draft
 tags: [adventure]
 ---
 
-# The Shard of the Deep
+# Der Splitter der Tiefe
 
 ## Premise & Hook
 
-The characters are crew aboard the [[the-tideblade|Tideblade]] under [[captain-rauthorn|Captain Rauthorn]]. The captain has found clues to an ancient shard hidden in a sunken temple on a tropical island, and the characters are to retrieve it — but the island is cursed, and the Shard has a will of its own. The tone is grim, nautical, and occult.
+Die Charaktere sind Mannschaft an Bord der [[the-tideblade|Gezeitenklinge]] unter [[captain-rauthorn|Kapitän Rauthorn]]. Der Kapitän hat Hinweise auf einen uralten Splitter gefunden, der in einem versunkenen Tempel auf einer tropischen Insel verborgen liegt, und die Charaktere sollen ihn bergen — doch die Insel ist verflucht, und der Splitter hat einen eigenen Willen. Der Ton ist düster, nautisch und okkult.
 
 ## Background (GM only)
 
-The [[shard-of-the-deep|Shard of the Deep]] is a fragment of the bound Leviathan, sealed in a temple beneath a skull-shaped rock and watched by the Warden of the Deep. The island's natives kept the covenant alive: the Shard may only leave its basin if a [[lagoon-pearl|pearl from the lagoon]] takes its place.
+Der [[shard-of-the-deep|Splitter der Tiefe]] ist ein Fragment des gebundenen Leviathans, versiegelt in einem Tempel unter einem schädelförmigen Felsen und bewacht vom Wächter der Tiefe. Die Eingeborenen der Insel hielten den Bund am Leben: Der Splitter darf sein Becken nur verlassen, wenn eine [[lagoon-pearl|Perle aus der Lagune]] seinen Platz einnimmt.
 
-Years before the characters arrive, another pirate crew came looking for it. Their captain massacred the native village to get at the shrine's secret, retrieved a pearl from the lagoon, and descended into the temple — where the Warden killed him and his men at the very door of the Shard's chamber. Their ghosts haunt the temple still, murmuring that their captain betrayed them; their corpses litter the Gallery of the Drowned.
+Jahre bevor die Charaktere eintreffen, kam eine andere Piratenmannschaft auf der Suche nach ihm. Ihr Kapitän massakrierte das Dorf der Eingeborenen, um an das Geheimnis des Schreins zu gelangen, holte eine Perle aus der Lagune und stieg in den Tempel hinab — wo der Wächter ihn und seine Männer direkt vor der Tür zur Kammer des Splitters tötete. Ihre Geister spuken noch immer im Tempel und murmeln, ihr Kapitän habe sie verraten; ihre Leichen übersäen die Galerie der Ertrunkenen.
 
-Now [[captain-rauthorn|Rauthorn]] — guided by the [[ritual-book|ritual book]] he seized in a bloody naval battle — has followed the same trail. He needs the Shard as the key to a ritual he believes will grant him immortality. He sends the characters ashore to succeed where the dead crew failed.
+Nun ist [[captain-rauthorn|Rauthorn]] — geleitet vom [[ritual-book|Ritualbuch]], das er in einer blutigen Seeschlacht erbeutete — derselben Spur gefolgt. Er braucht den Splitter als Schlüssel zu einem Ritual, das ihm, wie er glaubt, Unsterblichkeit verleihen wird. Er schickt die Charaktere an Land, damit sie dort Erfolg haben, wo die tote Mannschaft scheiterte.
 
 ## Cast & Factions
 
-| Name | Role | One-liner | Appears in |
+| Name | Rolle | Einzeiler | Auftritt in |
 | ---- | ---- | --------- | ---------- |
-| [[captain-rauthorn\|Captain Rauthorn]] | patron (turning villain) | Sends the party ashore; obsessed but still controlled. | Prologue, Act 4 outcomes |
-| [[ghost-pirate\|Ghost Pirates]] | threat | Restless souls of the lost crew, bound to the Shard. | Acts 2–3 |
-| [[tribal-warrior\|Surviving Natives]] | wildcard | Massacre survivors — hostile until convinced, invaluable as guides. | Act 2 |
-| [[cursed-monkey-swarm\|Cursed Monkey Swarm]] & [[cursed-monkey-alpha\|Alpha]] | threat | Shard-corrupted beasts that ambush before the temple. | Act 2 |
-| [[zombie-captain\|The Dead Pirate Captain]] | threat | The previous expedition's leader, dead at the gate — and able to rise. | Act 3 |
-| The Warden of the Deep | hazard | Unbeatable guardian entity of the Shard's chamber. | Act 4 |
-| The Leviathan | looming power | The bound god-beast the Shard was cut from. | Background |
+| [[captain-rauthorn\|Kapitän Rauthorn]] | Auftraggeber (wird zum Schurken) | Schickt die Gruppe an Land; besessen, aber noch beherrscht. | Prolog, Ausgänge von Akt 4 |
+| [[ghost-pirate\|Geisterpiraten]] | Bedrohung | Ruhelose Seelen der verlorenen Mannschaft, an den Splitter gebunden. | Akte 2–3 |
+| [[tribal-warrior\|Überlebende Eingeborene]] | Unbekannte Größe | Überlebende des Massakers — feindselig, bis man sie überzeugt, unschätzbar als Führer. | Akt 2 |
+| [[cursed-monkey-swarm\|Schwarm verfluchter Affen]] & [[cursed-monkey-alpha\|Alpha]] | Bedrohung | Vom Splitter verdorbene Bestien, die vor dem Tempel aus dem Hinterhalt angreifen. | Akt 2 |
+| [[zombie-captain\|Der tote Piratenkapitän]] | Bedrohung | Der Anführer der früheren Expedition, tot vor dem Tor — und fähig, sich zu erheben. | Akt 3 |
+| Der Wächter der Tiefe | Gefahr | Unbesiegbare Wächterentität der Kammer des Splitters. | Akt 4 |
+| Der Leviathan | Drohende Macht | Die gebundene Gottbestie, aus der der Splitter geschnitten wurde. | Hintergrund |
 
 ## Structure
 
-- [[01-prologue-the-tideblade|Act 1: Prologue — The Tideblade]] — how the crew came to this cursed stretch of sea.
-	- The Long Wake — read-aloud backstory, the massacre flashback with an optional boarding fight, and landfall in the fog.
-- [[02-the-cursed-island|Act 2: The Cursed Island]] — hexcrawl exploration to find the temple and the pearl.
-	- Landfall & the Hexcrawl — island zones, travel, random encounters.
-	- The Derelict Pirate Camp — loot and the dead crew's logbook.
-	- The Silent Village & the Shrine — the massacre site and the puzzle's answer.
-	- The Lagoon of Silent Ghosts — pearls guarded by drowning hands.
-	- Skull Cliff — the temple entrance and the monkey ambush.
-- [[03-the-temple-of-the-deep|Act 3: The Temple of the Deep]] — the dungeon, rooms 1–6.
-	- The Maw of the Temple — slick entrance hall.
-	- The Halls of Whispering Waves — ghost pirates and a warning.
-	- The Drowned Steps — flooded crossing over pillar tops.
-	- The Gallery of the Drowned — the corpse field and the Gate of Three Bindings.
-	- The Corridor of the Wailing — psychic gauntlet.
-	- The Chamber of Splintered Truth — the vision pool.
-- [[04-the-shard|Act 4: The Shard]] — the final chamber and the choice.
-	- The Chamber of the Shard — the Warden of the Deep, and take-or-destroy.
+- [[01-prologue-the-tideblade|Act 1: Prolog — Die Gezeitenklinge]] — wie die Mannschaft in diesen verfluchten Winkel der See geriet.
+	- Das lange Kielwasser — vorzulesende Vorgeschichte, die Massaker-Rückblende mit optionalem Enterkampf und Landgang im Nebel.
+- [[02-the-cursed-island|Act 2: Die verfluchte Insel]] — Hexcrawl-Erkundung, um Tempel und Perle zu finden.
+	- Landgang & der Hexcrawl — Inselzonen, Reise, Zufallsbegegnungen.
+	- Das verlassene Piratenlager — Beute und das Logbuch der toten Mannschaft.
+	- Das stille Dorf & der Schrein — der Ort des Massakers und die Antwort auf das Rätsel.
+	- Die Lagune der stillen Geister — Perlen, bewacht von ertränkenden Händen.
+	- Die Schädelklippe — der Tempeleingang und der Hinterhalt der Affen.
+- [[03-the-temple-of-the-deep|Act 3: Der Tempel der Tiefe]] — der Dungeon, Räume 1–6.
+	- Der Schlund des Tempels — glitschige Eingangshalle.
+	- Die Hallen der flüsternden Wogen — Geisterpiraten und eine Warnung.
+	- Die ertrunkenen Stufen — geflutete Überquerung über Säulenkronen.
+	- Die Galerie der Ertrunkenen — das Leichenfeld und das Tor der drei Bindungen.
+	- Der Korridor des Wehklagens — psychischer Spießrutenlauf.
+	- Die Kammer der zersplitterten Wahrheit — das Visionsbecken.
+- [[04-the-shard|Act 4: Der Splitter]] — die letzte Kammer und die Entscheidung.
+	- Die Kammer des Splitters — der Wächter der Tiefe, und nehmen oder zerstören.

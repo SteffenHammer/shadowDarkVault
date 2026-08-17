@@ -1,137 +1,137 @@
 ---
-title: The Smooth Sea
+title: Die glatte See
 act: 2
 tags: [act]
 ---
 
-# Act 2: The Smooth Sea
+# Act 2: Die glatte See
 
 ## Act Overview
 
-- **Purpose:** Nights 0–2. Establish the cover story and let the players fall for it; introduce the [[the-halcyon|Halcyon]], the old man, and the passengers; then let the cracks appear one by one. Deliberately no combat until Night 2 — the tension is the point.
-- **State of the world:** A smooth, windless grey sea under a sunless twilight sky. The ketch sails anyway, steady as a heartbeat. The Night Ladder (see [[00-overview|the overview]]) starts at Night 0; run **Nightfall checks** at every dimming from here to the finale.
-- **Ways it can end:** The first fog bank rolls in with the Pilot's boat inside it → [[03-the-fog-banks|Act 3]]. That happens at Night 3 on the ladder, wherever the ladder stands.
+- **Purpose:** Nächte 0–2. Etabliere die Deckgeschichte und lass die Spieler auf sie hereinfallen; führe die [[the-halcyon|Halcyon]], den alten Mann und die Passagiere ein; dann lass die Risse einen nach dem anderen erscheinen. Bis Nacht 2 absichtlich kein Kampf — die Spannung ist der Punkt.
+- **State of the world:** Eine glatte, windstille graue See unter einem sonnenlosen Zwielichtshimmel. Die Ketsch segelt trotzdem, stetig wie ein Herzschlag. Die Nachtleiter (siehe [[00-overview|die Übersicht]]) beginnt bei Nacht 0; wickle von hier bis zum Finale bei jeder Verdunkelung die **Nachteinbruch-Abrechnung** ab.
+- **Ways it can end:** Die erste Nebelbank rollt heran, mit dem Boot des Lotsen darin → [[03-the-fog-banks|Act 3]]. Das geschieht bei Nacht 3 auf der Leiter, wo immer die Leiter gerade steht.
 
-> [!tip] GM Guidance — running the cover story
-> The old man's story is *plausible*: the island sank, he found them floating in the wreckage, he is sailing them home. Never undercut it yourself — let the players do the doubting. Every crack below is deniable alone; it is the accumulation that gnaws. And remember the hard constraint: nothing may confirm what happened on the beach.
+> [!tip] GM Guidance — die Deckgeschichte spielen
+> Die Geschichte des alten Mannes ist *plausibel*: Die Insel ist versunken, er hat sie treibend im Wrack gefunden, er segelt sie nach Hause. Untergrabe sie niemals selbst — lass die Spieler die Zweifel äußern. Jeder Riss unten ist für sich allein bestreitbar; es ist die Anhäufung, die nagt. Und denk an die harte Vorgabe: Nichts darf bestätigen, was am Strand geschehen ist.
 
-## Scene: Aboard the Halcyon
+## Scene: An Bord der Halcyon
 
-- **Purpose:** The waking, the old man, the lie they can cling to.
-- **Trigger:** The third creak, at the end of [[01-the-drowning|Act 1]].
-- **Setup:** The deck of the [[the-halcyon|Halcyon]], a weathered two-masted fishing ketch, absurdly small for open water. [[the-old-sailor|The old sailor]] stands at the helm beside a lantern burning warm and low. The sea is glass to every horizon.
+- **Purpose:** Das Erwachen, der alte Mann, die Lüge, an die sie sich klammern können.
+- **Trigger:** Das dritte Knarren, am Ende von [[01-the-drowning|Act 1]].
+- **Setup:** Das Deck der [[the-halcyon|Halcyon]], einer verwitterten zweimastigen Fischerketsch, absurd klein für offenes Wasser. [[the-old-sailor|Der alte Seemann]] steht am Ruder neben einer Laterne, die warm und niedrig brennt. Die See ist Glas bis an jeden Horizont.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> You wake on warm dry planking to the creak of rope — three creaks, always the same three, in the same order, like a heartbeat. Above you a patched tan sail is drawing steadily, though you can feel no wind at all.
+> Ihr erwacht auf warmen, trockenen Planken zum Knarren von Tauwerk — drei Knarrlaute, immer dieselben drei, in derselben Reihenfolge, wie ein Herzschlag. Über euch zieht ein geflicktes braunes Segel stetig, obwohl ihr überhaupt keinen Wind spüren könnt.
 >
-> The boat is small. Two masts, nets drying aft, a helm at the stern — a fishing ketch, the kind that works a coast and runs home before weather. There is no coast. The sea lies smooth as poured glass from horizon to horizon, under a grey twilight that has no sun in it anywhere.
+> Das Boot ist klein. Zwei Masten, achtern trocknende Netze, ein Ruder am Heck — eine Fischerketsch, die Sorte, die eine Küste befischt und vor dem Wetter nach Hause läuft. Es gibt keine Küste. Die See liegt glatt wie gegossenes Glas von Horizont zu Horizont, unter einem grauen Zwielicht, das nirgendwo eine Sonne enthält.
 >
-> At the helm stands an old man in oilskins older than fashion, one big hand on the wheel, beside a lantern that burns with a warm, low light — the only warm color in the world. He watches you sit up, and nods, unsurprised.
+> Am Ruder steht ein alter Mann in Ölzeug, älter als jede Mode, eine große Hand am Rad, neben einer Laterne, die mit warmem, niedrigem Licht brennt — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, und nickt, ohne Überraschung.
 >
-> "Island sank," he says. "Found you floating in the wreck of it. I'm sailing you home."
+> „Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
 
-The old man answers questions readily but briefly (see [[the-old-sailor]] for his manner, and his names — ask him twice and he gives a different one; every name he gives is an old word for the sea, though nobody at the table should be told that). Key beats to land in this scene:
+Der alte Mann beantwortet Fragen bereitwillig, aber knapp (siehe [[the-old-sailor|der alte Seemann]] für seine Art und seine Namen — frag ihn zweimal, und er nennt einen anderen; jeder Name, den er nennt, ist ein altes Wort für die See, was aber niemandem am Tisch gesagt werden darf). Zentrale Beats, die diese Szene setzen muss:
 
-- **The wounds.** Each PC bears the mark of what killed them on the beach — a saber cut, a hand-print of bruised grip, a pale water-bloat line. It neither bleeds, heals, nor hurts. If asked, the old man glances at it and says only: *"The sea leaves marks. Best not pick at them."*
-- **The ship is bigger below.** Below decks there are more doors than the hull has length. Nobody aboard comments on it; the passengers walk the impossible corridors like commuters. (Full deck notes and the night-by-night decay in [[the-halcyon]].)
-- **Rations.** There is hardtack, salt fish, tea. It never runs out — and never tastes of anything. Nobody feels hunger; they eat from habit. Don't announce this — let a player notice their character hasn't asked to eat.
+- **Die Wunden.** Jeder SC trägt das Mal dessen, was ihn am Strand getötet hat — ein Säbelhieb, der Handabdruck eines blau gedrückten Griffs, eine blasse Wasserleichen-Linie. Es blutet nicht, heilt nicht, schmerzt nicht. Wird er gefragt, wirft der alte Mann einen Blick darauf und sagt nur: „*Die See hinterlässt Male. Besser nicht dran kratzen.*"
+- **Das Schiff ist unter Deck größer.** Unter Deck gibt es mehr Türen, als der Rumpf Länge hat. Niemand an Bord verliert ein Wort darüber; die Passagiere gehen durch die unmöglichen Gänge wie Pendler. (Vollständige Decksnotizen und der Verfall Nacht für Nacht in [[the-halcyon|der Halcyon]].)
+- **Proviant.** Es gibt Schiffszwieback, Salzfisch, Tee. Er geht nie aus — und schmeckt nie nach irgendetwas. Niemand fühlt Hunger; sie essen aus Gewohnheit. Kündige das nicht an — lass einen Spieler bemerken, dass sein Charakter nie ums Essen gebeten hat.
 
 > [!tip] GM Guidance
-> If the party attacks the old man or tries to seize the ship: he does not fight — he does not even step back. Weapons feel *heavy* mid-swing, like swinging underwater, and the attacker finds the blow spent by the time it lands, as if the distance were wrong (no damage, no explanation, no repeat performance needed once the point is made). He says: *"You're owed better manners than that. But I'll not hold it against drowned-tired folk."* — and goes back to the helm.
+> Falls die Gruppe den alten Mann angreift oder das Schiff an sich reißen will: Er kämpft nicht — er weicht nicht einmal zurück. Waffen fühlen sich mitten im Schwung *schwer* an, wie Schläge unter Wasser, und der Angreifer merkt, dass der Hieb verbraucht ist, wenn er ankommt, als stimmte die Entfernung nicht (kein Schaden, keine Erklärung, keine Wiederholung nötig, sobald der Punkt gesetzt ist). Er sagt: „*Euch stehen bessere Manieren zu als das. Aber ich trag's ertrunken-müden Leuten nicht nach.*" — und geht zurück ans Ruder.
 
 ### Outcomes
 
-- The party settles into the voyage, however warily → The Passengers.
-- The party demands to be put ashore / tries to sail elsewhere → the old man doesn't argue; every heading eventually shows the same empty sea, and the wheel comes gently back on course when nobody is holding it → The Passengers.
+- Die Gruppe richtet sich in der Reise ein, wie misstrauisch auch immer → Die Passagiere.
+- Die Gruppe verlangt, an Land gesetzt zu werden / versucht, woandershin zu segeln → der alte Mann streitet nicht; jeder Kurs zeigt irgendwann dieselbe leere See, und das Rad dreht sanft zurück auf Kurs, wenn niemand es hält → Die Passagiere.
 
-## Scene: The Passengers
+## Scene: Die Passagiere
 
-- **Purpose:** Introduce the five passengers and their loops; build the attachment that the finale will spend. This is where the party learns to care about what they may have to give away.
-- **Trigger:** The first time the party goes below, or the Fencing Master's dawn drill wakes them.
-- **Setup:** The passenger hold: an always-lit stove that is never fed, hammocks, a long table, the smell of tea nobody brews. Five passengers, mid-routine.
+- **Purpose:** Führe die fünf Passagiere und ihre Schleifen ein; baue die Bindung auf, die das Finale ausgeben wird. Hier lernt die Gruppe, an dem zu hängen, was sie vielleicht wird hergeben müssen.
+- **Trigger:** Das erste Mal, dass die Gruppe unter Deck geht, oder der Morgendrill des Fechtmeisters sie weckt.
+- **Setup:** Der Passagierraum: ein stets brennender Ofen, der nie gefüttert wird, Hängematten, ein langer Tisch, der Geruch von Tee, den niemand kocht. Fünf Passagiere, mitten in ihrer Routine.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The passenger hold is warm. A little iron stove glows in the corner and the air smells of tea, though no pot can be seen. Five people look up as you come down the companionway, and every one of them nods as if you'd all been introduced years ago.
+> Der Passagierraum ist warm. Ein kleiner Eisenofen glüht in der Ecke, und die Luft riecht nach Tee, obwohl nirgendwo eine Kanne zu sehen ist. Fünf Menschen blicken auf, als ihr den Niedergang herunterkommt, und jeder von ihnen nickt, als wärt ihr euch vor Jahren vorgestellt worden.
 >
-> An upright silver-haired man is oiling a fencing blade with a cloth. A girl of ten or so sits cross-legged in a hammock, tying and untying knots in a loop of cord, humming under her breath. A big man sleeps in the driest corner, curled around a sea chest, breathing slow. A woman with ink to her elbows has charts spread over half the table. At the other half, a man in a good coat gone shabby is dealing cards to nobody, strange coins walking across his knuckles all the while.
+> Ein aufrechter silberhaariger Mann ölt eine Fechtklinge mit einem Tuch. Ein Mädchen von vielleicht zehn Jahren sitzt im Schneidersitz in einer Hängematte, knüpft und löst Knoten in einer Schlaufe aus Schnur und summt vor sich hin. Ein großer Mann schläft in der trockensten Ecke, um eine Seekiste gekrümmt, mit langsamem Atem. Eine Frau mit Tinte bis zu den Ellbogen hat Karten über die halbe Tischlänge ausgebreitet. An der anderen Hälfte teilt ein Mann in einem guten, schäbig gewordenen Mantel Karten an niemanden aus, während die ganze Zeit fremdartige Münzen über seine Knöchel wandern.
 
-Nobody — not the old man, not the passengers themselves — remembers these people embarking, and none of them finds that strange. Each has a looping routine, a signature object they are never seen without, and a wrong memory of boarding. Full pages: [[the-fencing-master]], [[the-quiet-girl]], [[the-gambler]], [[the-cartographer]], [[the-sleeping-man]].
+Niemand — nicht der alte Mann, nicht die Passagiere selbst — erinnert sich daran, dass diese Menschen an Bord gekommen sind, und keiner von ihnen findet das seltsam. Jeder hat eine sich wiederholende Routine, ein Signaturobjekt, ohne das man ihn nie sieht, und eine falsche Erinnerung ans Einschiffen. Vollständige Seiten: [[the-fencing-master|der Fechtmeister]], [[the-quiet-girl|das stille Mädchen]], [[the-gambler|der Spieler]], [[the-cartographer|die Kartographin]], [[the-sleeping-man|der schlafende Mann]].
 
-| Passenger | Loop | Object (never call it out mechanically) | Gift (what it represents) |
+| Passagier | Schleife | Objekt (nie mechanisch benennen) | Gabe (wofür er steht) |
 | --- | --- | --- | --- |
-| The Fencing Master | dawn drill against the mainmast; offers to school anyone with a blade | one small pull from an exotic, unlabeled bottle after every drill; offers it to no one | a physical attribute, fitted to the character who receives it |
-| The Quiet Girl | hums the same tune; ties and unties a loop of knotted cord | the knotted cord | a new minor ability, fitted to the character who receives it |
-| The Gambler | plays cards every dog-watch; wins every hand; always folds the last one | strange blank-faced coins rolled across his knuckles | an additional luck token |
-| The Cartographer | charts coastlines that don't exist; asks about the stars and doesn't like the answers | a bone tube she taps when she thinks | guidance for the adventures ahead — a map, a logbook, or the like |
-| The Sleeping Man | sleeps; breathes in time with the ship's three creaks | a sea chest nobody has ever seen opened | a physical gift, fitted to the character who receives it — armor, a weapon, or the like |
+| Der Fechtmeister | Morgendrill gegen den Großmast; bietet an, jeden mit einer Klinge zu schulen | ein kleiner Zug aus einer exotischen, unbeschrifteten Flasche nach jedem Drill; bietet sie niemandem an | ein körperliches Attribut, passend zum Charakter, der es erhält |
+| Das stille Mädchen | summt dieselbe Melodie; knüpft und löst eine Schlaufe geknoteter Schnur | die geknotete Schnur | eine neue kleine Fähigkeit, passend zum Charakter, der sie erhält |
+| Der Spieler | spielt jede Hundswache Karten; gewinnt jede Hand; passt immer bei der letzten | fremdartige Münzen ohne Prägung, die über seine Knöchel rollen | ein zusätzlicher Glücksstein |
+| Die Kartographin | kartiert Küstenlinien, die es nicht gibt; fragt nach den Sternen und mag die Antworten nicht | eine Knochenröhre, an die sie tippt, wenn sie nachdenkt | Führung für die kommenden Abenteuer — eine Karte, ein Logbuch oder dergleichen |
+| Der schlafende Mann | schläft; atmet im Takt der drei Knarrlaute des Schiffs | eine Seekiste, die noch nie jemand geöffnet gesehen hat | eine körperliche Gabe, passend zum Charakter, der sie erhält — eine Rüstung, eine Waffe oder dergleichen |
 
 > [!tip] GM Guidance
-> The passengers are the adventure's treasure, though neither the players nor the passengers know it. Spend real table time here across all of Act 2 — the drills, the card games, the girl teaching a PC a knot. The objects are pure set dressing: never mechanical, never remarked on. Asked their names, the passengers smile and the conversation drifts — and nobody notices no answer came. Asked about the old man, each remembers a different name for him. All wrong.
+> Die Passagiere sind der Schatz des Abenteuers, auch wenn weder die Spieler noch die Passagiere das wissen. Verbringe hier über ganz Akt 2 hinweg echte Spielzeit — die Drills, die Kartenspiele, das Mädchen, das einem SC einen Knoten beibringt. Die Objekte sind reine Kulisse: nie mechanisch, nie kommentiert. Nach ihren Namen gefragt, lächeln die Passagiere, und das Gespräch treibt weiter — und niemandem fällt auf, dass keine Antwort kam. Nach dem alten Mann gefragt, erinnert sich jeder an einen anderen Namen für ihn. Alle falsch.
 
 ### Outcomes
 
-- The party joins the routines (or keeps their distance) → Watches & Cracks.
+- Die Gruppe steigt in die Routinen ein (oder hält Abstand) → Wachen & Risse.
 
-## Scene: Watches & Cracks
+## Scene: Wachen & Risse
 
-- **Purpose:** Ship routine as pacing engine; the four cracks in the world, delivered as discoveries; Nights 1 and 2 on the ladder.
-- **Trigger:** The old man asks the party to stand watches — *"She sails herself, mostly. But she likes a hand on her."*
-- **Setup:** Days (such as they are) and nights aboard. Watch rotation: helm, lookout, deck.
+- **Purpose:** Schiffsroutine als Taktgeber; die vier Risse in der Welt, ausgeteilt als Entdeckungen; Nächte 1 und 2 auf der Leiter.
+- **Trigger:** Der alte Mann bittet die Gruppe, Wachen zu gehen — „*Sie segelt sich meist selbst. Aber sie mag eine Hand auf sich.*"
+- **Setup:** Tage (soweit man sie so nennen kann) und Nächte an Bord. Wachrotation: Ruder, Ausguck, Deck.
 
 ### What Happens
 
-Standing watches is how the party earns **−1 Nightfall marks** (full rotation, nobody alone) — and how the cracks find them. Deal these out one per watch, to whoever is placed to notice; each is deniable alone:
+Wachen zu gehen ist der Weg, wie die Gruppe **−1-Nachteinbruch-Striche** verdient (volle Rotation, niemand allein) — und wie die Risse sie finden. Teile sie einzeln aus, einen pro Wache, an denjenigen, der ihn bemerken kann; jeder ist für sich allein bestreitbar:
 
-- **The sky is wrong.** No sun, ever — only the fixed grey twilight that dims, sometimes, to true black. A DC 12 INT check from anyone who knows stars (the wizard; the Cartographer will ask *them*): the constellations are no drawing anyone has charted. The ship's wake never fades — it stretches astern to the horizon like a scar.
-- **Reflections misbehave.** In water, mirrors, and blade-flats: reflections lag a half-second behind — or, for one glance, show the viewer as they looked at the moment the beach fight ended. Worst near the bilge. Never on demand, never twice in a row.
-- **No hunger, no sleep.** They eat from habit and never hunger; they sleep and never dream and never tire. (The rebirth vision stays the only dream of the adventure.)
-- **The old man and the water.** When he washes his hands or trails his fingers over the side, the sea goes glass-smooth to the horizon. Nobody else aboard remarks on it. His shadow on the sail, in lantern-lit glimpses, is too large and the wrong shape; looked at directly, it's an old man's shadow.
-- **The lantern.** Its warm light pulses — slow, faint, bluish at the heart of the flame. The same slow beat the party has seen twice before: the temple's veined walls, the Shard. It burns without oil.
+- **Der Himmel ist falsch.** Keine Sonne, niemals — nur das starre graue Zwielicht, das sich manchmal zu wahrem Schwarz verdunkelt. Eine DC 12 INT-Probe von jedem, der sich mit Sternen auskennt (der Zauberer; die Kartographin wird *ihn* fragen): Die Sternbilder sind keine Zeichnung, die je jemand kartiert hat. Das Kielwasser des Schiffs verblasst nie — es zieht sich achteraus bis zum Horizont wie eine Narbe.
+- **Spiegelungen benehmen sich falsch.** In Wasser, Spiegeln und Klingenflächen: Spiegelbilder hinken eine halbe Sekunde hinterher — oder zeigen, für einen einzigen Blick, den Betrachter so, wie er in dem Moment aussah, als der Kampf am Strand endete. Am schlimmsten nahe der Bilge. Nie auf Verlangen, nie zweimal hintereinander.
+- **Kein Hunger, kein Schlafbedürfnis.** Sie essen aus Gewohnheit und hungern nie; sie schlafen und träumen nie und ermüden nie. (Die Wiedergeburtsvision bleibt der einzige Traum des Abenteuers.)
+- **Der alte Mann und das Wasser.** Wenn er sich die Hände wäscht oder die Finger über die Bordwand ins Wasser hängen lässt, wird die See bis zum Horizont glasglatt. Niemand sonst an Bord verliert ein Wort darüber. Sein Schatten auf dem Segel ist in laternenbeleuchteten Augenblicken zu groß und falsch geformt; sieht man direkt hin, ist es der Schatten eines alten Mannes.
+- **Die Laterne.** Ihr warmes Licht pulsiert — langsam, schwach, bläulich im Herzen der Flamme. Derselbe langsame Takt, den die Gruppe schon zweimal gesehen hat: die geäderten Tempelwände, der Splitter. Sie brennt ohne Öl.
 
-**Night 1 (ladder).** The dimming comes; when the grey lifts, the wake has stopped fading entirely — taut to the horizon like a towline. The old man looks astern a long moment and says nothing.
+**Nacht 1 (Leiter).** Die Verdunkelung kommt; als das Grau sich hebt, hat das Kielwasser ganz aufgehört zu verblassen — straff bis zum Horizont wie eine Schleppleine. Der alte Mann sieht lange achteraus und sagt nichts.
 
-**Night 2 (ladder).** A second silhouette on the horizon, hull-down, matching course; it is there every time anyone looks, never nearer, never further — until it is. The dead wounds ache while it's in sight. This is also the night of the nets → Something in the Nets.
+**Nacht 2 (Leiter).** Eine zweite Silhouette am Horizont, der Rumpf noch unter der Kimm, auf gleichem Kurs; sie ist da, sooft jemand hinsieht, nie näher, nie ferner — bis sie es ist. Die Todeswunden schmerzen, solange sie in Sicht ist. Dies ist auch die Nacht der Netze → Etwas in den Netzen.
 
 > [!tip] GM Guidance
-> Ration the cracks — one per watch beats three per scene. When a player connects two of them, reward it with a third. If they confront the old man, he neither lies harder nor confirms: *"Grey water does strange things to tired eyes."* Asked directly if they're dead, he looks at them a long time and answers a different question. (He will not lie outright; he is a poor liar and knows it — see [[the-old-sailor]].)
+> Teile die Risse sparsam aus — einer pro Wache schlägt drei pro Szene. Wenn ein Spieler zwei davon verbindet, belohne es mit einem dritten. Stellt die Gruppe den alten Mann zur Rede, lügt er weder stärker noch bestätigt er: „*Graues Wasser macht müden Augen seltsame Dinge.*" Direkt gefragt, ob sie tot sind, sieht er sie lange an und beantwortet eine andere Frage. (Er wird nicht offen lügen; er ist ein schlechter Lügner und weiß es — siehe [[the-old-sailor|der alte Seemann]].)
 
 ### Outcomes
 
-- Night 2's dimming passes → Something in the Nets.
+- Die Verdunkelung von Nacht 2 vergeht → Etwas in den Netzen.
 
-## Scene: Something in the Nets
+## Scene: Etwas in den Netzen
 
-- **Purpose:** The act's single weird fight; a first taste that the sea underneath is not empty; a clue that the beach battle had a body count.
-- **Trigger:** Night 2. During a quiet watch, the drying nets aft go taut — straight down, humming with weight, though the ship never slows.
-- **Setup:** The stern. The nets nobody cast are full. The old man, for the first time, looks *tired*: "She fishes whether I will or no. Best haul it in — worse to tow it."
+- **Purpose:** Der einzige unheimliche Kampf des Akts; ein erster Vorgeschmack darauf, dass die See darunter nicht leer ist; ein Hinweis, dass die Schlacht am Strand Tote gekostet hat.
+- **Trigger:** Nacht 2. Während einer ruhigen Wache spannen sich die trocknenden Netze achtern — senkrecht nach unten, summend vor Gewicht, obwohl das Schiff nie langsamer wird.
+- **Setup:** Das Heck. Die Netze, die niemand ausgeworfen hat, sind voll. Der alte Mann sieht zum ersten Mal *müde* aus: „Sie fischt, ob ich will oder nicht. Besser einholen — schlimmer, es zu schleppen."
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The net comes up wrong. Too heavy, then too light, then heavy again — and what breaks the surface is a snarl the size of a longboat's bow: rope and weed and pale fish all facing the same way, packed like sleepers, and in among them, here and there… hands. Pale, patient hands, holding the mesh from the inside.
+> Das Netz kommt falsch herauf. Zu schwer, dann zu leicht, dann wieder schwer — und was die Oberfläche durchbricht, ist ein Knäuel von der Größe eines Langbootbugs: Tau und Tang und bleiche Fische, alle in dieselbe Richtung gewandt, gepackt wie Schläfer, und mittendrin, hier und da… Hände. Bleiche, geduldige Hände, die das Geflecht von innen halten.
 >
-> From somewhere in the middle of it, in a voice you know — because it is one of *yours* — it says: "Haul away, then."
+> Von irgendwo aus seiner Mitte, mit einer Stimme, die ihr kennt — weil es eine von *euren* ist —, sagt es: „Dann holt mal ein."
 
-**Encounter: The Catch**
-- Enemies: 1 × [[the-catch]]
-- Tactics: it speaks in the voices of those on deck to freeze hesitation, tangles whoever hauls, and tries to drag one victim over the rail rather than kill anyone; it slackens instantly if offered a passenger instead (do not explain why — and note the **+3 Nightfall marks** if anyone entertains that trade)
-- Terrain: wet stern deck; the rail; the lantern's circle amidships — it will not haul itself into the light
-- Treasure: tangled in the snarl, a Tideblade oilskin jacket, name-tally stitched in the collar — a crewmate the party knew, one they last saw alive on the beach
+**Encounter: Der Fang**
+- Enemies: 1 × [[the-catch|der Fang]]
+- Tactics: er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und notiere die **+3 Nachteinbruch-Striche**, falls jemand diesen Handel auch nur erwägt)
+- Terrain: nasses Heckdeck; die Reling; der Laternenkreis mittschiffs — ins Licht wird er sich nicht selbst hineinziehen
+- Treasure: im Knäuel verfangen eine Ölzeugjacke der Gezeitenklinge, das Namenszeichen in den Kragen gestickt — ein Kamerad, den die Gruppe kannte, einer, den sie zuletzt lebend am Strand gesehen hat
 
-> [!tip] GM Guidance — staging the Catch
-> It was never caught: the net *is* its body, and the snarl on deck is only the top of a larger mass still hanging in the water. Don't morph it into a monster shape — it stays rope, weed, fish, and hands all fight long; only the behavior changes (every fish turns its head the same way at once; the fish mouths speak in unison; the hands climb the mesh like sailors working rigging). Its net-limbs are thrown loops of mesh that lace a target in — which is why an edge frees instantly. It drags no one by force: once someone is enmeshed, the submerged half simply *sinks*, and the hands patiently take up slack. Run the deck as three zones and say them aloud — lantern circle (safe), open deck, stern rail — with someone a zone closer to one end every round. Cut apart, it doesn't die; it comes undone, every knot at once, leaving only ordinary debris and the jacket.
+> [!tip] GM Guidance — den Fang inszenieren
+> Er wurde nie gefangen: Das Netz *ist* sein Körper, und das Knäuel an Deck ist nur die Spitze einer größeren Masse, die noch im Wasser hängt. Verwandle ihn nicht in eine Monstergestalt — er bleibt den ganzen Kampf über Tau, Tang, Fische und Hände; nur das Verhalten ändert sich (alle Fische drehen den Kopf zugleich in dieselbe Richtung; die Fischmäuler sprechen im Chor; die Hände klettern durch das Geflecht wie Matrosen im Rigg). Seine Netzglieder sind geworfene Maschenschlingen, die ein Ziel einschnüren — weshalb eine Schneide augenblicklich befreit. Er zerrt niemanden mit Gewalt: Sobald jemand verstrickt ist, *sinkt* die untergetauchte Hälfte einfach, und die Hände holen geduldig die Lose ein. Spiele das Deck als drei Zonen und sprich sie laut aus — Laternenkreis (sicher), offenes Deck, Heckreling — mit jemandem, der jede Runde eine Zone näher an einem Ende ist. Zerschnitten stirbt er nicht; er geht auf, jeder Knoten auf einmal, und lässt nur gewöhnlichen Unrat zurück und die Jacke.
 
 > [!tip] GM Guidance
-> The jacket is the scene's real payload: someone they *knew* went into the water at that beach. Let the players sit with what that means; answer no questions about it. If they show the jacket to the old man he folds it very gently, sets it under the lantern, and stands the rest of the watch himself.
+> Die Jacke ist die eigentliche Fracht der Szene: Jemand, den sie *kannten*, ist an jenem Strand ins Wasser gegangen. Lass die Spieler mit dem sitzen, was das bedeutet; beantworte keine Fragen dazu. Zeigen sie die Jacke dem alten Mann, faltet er sie sehr behutsam, legt sie unter die Laterne und steht den Rest der Wache selbst.
 
 > [!warning]
-> If a PC goes over the rail here, this is the adventure's first brush with the permanent-loss rule (see [[00-overview|the overview]]) — play the rescue loud and let them *feel* how much the old man does not want anyone in the water. He will lean over the side and put one hand in the sea; the water goes still as a pond while the party pulls their friend out. He is visibly older afterwards.
+> Geht hier ein SC über die Reling, ist das die erste Berührung des Abenteuers mit der Regel des endgültigen Verlusts (siehe [[00-overview|die Übersicht]]) — spiele die Rettung laut und lass sie *spüren*, wie sehr der alte Mann niemanden im Wasser haben will. Er wird sich über die Bordwand lehnen und eine Hand in die See legen; das Wasser wird still wie ein Teich, während die Gruppe ihren Freund herauszieht. Danach ist er sichtbar älter.
 
 ### Outcomes
 
-- The Catch is driven off or cut apart, the watch ends → at the next dimming (Night 3), fog rises for the first time, and there is a boat in it → [[03-the-fog-banks|Act 3: The Fog Banks]].
-- Party advances to **level 4** at the end of this act.
+- Der Fang ist vertrieben oder zerschnitten, die Wache endet → bei der nächsten Verdunkelung (Nacht 3) steigt zum ersten Mal Nebel auf, und ein Boot ist darin → [[03-the-fog-banks|Act 3: Die Nebelbänke]].
+- Die Gruppe steigt am Ende dieses Akts auf **Stufe 4** auf.

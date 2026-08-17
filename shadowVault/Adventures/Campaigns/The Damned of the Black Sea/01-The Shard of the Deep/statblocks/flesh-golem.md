@@ -1,30 +1,30 @@
 ---
-title: Flesh Golem of Pirate Corpses
+title: Fleischgolem aus Piratenleichen
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Flesh Golem of Pirate Corpses
+# Fleischgolem aus Piratenleichen
 
-A grotesque construct of stitched-together pirate bodies, driven by the power of the Shard. It smells of salt, death, and cold iron.
+Ein groteskes Konstrukt aus zusammengenähten Piratenkörpern, angetrieben von der Macht des Splitters. Es riecht nach Salz, Tod und kaltem Eisen.
 
-> [!info]+ Flesh Golem of Pirate Corpses — LV 6
+> [!info]+ Fleischgolem aus Piratenleichen — LV 6
 > **AC** 15 · **HP** 28 · **MV** near · **AL** C
 >
-> **ATK** 2 slam +5 (1d8+2)
+> **ATK** 2 Hieb +5 (1d8+2)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +4  | -1  | +3  | -3  | -1  | -3  |
 >
-> **Stitched from Many.** Half damage from non-magical weapons; immune to poison and cold; never tires.
+> **Aus vielen zusammengenäht.** Halber Schaden durch nichtmagische Waffen; immun gegen Gift und Kälte; ermüdet nie.
 >
-> **Corpse Rain (1/day).** Hurls body parts in a near-length cone. All targets make a DC 12 DEX check: failure 2d6 damage and dazed 1 round, success half damage.
+> **Leichenregen (1/Tag).** Schleudert Körperteile in einem Kegel von near-Länge. Alle Ziele legen eine DC 12 DEX-Probe ab: Bei Misserfolg 2d6 Schaden und 1 Runde benommen, bei Erfolg halber Schaden.
 >
-> **Reattach.** When it takes damage, it may shed a zombie pirate from its mass as a reaction: a [[zombie-pirate]] drops to the floor with 1 HP and the golem reduces the damage taken by 1d6 (max 3 zombies per fight).
+> **Wiederannähen.** Erleidet er Schaden, kann er als Reaktion einen Zombie-Piraten aus seiner Masse abstoßen: Ein [[zombie-pirate|Zombie-Pirat]] fällt mit 1 HP zu Boden, und der Golem verringert den erlittenen Schaden um 1d6 (max. 3 Zombies pro Kampf).
 >
-> **Shard Pulse.** At the start of its turn, all within close make a DC 12 WIS check or take 1d4 necrotic damage.
+> **Splitterpuls.** Zu Beginn seines Zuges bestehen alle innerhalb von close eine DC 12 WIS-Probe oder erleiden 1d4 nekrotischen Schaden.
 >
-> **Berserker Phase.** Below 10 HP: +2 on attacks and damage, advantage on all attacks, and it cannot flee.
+> **Berserkerphase.** Unter 10 HP: +2 auf Angriffe und Schaden, Vorteil auf alle Angriffe, und er kann nicht fliehen.
 
-- **Found in:** this adventure's `statblocks/` — forms from the corpses in the Gallery of the Drowned if the players dismember the bodies and then fail the puzzle, see [[03-the-temple-of-the-deep|Act 3]].
+- **Found in:** `statblocks/` dieses Abenteuers — formt sich aus den Leichen in der Galerie der Ertrunkenen, wenn die Spieler die Körper zerteilen und danach am Rätsel scheitern, siehe [[03-the-temple-of-the-deep|Akt 3]].

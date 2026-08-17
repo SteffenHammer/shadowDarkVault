@@ -1,14 +1,14 @@
 ---
-title: The Dead of the Tideblade
+title: Die Toten der Gezeitenklinge
 tags: [npc]
 ---
 
-# The Dead of the Tideblade
+# Die Toten der Gezeitenklinge
 
-- **Role:** boarders — grief as a weapon; they want the party to stop running, and they carry the news that Rauthorn lives
-- **Appearance:** Three crewmates the party knew, last seen alive on the beach: **Bosun Marek**, whistle still on its cord; **Sella** the topman, barefoot on wet wood the way she always was in the rigging; **old Tams** the cook, sleeves rolled as if he'd just stepped away from his pots. Waterlogged, calm, familiar. The sea didn't keep them pretty — but it kept them *them*.
-- **Personality:** Warm, mild, unhurried — nothing about them is hostile, only wrong, and sad, and patient. *Mannerism:* Marek opens with *"Evening,"* mild as milk; Tams keeps almost-cooking, wiping hands on an apron that stays wet; Sella watches the rigging with a professional's longing.
-- **Motivation:** They believe they're being kind: *"It doesn't hurt, after. The tired part stops. You just… let the arms down."* Their invitation is the softest bargain aboard — and still [[the-undertow|the Undertow's]] bargain, and still final.
-- **Secrets:** They confirm the living world moves on without the party: Rauthorn pulled off the beach with the tide, **burned the party's names out of the muster-book himself**, and tells the ports they turned on him. Days pass ashore; they are vague about how many, and time seems to embarrass them. They will not name [[the-old-sailor|the old man]]: *"The drowned give this hull a wide berth. We shouldn't be aboard her at all."* Given the oilskin jacket from the nets ([[02-the-smooth-sea|Act 2]]), they take it, thank the party by the dead man's name, and leave without a fight.
-- **Relationships:** Fingers of [[the-undertow]], though they'd never say it and may not know it. Old shipmates of the party and of [[captain-rauthorn|the captain who spent them]].
-- **Stat block:** [[dead-tideblade-crewmate]] — only if forced; they fight reluctantly and try to hold, not harm ([[03-the-fog-banks|Act 3: The Dead of the Tideblade]]).
+- **Role:** Enterer — Trauer als Waffe; sie wollen, dass die Gruppe aufhört zu fliehen, und sie bringen die Nachricht, dass Rauthorn lebt
+- **Appearance:** Drei Kameraden, die die Gruppe kannte, zuletzt lebend am Strand gesehen: **Bootsmann Marek**, die Pfeife noch an ihrer Schnur; **Sella**, die Toppsgastin, barfuß auf nassem Holz, wie sie es in der Takelage immer war; **der alte Tams**, der Koch, die Ärmel hochgekrempelt, als wäre er nur kurz von seinen Töpfen weggetreten. Vollgesogen, ruhig, vertraut. Die See hat sie nicht hübsch gehalten — aber sie hat sie *sie selbst* bleiben lassen.
+- **Personality:** Warm, mild, ohne Eile — nichts an ihnen ist feindselig, nur falsch und traurig und geduldig. *Eigenart:* Marek eröffnet mit *„’n Abend“*, mild wie Milch; Tams kocht beinahe weiter und wischt sich die Hände an einer Schürze ab, die nass bleibt; Sella betrachtet die Takelage mit fachkundiger Sehnsucht.
+- **Motivation:** Sie glauben, gütig zu sein: *„Danach tut es nicht weh. Das Müde hört auf. Man lässt nur… die Arme sinken.“* Ihre Einladung ist der sanfteste Handel an Bord — und trotzdem der Handel [[the-undertow|des Sogs]], und trotzdem endgültig.
+- **Secrets:** Sie bestätigen, dass die Welt der Lebenden ohne die Gruppe weitergeht: Rauthorn hat mit der Flut vom Strand abgelegt, **die Namen der Gruppe eigenhändig aus der Musterrolle gebrannt** und erzählt in den Häfen, sie hätten sich gegen ihn gewandt. An Land vergehen Tage; wie viele, bleibt vage, und die Zeit scheint ihnen peinlich zu sein. [[the-old-sailor|Den alten Mann]] nennen sie nicht beim Namen: *„Die Ertrunkenen machen einen weiten Bogen um diesen Rumpf. Wir dürften gar nicht an Bord sein.“* Bekommen sie die Ölzeugjacke aus den Netzen ([[02-the-smooth-sea|Act 2]]), nehmen sie sie, danken der Gruppe mit dem Namen des Toten und gehen ohne Kampf.
+- **Relationships:** Finger [[the-undertow|des Sogs]], auch wenn sie das nie sagen würden und es vielleicht nicht wissen. Alte Schiffskameraden der Gruppe und [[captain-rauthorn|des Kapitäns, der sie verheizt hat]].
+- **Stat block:** [[dead-tideblade-crewmate|toter Matrose der Gezeitenklinge]] — nur wenn erzwungen; sie kämpfen widerwillig und versuchen festzuhalten, nicht zu verletzen ([[03-the-fog-banks|Act 3: Die Toten der Gezeitenklinge]]).

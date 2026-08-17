@@ -1,203 +1,203 @@
 ---
-title: The Fog Banks
+title: Die Nebelbänke
 act: 3
 tags: [act]
 ---
 
-# Act 3: The Fog Banks
+# Act 3: Die Nebelbänke
 
 ## Act Overview
 
-- **Purpose:** Nights 3–5. The siege begins: fog banks carry boarders — the Pilot's sweet offer, the dead of the Tideblade, waves of Mooring-Men. The ship shrinks, the old man weakens, the bilge door tempts, and the crow's nest kills the rescue story. First chances to bargain souls away.
-- **State of the world:** The pursuer is no longer a smudge. At Night 3 the old man starts *sleeping* — he never slept before — and the lantern's warm circle is a little smaller each night. The [[the-halcyon|Halcyon]]'s interior is shrinking (states in her file). Keep running **Nightfall checks** ([[00-overview|overview]]).
-- **Ways it can end:** Night 5 ends with the breaking-hull groan and a rising storm → [[04-the-storm-crossing|Act 4]]. A party that has bargained hard may arrive there with fewer passengers — and a ladder that ran fast.
+- **Purpose:** Nächte 3–5. Die Belagerung beginnt: Nebelbänke tragen Enterer heran — das süße Angebot des Lotsen, die Toten der Gezeitenklinge, Wellen von Festmachern. Das Schiff schrumpft, der alte Mann wird schwächer, die Bilgentür lockt, und das Krähennest tötet die Rettungsgeschichte. Erste Gelegenheiten, Seelen wegzuhandeln.
+- **State of the world:** Der Verfolger ist kein Fleck mehr. Bei Nacht 3 beginnt der alte Mann zu *schlafen* — zuvor schlief er nie — und der warme Kreis der Laterne ist jede Nacht ein wenig kleiner. Das Innere der [[the-halcyon|Halcyon]] schrumpft (Zustände in ihrer Datei). Führe die **Nachteinbruch-Abrechnung** weiter durch ([[00-overview|Übersicht]]).
+- **Ways it can end:** Nacht 5 endet mit dem Ächzen des brechenden Rumpfs und aufziehendem Sturm → [[04-the-storm-crossing|Act 4]]. Eine Gruppe, die hart gehandelt hat, kommt dort womöglich mit weniger Passagieren an — und mit einer Leiter, die schnell gelaufen ist.
 
-> [!tip] GM Guidance — the shape of the act
-> The fog-bank scenes are a toolbox, not a railroad: The Pilot comes at Night 3, the dead crew at Night 4, and Mooring-Men waves fill the dark between. The Bilge Door and the Crow's Nest fire whenever the players go looking — put the crow's nest sighting no later than Night 4–5, because the rescue story must be dead before the storm. All bargains, from any boarder's mouth, are the Undertow's bargains ([[the-undertow]]): anyone who accepts is collected — final, per the permanent-loss rule.
+> [!tip] GM Guidance — die Form des Akts
+> Die Nebelbank-Szenen sind ein Werkzeugkasten, kein Schienenstrang: Der Lotse kommt in Nacht 3, die tote Mannschaft in Nacht 4, und Festmacher-Wellen füllen das Dunkel dazwischen. Die Bilgentür und das Krähennest zünden, wann immer die Spieler suchen gehen — lege die Sichtung im Krähennest spätestens auf Nacht 4–5, denn die Rettungsgeschichte muss vor dem Sturm tot sein. Alle Handel, aus dem Mund jedes Enterers, sind die Handel des Sogs ([[the-undertow|der Sog]]): Wer annimmt, wird eingesammelt — endgültig, nach der Regel des endgültigen Verlusts.
 
-## Scene: The Pilot's Offer
+## Scene: Das Angebot des Lotsen
 
-- **Purpose:** The social trap that punishes disbelieving the old man; the Undertow's first spoken face.
-- **Trigger:** Night 3. The first fog bank swallows the ship — and there is a green riding-light in it, drawing alongside.
-- **Setup:** A trim pilot boat, crewed by hooded oarsmen who row in perfect silence, leaves no wake. At her bow, a neat, dry man with brass buttons and a ledger: [[the-pilot|the Pilot]].
+- **Purpose:** Die soziale Falle, die das Misstrauen gegen den alten Mann bestraft; das erste sprechende Gesicht des Sogs.
+- **Trigger:** Nacht 3. Die erste Nebelbank verschluckt das Schiff — und ein grünes Positionslicht ist darin, das längsseits zieht.
+- **Setup:** Ein schmuckes Lotsenboot, bemannt mit vermummten Ruderern, die in vollkommener Stille rudern, ohne Kielwasser. An seinem Bug ein adretter, trockener Mann mit Messingknöpfen und einem Schuldbuch: [[the-pilot|der Lotse]].
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The fog comes up the way night falls — all at once, from everywhere. The lantern's circle shrinks to the middle of the deck. And out of the grey, neat as a gull landing, slides a trim boat with a green riding-light, six hooded oarsmen keeping perfect silence, and at the bow a small dry man in a coat with brass buttons, who lifts his hat.
+> Der Nebel kommt herauf, wie die Nacht fällt — auf einmal, von überall. Der Kreis der Laterne schrumpft auf die Mitte des Decks. Und aus dem Grau gleitet, adrett wie eine landende Möwe, ein schmuckes Boot mit grünem Positionslicht heran, sechs vermummte Ruderer in vollkommener Stille, und am Bug ein kleiner, trockener Mann in einem Mantel mit Messingknöpfen, der den Hut lüftet.
 >
-> "Evening," he says. "Pilot. Licensed for these waters — which your man at the helm, meaning no disrespect, is not. He's sailing you the long way. There's a channel. I could have you home by morning."
+> „'n Abend", sagt er. „Lotse. Zugelassen für diese Gewässer — was euer Mann am Ruder, nichts für ungut, nicht ist. Er segelt euch den langen Weg. Es gibt eine Rinne. Ich könnte euch bis zum Morgen zu Hause haben."
 >
-> He smiles, and the smile is exactly right, and stays exactly right a half-second too long.
+> Er lächelt, und das Lächeln ist genau richtig, und es bleibt eine halbe Sekunde zu lang genau richtig.
 
-The Pilot's pitch, over as many rounds of talk as the players will give him ([[the-pilot]] for his manner and lines):
+Der Vortrag des Lotsen, über so viele Gesprächsrunden, wie die Spieler ihm geben ([[the-pilot|der Lotse]] für seine Art und seine Sätze):
 
-- He is *reasonable*. He never rushes, never begs, answers doubts with paperwork (the ledger has every PC's name in it — "manifest," he says).
-- He works the doubters: anyone who has voiced distrust of the old man gets it quoted back, gently, in their own words (he was in the fog; the fog was listening).
-- He will not step into the lantern's light, and his boat holds off from it. If invited closer: "Regulations. The light's your man's jurisdiction. The water's mine."
-- Asked about the old man he goes carefully blank: he will not name him. *"Your… helmsman. We're aware of him."* (Clue: the drowned won't name the ferryman.)
-- **The trap:** anyone who steps down into his boat is *collected* — the fog closes, the boat is gone, and that soul is drowned, final (permanent-loss rule). The old man will not stop a willing step — he says only, once: *"He is no pilot. But I hold no soul that wants to go."*
+- Er ist *vernünftig*. Er drängt nie, bettelt nie, beantwortet Zweifel mit Papierkram (im Schuldbuch steht der Name jedes SC — „Manifest", sagt er).
+- Er bearbeitet die Zweifler: Wer Misstrauen gegen den alten Mann geäußert hat, bekommt es sanft zurückzitiert, in den eigenen Worten (er war im Nebel; der Nebel hat zugehört).
+- Er wird das Licht der Laterne nicht betreten, und sein Boot hält sich davon frei. Näher eingeladen: „Vorschriften. Das Licht ist die Zuständigkeit eures Mannes. Das Wasser ist meine."
+- Nach dem alten Mann gefragt, wird er vorsichtig ausdruckslos: Er wird ihn nicht beim Namen nennen. „*Euer… Rudergänger. Er ist uns bekannt.*" (Hinweis: Die Ertrunkenen nennen den Fährmann nicht beim Namen.)
+- **Die Falle:** Wer in sein Boot hinabsteigt, wird *eingesammelt* — der Nebel schließt sich, das Boot ist fort, und diese Seele ist ertrunken, endgültig (Regel des endgültigen Verlusts). Der alte Mann wird einen willigen Schritt nicht aufhalten — er sagt nur, ein einziges Mal: „*Der ist kein Lotse. Aber ich halte keine Seele, die gehen will.*"
 
 > [!warning]
-> This can kill a PC without a die rolled. Telegraph it three ways before anyone steps: the wakeless boat, the light he will not enter, the old man's one warning. If a player steps anyway, honor it — that is the trap doing what the concept built it to do. The vanished PC is met again as a [[drowned-sailor|drowned sailor]] in Act 4.
+> Das kann einen SC töten, ohne dass ein Würfel fällt. Telegraphiere es dreifach, bevor jemand den Schritt tut: das Boot ohne Kielwasser, das Licht, das er nicht betritt, die eine Warnung des alten Mannes. Tut ein Spieler den Schritt trotzdem, respektiere es — das ist die Falle, die tut, wofür das Konzept sie gebaut hat. Der verschwundene SC begegnet der Gruppe in Akt 4 als [[drowned-sailor|ertrunkener Matrose]] wieder.
 
-**Encounter: The Mask Comes Off**
-- Enemies: 1 × [[the-pilot-unmasked|The Pilot (unmasked)]], 4 × [[pilots-boatman]]
-- Trigger: the party refuses him flatly, exposes him (naming the wakeless boat or the light does it), or attacks
-- Tactics: the boatmen hook and haul toward the rail — they collect, they don't kill; the Pilot re-extends the offer mid-fight to whoever is losing; none of them will enter the lantern's circle
-- Terrain: fog to near visibility; the lantern's circle is safe ground they must be dragged *out* of; wet rails
-- Treasure: the Pilot's ledger, left behind if he is destroyed — every PC's name written fair, and a page-corner turned down at five more names nobody can quite read (never explain; the passengers can't read them either)
+**Encounter: Die Maske fällt**
+- Enemies: 1 × [[the-pilot-unmasked|der Lotse (entlarvt)]], 4 × [[pilots-boatman|Bootsmann des Lotsen]]
+- Trigger: die Gruppe lehnt ihn rundheraus ab, entlarvt ihn (das Boot ohne Kielwasser oder das Licht zu benennen genügt) oder greift an
+- Tactics: die Bootsmänner haken ein und zerren Richtung Reling — sie sammeln ein, sie töten nicht; der Lotse erneuert das Angebot mitten im Kampf gegenüber dem, der gerade verliert; keiner von ihnen betritt den Laternenkreis
+- Terrain: Nebel bis auf Nahsicht; der Laternenkreis ist sicherer Boden, aus dem man *hinausgezerrt* werden muss; nasse Relings
+- Treasure: das Schuldbuch des Lotsen, zurückgelassen, falls er vernichtet wird — der Name jedes SC sauber eingetragen, und eine umgeknickte Seitenecke bei fünf weiteren Namen, die niemand recht lesen kann (nie erklären; auch die Passagiere können sie nicht lesen)
 
 ### Outcomes
 
-- Offer refused in the lantern's light, out loud → **−1 Nightfall mark**; the fog thins by morning → the act continues.
-- Offer entertained ("let us think on it") → **+3 Nightfall marks** (a decision, not a lapse); the Pilot bows: *"I'll call again."* — and the fog keeps his door open → he returns each night until refused or fought.
-- A PC boards his boat → collected, final → the table learns what the bargains cost.
+- Angebot im Licht der Laterne laut ausgeschlagen → **−1 Nachteinbruch-Strich**; der Nebel lichtet sich bis zum Morgen → der Akt geht weiter.
+- Angebot erwogen („lasst uns darüber nachdenken") → **+3 Nachteinbruch-Striche** (eine Entscheidung, kein Versäumnis); der Lotse verbeugt sich: „*Ich spreche wieder vor.*" — und der Nebel hält ihm die Tür offen → er kehrt jede Nacht wieder, bis er ausgeschlagen oder bekämpft wird.
+- Ein SC steigt in sein Boot → eingesammelt, endgültig → der Tisch lernt, was die Handel kosten.
 
-## Scene: Fog & the Mooring-Men
+## Scene: Nebel & die Festmacher
 
-- **Purpose:** The recurring siege beat of Nights 3–5: fog that baits, boarders that collect. Establishes the signature creature and the lantern-circle tactics the finale will reuse.
-- **Trigger:** Any dark watch from Night 3 on, whenever the pace wants pressure.
-- **Setup:** Fog banks roll over the ship without warning. In them, the sounds are wrong — and things climb the hull.
+- **Purpose:** Der wiederkehrende Belagerungs-Beat der Nächte 3–5: Nebel, der ködert, Enterer, die einsammeln. Etabliert die Signaturkreatur und die Laternenkreis-Taktik, die das Finale wiederverwendet.
+- **Trigger:** Jede dunkle Wache ab Nacht 3, wann immer das Tempo Druck verlangt.
+- **Setup:** Nebelbänke rollen ohne Warnung über das Schiff. In ihnen sind die Geräusche falsch — und Dinge klettern den Rumpf hinauf.
 
 ### What Happens
 
-**Hazard: The Fog (don't answer your own voice)**
-- Effect: in fog, each PC alone on deck eventually hears their own voice — or a loved one's — calling quietly from the water, always just off the rail. Answering aloud, or leaning out to look, draws a boarding wave to that PC and adds **+1 Nightfall mark** if it happens at dusk. Hearing it and staying silent costs a DC 12 WIS check; failure means the PC answers before they can stop themselves.
-- Counter: watch in pairs (the check is made with advantage); stay inside the lantern's circle (the voices go quiet there); stuff wax or oakum in the ears (deaf to voices — and to everything else).
+**Hazard: Der Nebel (antwortet nicht auf die eigene Stimme)**
+- Effect: im Nebel hört jeder SC, der allein an Deck ist, irgendwann die eigene Stimme — oder die eines geliebten Menschen — leise aus dem Wasser rufen, immer knapp jenseits der Reling. Laut zu antworten oder sich zum Hinsehen hinauszulehnen zieht eine Enterwelle auf diesen SC und bringt **+1 Nachteinbruch-Strich**, wenn es in der Dämmerung geschieht. Es zu hören und still zu bleiben kostet eine DC 12 WIS-Probe; bei Misserfolg antwortet der SC, ehe er sich stoppen kann.
+- Counter: zu zweit Wache gehen (die Probe wird mit Vorteil abgelegt); im Laternenkreis bleiben (die Stimmen verstummen dort); Wachs oder Werg in die Ohren stopfen (taub für die Stimmen — und für alles andere).
 
-**Encounter: Boarding Wave**
-- Enemies: 1d4+1 × [[mooring-man]] (Night 3–4) or 2d4 × [[mooring-man]] (Night 5)
-- Tactics: they come over the dark rail together and press for the original debt — always a PC first, wherever one can be reached, lashed fast and hauled for the water; they never strike to kill, only to take; through Night 3 they will not enter the lantern's circle, and from Night 4 its guttering light only hampers them (Lantern-Shy; see the [[00-overview|overview]]) — and as the circle shrinks night by night there is more deck that belongs to them
-- Terrain: the lantern's circle (safe, shrinking — guttering from Night 4); rigging to climb; nets and lines everywhere — cover for them, trip hazards for everyone
-- The circle protects; it does not win: the Mooring-Men never besiege it — a crew that huddles beyond their reach *makes* the passengers the only souls in reach, and watches them dragged down. A passenger taken by force settles **nothing** ([[00-overview|overview]]): the gift is destroyed, uncounted, and the debt still stands whole
-- Treasure: none — what they take is the treasure
+**Encounter: Enterwelle**
+- Enemies: 1d4+1 × [[mooring-man|Festmacher]] (Nacht 3–4) oder 2d4 × [[mooring-man|Festmacher]] (Nacht 5)
+- Tactics: sie kommen gemeinsam über die dunkle Reling und drängen auf die ursprüngliche Schuld — immer zuerst ein SC, wo immer einer erreichbar ist, festgezurrt und Richtung Wasser geschleppt; sie schlagen nie, um zu töten, nur, um zu nehmen; bis einschließlich Nacht 3 betreten sie den Laternenkreis nicht, und ab Nacht 4 behindert sie sein flackerndes Licht nur noch (Laternenscheu; siehe die [[00-overview|Übersicht]]) — und während der Kreis Nacht für Nacht schrumpft, gehört ihnen mehr vom Deck
+- Terrain: der Laternenkreis (sicher, schrumpfend — flackernd ab Nacht 4); Takelage zum Klettern; Netze und Leinen überall — Deckung für sie, Stolperfallen für alle
+- Der Kreis schützt; er gewinnt nicht: Die Festmacher belagern ihn nie — eine Crew, die sich außerhalb ihrer Reichweite zusammendrängt, *macht* die Passagiere zu den einzigen erreichbaren Seelen und sieht zu, wie sie hinabgezerrt werden. Ein mit Gewalt genommener Passagier begleicht **nichts** ([[00-overview|Übersicht]]): Die Gabe ist zerstört, ungezählt, und die Schuld bleibt in voller Höhe bestehen
+- Treasure: keiner — was sie nehmen, ist der Schatz
 
 > [!tip] GM Guidance
-> Mooring-Men waves are the metronome of the act — one per dark watch is plenty, two on a night the ladder jumped. If a passenger is on deck during a wave, the Mooring-Men go for the passenger first: cheaper cargo, no fight in it. What the party does about that tells them what the finale will be about, without a word of explanation.
+> Festmacher-Wellen sind das Metronom des Akts — eine pro dunkler Wache reicht völlig, zwei in einer Nacht, in der die Leiter gesprungen ist. Ist während einer Welle ein Passagier an Deck, gehen die Festmacher zuerst auf den Passagier: billigere Fracht, kein Kampf darin. Was die Gruppe dagegen unternimmt, sagt ihnen, worum es im Finale gehen wird, ohne ein Wort der Erklärung.
 
 ### Outcomes
 
-- Wave repelled → the fog thins until the next one.
-- A PC or passenger is dragged over the rail → gone, final (a passenger's loss is *felt* — see the sacrifice notes in each passenger's file — and its true price surfaces in Adventure III).
+- Welle abgewehrt → der Nebel lichtet sich bis zur nächsten.
+- Ein SC oder Passagier wird über die Reling gezerrt → fort, endgültig (der Verlust eines Passagiers wird *gespürt* — siehe die Opfernotizen in der Datei jedes Passagiers — und sein wahrer Preis kommt in Abenteuer III an die Oberfläche).
 
-## Scene: The Dead of the Tideblade
+## Scene: Die Toten der Gezeitenklinge
 
-- **Purpose:** Grief as a weapon; the news that Rauthorn lives; the boarders who don't have to be fought at all.
-- **Trigger:** Night 4. A fog bank with no sounds in it at all — and then, sitting on the rail as if they'd always been there, three drowned crewmates the party knew.
-- **Setup:** [[the-dead-crew|Bosun Marek, Sella the topman, and old Tams the cook]] — last seen alive on the beach. Waterlogged, calm, familiar. They have not come to fight.
+- **Purpose:** Trauer als Waffe; die Nachricht, dass Rauthorn lebt; die Enterer, die man überhaupt nicht bekämpfen muss.
+- **Trigger:** Nacht 4. Eine Nebelbank ganz ohne Geräusche — und dann, auf der Reling sitzend, als hätten sie immer dort gesessen, drei ertrunkene Kameraden, die die Gruppe kannte.
+- **Setup:** [[the-dead-crew|Bootsmann Marek, Sella die Toppsgastin und der alte Tams, der Koch]] — zuletzt lebend am Strand gesehen. Vollgesogen, ruhig, vertraut. Sie sind nicht zum Kämpfen gekommen.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> This fog is quiet. No voices in it, no green lights. Just — company.
+> Dieser Nebel ist still. Keine Stimmen darin, keine grünen Lichter. Nur — Gesellschaft.
 >
-> They're sitting on the rail like a dog-watch smoke break: Marek the bosun, still with his whistle on its cord; Sella, barefoot on the wet wood the way she always was in the rigging; old Tams with his sleeves rolled, as if he'd just stepped away from his pots. The sea didn't keep them pretty. But it kept them *them*.
+> Sie sitzen auf der Reling wie bei einer Rauchpause in der Hundswache: Marek, der Bootsmann, die Pfeife noch an ihrer Schnur; Sella, barfuß auf dem nassen Holz, wie sie es in der Takelage immer war; der alte Tams mit aufgerollten Ärmeln, als wäre er nur kurz von seinen Töpfen weggetreten. Die See hat sie nicht hübsch gehalten. Aber sie hat sie als *sie selbst* gehalten.
 >
-> "Evening," Marek says, mild as milk. "Long way out, aren't you."
+> „'n Abend", sagt Marek, mild wie Milch. „Weit draußen, was?"
 
-What they want, and what they carry ([[the-dead-crew]] for voices and lines):
+Was sie wollen und was sie mitbringen ([[the-dead-crew|die tote Mannschaft]] für Stimmen und Sätze):
 
-- **They want the party to stop running.** Not at knifepoint — out of something like kindness: *"It doesn't hurt, after. The tired part stops. You just… let the arms down."*
-- **They confirm Rauthorn lives** — the scene's hard clue: *"The captain? Oh, he pulled off the beach with the tide. Burned your names out of the muster-book himself. Tells the ports you turned on him — that you sank the ship's luck with the island. He tells it well."* Days are passing ashore; they are vague about how many, and time seems to embarrass them.
-- **They will not name the old man.** Pressed, they look at the lantern and away: *"The drowned give this hull a wide berth. We shouldn't be aboard her at all."* (Clue.)
-- **Their bargain** is the softest one: step down with us, all debts done. It is still the Undertow's bargain, and it is still final.
+- **Sie wollen, dass die Gruppe aufhört zu fliehen.** Nicht mit dem Messer an der Kehle — aus so etwas wie Güte: „*Es tut nicht weh, danach. Der müde Teil hört auf. Man lässt einfach… die Arme sinken.*"
+- **Sie bestätigen, dass Rauthorn lebt** — der harte Hinweis der Szene: „*Der Kapitän? Oh, der hat sich mit der Tide vom Strand gelöst. Hat eure Namen eigenhändig aus der Musterrolle gebrannt. Erzählt in den Häfen, ihr hättet euch gegen ihn gewandt — ihr hättet das Glück des Schiffs mit der Insel versenkt. Er erzählt es gut.*" An Land vergehen Tage; wie viele, dazu bleiben sie vage, und die Zeit scheint ihnen peinlich zu sein.
+- **Sie werden den alten Mann nicht beim Namen nennen.** Bedrängt, sehen sie zur Laterne und weg: „*Die Ertrunkenen machen einen weiten Bogen um diesen Rumpf. Wir sollten überhaupt nicht an Bord sein.*" (Hinweis.)
+- **Ihr Handel** ist der sanfteste von allen: Steigt mit uns hinab, alle Schulden getan. Es ist trotzdem der Handel des Sogs, und er ist trotzdem endgültig.
 
-**Encounter: If Forced**
-- Enemies: 3 × [[dead-tideblade-crewmate]]
-- Tactics: they fight reluctantly and defensively, grief-checks first (see the stat block); they try to *hold and take*, not harm; destroyed, they sigh like men relieved of watch
-- Terrain: as the fog scenes above; they, too, keep clear of the lantern
-- Treasure: Marek's bosun's whistle, if they are destroyed — it sounds only underwater (never explain)
+**Encounter: Wenn es erzwungen wird**
+- Enemies: 3 × [[dead-tideblade-crewmate|toter Matrose der Gezeitenklinge]]
+- Tactics: sie kämpfen widerwillig und defensiv, Trauer-Proben zuerst (siehe den Statblock); sie versuchen zu *halten und zu nehmen*, nicht zu verletzen; vernichtet, seufzen sie wie Männer, die von der Wache abgelöst werden
+- Terrain: wie in den Nebelszenen oben; auch sie halten sich von der Laterne fern
+- Treasure: Mareks Bootsmannspfeife, falls sie vernichtet werden — sie klingt nur unter Wasser (nie erklären)
 
 > [!tip] GM Guidance
-> Play them warm. The horror is that nothing here is hostile — just wrong, and sad, and patient. If the party gives them the oilskin jacket from [[02-the-smooth-sea|the nets]], Tams takes it and thanks them by the dead man's name, and the three go over the side without another word: the scene ends, no fight, and the party has traded grief for grief. **−1 Nightfall mark** for a bargain refused with kindness.
+> Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus [[02-the-smooth-sea|den Netzen]], nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. **−1 Nachteinbruch-Strich** für einen mit Güte ausgeschlagenen Handel.
 
 ### Outcomes
 
-- The dead leave (talked out, given the jacket, or destroyed) → the act continues.
-- A PC goes with them → collected, final.
+- Die Toten gehen (weggeredet, mit der Jacke bedacht oder vernichtet) → der Akt geht weiter.
+- Ein SC geht mit ihnen → eingesammelt, endgültig.
 
-## Scene: The Bilge Door
+## Scene: Die Bilgentür
 
-- **Purpose:** Temptation and truth in one room — the Undertow's own voice, and the most honest thing aboard.
-- **Trigger:** Whenever the party finally opens the lowest door — the one the old man asked them to keep shut. (He asks; he never forbids.)
-- **Setup:** Below the waterline, at the foot of a stair that is longer going down than coming up: a low door, swollen in its frame. Behind it, no bilge at all — an endless black sea that does not move with the ship, and reflections that misbehave worst of all.
+- **Purpose:** Versuchung und Wahrheit in einem Raum — die eigene Stimme des Sogs und das Ehrlichste an Bord.
+- **Trigger:** Wann immer die Gruppe endlich die unterste Tür öffnet — die, um deren Geschlossenhalten der alte Mann gebeten hat. (Er bittet; er verbietet nie.)
+- **Setup:** Unter der Wasserlinie, am Fuß einer Treppe, die hinunter länger ist als herauf: eine niedrige Tür, im Rahmen verquollen. Dahinter gar keine Bilge — eine endlose schwarze See, die sich nicht mit dem Schiff bewegt, und Spiegelungen, die sich schlimmer benehmen als irgendwo sonst.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The door swings inward onto no bilge, no hull, no ship. Behind the low frame lies a sea. It goes out forever — black water, flat as struck glass, still in a way the sea outside never is, still like the pool in the temple. No sky above it, no horizon to end it, no light anywhere down here — and you see all of it anyway, the way you see things in dreams.
+> Die Tür schwingt nach innen auf — auf keine Bilge, keinen Rumpf, kein Schiff. Hinter dem niedrigen Rahmen liegt eine See. Sie reicht endlos hinaus — schwarzes Wasser, flach wie geschlagenes Glas, still auf eine Weise, wie die See draußen es nie ist, still wie das Becken im Tempel. Kein Himmel darüber, kein Horizont, der sie beendet, kein Licht irgendwo hier unten — und ihr seht trotzdem alles davon, so, wie man in Träumen sieht.
 >
-> Your lamplight crosses the threshold and simply stops, as if it knows better.
+> Euer Lampenlicht kreuzt die Schwelle und hört einfach auf, als wüsste es es besser.
 >
-> Your reflection is out there on the still surface, close to the door. It is half a second behind you. And when it catches up, for one blink, it is wearing what you wore on the beach — torn where you were torn.
+> Euer Spiegelbild ist dort draußen auf der stillen Fläche, nahe der Tür. Es ist eine halbe Sekunde hinter euch. Und wenn es aufholt, trägt es für einen Lidschlag, was ihr am Strand getragen habt — zerrissen, wo ihr zerrissen wurdet.
 >
-> Then a voice — from nowhere and from everywhere, from the water and from just behind your ear, patient and polite: "Are you finally ready to go where you belong?"
+> Dann eine Stimme — aus dem Nirgendwo und von überall, aus dem Wasser und direkt hinter eurem Ohr, geduldig und höflich: „Seid ihr endlich bereit, dorthin zu gehen, wohin ihr gehört?"
 
-However the party answers, the voice continues, mildly: *"You have questions. I don't lie. It's the one thing I have never needed."* The bilge water is the Undertow's mouth aboard ([[the-undertow]] for its voice). It answers questions honestly — and its honesty is the trap, because every true answer walks toward the bargain:
+Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt Fragen. Ich lüge nicht. Es ist das Einzige, was ich nie gebraucht habe.*" Das Bilgenwasser ist der Mund des Sogs an Bord ([[the-undertow|der Sog]] für seine Stimme). Es beantwortet Fragen ehrlich — und seine Ehrlichkeit ist die Falle, denn jede wahre Antwort geht auf den Handel zu:
 
-- It confirms what the dead crew said: Rauthorn lives; he tells his own story; days pass ashore.
-- It names the old man only *"the ferryman"* and *"the thief."* (Clue.) Asked what was stolen, it says: *"What I am owed."*
-- Asked directly *"are we dead?"* it says exactly this, and no scene may go further: *"Nothing is being done to you. Something was done to* me. *You drowned. You are owed to me. The ferryman is a thief."* An accuser's claim — the fog's whole pitch would sound just like it. Nothing aboard corroborates it. (Hard ambiguity constraint, [[00-overview|overview]].)
-- **The arithmetic, stated once, mildly:** *"I am owed one for each of you. Any souls will balance it — given, not taken. The ones below decks — no one will miss what no one remembers boarding."* This is the first full statement of the finale's terms — including, half-heard, its strictest clause: substitutes count only *freely given* ([[00-overview|overview]]).
+- Es bestätigt, was die tote Mannschaft gesagt hat: Rauthorn lebt; er erzählt seine eigene Geschichte; an Land vergehen Tage.
+- Den alten Mann nennt es nur „*den Fährmann*" und „*den Dieb*". (Hinweis.) Gefragt, was gestohlen wurde, sagt es: „*Was mir geschuldet wird.*"
+- Direkt gefragt „*sind wir tot?*", sagt es genau dies, und keine Szene darf weiter gehen: „*Euch wird nichts angetan. Etwas wurde* mir *angetan. Ihr seid ertrunken. Ihr werdet mir geschuldet. Der Fährmann ist ein Dieb.*" Die Behauptung eines Anklägers — der ganze Köder des Nebels würde genauso klingen. Nichts an Bord bestätigt sie. (Harte Ambiguitätsvorgabe, [[00-overview|Übersicht]].)
+- **Die Arithmetik, einmal ausgesprochen, milde:** „*Mir wird eine für jeden von euch geschuldet. Beliebige Seelen gleichen es aus — gegeben, nicht genommen. Die unter Deck — niemand wird vermissen, woran sich niemand beim Einschiffen erinnert.*" Dies ist die erste vollständige Nennung der Bedingungen des Finales — einschließlich, halb überhört, seiner strengsten Klausel: Ersatz zählt nur *freiwillig gegeben* ([[00-overview|Übersicht]]).
 
-**Hazard: The Standing Water**
-- Effect: listening is safe by the door; *lingering* is not. Each full minute at the water's edge, DC 12 WIS check or the listener kneels to hear better — one more failure and they reach for the water (companions can pull them back; touching it costs 1d6 cold damage and one true, unwelcome answer delivered straight into their head)
-- Counter: the old man's asked-for state — the door kept shut; leaving takes no check at all, and the voice never pursues past the door. Opening the bilge door at all is **+1 Nightfall mark** (once per night, however often it's opened).
+**Hazard: Das stehende Wasser**
+- Effect: an der Tür zuzuhören ist sicher; zu *verweilen* nicht. Für jede volle Minute am Wasserrand DC 12 WIS-Probe, oder der Zuhörer kniet nieder, um besser zu hören — ein weiterer Misserfolg, und er greift nach dem Wasser (Gefährten können ihn zurückziehen; es zu berühren kostet 1d6 Kälteschaden und eine wahre, unwillkommene Antwort, direkt in den Kopf geliefert)
+- Counter: der Zustand, um den der alte Mann gebeten hat — die Tür bleibt zu; zu gehen kostet gar keine Probe, und die Stimme verfolgt nie über die Tür hinaus. Die Bilgentür überhaupt zu öffnen ist **+1 Nachteinbruch-Strich** (einmal pro Nacht, egal wie oft sie geöffnet wird).
 
 > [!tip] GM Guidance
-> This room is the GM's pressure valve: when the players are lost, the truth-that-tempts lives here. Give straight answers in the Undertow's voice and let their accuracy be the horror. It never raises its voice, never threatens, and thanks them when they leave: *"Take your time. I have all of it."*
+> Dieser Raum ist das Druckventil der SL: Wenn die Spieler verloren sind, wohnt hier die Wahrheit, die verführt. Gib gerade Antworten in der Stimme des Sogs und lass ihre Genauigkeit der Schrecken sein. Er erhebt nie die Stimme, droht nie und dankt ihnen beim Gehen: „*Lasst euch Zeit. Ich habe sie ganz.*"
 
 ### Outcomes
 
-- The party leaves with answers and the door shut → the act continues, heavier.
-- A bargain is struck at the water's edge → resolve it exactly as spoken — the Undertow keeps every bargain to the letter (a named passenger walks up the stairs and over the rail that night, unresisting; the giver takes **+3 Nightfall marks** and the old man's quiet: *"That was not yours to spend."*).
+- Die Gruppe geht mit Antworten und geschlossener Tür → der Akt geht weiter, schwerer.
+- Am Wasserrand wird ein Handel geschlossen → wickle ihn genau so ab, wie er ausgesprochen wurde — der Sog hält jeden Handel aufs Wort (ein benannter Passagier steigt in jener Nacht die Treppe hinauf und über die Reling, ohne Widerstand; der Gebende bekommt **+3 Nachteinbruch-Striche** und das leise Wort des alten Mannes: „*Das war nicht deins auszugeben.*").
 
-## Scene: The Crow's Nest
+## Scene: Das Krähennest
 
-- **Purpose:** The midpoint reversal — kill the rescue story with a telescope, and let "we are dead" become the best remaining theory without one word of confirmation.
-- **Trigger:** The Halcyon has no crow's nest until **Night 4** — that grey morning it is simply *there*, high on the mainmast: new wood on a ship that is losing everything else, and nobody aboard finds it strange. Any climb after that (DC 9 DEX in calm, DC 12 in fog); the *sighting* fires at Night 4–5, when the GM wants the floor to drop.
-- **Setup:** From the masthead, and only from there, sharp eyes glimpse the *other* sea. (Why now, GM only: the crossing is more than half made — they are near enough to life that the ship can finally *see* it, and she grows the eye to look.)
+- **Purpose:** Die Wende zur Mitte — töte die Rettungsgeschichte mit einem Fernrohr, und lass „wir sind tot" zur besten verbleibenden Theorie werden, ohne ein Wort der Bestätigung.
+- **Trigger:** Die Halcyon hat bis **Nacht 4** kein Krähennest — an jenem grauen Morgen ist es einfach *da*, hoch am Großmast: neues Holz auf einem Schiff, das alles andere verliert, und niemand an Bord findet das seltsam. Danach jeder Aufstieg (DC 9 DEX bei ruhiger See, DC 12 im Nebel); die *Sichtung* zündet in Nacht 4–5, wenn die SL den Boden absacken lassen will.
+- **Setup:** Vom Masttopp, und nur von dort, erhaschen scharfe Augen die *andere* See. (Warum jetzt, nur für die SL: Die Überfahrt ist mehr als halb geschafft — sie sind dem Leben nah genug, dass das Schiff es endlich *sehen* kann, und sie lässt sich das Auge wachsen, um hinzusehen.)
 
 ### What Happens
 
 > [!quote] Read Aloud
-> From the deck, the horizon is empty grey. From up here — for a moment, the way a shape hides in a tiled floor until it doesn't — there is *another* sea. Gulls over it. Sun on it. A coastline like a pencil line, and sails — little, ordinary, blessed sails, none of them turning your way.
+> Vom Deck aus ist der Horizont leeres Grau. Von hier oben — für einen Moment, so, wie sich eine Form in einem gekachelten Boden versteckt, bis sie es nicht mehr tut — ist da eine *andere* See. Möwen darüber. Sonne darauf. Eine Küstenlinie wie ein Bleistiftstrich, und Segel — kleine, gewöhnliche, gesegnete Segel, und keines davon dreht in eure Richtung.
 >
-> And then you find the one you know. Full canvas, running fast and clean before a wind you cannot feel: the Tideblade. Untouched. You can almost hear her. At this distance you shouldn't be able to see the helm at all — but you can, and he is at it, and you know his shoulders better than your own.
+> Und dann findet ihr das eine, das ihr kennt. Volles Tuch, schnell und sauber laufend vor einem Wind, den ihr nicht spüren könnt: die Gezeitenklinge. Unberührt. Ihr könnt sie fast hören. Auf diese Entfernung dürftet ihr das Ruder gar nicht sehen können — aber ihr könnt es, und er steht daran, und ihr kennt seine Schultern besser als eure eigenen.
 >
-> Then the grey slides back in like a lid.
+> Dann schiebt sich das Grau zurück wie ein Deckel.
 
-- The living sea is **proof the destination is real** — and agony that it is so far. The old man, asked, says only: *"Aye. That's where we're bound. Long way yet."*
-- The Tideblade under sail is the reversal: *if they were rescued survivors, why is their ship over there while they sail this?* The rescue story dies here. Let the players say the remaining theory out loud themselves; nobody aboard will.
-- The Cartographer, shown the coastline, goes pale and gets out her sketches: it is one of hers — one she drew *before* anyone climbed the mast. She laughs it off badly. (Thread to Adventure III; never resolved here.)
+- Die lebende See ist **der Beweis, dass das Ziel wirklich ist** — und die Qual, dass es so fern ist. Der alte Mann sagt, gefragt, nur: „*Aye. Dorthin sind wir unterwegs. Noch ein weiter Weg.*"
+- Die Gezeitenklinge unter Segeln ist die Wende: *Wenn sie gerettete Überlebende sind, warum ist ihr Schiff dort drüben, während sie dieses segeln?* Die Rettungsgeschichte stirbt hier. Lass die Spieler die verbleibende Theorie selbst laut aussprechen; niemand an Bord wird es tun.
+- Die Kartographin, der man die Küstenlinie zeigt, wird bleich und holt ihre Skizzen hervor: Es ist eine von ihren — eine, die sie zeichnete, *bevor* irgendjemand den Mast bestieg. Sie lacht es schlecht weg. (Faden zu Abenteuer III; wird hier nie aufgelöst.)
 
 > [!tip] GM Guidance
-> This is the adventure's hinge — clear the table's attention for it. One PC aloft, their words to the deck relayed second-hand: the doubt spreads better through a messenger. After this scene, re-read the ambiguity rule before every remaining scene you run: from here to dawn the players will be *hunting* confirmation. None exists.
+> Dies ist das Scharnier des Abenteuers — räume ihm die Aufmerksamkeit des Tisches frei. Ein SC oben, seine Worte ans Deck aus zweiter Hand weitergegeben: Der Zweifel verbreitet sich besser durch einen Boten. Lies nach dieser Szene die Ambiguitätsregel vor jeder verbleibenden Szene erneut: Von hier bis zum Morgengrauen werden die Spieler nach Bestätigung *jagen*. Es gibt keine.
 
 ### Outcomes
 
-- The sighting lands → the party re-litigates everything they think they know → Night 5: The Groan.
+- Die Sichtung sitzt → die Gruppe verhandelt alles neu, was sie zu wissen glaubt → Nacht 5: Das Ächzen.
 
-## Scene: Night 5 — The Groan
+## Scene: Nacht 5 — Das Ächzen
 
-- **Purpose:** Close the act at full pressure: the biggest wave yet, the ship visibly forgetting herself, the old man failing, and the sound from Adventure I.
-- **Trigger:** The Night 5 dimming.
-- **Setup:** The pursuer's bow wave is a standing hill of black water astern; the sea slopes gently *backwards* toward it, downhill. The [[the-halcyon|Halcyon]]'s passenger hold is one room now; stairs have fewer steps than yesterday. The lantern's circle barely clears the helm.
+- **Purpose:** Schließe den Akt unter vollem Druck: die bislang größte Welle, das Schiff, das sich sichtbar selbst vergisst, der versagende alte Mann und der Klang aus Abenteuer I.
+- **Trigger:** Die Verdunkelung von Nacht 5.
+- **Setup:** Die Bugwelle des Verfolgers ist ein stehender Hügel schwarzen Wassers achteraus; die See fällt sanft *nach hinten* zu ihm ab, bergab. Der Passagierraum der [[the-halcyon|Halcyon]] ist jetzt ein einziger Raum; Treppen haben weniger Stufen als gestern. Der Laternenkreis reicht kaum noch über das Ruder hinaus.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The dark comes down, and with it, out of the stern distance, a sound arrives across the water. Not a scream. Not a roar. The groan of a great hull breaking — timber and iron giving way somewhere deep, slow, and absolutely certain of itself.
+> Das Dunkel senkt sich, und mit ihm kommt aus der Ferne achteraus ein Klang über das Wasser. Kein Schrei. Kein Brüllen. Das Ächzen eines großen, brechenden Rumpfs — Holz und Eisen, die irgendwo in der Tiefe nachgeben, langsam und seiner Sache vollkommen sicher.
 >
-> You know that sound. You heard it once before, in a chamber of black stone, the moment before everything ended. The sea underfoot leans gently astern, as if the whole world had begun, politely, to tilt.
+> Ihr kennt diesen Klang. Ihr habt ihn schon einmal gehört, in einer Kammer aus schwarzem Stein, den Moment, bevor alles endete. Die See unter euren Füßen neigt sich sacht nach achtern, als hätte die ganze Welt begonnen, sich höflich zu neigen.
 
-- **Encounter:** the Night 5 boarding wave (2d4 × [[mooring-man]]) hits mid-scene — and the old man, for the first time, **sleeps through the alarm**. The party holds the deck alone until someone wakes him; he comes up the companionway a decade older than he went down.
-- **The ship forgets herself.** A passenger's routine breaks in front of the party — the Gambler's table is simply *gone*, and he deals onto bare deck, unbothered. The Fencing Master's drilling-ground has shortened; his lunges stop short of where the mast used to be. Nobody aboard notices but the party.
-- **The old man's quiet offer, previewed.** If the party has been bargaining — or asks him straight what the thing behind wants — he tells them the terms plainly (he will not soften arithmetic): it is owed one for each of them; any souls aboard balance it; and there is a third way he does not name yet, only: *"Some of it, I can carry. Not all. You'll want to decide before the storm decides for you."*
-- **Storm rising.** By scene's end the first true wind of the entire adventure arrives — from astern, cold, smelling of old wrecks.
+- **Encounter:** die Enterwelle von Nacht 5 (2d4 × [[mooring-man|Festmacher]]) schlägt mitten in der Szene ein — und der alte Mann **schläft zum ersten Mal durch den Alarm**. Die Gruppe hält das Deck allein, bis jemand ihn weckt; er kommt den Niedergang herauf, ein Jahrzehnt älter, als er hinunterging.
+- **Das Schiff vergisst sich selbst.** Die Routine eines Passagiers zerbricht vor den Augen der Gruppe — der Tisch des Spielers ist einfach *fort*, und er teilt die Karten auf die nackten Planken aus, ungerührt. Der Übungsplatz des Fechtmeisters ist kürzer geworden; seine Ausfälle enden vor der Stelle, wo der Mast einmal stand. Niemand an Bord bemerkt es außer der Gruppe.
+- **Das leise Angebot des alten Mannes, angedeutet.** Falls die Gruppe gehandelt hat — oder ihn geradeheraus fragt, was das Ding hinter ihnen will — nennt er ihnen die Bedingungen offen (Arithmetik wird er nicht beschönigen): Es wird ihm eine für jeden von ihnen geschuldet; beliebige Seelen an Bord gleichen es aus; und es gibt einen dritten Weg, den er noch nicht benennt, nur: „*Einen Teil davon kann ich tragen. Nicht alles. Ihr solltet entscheiden, ehe der Sturm für euch entscheidet.*"
+- **Der Sturm zieht auf.** Am Ende der Szene kommt der erste wirkliche Wind des ganzen Abenteuers — von achtern, kalt, nach alten Wracks riechend.
 
 ### Outcomes
 
-- The dimming after Night 5 is Night 6 → [[04-the-storm-crossing|Act 4: The Storm Crossing]].
-- Party advances to **level 5** at the end of this act.
+- Die Verdunkelung nach Nacht 5 ist Nacht 6 → [[04-the-storm-crossing|Act 4: Die Sturmüberfahrt]].
+- Die Gruppe steigt am Ende dieses Akts auf **Stufe 5** auf.

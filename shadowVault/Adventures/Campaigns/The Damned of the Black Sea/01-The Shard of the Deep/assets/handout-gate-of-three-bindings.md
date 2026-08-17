@@ -1,40 +1,40 @@
 ---
-title: "Handout: The Gate of Three Bindings"
+title: "Handout: Das Tor der drei Bindungen"
 tags: [handout]
 ---
 
-# The Gate of Three Bindings
+# Das Tor der drei Bindungen
 
-*Player handout — the great stone door in the Gallery of the Drowned. Contains no solutions; the GM version with solutions is in [[03-the-temple-of-the-deep|Act 3]].*
+*Spieler-Handout — die große Steintür in der Galerie der Ertrunkenen. Enthält keine Lösungen; die SL-Version mit Lösungen steht in [[03-the-temple-of-the-deep|Akt 3]].*
 
-Carved deep into the stone above the gate, in ancient script:
+Tief in den Stein über dem Tor gemeißelt, in uralter Schrift:
 
-> *"Born in the depths of the sea,*
-> *bound by human hand,*
-> *never may he return."*
+> *„Geboren in den Tiefen der See,*
+> *gebunden von Menschenhand,*
+> *niemals darf er wiederkehren."*
 
-Below it, three round stone plates, each with five symbols that can be rotated. Above each plate, a different carved sign. The door opens only when all three plates point to the right symbol at the same time.
+Darunter drei runde Steinplatten, jede mit fünf Symbolen, die sich drehen lassen. Über jeder Platte ein anderes gemeißeltes Zeichen. Die Tür öffnet sich nur, wenn alle drei Platten zugleich auf das richtige Symbol zeigen.
 
-**Plate 1 — above it: the dark shadow of a monstrous beast**
+**Platte 1 — darüber: der dunkle Schatten einer monströsen Bestie**
 
-- 🌊 Wave
-- 🪨 Rock
-- 🐚 Shell
-- 🌀 Maelstrom
-- 🌑 Darkness
+- 🌊 Welle
+- 🪨 Fels
+- 🐚 Muschel
+- 🌀 Mahlstrom
+- 🌑 Dunkelheit
 
-**Plate 2 — above it: a monstrous beast**
+**Platte 2 — darüber: eine monströse Bestie**
 
-- 🔗 Chain
-- ⚓ Anchor
-- 🪬 Warding sign
-- 🗝 Key
-- 🧱 Wall
+- 🔗 Kette
+- ⚓ Anker
+- 🪬 Schutzzeichen
+- 🗝 Schlüssel
+- 🧱 Mauer
 
-**Plate 3 — above it: a hand pressing something down**
+**Platte 3 — darüber: eine Hand, die etwas niederdrückt**
 
-- ☀️ Sun
-- 🌱 Sprout
-- 🔥 Flame
-- 💀 Skull with rising light
-- 🕳 Abyss
+- ☀️ Sonne
+- 🌱 Spross
+- 🔥 Flamme
+- 💀 Schädel mit aufsteigendem Licht
+- 🕳 Abgrund

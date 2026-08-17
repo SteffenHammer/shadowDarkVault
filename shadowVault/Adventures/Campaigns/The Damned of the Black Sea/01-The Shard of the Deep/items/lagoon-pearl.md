@@ -1,15 +1,15 @@
 ---
-title: Lagoon Pearl
+title: Lagunenperle
 system: Shadowdark
 tags: [item]
 ---
 
-# Lagoon Pearl
+# Lagunenperle
 
-A pearl from the floor of the Lagoon of Silent Ghosts, glowing with a soft blue light that pulses in the sand like a heartbeat. Held in the hand, it is warm — *alive* — with a faint throb that seems to speak to its bearer's own pulse.
+Eine Perle vom Grund der Lagune der stillen Geister, die in einem sanften blauen Licht glüht, das im Sand pulsiert wie ein Herzschlag. In der Hand gehalten ist sie warm — *lebendig* — mit einem leisen Pochen, das mit dem Puls ihres Trägers zu sprechen scheint.
 
-- **Type:** wondrous
-- **Effect:** Placed in the stone basin beneath the [[shard-of-the-deep|Shard of the Deep]], it takes the Shard's place and satisfies the Warden — the only way to remove the Shard safely. The shrine reliefs in the abandoned village depict exactly this exchange.
-- **Curse / Cost:** Whoever takes a pearl from the lagoon is dragged toward the bottom by invisible hands (see the lagoon scene mechanics in [[02-the-cursed-island|Act 2]]).
-- **History (GM only):** The ghost fish of the lagoon circle wide around the glowing spots on the lagoon floor, as if they know what rests there. The lost pirate captain's logbook records his crew retrieving one — at the cost of two men.
-- **Found in:** the Lagoon of Silent Ghosts, [[02-the-cursed-island|Act 2]].
+- **Type:** wundersam
+- **Effect:** In das steinerne Becken unter dem [[shard-of-the-deep|Splitter der Tiefe]] gelegt, nimmt sie den Platz des Splitters ein und stellt den Wächter zufrieden — der einzige Weg, den Splitter sicher zu entfernen. Die Schreinreliefs im verlassenen Dorf zeigen genau diesen Tausch.
+- **Curse / Cost:** Wer eine Perle aus der Lagune nimmt, wird von unsichtbaren Händen zum Grund gezogen (siehe die Mechanik der Lagunenszene in [[02-the-cursed-island|Akt 2]]).
+- **History (GM only):** Die Geisterfische der Lagune ziehen weite Kreise um die glühenden Stellen am Lagunengrund, als wüssten sie, was dort ruht. Das Logbuch des verschollenen Piratenkapitäns berichtet, wie seine Mannschaft eine barg — um den Preis zweier Männer.
+- **Found in:** die Lagune der stillen Geister, [[02-the-cursed-island|Akt 2]].

@@ -1,30 +1,30 @@
 ---
-title: Cursed Monkey Alpha
+title: Alpha der verfluchten Affen
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Cursed Monkey Alpha
+# Alpha der verfluchten Affen
 
-A grotesquely mutated leader, corrupted by the Shard of the Deep. Its eyes glow blue, its fur is matted and wet as if with sea-salt, and its movements are unnaturally jerky.
+Ein grotesk mutierter Anführer, verdorben vom Splitter der Tiefe. Seine Augen glühen blau, sein Fell ist verfilzt und nass wie von Meersalz, und seine Bewegungen sind unnatürlich ruckartig.
 
-> [!info]+ Cursed Monkey Alpha — LV 4
-> **AC** 14 · **HP** 18 · **MV** near (climb) · **AL** C
+> [!info]+ Alpha der verfluchten Affen — LV 4
+> **AC** 14 · **HP** 18 · **MV** near (klettern) · **AL** C
 >
-> **ATK** 1 claws +4 (1d6+2)
+> **ATK** 1 Klauen +4 (1d6+2)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +1  | +3  | +1  | -2  | +0  | -1  |
 >
-> **Pack Leader.** Cursed monkeys within near gain +1 on attacks and damage and will not flee. While the alpha lives, the swarm fights on.
+> **Rudelführer.** Verfluchte Affen innerhalb von near erhalten +1 auf Angriffe und Schaden und fliehen nicht. Solange das Alpha lebt, kämpft der Schwarm weiter.
 >
-> **Shard Plague.** On a hit, the target makes a DC 12 CON check or takes an extra 1d4 necrotic damage and has disadvantage on DEX checks for 1 round. The wounds turn black and pulse.
+> **Splitterseuche.** Bei einem Treffer besteht das Ziel eine DC 12 CON-Probe oder erleidet zusätzlich 1d4 nekrotischen Schaden und hat 1 Runde lang Nachteil auf DEX-Proben. Die Wunden werden schwarz und pulsieren.
 >
-> **Bone Screech (1/day).** All within near make a DC 12 WIS check or are dazed for 1 round and take 1d4 damage; on success, half damage and no daze.
+> **Knochenkreischen (1/Tag).** Alle innerhalb von near bestehen eine DC 12 WIS-Probe oder sind 1 Runde lang benommen und erleiden 1d4 Schaden; bei Erfolg halber Schaden und keine Benommenheit.
 >
-> **Berserker.** Below 6 HP: +2 on attacks and damage, and it makes 2 claw attacks per round. Its eyes flare bright blue.
+> **Berserker.** Unter 6 HP: +2 auf Angriffe und Schaden, und es führt 2 Klauenangriffe pro Runde aus. Seine Augen flammen hellblau auf.
 >
-> **Jungle Hunter.** Advantage on stealth in jungle; may swing through the trees up to near as part of its move without triggering free attacks.
+> **Dschungeljäger.** Vorteil auf Heimlichkeit im Dschungel; darf sich als Teil seiner Bewegung bis zu near durch die Bäume schwingen, ohne freie Angriffe auszulösen.
 
-- **Found in:** this adventure's `statblocks/` — leads the ambush at the temple entrance, see [[02-the-cursed-island|Act 2]].
+- **Found in:** `statblocks/` dieses Abenteuers — führt den Hinterhalt am Tempeleingang an, siehe [[02-the-cursed-island|Akt 2]].

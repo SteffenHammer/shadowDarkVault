@@ -1,186 +1,186 @@
 ---
-title: The Cursed Island
+title: Die verfluchte Insel
 act: 2
 tags: [act]
 ---
 
-# Act 2: The Cursed Island
+# Act 2: Die verfluchte Insel
 
 ## Act Overview
 
-- **Purpose:** Open exploration. The party learns the island's secret history, finds the way to the temple, and — if they read the clues — the [[lagoon-pearl|pearl]] and the knowledge needed to survive what waits below.
-- **State of the world:** Rauthorn anchors offshore and sends the party in. The island holds five zones the party can explore in any order (hexcrawl); the cursed monkey swarm shadows them.
-- **Ways it can end:** The party enters the skull temple — continue to [[03-the-temple-of-the-deep|Act 3]]. They can enter without the pearl or the puzzle hints, but both make the temple survivable.
+- **Purpose:** Offene Erkundung. Die Gruppe erfährt die geheime Geschichte der Insel, findet den Weg zum Tempel und — wenn sie die Hinweise deutet — die [[lagoon-pearl|Perle]] und das Wissen, das nötig ist, um zu überleben, was unten wartet.
+- **State of the world:** Rauthorn ankert vor der Küste und schickt die Gruppe hinein. Die Insel umfasst fünf Zonen, die die Gruppe in beliebiger Reihenfolge erkunden kann (Hexcrawl); der Schwarm verfluchter Affen folgt ihnen wie ein Schatten.
+- **Ways it can end:** Die Gruppe betritt den Schädeltempel — weiter zu [[03-the-temple-of-the-deep|Akt 3]]. Sie kann ohne die Perle oder die Rätselhinweise eintreten, aber beides macht den Tempel überlebbar.
 
-## Scene: Landfall & the Hexcrawl
+## Scene: Landgang & der Hexcrawl
 
-- **Purpose:** Set up free exploration and the island's oppressive mood.
-- **Trigger:** The party rows ashore from the Tideblade.
-- **Setup:** A tropical island not on any chart. Use the hexcrawl map: ![[island-hexcrawl-map.png]]
+- **Purpose:** Freie Erkundung und die bedrückende Stimmung der Insel etablieren.
+- **Trigger:** Die Gruppe rudert von der Gezeitenklinge an Land.
+- **Setup:** Eine tropische Insel, die auf keiner Karte verzeichnet ist. Nutze die Hexcrawl-Karte: ![[island-hexcrawl-map.png]]
 
 ### What Happens
 
-The island has five zones, explorable in any order:
+Die Insel hat fünf Zonen, erkundbar in beliebiger Reihenfolge:
 
-- **Jungle paths** — the connecting tissue between zones; hazards and ghost apparitions (below).
-- **The derelict pirate camp** — a map and a warning about the Shard.
-- **The abandoned village and shrine** — hints to the temple and its puzzle.
-- **The Lagoon of Silent Ghosts** — pearls that heal or curse.
-- **Skull Cliff** — the temple entrance.
+- **Dschungelpfade** — das Bindegewebe zwischen den Zonen; Gefahren und Geistererscheinungen (unten).
+- **Das verlassene Piratenlager** — eine Karte und eine Warnung vor dem Splitter.
+- **Das verlassene Dorf und der Schrein** — Hinweise auf den Tempel und sein Rätsel.
+- **Die Lagune der stillen Geister** — Perlen, die heilen oder verfluchen.
+- **Die Schädelklippe** — der Tempeleingang.
 
-While traveling between zones, roll a d6 for a random encounter:
+Beim Reisen zwischen den Zonen würfle einen d6 für eine Zufallsbegegnung:
 
-| d6 | Encounter |
+| d6 | Begegnung |
 | --- | --- |
-| 1 | [[ghost-pirate\|Ghost pirates]] who cannot find rest |
-| 2 | A [[giant-tree-snake\|giant snake]] winding through the trees |
-| 3 | A group of [[tribal-warrior\|surviving natives]] |
-| 4 | [[giant-rock-crab\|Giant rock crabs]] camouflaged as boulders |
-| 5 | A [[cursed-monkey-swarm\|cursed monkey swarm]] |
-| 6 | A crack in the ground releasing voices from the deep |
+| 1 | [[ghost-pirate\|Geisterpiraten]], die keine Ruhe finden |
+| 2 | Eine [[giant-tree-snake\|Riesenschlange]], die sich durch die Bäume windet |
+| 3 | Eine Gruppe [[tribal-warrior\|überlebender Eingeborener]] |
+| 4 | [[giant-rock-crab\|Riesenfelskrabben]], als Felsbrocken getarnt |
+| 5 | Ein [[cursed-monkey-swarm\|Schwarm verfluchter Affen]] |
+| 6 | Ein Riss im Boden, aus dem Stimmen aus der Tiefe dringen |
 
 > [!tip] GM Guidance
-> Jungle hazards along the paths (use one when travel should bite): <!-- GM note: hazard details invented during conversion — the source only names "traps, ghost apparitions" -->
-> - **Snare pit** (old native trap): DC 12 WIS to spot, DC 12 DEX or 1d6 damage and stuck until freed.
-> - **Ghost apparition:** a translucent figure re-enacts its death, then turns to stare; DC 12 WIS check or −1 on checks for 1d4 rounds (dread).
-> - **Rotten ravine bridge:** DC 12 DEX to cross; failure means a 10-ft fall, 1d6 damage.
+> Dschungelgefahren entlang der Pfade (setze eine ein, wenn die Reise Zähne zeigen soll): <!-- GM-Hinweis: Details der Gefahren wurden bei der Umwandlung erfunden — die Quelle nennt nur „Fallen, Geistererscheinungen" -->
+> - **Schlingfalle** (alte Eingeborenenfalle): DC 12 WIS zum Entdecken, DC 12 DEX oder 1d6 Schaden und gefangen, bis befreit.
+> - **Geistererscheinung:** eine durchscheinende Gestalt durchlebt erneut ihren Tod, dann wendet sie sich um und starrt; DC 12 WIS-Probe oder −1 auf Proben für 1d4 Runden (Grauen).
+> - **Morsche Schluchtbrücke:** DC 12 DEX zum Überqueren; bei Misserfolg 10 Fuß Sturz, 1d6 Schaden.
 
 > [!warning]
-> The cursed monkey swarm attacks the party at the latest before the entrance to the Temple of the Deep — see the Skull Cliff scene.
+> Der Schwarm verfluchter Affen greift die Gruppe spätestens vor dem Eingang zum Tempel der Tiefe an — siehe die Szene „Die Schädelklippe".
 
 ### Outcomes
 
-- The party heads for a zone → run its scene below
-- The party makes for the temple directly → leads to the Skull Cliff scene
+- Die Gruppe steuert eine Zone an → spiele deren Szene unten
+- Die Gruppe hält direkt auf den Tempel zu → führt zur Szene „Die Schädelklippe"
 
-## Scene: The Derelict Pirate Camp
+## Scene: Das verlassene Piratenlager
 
-- **Purpose:** Deliver the previous expedition's story and the pointer to shrine and temple.
-- **Trigger:** The party reaches the overgrown clearing.
-- **Setup:** An abandoned pirate camp, not old enough to be forgotten.
+- **Purpose:** Die Geschichte der früheren Expedition und den Verweis auf Schrein und Tempel vermitteln.
+- **Trigger:** Die Gruppe erreicht die überwucherte Lichtung.
+- **Setup:** Ein verlassenes Piratenlager, nicht alt genug, um vergessen zu sein.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The jungle opens suddenly, as if you had crossed an invisible threshold. Before you lies a small clearing with an abandoned pirate camp — half overgrown, half torn by the wind, but clearly not old enough to be forgotten.
+> Der Dschungel öffnet sich plötzlich, als hättet ihr eine unsichtbare Schwelle überschritten. Vor euch liegt eine kleine Lichtung mit einem verlassenen Piratenlager — halb überwuchert, halb vom Wind zerzaust, aber deutlich nicht alt genug, um vergessen zu sein.
 >
-> A few crooked wooden huts crouch beneath the palms, their palm-leaf roofs torn and hanging down like wet rags. A fire pit sits at the center of the clearing, filled with cold, grey ash. Beside it stand toppled barrels, some broken open, others still sealed, as if someone had left them behind in haste.
+> Ein paar schiefe Holzhütten ducken sich unter die Palmen, ihre Dächer aus Palmblättern zerrissen und herabhängend wie nasse Lumpen. In der Mitte der Lichtung liegt eine Feuerstelle, gefüllt mit kalter, grauer Asche. Daneben stehen umgestürzte Fässer, manche aufgebrochen, andere noch versiegelt, als hätte sie jemand in aller Eile zurückgelassen.
 >
-> Everywhere lie traces of a hurried departure: a broken cutlass, a torn shirt, footprints blurring in the damp ground. A hammock sways gently in the wind.
+> Überall liegen Spuren eines hastigen Aufbruchs: ein zerbrochenes Entermesser, ein zerrissenes Hemd, Fußspuren, die im feuchten Boden verschwimmen. Eine Hängematte schaukelt sanft im Wind.
 
-Searchable finds:
+Durchsuchbare Funde:
 
-1. Several torches
-2. Some serviceable weapons — sabers, knives
-3. A dead pirate clutching the pirate captain's logbook, with hints of a shrine said to lead to a skull temple: give the players ![[handout-pirate-logbook.md]]
+1. Mehrere Fackeln
+2. Einige brauchbare Waffen — Säbel, Messer
+3. Ein toter Pirat, der das Logbuch des Piratenkapitäns umklammert, mit Hinweisen auf einen Schrein, der zu einem Schädeltempel führen soll: gib den Spielern ![[handout-pirate-logbook.md]]
 
 ### Outcomes
 
-- The logbook read → the party knows of the shrine, the lagoon pearls, and that something guards the temple → leads to the village, lagoon, or Skull Cliff scenes
+- Das Logbuch gelesen → die Gruppe weiß vom Schrein, von den Lagunenperlen und dass etwas den Tempel bewacht → führt zu den Szenen Dorf, Lagune oder Schädelklippe
 
-## Scene: The Silent Village & the Shrine
+## Scene: Das stille Dorf & der Schrein
 
-- **Purpose:** Reveal the massacre and hand the party the temple puzzle's answer — if they look closely.
-- **Trigger:** The party finds the village in the island's east.
-- **Setup:** A destroyed native village; at its center, the untouched Shrine of the Silent Deep.
+- **Purpose:** Das Massaker enthüllen und der Gruppe die Antwort auf das Tempelrätsel in die Hand geben — wenn sie genau hinsieht.
+- **Trigger:** Die Gruppe findet das Dorf im Osten der Insel.
+- **Setup:** Ein zerstörtes Eingeborenendorf; in seiner Mitte der unberührte Schrein der stillen Tiefe.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The jungle thins, and you step into a small village stiller than a grave. Huts of woven bamboo and palm leaves stand in a half-circle, many collapsed, others burned black. Everywhere lie shattered clay vessels, scattered tools, and the traces of a life that ended abruptly and violently.
+> Der Dschungel lichtet sich, und ihr betretet ein kleines Dorf, stiller als ein Grab. Hütten aus geflochtenem Bambus und Palmblättern stehen im Halbkreis, viele eingestürzt, andere schwarz verbrannt. Überall liegen zerschmetterte Tongefäße, verstreute Werkzeuge und die Spuren eines Lebens, das abrupt und gewaltsam endete.
 >
-> The wind carries the smell of damp earth and something metallic — blood, long dried, but still present. No voices, no animals; not even insects venture into this silence. It is as if the jungle were holding its breath.
+> Der Wind trägt den Geruch feuchter Erde und etwas Metallisches heran — Blut, längst getrocknet, aber noch gegenwärtig. Keine Stimmen, keine Tiere; nicht einmal Insekten wagen sich in diese Stille. Es ist, als hielte der Dschungel den Atem an.
 >
-> At the village center rises a shrine of stone, covered in carved symbols: spirals, waves, eyes that seem to follow you. Before it lies an offering place of flat stones, darkly stained. The air around it feels heavier, denser — as if something unseen kept watch over this place.
+> In der Dorfmitte erhebt sich ein Schrein aus Stein, bedeckt mit eingemeißelten Symbolen: Spiralen, Wellen, Augen, die euch zu folgen scheinen. Davor liegt ein Opferplatz aus flachen Steinen, dunkel verfärbt. Die Luft dort fühlt sich schwerer an, dichter — als hielte etwas Unsichtbares Wache über diesen Ort.
 >
-> Between the huts you see signs of a fight: torn-down walls, blood in the sand, a spear lodged in a tree trunk. But no bodies. Only emptiness.
+> Zwischen den Hütten seht ihr Zeichen eines Kampfes: niedergerissene Wände, Blut im Sand, ein Speer, der in einem Baumstamm steckt. Aber keine Leichen. Nur Leere.
 >
-> The shrine itself appears untouched.
+> Der Schrein selbst wirkt unberührt.
 
-> [!quote] Read Aloud — The Shrine of the Silent Deep
-> At first glance the shrine is plain, almost unremarkable: a low block of pale stone, overgrown with moss. But as you step closer you see the fine engravings covering its surface — incised lines that shimmer in the jungle light like flowing water.
+> [!quote] Read Aloud — Der Schrein der stillen Tiefe
+> Auf den ersten Blick ist der Schrein schlicht, fast unscheinbar: ein niedriger Block aus hellem Stein, von Moos überwachsen. Doch als ihr näher tretet, seht ihr die feinen Gravuren, die seine Oberfläche bedecken — eingeritzte Linien, die im Dschungellicht schimmern wie fließendes Wasser.
 >
-> The depictions are simple but clear: a round lagoon framed by palms. Beside it a single circle — a pearl, drawn larger than it could ever truly be. And finally a long, jagged stone — a shard.
+> Die Darstellungen sind einfach, aber klar: eine runde Lagune, von Palmen gesäumt. Daneben ein einzelner Kreis — eine Perle, größer gezeichnet, als sie je wirklich sein könnte. Und schließlich ein langer, gezackter Stein — ein Splitter.
 >
-> Further images show a sequence: first the shard rests in a stone basin. Then it is lifted out — but in the next image the basin breaks apart, as if it could not bear the loss. In the final scene the pearl lies in its place, and the basin remains whole.
+> Weitere Bilder zeigen eine Abfolge: Zuerst ruht der Splitter in einem steinernen Becken. Dann wird er herausgehoben — doch im nächsten Bild zerbricht das Becken, als könnte es den Verlust nicht ertragen. In der letzten Szene liegt die Perle an seiner Stelle, und das Becken bleibt ganz.
 >
-> Beneath the images runs a single curved line drawn like a wave. It ends in a small symbol resembling an eye — watchful, warning.
+> Unter den Bildern verläuft eine einzelne geschwungene Linie, gezeichnet wie eine Welle. Sie endet in einem kleinen Symbol, das einem Auge gleicht — wachsam, warnend.
 
 > [!tip] GM Guidance
-> A closer examination (searching the moss on the front face) reveals three reliefs — the solution to the temple door in [[03-the-temple-of-the-deep|Act 3]]:
-> - **Relief 1 — Birth in the Sea:** a vast shadow rising from a wave. Beneath: *"Out of darkness he took form."*
-> - **Relief 2 — The Binding:** humans casting chains around an immense, shadowy creature. Beneath: *"With joined strength chained to the earth."*
-> - **Relief 3 — The Warning:** a skull with light rising from it — and a hand pressing it back into the deep. Beneath: *"Never may he rise again."*
+> Eine genauere Untersuchung (das Moos an der Vorderseite absuchen) enthüllt drei Reliefs — die Lösung für die Tempeltür in [[03-the-temple-of-the-deep|Akt 3]]:
+> - **Relief 1 — Geburt in der See:** ein gewaltiger Schatten, der sich aus einer Welle erhebt. Darunter: *„Aus der Dunkelheit nahm er Gestalt an."*
+> - **Relief 2 — Die Bindung:** Menschen, die Ketten um eine ungeheure, schattenhafte Kreatur werfen. Darunter: *„Mit vereinter Kraft an die Erde gekettet."*
+> - **Relief 3 — Die Warnung:** ein Schädel, aus dem Licht aufsteigt — und eine Hand, die es zurück in die Tiefe drückt. Darunter: *„Nie darf er sich wieder erheben."*
 >
-> These three reliefs give the players the solution without speaking it. Survivors of the massacre ([[tribal-warrior]]) may be encountered here or nearby — hostile until convinced (DC 12 CHA), invaluable as guides if won over.
+> Diese drei Reliefs geben den Spielern die Lösung, ohne sie auszusprechen. Überlebende des Massakers ([[tribal-warrior|Stammeskrieger]]) können hier oder in der Nähe angetroffen werden — feindselig, bis man sie überzeugt (DC 12 CHA), unschätzbar als Führer, wenn man sie für sich gewinnt.
 
 ### Outcomes
 
-- Reliefs studied → the party holds the door puzzle's answer → leads to any other zone or [[03-the-temple-of-the-deep|Act 3]]
-- Natives befriended → they warn of the "Warden" and can guide the party to lagoon or temple
+- Reliefs studiert → die Gruppe besitzt die Antwort auf das Türrätsel → führt zu jeder anderen Zone oder [[03-the-temple-of-the-deep|Akt 3]]
+- Eingeborene als Freunde gewonnen → sie warnen vor dem „Wächter" und können die Gruppe zur Lagune oder zum Tempel führen
 
-## Scene: The Lagoon of Silent Ghosts
+## Scene: Die Lagune der stillen Geister
 
-- **Purpose:** Offer the pearl — the key to taking the Shard safely — at a real risk.
-- **Trigger:** The party reaches the lagoon north of the pirate camp.
-- **Setup:** A crescent lagoon of glass-still, crystal-clear water; ghost fish below, faint blue lights on the bottom.
+- **Purpose:** Die Perle anbieten — den Schlüssel, um den Splitter sicher zu nehmen — gegen ein echtes Risiko.
+- **Trigger:** Die Gruppe erreicht die Lagune nördlich des Piratenlagers.
+- **Setup:** Eine sichelförmige Lagune mit glasstillem, kristallklarem Wasser; Geisterfische darunter, schwache blaue Lichter am Grund.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The jungle opens onto a wide, crescent-shaped lagoon whose water is so clear you can see the sandy bottom. The surface lies perfectly still, as if cast from glass. No wind ruffles it, no sound disturbs the silence — only the soft dripping of water running down the rocks at its edge.
+> Der Dschungel öffnet sich zu einer weiten, sichelförmigen Lagune, deren Wasser so klar ist, dass ihr den sandigen Grund sehen könnt. Die Oberfläche liegt vollkommen still, wie aus Glas gegossen. Kein Wind kräuselt sie, kein Laut stört die Stille — nur das leise Tropfen von Wasser, das an den Felsen am Rand herabläuft.
 >
-> Beneath the surface, silvery shadows glide. Fish — but not as you know them. Their bodies seem transparent, as if made of light and mist at once. They trace soundless paths, and each time one changes direction a faint shimmer flits through the water like an echo of its movement.
+> Unter der Oberfläche gleiten silbrige Schatten. Fische — aber nicht, wie ihr sie kennt. Ihre Körper wirken durchsichtig, als wären sie aus Licht und Nebel zugleich. Sie ziehen lautlose Bahnen, und jedes Mal, wenn einer die Richtung wechselt, huscht ein schwaches Schimmern durch das Wasser wie ein Echo seiner Bewegung.
 >
-> Looking closer, you notice something strange: in several places on the lagoon floor a soft bluish light glows. Not bright enough to light its surroundings, but clear enough to reveal that something lies down there. The glimmer pulses slowly, like a heartbeat, disappearing again and again under a thin layer of sand and shells.
+> Bei genauerem Hinsehen bemerkt ihr etwas Seltsames: An mehreren Stellen des Lagunengrunds glüht ein sanftes bläuliches Licht. Nicht hell genug, um seine Umgebung zu erleuchten, aber deutlich genug, um zu verraten, dass dort unten etwas liegt. Das Glimmen pulsiert langsam, wie ein Herzschlag, und verschwindet immer wieder unter einer dünnen Schicht aus Sand und Muscheln.
 >
-> The ghost fish avoid those places — they circle wide around them, as if they knew more about what rests below than any human could.
+> Die Geisterfische meiden diese Stellen — sie ziehen weite Kreise um sie, als wüssten sie mehr darüber, was dort unten ruht, als ein Mensch je erfahren könnte.
 
-**Hazard: The Deep Dive**
-- Effect: the lagoon is very deep — DC 15 CON check to dive down and bring a [[lagoon-pearl|pearl]] up
+**Hazard: Der tiefe Tauchgang**
+- Effect: die Lagune ist sehr tief — DC 15 CON-Probe, um hinabzutauchen und eine [[lagoon-pearl|Perle]] heraufzuholen
 
-**Hazard: Drowning Hands**
-- Effect: the moment a character takes a pearl, invisible hands drag them toward the bottom — DC 12 STR check to surface <!-- Source DC 11, snapped to the Shadowdark ladder -->
-- Counter: only pearl-takers are pulled; characters who leave the pearls untouched swim freely
+**Hazard: Ertränkende Hände**
+- Effect: in dem Moment, in dem ein Charakter eine Perle nimmt, ziehen ihn unsichtbare Hände zum Grund — DC 12 STR-Probe, um aufzutauchen <!-- Quelle DC 11, an die Shadowdark-Stufenleiter angeglichen -->
+- Counter: nur Perlennehmer werden hinabgezogen; Charaktere, die die Perlen unberührt lassen, schwimmen frei
 
-**Hazard: Ghost Fish**
-- Effect: anyone lingering in the water takes 1d4 damage per round — the fish are not a fightable enemy
+**Hazard: Geisterfische**
+- Effect: wer im Wasser verweilt, erleidet 1d4 Schaden pro Runde — die Fische sind kein bekämpfbarer Gegner
 
 > [!tip] GM Guidance
-> The lagoon "can heal or curse": a character who bathes respectfully (no pearl theft) may recover 1d4 HP once; a character who grabs greedily draws the drowning hands. The pearls are the only safe way to take the Shard — the party doesn't know how many they might need. One is enough.
+> Die Lagune „kann heilen oder verfluchen": Ein Charakter, der respektvoll badet (kein Perlendiebstahl), darf einmalig 1d4 HP zurückgewinnen; ein Charakter, der gierig zugreift, zieht die ertränkenden Hände auf sich. Die Perlen sind der einzige sichere Weg, den Splitter zu nehmen — die Gruppe weiß nicht, wie viele sie brauchen könnte. Eine genügt.
 
 ### Outcomes
 
-- Pearl retrieved → the party holds the key to the Shard → leads to any other zone or Skull Cliff
-- A character drowns or flees empty-handed → the lagoon remains; they can try again
+- Perle geborgen → die Gruppe besitzt den Schlüssel zum Splitter → führt zu jeder anderen Zone oder zur Schädelklippe
+- Ein Charakter ertrinkt oder flieht mit leeren Händen → die Lagune bleibt; sie können es erneut versuchen
 
-## Scene: Skull Cliff
+## Scene: Die Schädelklippe
 
-- **Purpose:** Deliver the temple entrance and spring the monkey ambush.
-- **Trigger:** The party approaches the northern rock formation the logbook and shrine point to.
-- **Setup:** A wide basin of grey rock; at its center the skull-shaped temple mouth. ![[leviathan-temple.png]]
+- **Purpose:** Den Tempeleingang liefern und den Hinterhalt der Affen auslösen.
+- **Trigger:** Die Gruppe nähert sich der nördlichen Felsformation, auf die Logbuch und Schrein verweisen.
+- **Setup:** Ein weites Becken aus grauem Fels; in seiner Mitte der schädelförmige Tempelschlund. ![[leviathan-temple.png]]
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The jungle falls back, and before you opens a broad basin of grey rock. At its center rises a massive block of stone, shaped by wind and water into the silhouette of a skull — not perfect, not artful, but uncannily natural. The eye sockets are sunken deep, filled with shadows that even sunlight does not seem to pierce.
+> Der Dschungel weicht zurück, und vor euch öffnet sich ein weites Becken aus grauem Fels. In seiner Mitte erhebt sich ein massiver Steinblock, von Wind und Wasser zur Silhouette eines Schädels geformt — nicht perfekt, nicht kunstvoll, aber unheimlich natürlich. Die Augenhöhlen liegen tief eingesunken, gefüllt mit Schatten, die selbst das Sonnenlicht nicht zu durchdringen scheint.
 >
-> The entrance lies where the skull's "mouth" should be: a dark cleft breathing out cool, damp air. It smells of old water, of salt, and of something that recalls forgotten depths. A soft dripping echoes from inside, regular as a heartbeat.
+> Der Eingang liegt dort, wo der „Mund" des Schädels sein müsste: ein dunkler Spalt, der kühle, feuchte Luft ausatmet. Es riecht nach altem Wasser, nach Salz und nach etwas, das an vergessene Tiefen erinnert. Ein leises Tropfen hallt aus dem Inneren, regelmäßig wie ein Herzschlag.
 >
-> The rocks around the entrance are covered with scratched symbols — waves, spirals, and a single sign like a circle with a dot at its center. Some lines are fresh, others nearly weathered away, as if many hands across many generations had retraced the same patterns.
+> Die Felsen um den Eingang sind mit eingeritzten Symbolen bedeckt — Wellen, Spiralen und ein einzelnes Zeichen wie ein Kreis mit einem Punkt in der Mitte. Manche Linien sind frisch, andere fast verwittert, als hätten viele Hände über viele Generationen dieselben Muster nachgezogen.
 >
-> As you step closer, the air changes. It grows heavier, denser, as if the temple noticed your presence. A faint bluish glow pulses deep inside — barely visible, but unmistakable. A light that comes from no torch, but from something waiting below.
+> Als ihr näher tretet, verändert sich die Luft. Sie wird schwerer, dichter, als hätte der Tempel eure Gegenwart bemerkt. Tief im Inneren pulsiert ein schwaches bläuliches Glühen — kaum sichtbar, aber unverkennbar. Ein Licht, das von keiner Fackel stammt, sondern von etwas, das unten wartet.
 
-**Encounter: The Swarm Attacks**
-- Enemies: 5 × [[cursed-monkey-swarm|cursed monkey]], 1 × [[cursed-monkey-alpha]]
-- Tactics: the monkeys scramble over and past characters to surround them; the alpha hangs back in the trees using Bone Screech, then joins with Shard Plague attacks; the swarm will not flee while the alpha lives
-- Terrain: jungle edge and bare rock; trees for the alpha's Jungle Hunter repositioning
-- Treasure: none — the swarm is corruption, not greed
+**Encounter: Der Schwarm greift an**
+- Enemies: 5 × [[cursed-monkey-swarm|verfluchter Affe]], 1 × [[cursed-monkey-alpha|Alpha der verfluchten Affen]]
+- Tactics: die Affen klettern über die Charaktere hinweg und an ihnen vorbei, um sie einzukreisen; der Alpha bleibt in den Bäumen zurück und nutzt Knochenkreischen, dann greift er mit Splitterseuche-Attacken ein; der Schwarm flieht nicht, solange der Alpha lebt
+- Terrain: Dschungelrand und nackter Fels; Bäume für die Dschungeljäger-Umpositionierung des Alphas
+- Treasure: keiner — der Schwarm ist Verderbnis, nicht Gier
 
 > [!warning]
-> This ambush happens **at the latest** here, before the temple entrance, if it hasn't been triggered by a random encounter earlier. Necrotic death-bursts from the monkeys can drop a wounded level-1 party — telegraph the swarm's approach (shrieks, shaking branches).
+> Dieser Hinterhalt geschieht **spätestens** hier, vor dem Tempeleingang, falls er nicht schon früher durch eine Zufallsbegegnung ausgelöst wurde. Nekrotische Todesausbrüche der Affen können eine angeschlagene Gruppe der Stufe 1 zu Boden bringen — kündige das Nahen des Schwarms an (Kreischen, zitternde Äste).
 
 ### Outcomes
 
-- The swarm is defeated and the party enters the maw → leads to [[03-the-temple-of-the-deep|Act 3: The Temple of the Deep]]
-- The party retreats to explore first → back to the hexcrawl scenes; the swarm's remnants (if any survived) stalk them
+- Der Schwarm ist besiegt und die Gruppe betritt den Schlund → führt zu [[03-the-temple-of-the-deep|Act 3: Der Tempel der Tiefe]]
+- Die Gruppe zieht sich zurück, um erst zu erkunden → zurück zu den Hexcrawl-Szenen; die Reste des Schwarms (falls welche überlebten) verfolgen sie

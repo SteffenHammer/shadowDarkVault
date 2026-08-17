@@ -1,67 +1,67 @@
 ---
-title: The Shard
+title: Der Splitter
 act: 4
 tags: [act]
 ---
 
-# Act 4: The Shard
+# Act 4: Der Splitter
 
 ## Act Overview
 
-- **Purpose:** The confrontation with the [[shard-of-the-deep|Shard of the Deep]] and the adventure's defining choice: take it or destroy it.
-- **State of the world:** The party stands in the deepest chamber of the temple. The Warden of the Deep sleeps — until someone touches the Shard.
-- **Ways it can end:** The adventure ends **the moment the party chooses** what to do with the Shard. The consequences of that choice open Adventure 2 — see the Threads section of [[00-campaign|the campaign overview]].
+- **Purpose:** Die Konfrontation mit dem [[shard-of-the-deep|Splitter der Tiefe]] und die entscheidende Wahl des Abenteuers: ihn nehmen oder ihn zerstören.
+- **State of the world:** Die Gruppe steht in der tiefsten Kammer des Tempels. Der Wächter der Tiefe schläft — bis jemand den Splitter berührt.
+- **Ways it can end:** Das Abenteuer endet **in dem Moment, in dem die Gruppe wählt**, was sie mit dem Splitter tut. Die Konsequenzen dieser Wahl eröffnen Abenteuer 2 — siehe den Threads-Abschnitt der [[00-campaign|Kampagnenübersicht]].
 
-## Scene: The Chamber of the Shard (Room 7)
+## Scene: Die Kammer des Splitters (Raum 7)
 
-- **Purpose:** Deliver the finale: awe, the Warden, and the choice.
-- **Trigger:** The party leaves the Chamber of Splintered Truth and follows the last passage down.
-- **Setup:** A vast natural dome of black stone. The Shard floats above a stone basin at the center. The Warden of the Deep is present but unmanifested.
+- **Purpose:** Das Finale liefern: Ehrfurcht, den Wächter und die Wahl.
+- **Trigger:** Die Gruppe verlässt die Kammer der zersplitterten Wahrheit und folgt dem letzten Gang hinab.
+- **Setup:** Eine gewaltige natürliche Kuppel aus schwarzem Stein. Der Splitter schwebt über einem steinernen Becken in der Mitte. Der Wächter der Tiefe ist anwesend, aber nicht manifestiert.
 
 ### What Happens
 
 > [!quote] Read Aloud
-> The passage opens into a vast hall of black stone. The walls are smooth as glass, yet veined with fine, bluish shimmering lines that pulse to the beat of a slow heart. The air is heavy and still, as if the room itself were holding its breath.
+> Der Gang öffnet sich in eine gewaltige Halle aus schwarzem Stein. Die Wände sind glatt wie Glas und doch von feinen, bläulich schimmernden Linien durchzogen, die im Takt eines langsamen Herzens pulsieren. Die Luft ist schwer und still, als hielte der Raum selbst den Atem an.
 >
-> At the center rises a massive altar, roughly hewn and yet of uncanny precision. Above it floats the Shard of the Deep — a sharp-edged fragment of blue light that writhes like liquid energy. It turns slowly on its own axis, and every pulse of its light throws long, distorted shadows across the walls.
+> In der Mitte erhebt sich ein massiver Altar, grob behauen und doch von unheimlicher Präzision. Über ihm schwebt der Splitter der Tiefe — ein scharfkantiges Fragment aus blauem Licht, das sich windet wie flüssige Energie. Langsam dreht er sich um die eigene Achse, und jeder Puls seines Lichts wirft lange, verzerrte Schatten über die Wände.
 >
-> Beneath the Shard rests a stone basin of water, crusted with salt and marked with dark stains. It looks old… older than the temple itself. A cold wind strokes through the room, though there are no openings. It carries the smell of deep water and something… ancient.
+> Unter dem Splitter ruht ein steinernes Wasserbecken, mit Salz verkrustet und von dunklen Flecken gezeichnet. Es sieht alt aus… älter als der Tempel selbst. Ein kalter Wind streicht durch den Raum, obwohl es keine Öffnungen gibt. Er trägt den Geruch tiefen Wassers mit sich und etwas… Uraltes.
 >
-> As you approach the altar, the Shard begins to glow brighter — as if it recognized you.
+> Als ihr euch dem Altar nähert, beginnt der Splitter heller zu glühen — als hätte er euch erkannt.
 
-**The mechanics of the altar:**
+**Die Mechanik des Altars:**
 
-- **Taking the Shard *without* placing a [[lagoon-pearl|pearl]]:**
-	- The Warden of the Deep wakes (read-aloud below) — a massive ghost-leviathan shadow.
-	- The Warden prevents the Shard from leaving the chamber.
-	- Its attacks deal **1d4 damage per round** to those holding or nearest the Shard (hazard — the Warden cannot be fought or killed; the party's options are to replace the Shard, produce a pearl, or flee without it).
-- **Taking the Shard *with* the pearl set in the basin:**
-	- The Warden of the Deep still wakes and rises —
-	- but it takes the pearl, accepts the exchange, and vanishes.
-	- The Shard can be removed safely.
-- **Destroying the Shard** is possible — and world-changing. See Outcomes.
+- **Den Splitter nehmen, *ohne* eine [[lagoon-pearl|Perle]] einzulegen:**
+	- Der Wächter der Tiefe erwacht (vorzulesender Text unten) — ein gewaltiger Geister-Leviathan-Schatten.
+	- Der Wächter verhindert, dass der Splitter die Kammer verlässt.
+	- Seine Angriffe verursachen **1d4 Schaden pro Runde** bei denen, die den Splitter halten oder ihm am nächsten sind (Gefahr — der Wächter kann nicht bekämpft oder getötet werden; die Optionen der Gruppe sind, den Splitter zurückzulegen, eine Perle vorzuweisen oder ohne ihn zu fliehen).
+- **Den Splitter nehmen, *mit* der Perle im Becken:**
+	- Der Wächter der Tiefe erwacht trotzdem und erhebt sich —
+	- doch er nimmt die Perle, akzeptiert den Tausch und verschwindet.
+	- Der Splitter kann sicher entnommen werden.
+- **Den Splitter zerstören** ist möglich — und verändert die Welt. Siehe Outcomes.
 
-> [!quote] Read Aloud — The Waking of the Warden of the Deep
-> The moment your fingers touch the Shard, the room changes. The fragment's blue light flickers — first like a breath, then like a heartbeat. The walls begin to pulse as if coming alive. A deep, rolling drone rises from the floor, so mighty your knees buckle.
+> [!quote] Read Aloud — Das Erwachen des Wächters der Tiefe
+> In dem Moment, in dem eure Finger den Splitter berühren, verändert sich der Raum. Das blaue Licht des Fragments flackert — erst wie ein Atemzug, dann wie ein Herzschlag. Die Wände beginnen zu pulsieren, als erwachten sie zum Leben. Ein tiefes, rollendes Dröhnen steigt aus dem Boden auf, so gewaltig, dass eure Knie nachgeben.
 >
-> The water in the basin suddenly boils, though it stays ice-cold. Dark wisps of mist shoot from it and crawl across the altar, across the floor, across your feet. The temperature plunges, as if the deep itself were flooding into the room.
+> Das Wasser im Becken kocht plötzlich, obwohl es eiskalt bleibt. Dunkle Nebelschwaden schießen daraus hervor und kriechen über den Altar, über den Boden, über eure Füße. Die Temperatur stürzt ab, als flute die Tiefe selbst in den Raum.
 >
-> Then the air tears open.
+> Dann reißt die Luft auf.
 >
-> A vast shadow rises out of nothing — a shape of water, mist, and ancient wrath. It fills the hall without touching it: a being without clear form, but with eyes that burn like two cold stars.
+> Ein gewaltiger Schatten erhebt sich aus dem Nichts — eine Gestalt aus Wasser, Nebel und uraltem Zorn. Er füllt die Halle, ohne sie zu berühren: ein Wesen ohne klare Form, aber mit Augen, die wie zwei kalte Sterne brennen.
 >
-> A sound fills the chamber. Not a scream. Not a roar. But the groan of an ancient ship's hull breaking in the deep. A sound that strikes you to the marrow.
+> Ein Laut erfüllt die Kammer. Kein Schrei. Kein Brüllen. Sondern das Ächzen eines uralten Schiffsrumpfs, der in der Tiefe zerbricht. Ein Laut, der euch bis ins Mark trifft.
 >
-> The room shakes, the Shard's light flares blinding-bright, and the shadow begins to move… straight toward you.
+> Der Raum bebt, das Licht des Splitters flammt blendend hell auf, und der Schatten beginnt, sich zu bewegen… geradewegs auf euch zu.
 
 > [!warning]
-> The Warden is not a fight the party can win — it has no stat block by design. If the party tries to battle it, make the futility obvious fast (weapons pass through it; the drone alone drops loose stone from the dome) before the 1d4-per-round attrition kills anyone.
+> Der Wächter ist kein Kampf, den die Gruppe gewinnen kann — er hat mit Absicht keinen Statblock. Versucht die Gruppe, ihn zu bekämpfen, mache die Aussichtslosigkeit schnell offensichtlich (Waffen gehen durch ihn hindurch; allein das Dröhnen löst loses Gestein aus der Kuppel), bevor die Zermürbung von 1d4 pro Runde jemanden tötet.
 
 > [!tip] GM Guidance
-> Let the choice breathe. The party has seen both futures in the vision pool, heard the ghosts' warnings, and may be carrying Rauthorn's orders and the pearl. Whatever they choose is right — this is the campaign's first branching point, not a puzzle with a correct answer.
+> Lass der Wahl Raum zum Atmen. Die Gruppe hat im Visionsbecken beide Zukünfte gesehen, die Warnungen der Geister gehört und trägt womöglich Rauthorns Befehle und die Perle bei sich. Was auch immer sie wählen, ist richtig — dies ist der erste Verzweigungspunkt der Kampagne, kein Rätsel mit einer korrekten Antwort.
 
 ### Outcomes
 
-- **The party takes the Shard** (with the pearl) → the adventure ends as they carry it out of the temple. Rauthorn's reaction and the first changes are Adventure 2's opening — see [[00-campaign|Threads Between Adventures]].
-- **The party destroys the Shard** → the adventure ends as the temple begins to shake and the sea far below answers. The Leviathan's waking and Rauthorn's fury are Adventure 2's opening — see [[00-campaign|Threads Between Adventures]].
-- **The party leaves the Shard untouched** → the adventure ends with empty hands and a captain to face; also an opening for Adventure 2.
+- **Die Gruppe nimmt den Splitter** (mit der Perle) → das Abenteuer endet, als sie ihn aus dem Tempel tragen. Rauthorns Reaktion und die ersten Veränderungen sind der Auftakt von Abenteuer 2 — siehe [[00-campaign|Threads Between Adventures]].
+- **Die Gruppe zerstört den Splitter** → das Abenteuer endet, als der Tempel zu beben beginnt und die See tief unten antwortet. Das Erwachen des Leviathans und Rauthorns Wut sind der Auftakt von Abenteuer 2 — siehe [[00-campaign|Threads Between Adventures]].
+- **Die Gruppe lässt den Splitter unberührt** → das Abenteuer endet mit leeren Händen und einem Kapitän, dem man gegenübertreten muss; ebenfalls ein Auftakt für Abenteuer 2.

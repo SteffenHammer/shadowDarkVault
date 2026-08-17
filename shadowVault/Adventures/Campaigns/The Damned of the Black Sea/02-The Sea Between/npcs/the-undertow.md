@@ -1,22 +1,22 @@
 ---
-title: The Undertow
+title: Der Sog
 tags: [npc]
 ---
 
-# The Undertow
+# Der Sog
 
-- **Role:** antagonist — death's law given driftwood shape; unfightable by design (no stat block, like the Warden of the Deep)
-- **Appearance:** At first a smudge on the horizon; by Night 4, a shape: not one ship but hundreds — galleons grown into frigates grown into longboats, keels jutting like broken ribs, a mountain of everything the sea ever swallowed, sailing *without sails*. Green lanterns burn in a thousand portholes: its collected souls. It is slow. It never turns. It never stops.
-- **Personality:** Polite, patient, and correct. It speaks rarely — through boarders, or through the standing water in the bilge — and never raises its voice, never mocks, never gloats. *Mannerism:* it thanks people. (*"Take your time. I have all of it."*) The horror is that it isn't wrong.
-- **Motivation:** The party's souls, **because** they drowned and drowned souls are owed to it — the ferryman is a thief and the debt must balance. The motive stands with or without this party; it has collected every wreck since the sea began. It wants the *original* debt before any substitute: its fingers always reach for a PC first, and take another soul only when one is formally offered — or when the debtors keep themselves beyond reach.
-- **Secrets:** It cannot lie — it has never needed to. It keeps every bargain *to the letter*, takes only what it is owed, and stops the instant the sum balances. Its books recognize only the original debt or substitutes *freely given*: a soul its fingers seize that is not the debt goes down into the green lanterns uncounted — destroyed, and crediting nothing ([[00-overview|overview]]). Its claim — *"You drowned"* — is corroborated by nothing aboard and never may be (the ambiguity rule, [[00-overview|overview]]). **It keeps ledgers:** it never forgets souls that escaped it; any time a PC nearly drowns in later adventures, something in the water recognizes them (campaign thread).
-- **Relationships:** Every boarder is its finger: the [[mooring-man|Mooring-Men]], [[the-pilot|the Pilot]], the [[the-dead-crew|dead of the Tideblade]], the [[drowned-sailor|drowned sailors]], and [[the-herald|the Herald]] — all their bargains are its bargains. It calls [[the-old-sailor|the old sailor]] only *"the ferryman"* and *"the thief."*
-- **Stat block:** none — it is never fought, only answered. Its terms and arithmetic are in [[04-the-storm-crossing|Act 4: The Toll]]; its voice aboard is the bilge water ([[03-the-fog-banks|Act 3: The Bilge Door]]).
+- **Role:** Antagonist — das Gesetz des Todes in Treibholzgestalt; konstruktionsbedingt unbekämpfbar (kein Statblock, wie der Wächter der Tiefe)
+- **Appearance:** Zuerst ein Fleck am Horizont; ab Nacht 4 eine Gestalt: nicht ein Schiff, sondern Hunderte — Galeonen, verwachsen mit Fregatten, verwachsen mit Langbooten, Kiele ragen wie gebrochene Rippen, ein Berg aus allem, was die See je verschluckt hat, und er segelt *ohne Segel*. Grüne Laternen brennen in tausend Bullaugen: seine eingetriebenen Seelen. Er ist langsam. Er wendet nie. Er hält nie an.
+- **Personality:** Höflich, geduldig und korrekt. Er spricht selten — durch Enterer oder durch das stehende Wasser in der Bilge — und erhebt nie die Stimme, spottet nie, triumphiert nie. *Eigenart:* Er bedankt sich. (*„Nehmt euch Zeit. Ich habe alle Zeit der Welt.“*) Das Grauen liegt darin, dass er nicht unrecht hat.
+- **Motivation:** Die Seelen der Gruppe, **weil** sie ertrunken sind und ertrunkene Seelen ihm zustehen — der Fährmann ist ein Dieb, und die Schuld muss ausgeglichen werden. Das Motiv besteht mit oder ohne diese Gruppe; er hat jedes Wrack eingetrieben, seit es die See gibt. Er will die *ursprüngliche* Schuld vor jedem Ersatz: Seine Finger greifen immer zuerst nach einem SC und nehmen eine andere Seele nur, wenn sie förmlich angeboten wird — oder wenn die Schuldner sich selbst außer Reichweite halten.
+- **Secrets:** Er kann nicht lügen — er hat es nie nötig gehabt. Er hält jeden Handel *buchstabengetreu*, nimmt nur, was ihm zusteht, und hört in dem Moment auf, in dem die Summe ausgeglichen ist. Seine Bücher erkennen nur die ursprüngliche Schuld oder *freiwillig gegebene* Ersatzseelen an: Eine Seele, die seine Finger ergreifen und die nicht die Schuld ist, fährt unverbucht in die grünen Laternen hinab — vernichtet, und nichts wird gutgeschrieben ([[00-overview|Übersicht]]). Sein Anspruch — *„Ihr seid ertrunken“* — wird von nichts an Bord bestätigt und darf es nie werden (die Ambiguitätsregel, [[00-overview|Übersicht]]). **Er führt Schuldbücher:** Er vergisst keine Seele, die ihm entkommen ist; wann immer ein SC in späteren Abenteuern beinahe ertrinkt, erkennt ihn etwas im Wasser wieder (Kampagnenfaden).
+- **Relationships:** Jeder Enterer ist sein Finger: die [[mooring-man|Festmacher]], [[the-pilot|der Lotse]], die [[the-dead-crew|Toten der Gezeitenklinge]], die [[drowned-sailor|ertrunkenen Matrosen]] und [[the-herald|der Herold]] — all ihre Handel sind seine Handel. Den [[the-old-sailor|alten Seemann]] nennt er nur *„den Fährmann“* und *„den Dieb“*.
+- **Stat block:** keiner — er wird nie bekämpft, nur beantwortet. Seine Bedingungen und seine Arithmetik stehen in [[04-the-storm-crossing|Act 4: Der Zoll]]; seine Stimme an Bord ist das Bilgenwasser ([[03-the-fog-banks|Act 3: Die Bilgentür]]).
 
-## Its voice (GM)
+## Seine Stimme (GM)
 
-Level, courteous, exact. Signature statement — use it verbatim, once in the bilge and once at the storm-wall:
+Ruhig, höflich, exakt. Kernsatz — wörtlich verwenden, einmal in der Bilge und einmal an der Sturmwand:
 
-> *"Nothing is being done to you. Something was done to* me. *You drowned. You are owed to me. The ferryman is a thief."*
+> *„Euch wird nichts angetan. Etwas wurde* mir *angetan. Ihr seid ertrunken. Ihr steht mir zu. Der Fährmann ist ein Dieb.“*
 
-It answers questions honestly, and every honest answer walks toward the bargain: *"I am owed one for each of you. Any souls will balance it — given, not taken. The ones below decks — no one will miss what no one remembers boarding."*
+Er beantwortet Fragen ehrlich, und jede ehrliche Antwort führt auf den Handel zu: *„Mir steht eine für jeden von euch zu. Beliebige Seelen gleichen es aus — gegeben, nicht genommen. Die unter Deck — niemand wird vermissen, woran sich niemand erinnert, dass es je an Bord kam.“*

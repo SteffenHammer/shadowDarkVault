@@ -1,14 +1,14 @@
 ---
-title: The Cartographer
+title: Die Kartographin
 tags: [npc]
 ---
 
-# The Cartographer
+# Die Kartographin
 
-- **Role:** passenger — secretly one of the Leviathan's embodied gifts; her gift is *information*, and it is Adventure III's hook
-- **Appearance:** A woman with ink to her elbows, charts spread over half the passengers' table, a pen tucked behind each ear and a third one lost in her hair.
-- **Personality:** Absorbed, precise, cheerfully argumentative about coastlines. *Mannerism:* she keeps her sketches rolled in a **bone tube she taps when she thinks**. (Her signature object; never call it out mechanically.)
-- **Motivation:** To keep her loop: charting **coastlines that don't exist** — yet. She corners the party's **wizard** about star-mathematics and doesn't like the answers (the sky is wrong, and she's the only passenger who almost notices). She doesn't know what she is.
-- **Secrets:** (GM only) She embodies the gift of **guidance for the adventures ahead — a map or logbook of coastlines that don't exist yet, marking where Rauthorn's ritual will happen** — information as treasure, and the party's course into Adventure III. Shown the coastline glimpsed from the crow's nest ([[03-the-fog-banks|Act 3]]), she goes pale: it's one of hers, drawn *before* anyone climbed the mast — she laughs it off badly. Her wrong memory of boarding: *"commissioned by the admiralty"* — she cannot recall which admiralty, and it bothers her for exactly three seconds at a time. If given to the Undertow she asks for one minute to finish a line, doesn't get it, and goes — the bone tube vanishes with her: **the map is deleted from the game**, and Adventure III must be found the hard way. Discovered only as an absence aboard [[the-gift-boat]].
-- **Relationships:** Gift of [[the-old-sailor|the ferryman]]; fellow passenger to [[the-fencing-master]], [[the-quiet-girl]], [[the-gambler]], [[the-sleeping-man]]. Nobody remembers her embarking.
-- **Stat block:** none — she does not fight; in the storm she lashes herself to the table to save the charts, which is its own kind of station.
+- **Role:** Passagierin — insgeheim eine der verkörperten Gaben des Leviathans; ihre Gabe ist *Information*, und sie ist der Aufhänger für Abenteuer III
+- **Appearance:** Eine Frau mit Tinte bis zu den Ellbogen, Karten über den halben Passagierstisch gebreitet, hinter jedem Ohr eine Feder und eine dritte im Haar verloren.
+- **Personality:** Versunken, präzise, fröhlich streitlustig, wenn es um Küstenlinien geht. *Eigenart:* Ihre Skizzen bewahrt sie gerollt in einer **Knochenröhre auf, an die sie tippt, wenn sie nachdenkt**. (Ihr Signaturgegenstand; nie mechanisch hervorheben.)
+- **Motivation:** Ihre Schleife zu bewahren: das Kartieren von **Küstenlinien, die es nicht gibt** — noch nicht. Sie stellt den **Zauberer** der Gruppe zur Sternenmathematik zur Rede, und die Antworten gefallen ihr nicht (der Himmel ist falsch, und sie ist die einzige Passagierin, die es beinahe bemerkt). Sie weiß nicht, was sie ist.
+- **Secrets:** (nur GM) Sie verkörpert die Gabe **der Führung für die kommenden Abenteuer — eine Karte oder ein Logbuch von Küstenlinien, die es noch nicht gibt, mit der Stelle, an der Rauthorns Ritual stattfinden wird** — Information als Schatz und der Kurs der Gruppe in Abenteuer III. Zeigt man ihr die vom Krähennest aus erspähte Küstenlinie ([[03-the-fog-banks|Act 3]]), wird sie bleich: Es ist eine von ihren, gezeichnet, *bevor* irgendwer den Mast erklomm — sie lacht es schlecht weg. Ihre falsche Einschiffungserinnerung: *„im Auftrag der Admiralität“* — welche Admiralität, kann sie nicht sagen, und es beschäftigt sie jedes Mal genau drei Sekunden lang. Wird sie dem Sog gegeben, bittet sie um eine Minute, um eine Linie zu vollenden, bekommt sie nicht und geht — die Knochenröhre verschwindet mit ihr: **Die Karte wird aus dem Spiel gelöscht**, und Abenteuer III muss auf dem harten Weg gefunden werden. Entdeckt nur als Fehlstelle an Bord [[the-gift-boat|des Gabenboots]].
+- **Relationships:** Gabe [[the-old-sailor|des Fährmanns]]; Mitreisende von [[the-fencing-master|dem Fechtmeister]], [[the-quiet-girl|dem stillen Mädchen]], [[the-gambler|dem Spieler]] und [[the-sleeping-man|dem schlafenden Mann]]. Niemand erinnert sich an ihre Einschiffung.
+- **Stat block:** keiner — sie kämpft nicht; im Sturm bindet sie sich am Tisch fest, um die Karten zu retten, was auf seine Art auch eine Station ist.

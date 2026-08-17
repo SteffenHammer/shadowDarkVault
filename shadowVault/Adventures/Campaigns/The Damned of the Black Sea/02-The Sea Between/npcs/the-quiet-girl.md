@@ -1,14 +1,14 @@
 ---
-title: The Quiet Girl
+title: Das stille Mädchen
 tags: [npc]
 ---
 
-# The Quiet Girl
+# Das stille Mädchen
 
-- **Role:** passenger — secretly one of the Leviathan's embodied gifts; the sacrifice that is *meant* to hurt
-- **Appearance:** A girl of ten or so, bare feet silent on the wet deck, hair that never quite dries. She is always somewhere slightly out of the weather, working at her cord.
-- **Personality:** Quiet — speaks rarely, single words, and smiles instead of answering. *Mannerism:* she **ties and unties the same loop of knotted cord**, over and over, while humming under her breath. (Her signature object; never call it out mechanically.)
-- **Motivation:** To keep her loop: the knots, the humming, watching the water from under the gunwale where the spray can't reach. She'll teach a patient PC a knot — one they somehow can't reproduce the next day. She doesn't know what she is.
-- **Secrets:** (GM only) She embodies the gift of **a new minor ability for every PC** (a spell, a knack, a song of the deep — fitted to the character who receives it at the Adventure III build). The tune she hums is a hymn only the **priest's** order sings — a seminary verse laypeople never hear; the priest's player should be told privately. Her wrong memory of boarding: *"with my mother"* — there is no mother aboard, and she doesn't notice. If given to the Undertow she goes to the rail without a word, cord in her fist, humming — handled **by implication, never on-screen cruelty** (hard tone constraint, [[00-overview|overview]]): the fog takes her from view before the rail does. The cord vanishes with her; the whole party's ability gift is deleted, discovered only as an absence aboard [[the-gift-boat]] in Adventure III.
-- **Relationships:** Gift of [[the-old-sailor|the ferryman]]; fellow passenger to [[the-fencing-master]], [[the-gambler]], [[the-cartographer]], [[the-sleeping-man]]. Nobody remembers her embarking.
-- **Stat block:** none — she does not fight, and the scene never asks her to.
+- **Role:** Passagierin — insgeheim eine der verkörperten Gaben des Leviathans; das Opfer, das wehtun *soll*
+- **Appearance:** Ein Mädchen von etwa zehn Jahren, bloße Füße lautlos auf dem nassen Deck, Haar, das nie ganz trocknet. Sie ist immer irgendwo leicht außerhalb des Wetters und arbeitet an ihrer Schnur.
+- **Personality:** Still — spricht selten, einzelne Worte, und lächelt, statt zu antworten. *Eigenart:* Sie **knüpft und löst dieselbe Schlaufe aus verknoteter Schnur**, wieder und wieder, und summt dabei leise vor sich hin. (Ihr Signaturgegenstand; nie mechanisch hervorheben.)
+- **Motivation:** Ihre Schleife zu bewahren: die Knoten, das Summen, das Wasser beobachten von unter dem Dollbord, wo die Gischt nicht hinkommt. Einem geduldigen SC bringt sie einen Knoten bei — einen, den er am nächsten Tag seltsamerweise nicht mehr zustande bringt. Sie weiß nicht, was sie ist.
+- **Secrets:** (nur GM) Sie verkörpert die Gabe **einer neuen kleinen Fähigkeit für jeden SC** (ein Zauber, ein Kniff, ein Lied der Tiefe — zugeschnitten auf den Charakter, der sie beim Ausbau zu Abenteuer III erhält). Die Melodie, die sie summt, ist ein Hymnus, den nur der Orden des **Priesters** singt — ein Seminarvers, den Laien nie zu hören bekommen; dem Spieler des Priesters sollte das unter vier Augen gesagt werden. Ihre falsche Einschiffungserinnerung: *„mit meiner Mutter“* — es gibt keine Mutter an Bord, und sie bemerkt es nicht. Wird sie dem Sog gegeben, geht sie wortlos zur Reling, die Schnur in der Faust, summend — dargestellt **durch Andeutung, nie durch Grausamkeit auf offener Bühne** (harte Tonvorgabe, [[00-overview|Übersicht]]): Der Nebel nimmt sie aus dem Blick, bevor die Reling es tut. Die Schnur verschwindet mit ihr; die Fähigkeitsgabe der ganzen Gruppe wird gelöscht und erst als Fehlstelle an Bord [[the-gift-boat|des Gabenboots]] in Abenteuer III entdeckt.
+- **Relationships:** Gabe [[the-old-sailor|des Fährmanns]]; Mitreisende von [[the-fencing-master|dem Fechtmeister]], [[the-gambler|dem Spieler]], [[the-cartographer|der Kartographin]] und [[the-sleeping-man|dem schlafenden Mann]]. Niemand erinnert sich an ihre Einschiffung.
+- **Stat block:** keiner — sie kämpft nicht, und die Szene verlangt es nie von ihr.

@@ -1,28 +1,28 @@
 ---
-title: Zombie Captain
+title: Zombie-Kapitän
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Zombie Captain
+# Zombie-Kapitän
 
-The missing pirate captain, risen: a powerful undead, half rotted, half lit from within by the Shard of the Deep. His eyes glow blue and his voice sounds like a drowned curse.
+Der verschollene Piratenkapitän, wiedererstanden: ein mächtiger Untoter, halb verwest, halb von innen erleuchtet vom Splitter der Tiefe. Seine Augen glühen blau, und seine Stimme klingt wie ein ertrunkener Fluch.
 
-> [!info]+ Zombie Captain — LV 5
+> [!info]+ Zombie-Kapitän — LV 5
 > **AC** 14 · **HP** 22 · **MV** near · **AL** C
 >
-> **ATK** 1 ceremonial saber +4 (1d8+2)
+> **ATK** 1 Zeremoniensäbel +4 (1d8+2)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +3  | +0  | +2  | -1  | +0  | +1  |
 >
-> **Aura of the Betrayed.** Zombie pirates within near gain +1 on attacks and fight without fear.
+> **Aura der Verratenen.** Zombie-Piraten innerhalb von near erhalten +1 auf Angriffe und kämpfen ohne Furcht.
 >
-> **Shard Touch.** On a hit, the target makes a DC 12 WIS check or is dazed for 1 round (mental overwhelm).
+> **Splitterberührung.** Bei einem Treffer besteht das Ziel eine DC 12 WIS-Probe oder ist 1 Runde lang benommen (geistige Überwältigung).
 >
-> **Drowned Blow (1/day).** A mighty strike that blasts water from the body: +4 to hit, 2d8 damage, and the target is hurled 10 ft backward.
+> **Ertränkter Hieb (1/Tag).** Ein gewaltiger Schlag, der Wasser aus dem Körper schleudert: +4 auf den Angriff, 2d8 Schaden, und das Ziel wird 10 Fuß zurückgeschleudert.
 >
-> **Unholy Toughness.** When reduced to 0 HP, roll a d20: on 19–20 he rises with 1 HP and gains +2 on attacks for the rest of the fight.
+> **Unheilige Zähigkeit.** Auf 0 HP reduziert, wirf einen d20: Bei 19–20 erhebt er sich mit 1 HP und erhält +2 auf Angriffe für den Rest des Kampfes.
 
-- **Found in:** this adventure's `statblocks/` — rises at the third failure of the Gate of Three Bindings, see [[03-the-temple-of-the-deep|Act 3]].
+- **Found in:** `statblocks/` dieses Abenteuers — erhebt sich beim dritten Fehlschlag am Tor der drei Bindungen, siehe [[03-the-temple-of-the-deep|Akt 3]].

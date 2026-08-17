@@ -1,28 +1,28 @@
 ---
-title: Cursed Monkey Swarm
+title: Schwarm verfluchter Affen
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Cursed Monkey Swarm
+# Schwarm verfluchter Affen
 
-Corrupted by the Shard — aggressive, unpredictable, and jerkily unnatural in their movements. One stat block per monkey; they attack in numbers.
+Vom Splitter verdorben — aggressiv, unberechenbar und ruckartig-unnatürlich in ihren Bewegungen. Ein Statblock pro Affe; sie greifen in Überzahl an.
 
-> [!info]+ Cursed Monkey — LV 2
-> **AC** 13 · **HP** 8 · **MV** near (climb) · **AL** C
+> [!info]+ Verfluchter Affe — LV 2
+> **AC** 13 · **HP** 8 · **MV** near (klettern) · **AL** C
 >
-> **ATK** 1 claws +2 (1d4)
+> **ATK** 1 Klauen +2 (1d4)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +0  | +2  | +0  | -2  | +0  | -2  |
 >
-> **Pack Instinct.** Advantage on attacks while at least 2 other monkeys are adjacent to the target.
+> **Rudelinstinkt.** Vorteil auf Angriffe, solange mindestens 2 weitere Affen an das Ziel angrenzen.
 >
-> **Shard-Curse.** When a monkey dies, it bursts in necrotic energy: 1d4 damage to everything within close.
+> **Splitterfluch.** Stirbt ein Affe, birst er in nekrotischer Energie: 1d4 Schaden an allem innerhalb von close.
 >
-> **Scrambler.** Moves over and past characters without triggering free attacks.
+> **Kletterwiesel.** Bewegt sich über Charaktere hinweg und an ihnen vorbei, ohne freie Angriffe auszulösen.
 >
-> **Chaos Screech (1/day).** All within near make a DC 12 WIS check or are dazed (lose their action) for 1 round.
+> **Chaoskreischen (1/Tag).** Alle innerhalb von near bestehen eine DC 12 WIS-Probe oder sind 1 Runde lang benommen (verlieren ihre Aktion).
 
-- **Found in:** this adventure's `statblocks/` — random encounters and the ambush before the temple, led by the [[cursed-monkey-alpha]].
+- **Found in:** `statblocks/` dieses Abenteuers — Zufallsbegegnungen und der Hinterhalt vor dem Tempel, angeführt vom [[cursed-monkey-alpha|Alpha der verfluchten Affen]].

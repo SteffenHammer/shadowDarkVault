@@ -1,28 +1,28 @@
 ---
-title: The Catch
+title: Der Fang
 system: Shadowdark
 tags: [statblock]
 ---
 
-# The Catch
+# Der Fang
 
-The thing in the nets: a snarl the size of a longboat's bow — rope, weed, and pale fish all facing the same way, packed like sleepers, with patient hands holding the mesh from the inside. It speaks in the voices of those on deck. It does not want to kill anyone; it wants to take one of them home. Cut apart, it comes undone all at once, like a knot finally given up.
+Das Ding in den Netzen: ein Knäuel von der Größe eines Langbootbugs — Tauwerk, Tang und bleiche Fische, alle in dieselbe Richtung gewandt, dicht gepackt wie Schlafende, mit geduldigen Händen, die das Netz von innen halten. Es spricht mit den Stimmen derer an Deck. Es will niemanden töten; es will einen von ihnen mit nach Hause nehmen. Zerschnitten löst es sich mit einem Mal auf, wie ein Knoten, der endlich nachgibt.
 
-> [!info]+ The Catch — LV 4
-> **AC** 12 · **HP** 26 · **MV** close (drags itself) / near (swim) · **AL** C
+> [!info]+ Der Fang — LV 4
+> **AC** 12 · **HP** 26 · **MV** close (schleppt sich) / near (schwimmend) · **AL** C
 >
-> **ATK** 2 net-limb +4 (1d6)
+> **ATK** 2 Netzglied +4 (1d6)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | -1  | +1  | -2  | +1  | +0  |
 >
-> **Only the Top.** The snarl on deck is the crown of a mass still hanging in the sea. At the start of its turn, if it touches the rail, the hands haul fresh mesh aboard: it regains 1d6 HP. It cannot regain HP while any part of it is in the lantern's light.
+> **Nur die Spitze.** Das Knäuel an Deck ist die Krone einer Masse, die noch in der See hängt. Zu Beginn seines Zuges, wenn es die Reling berührt, ziehen die Hände frisches Netz an Bord: Es erhält 1d6 HP zurück. Es kann keine HP zurückerhalten, solange irgendein Teil von ihm im Licht der Laterne ist.
 >
-> **Borrowed Voices.** It speaks in the voice of anyone present. In the first round, each PC makes a DC 12 WIS check or is surprised (no action) — the voice was a friend's.
+> **Geborgte Stimmen.** Es spricht mit der Stimme jedes Anwesenden. In der ersten Runde legt jeder SC eine DC 12 WIS-Probe ab oder ist überrascht (keine Aktion) — die Stimme war die eines Freundes.
 >
-> **Enmesh.** On a net-limb hit, DC 12 DEX check or entangled: no movement, −1 on attacks, DC 12 STR to tear free as an action.
+> **Verstricken.** Bei einem Treffer mit dem Netzglied: DC 12 DEX-Probe oder verstrickt: keine Bewegung, −1 auf Angriffe, DC 12 STR als Aktion, um sich loszureißen.
 >
-> **Over the Rail.** Instead of attacking, it may haul one entangled target near-distance toward the rail. It will not haul itself into the lantern's light.
+> **Über die Reling.** Statt anzugreifen, kann es ein verstricktes Ziel near-Distanz zur Reling ziehen. Es zieht sich selbst nicht ins Licht der Laterne.
 
-- **Found in:** this adventure's `statblocks/` — [[02-the-smooth-sea|Act 2: Something in the Nets]].
+- **Found in:** `statblocks/` dieses Abenteuers — [[02-the-smooth-sea|Act 2: Etwas in den Netzen]].

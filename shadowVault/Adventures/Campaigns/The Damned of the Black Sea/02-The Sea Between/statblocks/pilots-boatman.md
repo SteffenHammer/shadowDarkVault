@@ -1,26 +1,26 @@
 ---
-title: Pilot's Boatman
+title: Bootsmann des Lotsen
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Pilot's Boatman
+# Bootsmann des Lotsen
 
-The Pilot's oarsmen: hooded shapes in oilskins that row in perfect silence, faces always in the shadow of their hoods no matter where the light stands. They work boathooks like men who have handled cargo for a very long time — and souls are cargo.
+Die Ruderer des Lotsen: vermummte Gestalten in Ölzeug, die in vollkommener Stille rudern, die Gesichter stets im Schatten ihrer Kapuzen, ganz gleich, wo das Licht steht. Sie führen ihre Bootshaken wie Männer, die seit sehr langer Zeit Fracht bewegen — und Seelen sind Fracht.
 
-> [!info]+ Pilot's Boatman — LV 4
-> **AC** 13 · **HP** 20 · **MV** near (swim) · **AL** C
+> [!info]+ Bootsmann des Lotsen — LV 4
+> **AC** 13 · **HP** 20 · **MV** near (schwimmend) · **AL** C
 >
-> **ATK** 2 boathook +4 (1d8)
+> **ATK** 2 Bootshaken +4 (1d8)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | +1  | +1  | +0  | +1  | -2  |
 >
-> **Hook and Haul.** On a boathook hit, DC 12 STR check or the target is pulled close-distance toward the boatman — always along the shortest line to the rail and the Pilot's boat.
+> **Einhaken und Einholen.** Bei einem Treffer mit dem Bootshaken: DC 12 STR-Probe, oder das Ziel wird close-Distanz zum Bootsmann gezogen — immer auf der kürzesten Linie zur Reling und zum Boot des Lotsen.
 >
-> **In Step.** Boatmen work as a gang: +1 on attacks against a target already hooked or engaged by another boatman.
+> **Im Gleichtakt.** Bootsmänner arbeiten als Trupp: +1 auf Angriffe gegen ein Ziel, das bereits von einem anderen Bootsmann eingehakt oder gebunden ist.
 >
-> **Never in the Light.** It will not enter the ferryman's lantern-light, and releases any hooked target who reaches it.
+> **Nie im Licht.** Er betritt das Laternenlicht des Fährmanns nicht und lässt jedes eingehakte Ziel los, das es erreicht.
 
-- **Found in:** this adventure's `statblocks/` — [[03-the-fog-banks|Act 3: The Pilot's Offer]], when the mask comes off.
+- **Found in:** `statblocks/` dieses Abenteuers — [[03-the-fog-banks|Act 3: Das Angebot des Lotsen]], wenn die Maske fällt.
