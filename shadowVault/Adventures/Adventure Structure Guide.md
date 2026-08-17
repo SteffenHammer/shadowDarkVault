@@ -10,7 +10,7 @@ Ground rules for every adventure in this vault, whether written by hand or gener
 ## Core Principles
 
 1. **System-agnostic.** The structure works for any RPG system. The system an adventure targets is declared in its overview frontmatter, never assumed.
-2. **English.** All adventure content and metadata is written in English.
+2. **German content, English structure.** All adventure prose — read-alouds, descriptions, scene and NPC text, titles, and display names — is written in German. Everything structural stays in English: frontmatter keys and their enumerated values (`type`, `status`, `tags`, …), the section headings this guide prescribes, and stat block field labels. Filenames stay kebab-case ASCII (umlauts transliterated: ä→ae, ö→oe, ü→ue, ß→ss).
 3. **Markdown is the source of truth.** These files will later be compiled into an interactive HTML version of the adventure. Keep the structure clean and consistent so tooling can rely on it.
 4. **Chapters are story acts.** Adventures are broken down by dramatic arc, not by location. Locations and scenes live inside the act they belong to.
 5. **No fixed act skeleton.** Use as many acts as the story needs. The guide defines what an act file must contain, not how many acts exist.

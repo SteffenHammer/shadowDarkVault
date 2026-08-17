@@ -31,12 +31,12 @@ Everything else — anything adding story content or mechanics the source lacks 
 
 3. **Mapping checkpoint.** Present the proposed conversion and wait for approval:
    - adventure type and target location (one-shot / single adventure / campaign adventure — and for the latter, which campaign, creating its folder if new)
-   - English adventure title and the act/scene breakdown (source section → target file)
+   - German adventure title and the act/scene breakdown (source section → target file)
    - cast, creature, item, and location lists, each entry placed per the guide's Placement Rule (shared / campaign `Global/` / adventure) — checking wider scopes for existing files first; non-fightable threats marked as hazards (inline mechanics, no stat block)
    - asset and handout plan: kebab-case target names and which scene links each
    - all gaps found so far
 
-   Translation of names: descriptive names are translated ("Schädelklippe" → "Skull Cliff"); invented proper nouns keep their spelling ("Rauthorn").
+   Translation of names: descriptive names are translated into German ("Skull Cliff" → "Schädelklippe"); invented proper nouns keep their spelling ("Rauthorn").
 
 4. **Write.** Follow the guide's "Generating an Adventure" checklist: scaffold the folder, then overview → act files → NPCs → stat blocks per [shadowdark-statblocks.md](shadowdark-statblocks.md) → copy assets into `assets/`. Resolve each file's gaps per the Gaps rule before writing it. A file is done when every inventory row assigned to it appears in it.
 
