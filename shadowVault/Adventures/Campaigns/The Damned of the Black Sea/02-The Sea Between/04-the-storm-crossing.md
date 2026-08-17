@@ -24,11 +24,13 @@ tags: [act]
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Dunkel senkt sich und hebt sich nicht mehr. Der Wind, der letzte Nacht begann, ist jetzt ein voller Sturm, und er weht euch nicht vom Kurs — er weht euch *ihn entlang*, auf eine Wand aus schwarzem Wasser zu, die voraus quer über der ganzen Welt steht, höher als jede Klippe, von hinten erleuchtet von einer Farbe, die ihr seit sechs Nächten nicht gesehen habt und die ihr nicht zu benennen wagt, aus Angst, euch zu irren.
+> Das Dunkel senkt sich und hebt sich nicht mehr. Der Wind, der letzte Nacht begann, ist jetzt ein voller Sturm — und er weht euch nicht vom Kurs, er weht euch *ihn entlang*, wie eine Hand im Rücken. Voraus steht quer über der ganzen Welt eine Wand aus schwarzem Wasser, höher als jede Klippe, und hinter ihr brennt eine Farbe, die ihr seit sechs Nächten nicht gesehen habt und die ihr nicht zu benennen wagt, aus Angst, euch zu irren.
 >
-> Und achtern — der Horizont trifft ein. Nicht ein Schiff. Hunderte. Galeonen, gewachsen in Fregatten, gewachsen in Langboote, Kiele ragen wie gebrochene Rippen, ein Gebirge aus allem, was die See je verschlungen hat, segelnd ohne Segel, ohne Eile, ohne die Möglichkeit anzuhalten. Grüne Laternen brennen in tausend Bullaugen. Sechs Nächte lang habt ihr auf seine Fingerspitzen gesehen. Dies ist die Hand.
+> Und achtern — der Horizont trifft ein.
 >
-> Die Bilge, der Regen, das Kielwasser, die Münder der Dinger, die die Reling erklimmen — alles Nasse spricht auf einmal, höflich, mit einer Stimme:
+> Nicht ein Schiff. Hunderte. Galeonen, in deren Rümpfen Fregatten stecken, in deren Rümpfen Langboote stecken; Kiele ragen aus der Masse wie gebrochene Rippen, Ankerketten hängen wie Sehnen — ein Gebirge aus allem, was die See je verschlungen hat, und alles daran segelt: ohne Segel, ohne Eile, ohne die Möglichkeit anzuhalten. Grüne Laternen brennen in tausend Bullaugen. Sechs Nächte lang habt ihr auf seine Fingerspitzen gesehen. Dies ist die Hand.
+>
+> Dann spricht alles Nasse auf einmal — die Bilge, der Regen, das Kielwasser, die Münder der Dinger, die eben die Reling erklimmen — höflich, geduldig, mit einer einzigen Stimme:
 >
 > „Euch wird nichts angetan. Etwas wurde mir angetan. Ihr seid ertrunken. Ihr werdet mir geschuldet — eine für jeden. Beliebige Seelen gleichen es aus. Der Fährmann ist ein Dieb, und die See führt ehrliche Bücher. Zahlt, und fahrt hinüber."
 
@@ -92,11 +94,13 @@ Die Optionen, mit Preis. Der Sog hält jeden Handel aufs Wort — und akzeptiert
 > Weiche nie den Wortlaut eines Handels auf und lass nie einen zurücknehmen — die absolute Verlässlichkeit des Sogs ist sein Schrecken und der künftige Hebel der Kampagne (*er führt Schuldbücher*). Aber auch: Er nimmt **nur**, was ihm geschuldet wird, und seine Bücher schreiben Ersatz nur *freiwillig gegeben* gut — was seine Finger greifen und was nicht die Schuld ist, geht ungezählt hinab, fort. In dem Moment, in dem die Summe aufgeht, lässt jeder Festmacher an Bord los, tritt rückwärts über die Reling und ist fort — mitten im Schwung, wenn es sein muss.
 
 > [!quote] Read Aloud — Die Überfahrt (wenn die Schuld aufgeht)
-> Alles Nasse verstummt auf einmal. Die Dinger auf dem Deck lassen los — mitten in der Bewegung, ohne Bosheit, so, wie ein Hafenarbeiter eine Leine fallen lässt, wenn der Knoten sitzt — und treten rückwärts in die See.
+> Alles Nasse verstummt auf einmal, wie eine abgeschnittene Stimme. Die Dinger auf dem Deck lassen los — mitten in der Bewegung, ohne Zorn, ohne Bosheit, so, wie ein Hafenarbeiter eine Leine fallen lässt, wenn der Knoten sitzt — und treten rückwärts über die Reling in die See, eines nach dem anderen, ordentlich wie eine Wachablösung.
 >
-> Hinter euch beginnt das Gebirge aus Rümpfen, sehr langsam, achteraus zurückzufallen. Es dreht nicht bei. Es hört einfach auf, interessiert zu sein.
+> Hinter euch beginnt das Gebirge aus Rümpfen, sehr langsam, achteraus zurückzufallen. Es dreht nicht bei. Es sinkt nicht. Es hört einfach auf, interessiert zu sein — und das ist irgendwie schlimmer als alles, was es hätte tun können.
 >
-> Voraus lehnt sich die Wand aus schwarzem Wasser über den Mast — und der alte Mann, die Hand ruhig am Rad, segelt sie geradewegs hinein. Ein Blitz bricht einmal, nah, und für diesen einen weißen Augenblick fangen seine Augen ihn falsch — zwei Punkte kalten Lichts, wie Sterne, von unter Wasser gesehen. Dann ist es dunkel, und er ist ein alter Mann an einem Rad, und das Letzte, was ihr hört, bevor das Wasser allen Klang nimmt, ist der Puls der Laterne, langsam und blau im Herzen der Flamme. Das Letzte, was ihr spürt, ist das Deck, das sich hebt, wie eine Brust, die sich für einen Atemzug füllt.
+> Voraus lehnt sich die Wand aus schwarzem Wasser über den Mast — und der alte Mann, die Hand ruhig am Rad, segelt sie geradewegs hinein. Ein Blitz bricht einmal, nah, und für diesen einen weißen Augenblick fangen seine Augen ihn falsch — zwei Punkte kalten Lichts, wie Sterne, von unter Wasser gesehen. Dann ist es dunkel, und er ist ein alter Mann an einem Rad.
+>
+> Das Letzte, was ihr hört, bevor das Wasser allen Klang nimmt, ist der Puls der Laterne, langsam und blau im Herzen der Flamme. Das Letzte, was ihr spürt, ist das Deck, das sich unter euch hebt — wie eine Brust, die sich für einen langen Atemzug füllt.
 >
 > Und dann — Licht.
 
@@ -114,11 +118,11 @@ Die Optionen, mit Preis. Der Sog hält jeden Handel aufs Wort — und akzeptiert
 ### What Happens
 
 > [!quote] Read Aloud
-> Ihr erwacht keuchend, mit dem Gesicht im nassen Sand, im *Sonnenlicht* — echt, tief, golden, das erste Morgengrauen, das ihr seht, soweit eure Erinnerung reicht. Ihr seid am Strand. An jenem Strand. Der Unrat der Schlacht liegt überall um euch, Tage alt: ausgebrannte Feuer, ein gespaltenes Boot, Tauwerk, steif vom Salz. Die Toten jener Nacht liegen, wo sie fielen, und die See ist respektvoll mit ihnen umgegangen.
+> Ihr erwacht keuchend, mit dem Gesicht im nassen Sand — und die Welt hat wieder Farbe. Sonnenlicht, echt und tief und golden, liegt auf dem Strand: das erste Morgengrauen, das ihr seht, soweit eure Erinnerung reicht. Es wärmt die Haut. Ihr hattet vergessen, dass Licht das tut.
 >
-> Ihr erwacht mitten unter ihnen, genau dort, wo ihr gefallen seid.
+> Ihr seid am Strand. An *jenem* Strand. Der Unrat der Schlacht liegt überall um euch, Tage alt: ausgebrannte Feuer, ein gespaltenes Boot, Tauwerk, steif vom Salz. Die Toten jener Nacht liegen, wo sie fielen, und die See ist respektvoll mit ihnen umgegangen. Ihr erwacht mitten unter ihnen. Genau dort, wo ihr gefallen seid.
 >
-> Von der Ketsch — nichts. Kein Wrack, kein Segel, kein Kielwasser. Und weit draußen, am Rand des Morgendunsts, durchbricht etwas Gewaltiges ein einziges Mal die Oberfläche — ein dunkler Rücken, sonnenbeschienene Gischt, unmöglich groß — und taucht, und kommt nicht wieder herauf.
+> Von der Ketsch — nichts. Kein Wrack, kein Segel, kein Kielwasser, keine einzige Planke. Nur weit draußen, am Rand des Morgendunsts, durchbricht etwas Gewaltiges ein einziges Mal die Oberfläche — ein dunkler Rücken, sonnenbeschienene Gischt, unmöglich groß — und taucht, und kommt nicht wieder herauf.
 >
 > Es könnte ein Wal gewesen sein.
 

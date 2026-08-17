@@ -24,11 +24,13 @@ tags: [act]
 ### What Happens
 
 > [!quote] Read Aloud
-> Der Nebel kommt herauf, wie die Nacht fällt — auf einmal, von überall. Der Kreis der Laterne schrumpft auf die Mitte des Decks. Und aus dem Grau gleitet, adrett wie eine landende Möwe, ein schmuckes Boot mit grünem Positionslicht heran, sechs vermummte Ruderer in vollkommener Stille, und am Bug ein kleiner, trockener Mann in einem Mantel mit Messingknöpfen, der den Hut lüftet.
+> Der Nebel kommt herauf, wie die Nacht fällt — auf einmal und von überall, als hätte jemand die Welt zugedeckt. Der Kreis der Laterne schrumpft auf die Mitte des Decks; dahinter ist das Grau so dicht, dass man es anfassen möchte, und Geräusche kommen von den falschen Seiten.
+>
+> Dann gleitet aus dem Grau, adrett wie eine landende Möwe, ein schmuckes Boot heran. Ein grünes Positionslicht. Sechs vermummte Ruderer, die in vollkommener Stille rudern — kein Knarren, kein Tropfen, kein Atem. Hinter dem Boot: kein Kielwasser. Am Bug steht ein kleiner, trockener Mann in einem Mantel mit Messingknöpfen, ein Buch unter dem Arm, und lüftet den Hut.
 >
 > „'n Abend", sagt er. „Lotse. Zugelassen für diese Gewässer — was euer Mann am Ruder, nichts für ungut, nicht ist. Er segelt euch den langen Weg. Es gibt eine Rinne. Ich könnte euch bis zum Morgen zu Hause haben."
 >
-> Er lächelt, und das Lächeln ist genau richtig, und es bleibt eine halbe Sekunde zu lang genau richtig.
+> Er lächelt. Das Lächeln ist genau richtig. Es bleibt eine halbe Sekunde zu lang genau richtig.
 
 Der Vortrag des Lotsen, über so viele Gesprächsrunden, wie die Spieler ihm geben ([[the-pilot|der Lotse]] für seine Art und seine Sätze):
 
@@ -90,11 +92,11 @@ Der Vortrag des Lotsen, über so viele Gesprächsrunden, wie die Spieler ihm geb
 ### What Happens
 
 > [!quote] Read Aloud
-> Dieser Nebel ist still. Keine Stimmen darin, keine grünen Lichter. Nur — Gesellschaft.
+> Dieser Nebel ist still. Keine Stimmen darin, keine grünen Lichter, nicht einmal das Wasser an der Bordwand. Nur — Gesellschaft. Ihr spürt sie, bevor ihr sie seht.
 >
-> Sie sitzen auf der Reling wie bei einer Rauchpause in der Hundswache: Marek, der Bootsmann, die Pfeife noch an ihrer Schnur; Sella, barfuß auf dem nassen Holz, wie sie es in der Takelage immer war; der alte Tams mit aufgerollten Ärmeln, als wäre er nur kurz von seinen Töpfen weggetreten. Die See hat sie nicht hübsch gehalten. Aber sie hat sie als *sie selbst* gehalten.
+> Sie sitzen auf der Reling wie bei einer Rauchpause in der Hundswache: Marek, der Bootsmann, die Pfeife noch an ihrer Schnur um den Hals; Sella, barfuß auf dem nassen Holz, wie sie es in der Takelage immer war; der alte Tams mit aufgerollten Ärmeln, als wäre er nur kurz von seinen Töpfen weggetreten und käme gleich wieder. Die See hat sie nicht hübsch gehalten — das Wasser steht ihnen in den Kleidern, und ihre Haut hat die Farbe von Dingen, die lange unten waren. Aber sie hat sie als *sie selbst* gehalten. Das ist das Schlimmere.
 >
-> „'n Abend", sagt Marek, mild wie Milch. „Weit draußen, was?"
+> Marek nickt euch zu, mild wie Milch. „'n Abend", sagt er. „Weit draußen, was?"
 
 Was sie wollen und was sie mitbringen ([[the-dead-crew|die tote Mannschaft]] für Stimmen und Sätze):
 
@@ -126,13 +128,15 @@ Was sie wollen und was sie mitbringen ([[the-dead-crew|die tote Mannschaft]] fü
 ### What Happens
 
 > [!quote] Read Aloud
-> Die Tür schwingt nach innen auf — auf keine Bilge, keinen Rumpf, kein Schiff. Hinter dem niedrigen Rahmen liegt eine See. Sie reicht endlos hinaus — schwarzes Wasser, flach wie geschlagenes Glas, still auf eine Weise, wie die See draußen es nie ist, still wie das Becken im Tempel. Kein Himmel darüber, kein Horizont, der sie beendet, kein Licht irgendwo hier unten — und ihr seht trotzdem alles davon, so, wie man in Träumen sieht.
+> Die Tür schwingt nach innen auf — und da ist keine Bilge. Kein Rumpf, kein Kiel, kein Schiff. Hinter dem niedrigen Rahmen liegt eine See.
 >
-> Euer Lampenlicht kreuzt die Schwelle und hört einfach auf, als wüsste es es besser.
+> Schwarzes Wasser, flach wie geschlagenes Glas, reicht endlos hinaus. Es ist still auf eine Weise, wie die See draußen es nie ist — still wie das Becken im Tempel, still wie etwas, das den Atem anhält und es beliebig lange kann. Kein Himmel darüber. Kein Horizont, der es beendet. Kein Licht irgendwo hier unten — und ihr seht trotzdem alles davon, mühelos, so, wie man in Träumen sieht.
 >
-> Euer Spiegelbild ist dort draußen auf der stillen Fläche, nahe der Tür. Es ist eine halbe Sekunde hinter euch. Und wenn es aufholt, trägt es für einen Lidschlag, was ihr am Strand getragen habt — zerrissen, wo ihr zerrissen wurdet.
+> Euer Lampenlicht kreuzt die Schwelle und hört einfach auf. Nicht verschluckt, nicht gedämpft: Es hört auf, als wüsste es es besser.
 >
-> Dann eine Stimme — aus dem Nirgendwo und von überall, aus dem Wasser und direkt hinter eurem Ohr, geduldig und höflich: „Seid ihr endlich bereit, dorthin zu gehen, wohin ihr gehört?"
+> Und dort draußen auf der stillen Fläche, nahe der Tür, steht euer Spiegelbild und sieht zu euch herüber. Es ist eine halbe Sekunde hinter euch. Und wenn es aufholt, trägt es für einen Lidschlag, was ihr am Strand getragen habt — zerrissen, wo ihr zerrissen wurdet.
+>
+> Dann eine Stimme — aus dem Wasser, aus dem Nirgendwo, direkt hinter eurem Ohr, geduldig und höflich wie jemand, der alle Zeit hat und es weiß: „Seid ihr endlich bereit, dorthin zu gehen, wohin ihr gehört?"
 
 Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt Fragen. Ich lüge nicht. Es ist das Einzige, was ich nie gebraucht habe.*" Das Bilgenwasser ist der Mund des Sogs an Bord ([[the-undertow|der Sog]] für seine Stimme). Es beantwortet Fragen ehrlich — und seine Ehrlichkeit ist die Falle, denn jede wahre Antwort geht auf den Handel zu:
 
@@ -162,11 +166,13 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 ### What Happens
 
 > [!quote] Read Aloud
-> Vom Deck aus ist der Horizont leeres Grau. Von hier oben — für einen Moment, so, wie sich eine Form in einem gekachelten Boden versteckt, bis sie es nicht mehr tut — ist da eine *andere* See. Möwen darüber. Sonne darauf. Eine Küstenlinie wie ein Bleistiftstrich, und Segel — kleine, gewöhnliche, gesegnete Segel, und keines davon dreht in eure Richtung.
+> Vom Deck aus ist der Horizont leeres Grau, wie immer. Von hier oben — einen Atemzug lang, so, wie sich eine Form in einem gekachelten Boden versteckt, bis man sie einmal gesehen hat — ist da eine *andere* See.
 >
-> Und dann findet ihr das eine, das ihr kennt. Volles Tuch, schnell und sauber laufend vor einem Wind, den ihr nicht spüren könnt: die Gezeitenklinge. Unberührt. Ihr könnt sie fast hören. Auf diese Entfernung dürftet ihr das Ruder gar nicht sehen können — aber ihr könnt es, und er steht daran, und ihr kennt seine Schultern besser als eure eigenen.
+> Möwen darüber, winzig und kreisend. Sonne darauf — echte Sonne, die auf Wellen glitzert, die sich *bewegen*. Eine Küstenlinie wie ein Bleistiftstrich am Rand der Welt. Und Segel — kleine, gewöhnliche, gesegnete Segel, ein Dutzend davon, und keines dreht in eure Richtung. Keines weiß, dass es euch gibt.
 >
-> Dann schiebt sich das Grau zurück wie ein Deckel.
+> Und dann findet ihr das eine, das ihr kennt. Volles Tuch, schnell und sauber laufend vor einem Wind, den ihr nicht spüren könnt: die Gezeitenklinge. Unberührt. Unbeschädigt. Ihr könnt sie fast hören. Auf diese Entfernung dürftet ihr das Ruder gar nicht sehen können — aber ihr könnt es, und er steht daran, und ihr kennt seine Schultern besser als eure eigenen.
+>
+> Dann schiebt sich das Grau zurück wie ein Deckel, und der Horizont ist wieder leer, und ihr hängt allein im Mastkorb über einer stillen grauen See.
 
 - Die lebende See ist **der Beweis, dass das Ziel wirklich ist** — und die Qual, dass es so fern ist. Der alte Mann sagt, gefragt, nur: „*Aye. Dorthin sind wir unterwegs. Noch ein weiter Weg.*"
 - Die Gezeitenklinge unter Segeln ist die Wende: *Wenn sie gerettete Überlebende sind, warum ist ihr Schiff dort drüben, während sie dieses segeln?* Die Rettungsgeschichte stirbt hier. Lass die Spieler die verbleibende Theorie selbst laut aussprechen; niemand an Bord wird es tun.
@@ -188,9 +194,11 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Dunkel senkt sich, und mit ihm kommt aus der Ferne achteraus ein Klang über das Wasser. Kein Schrei. Kein Brüllen. Das Ächzen eines großen, brechenden Rumpfs — Holz und Eisen, die irgendwo in der Tiefe nachgeben, langsam und seiner Sache vollkommen sicher.
+> Das Dunkel senkt sich, und mit ihm kommt aus der Ferne achteraus ein Klang über das Wasser. Kein Schrei. Kein Brüllen. Nichts, das lebt. Es ist das Ächzen eines großen, brechenden Rumpfs — Holz und Eisen, die irgendwo in der Tiefe nachgeben, langsam, gemächlich, seiner Sache vollkommen sicher. Ein Klang, der es nicht nötig hat, sich zu beeilen.
 >
-> Ihr kennt diesen Klang. Ihr habt ihn schon einmal gehört, in einer Kammer aus schwarzem Stein, den Moment, bevor alles endete. Die See unter euren Füßen neigt sich sacht nach achtern, als hätte die ganze Welt begonnen, sich höflich zu neigen.
+> Ihr kennt diesen Klang. Ihr habt ihn schon einmal gehört, in einer Kammer aus schwarzem Stein, den Moment, bevor alles endete.
+>
+> Und unter euren Füßen neigt sich die See sacht nach achtern, kaum merklich, wie ein Tablett, das jemand zu kippen beginnt. Als hätte die ganze Welt angefangen, höflich bergab zu führen — dorthin, wo der Klang wohnt.
 
 - **Encounter:** die Enterwelle von Nacht 5 (2d4 × [[mooring-man|Festmacher]]) schlägt mitten in der Szene ein — und der alte Mann **schläft zum ersten Mal durch den Alarm**. Die Gruppe hält das Deck allein, bis jemand ihn weckt; er kommt den Niedergang herauf, ein Jahrzehnt älter, als er hinunterging.
 - **Das Schiff vergisst sich selbst.** Die Routine eines Passagiers zerbricht vor den Augen der Gruppe — der Tisch des Spielers ist einfach *fort*, und er teilt die Karten auf die nackten Planken aus, ungerührt. Der Übungsplatz des Fechtmeisters ist kürzer geworden; seine Ausfälle enden vor der Stelle, wo der Mast einmal stand. Niemand an Bord bemerkt es außer der Gruppe.
