@@ -1,28 +1,28 @@
 ---
-title: Tribal Warrior
+title: Stammeskrieger
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Tribal Warrior
+# Stammeskrieger
 
-Frightened, distrustful, but determined to survive. Not automatically hostile — they can become guides or allies if won over.
+Verängstigt, misstrauisch, aber entschlossen zu überleben. Nicht automatisch feindselig — sie können zu Führern oder Verbündeten werden, wenn man sie für sich gewinnt.
 
-> [!info]+ Tribal Warrior — LV 2
+> [!info]+ Stammeskrieger — LV 2
 > **AC** 12 · **HP** 6 · **MV** near · **AL** N
 >
-> **ATK** 1 spear +2 (1d6) or 1 thrown spear +2 (1d6, near)
+> **ATK** 1 Speer +2 (1d6) oder 1 geworfener Speer +2 (1d6, near)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +1  | +1  | +0  | +0  | +1  | +0  |
 >
-> **Tribal Knowledge.** Advantage on checks to find paths, tracks, or safe places in their homeland.
+> **Stammeswissen.** Vorteil auf Proben, in ihrer Heimat Pfade, Spuren oder sichere Orte zu finden.
 >
-> **Desperate Defenders.** +1 damage while outnumbered.
+> **Verzweifelte Verteidiger.** +1 Schaden, solange sie in der Unterzahl sind.
 >
-> **Distrustful.** React with hostility until convinced otherwise (DC 12 CHA check).
+> **Misstrauisch.** Reagieren feindselig, bis man sie vom Gegenteil überzeugt (DC 12 CHA-Probe).
 >
-> **Shaman's Warning (1/day).** One warrior may warn an ally of danger: that ally gains advantage on their next check against a harmful effect.
+> **Warnung des Schamanen (1/day).** Ein Krieger kann einen Verbündeten vor Gefahr warnen: Dieser erhält Vorteil auf seine nächste Probe gegen einen schädlichen Effekt.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

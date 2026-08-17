@@ -1,24 +1,24 @@
 ---
-title: Navy Marine
+title: Marinesoldat
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Navy Marine
+# Marinesoldat
 
-Trained close-quarters fighters drilled for boarding actions. They fight in pairs, open with pistols, and hold until ordered to withdraw.
+Ausgebildete Nahkämpfer, gedrillt für Enteraktionen. Sie kämpfen paarweise, eröffnen mit Pistolen und halten die Stellung, bis der Rückzug befohlen wird.
 
-> [!info]+ Navy Marine — LV 2
+> [!info]+ Marinesoldat — LV 2
 > **AC** 14 · **HP** 10 · **MV** near · **AL** L
 >
-> **ATK** 1 saber +3 (1d8) or 1 pistol +2 (1d8, near, reload 1 round)
+> **ATK** 1 Säbel +3 (1d8) oder 1 Pistole +2 (1d8, near, Nachladen 1 Runde)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | +1  | +1  | +0  | +0  | +0  |
 >
-> **Fearsome.** Advantage on checks to intimidate.
+> **Furchteinflößend.** Vorteil auf Proben zum Einschüchtern.
 >
-> **Sea Legs.** Advantage on balance checks in heavy seas.
+> **Seebeine.** Vorteil auf Proben, das Gleichgewicht in schwerer See zu halten.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

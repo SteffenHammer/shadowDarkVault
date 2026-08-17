@@ -1,26 +1,26 @@
 ---
-title: Giant Tree Snake
+title: Riesenbaumschlange
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Giant Tree Snake
+# Riesenbaumschlange
 
-An ancient predator that glides soundlessly through the canopy. It slips away when badly wounded.
+Ein uraltes Raubtier, das lautlos durch das Kronendach gleitet. Schwer verwundet macht es sich davon.
 
-> [!info]+ Giant Tree Snake — LV 4
-> **AC** 13 · **HP** 16 · **MV** near (climb) · **AL** N
+> [!info]+ Riesenbaumschlange — LV 4
+> **AC** 13 · **HP** 16 · **MV** near (kletternd) · **AL** N
 >
-> **ATK** 1 bite +4 (1d8 + 1d4 poison)
+> **ATK** 1 Biss +4 (1d8 + 1d4 Gift)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | +2  | +1  | -3  | +1  | -3  |
 >
-> **Constrict.** On a hit, the target makes a DC 12 STR check or is held, taking 1d4 damage per round (DC 12 STR to break free).
+> **Umschlingen.** Bei einem Treffer legt das Ziel eine DC 12 STR-Probe ab oder wird festgehalten und erleidet 1d4 Schaden pro Runde (DC 12 STR, um sich zu befreien).
 >
-> **Canopy Hunter.** Advantage on attacks against surprised targets.
+> **Kronenjäger.** Vorteil auf Angriffe gegen überraschte Ziele.
 >
-> **Camouflage.** Advantage on DEX (stealth) checks in forest and jungle.
+> **Tarnung.** Vorteil auf DEX-Proben (Schleichen) in Wald und Dschungel.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

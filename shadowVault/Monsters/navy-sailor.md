@@ -1,22 +1,22 @@
 ---
-title: Navy Sailor
+title: Marinematrose
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Navy Sailor
+# Marinematrose
 
-Lightly armed but disciplined seamen — dangerous in groups. They rarely fight alone, try to surround opponents, and pull back when their officers fall.
+Leicht bewaffnete, aber disziplinierte Seeleute — gefährlich in Gruppen. Sie kämpfen selten allein, versuchen Gegner zu umzingeln und ziehen sich zurück, wenn ihre Offiziere fallen.
 
-> [!info]+ Navy Sailor — LV 1
+> [!info]+ Marinematrose — LV 1
 > **AC** 12 · **HP** 4 · **MV** near · **AL** L
 >
-> **ATK** 1 cutlass +2 (1d6) or 1 throwing knife +2 (1d4, near)
+> **ATK** 1 Entermesser +2 (1d6) oder 1 Wurfmesser +2 (1d4, near)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +1  | +1  | +0  | +0  | +0  | +0  |
 >
-> **Rigging Rat.** Advantage on checks to climb masts, ropes, or wet surfaces.
+> **Takelagenratte.** Vorteil auf Proben, um Masten, Taue oder nasse Flächen zu erklettern.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

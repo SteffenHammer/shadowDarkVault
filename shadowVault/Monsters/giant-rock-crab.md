@@ -1,28 +1,28 @@
 ---
-title: Giant Rock Crab
+title: Riesenfelskrabbe
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Giant Rock Crab
+# Riesenfelskrabbe
 
-They look like harmless boulders — until they move.
+Sie sehen aus wie harmlose Felsbrocken — bis sie sich bewegen.
 
-> [!info]+ Giant Rock Crab — LV 4
+> [!info]+ Riesenfelskrabbe — LV 4
 > **AC** 16 · **HP** 18 · **MV** near · **AL** N
 >
-> **ATK** 1 claw +4 (1d8)
+> **ATK** 1 Schere +4 (1d8)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +3  | -1  | +2  | -3  | +0  | -3  |
 >
-> **Stone Camouflage.** Indistinguishable from a boulder until it moves; DC 15 WIS check to spot one.
+> **Steintarnung.** Von einem Felsbrocken nicht zu unterscheiden, bis sie sich bewegt; DC 15 WIS-Probe, um eine zu entdecken.
 >
-> **Armored Shell.** Half damage from non-magical weapons.
+> **Panzerschale.** Halber Schaden durch nichtmagische Waffen.
 >
-> **Crush.** On a critical hit, +1d6 damage.
+> **Zermalmen.** Bei einem kritischen Treffer +1d6 Schaden.
 >
-> **Sideways Rush (1/day).** Sprints near-distance sideways and makes one attack with advantage.
+> **Seitwärtsspurt (1/day).** Sprintet near-Distanz seitwärts und führt einen Angriff mit Vorteil aus.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

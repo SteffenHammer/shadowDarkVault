@@ -1,22 +1,22 @@
 ---
-title: Navy Gunner
+title: Marinekanonier
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Navy Gunner
+# Marinekanonier
 
-The most dangerous men aboard — and they know it. They keep their distance, use cover, and fall back when pressed into melee.
+Die gefährlichsten Männer an Bord — und sie wissen es. Sie halten Abstand, nutzen Deckung und weichen zurück, wenn man sie in den Nahkampf drängt.
 
-> [!info]+ Navy Gunner — LV 2
+> [!info]+ Marinekanonier — LV 2
 > **AC** 13 · **HP** 8 · **MV** near · **AL** L
 >
-> **ATK** 1 shortsword +2 (1d6) or 1 hand cannon +2 (1d10, near, reload 2 rounds)
+> **ATK** 1 Kurzschwert +2 (1d6) oder 1 Handkanone +2 (1d10, near, Nachladen 2 Runden)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +1  | +1  | +1  | +0  | +0  | +0  |
 >
-> **Powder Expert.** Advantage on checks to operate cannons; +1 damage on hand cannon hits.
+> **Pulverexperte.** Vorteil auf Proben zum Bedienen von Kanonen; +1 Schaden bei Treffern mit der Handkanone.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`

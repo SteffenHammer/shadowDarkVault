@@ -1,24 +1,24 @@
 ---
-title: Navy Officer
+title: Marineoffizier
 system: Shadowdark
 tags: [statblock]
 ---
 
-# Navy Officer
+# Marineoffizier
 
-A disciplined leader who holds his men together in battle. He stays behind the line, coordinates attacks, and steps in personally only when the fight turns.
+Ein disziplinierter Anführer, der seine Männer im Gefecht zusammenhält. Er bleibt hinter der Linie, koordiniert die Angriffe und greift nur persönlich ein, wenn der Kampf kippt.
 
-> [!info]+ Navy Officer — LV 3
+> [!info]+ Marineoffizier — LV 3
 > **AC** 15 · **HP** 16 · **MV** near · **AL** L
 >
-> **ATK** 1 officer's rapier +4 (1d8+1) or 1 pistol +3 (1d8, near, reload 1 round)
+> **ATK** 1 Offiziersrapier +4 (1d8+1) oder 1 Pistole +3 (1d8, near, Nachladen 1 Runde)
 >
 > | STR | DEX | CON | INT | WIS | CHA |
 > |:---:|:---:|:---:|:---:|:---:|:---:|
 > | +2  | +2  | +1  | +1  | +1  | +2  |
 >
-> **Watchful.** Advantage on checks to notice danger.
+> **Wachsam.** Vorteil auf Proben, Gefahr zu bemerken.
 >
-> **Command Shout (1/fight).** All allies within near gain +1 on attacks for 1 round. While he stands, his men do not rout.
+> **Befehlsruf (1/fight).** Alle Verbündeten innerhalb von near erhalten für 1 Runde +1 auf Angriffe. Solange er steht, fliehen seine Männer nicht.
 
-- **Found in:** shared `Monsters/`
+- **Found in:** gemeinsamer Ordner `Monsters/`
