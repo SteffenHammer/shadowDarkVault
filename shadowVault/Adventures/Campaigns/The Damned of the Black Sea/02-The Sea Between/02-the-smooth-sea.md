@@ -24,13 +24,13 @@ tags: [act]
 ### What Happens
 
 > [!quote] Read Aloud
-> Ihr erwacht auf warmen, trockenen Planken, und das Erste, was die Welt euch gibt, ist ein Geräusch: das Knarren von Tauwerk. Drei Knarrlaute, immer dieselben drei, in derselben Reihenfolge. Wie ein Herzschlag, den jemand für euch übernommen hat.
+> Ihr erwacht auf warmen, trockenen Planken, und das Erste, was ihr wahrnehmt, ist ein Geräusch: das Knarren von Tauwerk. Drei Knarrlaute, immer dieselben drei, in derselben Reihenfolge. Wie ein Herzschlag.
 >
-> Über euch zieht ein geflicktes braunes Segel, prall und stetig — dabei rührt sich kein Atem Wind. Das Boot ist klein. Zwei Masten, achtern trocknende Netze, ein Ruder am Heck — eine Fischerketsch, die Sorte, die morgens eine Küste befischt und abends vor dem Wetter nach Hause läuft. Es gibt keine Küste. Es gibt keinen Abend. Die See liegt glatt wie gegossenes Glas von Horizont zu Horizont, unter einem grauen Zwielicht, das nirgendwo eine Sonne enthält.
+> Über euch zieht ein geflicktes braunes Segel, prall und stetig — dabei rührt sich kein Wind. Das Boot ist klein. Zwei Masten, achtern trocknende Netze, ein Ruder am Heck — eine Fischerketsch, die Sorte, die morgens eine Küste befischt und abends vor dem Wetter nach Hause läuft. Es gibt keine Küste. Die See liegt glatt wie gegossenes Glas von Horizont zu Horizont, unter einem grauen Zwielicht, das nirgendwo eine Sonne enthält.
 >
-> Am Ruder steht ein alter Mann in Ölzeug, älter als jede Mode, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
+> Am Ruder steht ein alter Mann in Ölzeug, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
 >
-> „Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
+> „Die Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
 
 Der alte Mann beantwortet Fragen bereitwillig, aber knapp (siehe [[the-old-sailor|der alte Seemann]] für seine Art und seine Namen — frag ihn zweimal, und er nennt einen anderen; jeder Name, den er nennt, ist ein altes Wort für die See, was aber niemandem am Tisch gesagt werden darf). Zentrale Beats, die diese Szene setzen muss:
 
@@ -55,9 +55,9 @@ Der alte Mann beantwortet Fragen bereitwillig, aber knapp (siehe [[the-old-sailo
 ### What Happens
 
 > [!quote] Read Aloud
-> Der Passagierraum ist warm — die selbstverständliche, tiefe Wärme eines Ortes, der nie kalt gewesen ist. Ein kleiner Eisenofen glüht in der Ecke, und die Luft riecht nach frisch aufgegossenem Tee, obwohl nirgendwo eine Kanne steht und niemand je eine aufsetzt. Fünf Menschen blicken auf, als ihr den Niedergang herunterkommt. Keiner erschrickt. Jeder nickt euch zu, freundlich und beiläufig, als wärt ihr euch vor Jahren vorgestellt worden und hättet euch bloß lange nicht gesehen.
+> Der Passagierraum ist warm. Ein kleiner Eisenofen glüht in der Ecke, und die Luft riecht nach frisch aufgegossenem Tee, obwohl nirgendwo eine Kanne steht. Fünf Menschen blicken auf, als ihr den Niedergang herunterkommt. Jeder nickt euch zu, freundlich und beiläufig, als wärt ihr euch vor Jahren vorgestellt worden und hättet euch bloß lange nicht gesehen.
 >
-> Ein aufrechter silberhaariger Mann ölt eine Fechtklinge mit einem Tuch, in langen, liebevollen Strichen. In einer Hängematte sitzt ein Mädchen von vielleicht zehn Jahren im Schneidersitz, knüpft Knoten in eine Schlaufe aus Schnur, löst sie wieder und summt dabei eine Melodie, die ihr fast kennt. In der trockensten Ecke schläft ein großer Mann, um eine Seekiste gekrümmt wie um etwas Geliebtes, mit einem Atem, langsam wie Dünung. Eine Frau mit Tinte bis zu den Ellbogen hat Karten über die halbe Tischlänge ausgebreitet und zeichnet Küstenlinien mit ruhiger Hand. Und an der anderen Hälfte teilt ein Mann in einem guten, schäbig gewordenen Mantel Karten aus — an Plätze, an denen niemand sitzt — während die ganze Zeit fremdartige Münzen über seine Knöchel wandern, ohne dass er ihnen je zusieht.
+> Ein aufrechter silberhaariger Mann ölt eine Fechtklinge mit einem Tuch, in langen, liebevollen Strichen. In einer Hängematte sitzt ein Mädchen von vielleicht zehn Jahren im Schneidersitz, knüpft Knoten in eine Schlaufe aus Schnur, löst sie wieder und summt dabei eine Melodie. In der Ecke schläft ein großer Mann, um eine Seekiste gekrümmt wie um etwas Geliebtes. Eine Frau mit Tinte bis zu den Ellbogen hat Karten über die halbe Tischlänge ausgebreitet und zeichnet Küstenlinien mit ruhiger Hand. Und an der anderen Hälfte teilt ein Mann in einem guten, schäbig gewordenen Mantel Karten aus — an Plätze, an denen niemand sitzt — während die ganze Zeit fremdartige Münzen über seine Knöchel wandern, ohne dass er ihnen je zusieht.
 
 Niemand — nicht der alte Mann, nicht die Passagiere selbst — erinnert sich daran, dass diese Menschen an Bord gekommen sind, und keiner von ihnen findet das seltsam. Jeder hat eine sich wiederholende Routine, ein Signaturobjekt, ohne das man ihn nie sieht, und eine falsche Erinnerung ans Einschiffen. Vollständige Seiten: [[the-fencing-master|der Fechtmeister]], [[the-quiet-girl|das stille Mädchen]], [[the-gambler|der Spieler]], [[the-cartographer|die Kartographin]], [[the-sleeping-man|der schlafende Mann]].
 
@@ -112,11 +112,11 @@ Wachen zu gehen ist der Weg, wie die Gruppe **−1-Nachteinbruch-Striche** verdi
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Netz kommt falsch herauf. Zu schwer, dann zu leicht, dann wieder schwer — als würde am anderen Ende etwas mitziehen und loslassen, mitziehen und loslassen. Dann durchbricht es die Oberfläche: ein Knäuel von der Größe eines Langbootbugs. Tau und Tang und bleiche Fische, hunderte, alle in dieselbe Richtung gewandt, dicht gepackt wie Schläfer. Und mittendrin, hier und da, ruhig durch die Maschen geflochten… Hände. Bleiche, geduldige Hände, die das Geflecht von innen halten.
+> Beim Einholen des Netzes merkt ihr, dass etwas nicht stimmt. Zu schwer, dann zu leicht, dann wieder schwer — als würde am anderen Ende etwas mitziehen und loslassen, mitziehen und loslassen. Dann durchbricht es die Oberfläche: ein Knäuel von der Größe eines Langbootbugs. Tau und Tang und bleiche Fische, hunderte, alle in dieselbe Richtung gewandt, dicht gepackt wie Schläfer. Und mittendrin, hier und da, ruhig durch die Maschen geflochten… Hände. Bleiche, geduldige Hände, die das Geflecht von innen halten.
 >
 > Kein Fisch zappelt. Nichts kämpft. Das ganze Knäuel hängt still über der Reling und tropft.
 >
-> Dann sagt es, von irgendwo aus seiner Mitte, mit einer Stimme, die ihr kennt — weil es eine von *euren* ist: „Dann holt mal ein."
+> Dann hört ihr eine Stimme von überall und nirgendwo ertönen. „Dann holt mal ein."
 
 **Encounter: Der Fang**
 - Enemies: 1 × [[the-catch|der Fang]]
