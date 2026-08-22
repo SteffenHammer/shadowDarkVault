@@ -40,9 +40,9 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 > Lass den Einsturz nicht zum TPK werden — diese Szene tötet niemanden. Ihre Aufgabe sind Tempo und die Botschaft: *Der Tempel verausgabt sich, um euch in eine ganz bestimmte Richtung zu schieben.* Wenn der Korridor fällt, lass es den klügsten Spieler zuerst aussprechen: Das Becken ist die einzige Tür, die noch bleibt.
 
 > [!quote] Read Aloud — Das Becken öffnet sich
-> Vor euch faltet sich der Korridor des Wehklagens in sich zusammen wie eine schluckende Kehle. Die steinernen Gesichter schreien noch, während er sie frisst — dann Stille, so plötzlich, dass sie in den Ohren klingelt. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte stille Ort, der in der Welt noch übrig ist.
+> Hinter euch stürzt der Korridor des Wehklagens in sich zusammen. Er krümmt sich wie eine Kehle, die schluckt. Die steinernen Gesichter schreien noch, während der Korridor sie mit sich reißt. Dann ist es still. So plötzlich, dass die Stille in euren Ohren klingt. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte ruhige Ort, der euch geblieben ist.
 >
-> Das Becken in ihrer Mitte zeigt keine Visionen mehr. Es *leuchtet* — weich, tief, bläulich, ein Licht wie durch Meter von Wasser gesehen — und wo eure Spiegelbilder sein sollten, ist keine Oberfläche mehr. Da ist flaches Wasser über hellem Sand, von *unten* gesehen: ein Nachthimmel, der sich über der Oberfläche kräuselt, und Feuerschein — warm, orange, lebendig — der von irgendwo am Ufer darübertanzt. Gestalten bewegen sich dort oben, vom Wasser verwischt: Beine, die durch Brandung waten, Schatten, die einen Strand entlanghasten.
+> Das Becken in der Mitte zeigt keine Visionen mehr. Es leuchtet. Weich, tief und bläulich, wie Licht, das durch viele Meter Wasser dringt. Wo eure Spiegelbilder sein müssten, ist keine Oberfläche. Ihr seht stattdessen von unten durch flaches Wasser auf hellen Sand. Über euch kräuselt sich ein Nachthimmel. Warmes, oranges Feuerlicht tanzt von irgendwo am Ufer über das Wasser. Darüber bewegen sich verschwommene Gestalten: Beine, die durch die Brandung waten, Schatten, die über den Strand eilen.
 >
 > Das Becken ist eine Tür. Es wartet nur darauf, dass ihr es begreift.
 
@@ -63,9 +63,9 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 > [!quote] Read Aloud
 > Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, *eure* Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepanzert, triefend, und hinter ihren Augen brennt ein grünes Licht wie Laternen, durch Faden von Wasser gesehen.
 >
-> In der Mitte der Linie steht Kapitän Rauthorn, den Säbel schwarz im Feuerschein, und wo die Klinge hinfährt, gehen die Ertrunkenen zu Boden und *bleiben* unten. Er sieht euch in der Brandung — und einen Herzschlag lang, nur einen, huscht etwas über sein Gesicht, das Erleichterung sein könnte.
+> In der Mitte der Linie steht Kapitän Rauthorn, sein Säbel scheint schwarz im Feuerschein, und wo seine Klinge hinfährt, gehen die Ertrunkenen zu Boden. Er sieht euch in der Brandung — und einen Herzschlag lang, huscht etwas über sein Gesicht, das Erleichterung sein könnte.
 >
-> Dann bebt die Insel erneut, hart genug, dass die Brandung stolpert, und seine Augen gehen nach Norden — dorthin, wo der Tempel hinter dem verfilzten Grün der Insel verborgen liegt. Von hier könnt ihr ihn nicht sehen. Aber ihr seht, was er sieht: ein Glühen, das aus dem verborgenen Ort aufsteigt und in den Nachthimmel klettert. Ein Licht, das es gestern noch nicht gab.
+> Dann bebt die Insel erneut, und seine Augen gehen nach Norden — dorthin, wo der Tempel hinter dem verfilzten Grün der Insel verborgen liegt. Eure Blick folgen seinen und ihr seht ein Glühen, das von der Insel aufsteigt und in den Nachthimmel klettert.
 
 **Encounter: Die Linie der Ertrunkenen**
 - Enemies: 1d4+1 × [[drowned-sailor|ertrunkener Matrose]] (pro gebundenem SC, weitere waten dahinter heraus — das ist Kulisse, kein Set-Piece)
@@ -76,11 +76,11 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 Lass die Gruppe eine oder zwei echte Runden an der Seite ihrer Kameraden kämpfen. Dann erreicht Rauthorn sie und fragt — leise, fast ein Flüstern — was im Tempel geschehen ist. **Wenn die Gruppe ihm sagt, dass der Splitter zerstört ist** (oder schlecht lügt; er hat gehört, wie die See sich verändert hat), wird er sehr still.
 
 > [!quote] Read Aloud — Das Urteil
-> „Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er benutzt die Stimme, die er für Verräter aufhebt — die leise. Das ist das Schlimmste daran. „Ich gab euch mein Schiff. Meine Karte. Meine eine Chance, niemals zu sterben. Und ihr habt sie dem Wasser verfüttert."
+> „Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er spricht mit der leisen Stimme, die er für Verräter bewahrt. Gerade diese Ruhe macht es schlimmer. „Ich gab euch mein Schiff. Meine Karte. Meine eine Chance, niemals zu sterben. Und ihr habt sie den Fischen verfüttert."
 >
-> Das blaue Licht in seinen Augen hört auf zu flackern und *steht*, stetig wie eine Lampe hinter Glas. Um euch herum wenden sich die Männer von der Brandung ab, an deren Seite ihr eben noch geblutet habt. Die Klingen sind noch nass. Die Gesichter schließen sich wie Türen, eines nach dem anderen, und keiner sieht euch dabei in die Augen.
+> Das blaue Licht in seinen Augen steht plötzlich still. Kein Flackern mehr. Nur dieses kalte, gleichmäßige Leuchten. Die Männer, an deren Seite ihr eben noch geblutet habt, wenden sich euch mit finsterer Miene zu. Unsicherheit und Zwiespalt, die ihr in ihren Gesichtern seht, weichen plötzlich tödlicher Absicht.
 >
-> „Die See kennt keine Gnade", sagt der Kapitän noch einmal, und der Säbel steigt. „Und ich auch nicht."
+> „Die See kennt keine Gnade", sagt der Kapitän noch einmal, und der Säbel steigt.
 
 **Hazard: Das Urteil des Kapitäns (nicht gewinnbar — absichtlich ohne Statblocks)**
 - Effect: Rauthorn greift mit +7 an (1d8+3 mit dem dunklen Säbel) und kann nicht zu Fall gebracht werden — Leibwächter aus der Mannschaft fangen alles ab, was ihn fällen würde, und die Ertrunkenen kommen allen weiter in den Rücken. Endlose Mannschaft greift mit +4 an (1d6), zwei oder mehr pro SC, immer mehr. Echte Runden, echte Würfe, echter Schaden — der Kampf fließt nur in eine Richtung.
@@ -104,11 +104,11 @@ Lass die Gruppe eine oder zwei echte Runden an der Seite ihrer Kameraden kämpfe
 ### What Happens
 
 > [!quote] Read Aloud — Die Wiedergeburtsvision
-> Dunkelheit. Kälte. Ihr sinkt — langsam, endlos, und da ist kein Grund, der euch je auffangen wird.
+> Dunkelheit. Kälte. Ihr sinkt. Langsam. Immer weiter. Unter euch ist nichts, was euch auffängt. Kein Grund. Nur die endlose Tiefe.
 >
-> Dann ist das Bild, das ihr einmal in einem Becken stillen Wassers gesehen habt, um euch herum und *wirklich*: eine sturmzerrissene schwarze See, und aus ihr steigt eine Gestalt, für die es keine Maße gibt — größer als Schiffe, größer als Klippen, Wasser stürzt von ihren Flanken wie einbrechende Küstenlinien. Ihre Augen brennen wie zwei kalte Sterne. Sie erwacht nicht. Sie wird *geboren* — und die See selbst macht ihr Platz.
+> Und dann wird eure Vision aus dem Tempel Wirklichkeit. Rine sturmzerrissene schwarze See, und aus ihr steigt eine Gestalt, für die es keine Maße gibt — größer als Schiffe, größer als Klippen, Wasser stürzt von ihren Flanken wie einbrechende Küstenlinien. Ihre Augen brennen wie zwei kalte Sterne. Sie erwacht nicht. Sie wird *geboren* — und die See selbst macht ihr Platz.
 >
-> Ihr Blick findet euch. Jeden Einzelnen von euch. Etwas geht durch euch hindurch, das keine Worte hat und keine braucht, und das Nächste, was ihr je an Worten dafür finden werdet, ist dies: eine Schuld, die anerkannt wird.
+> Ihr Blick findet euch. Jeden Einzelnen von euch. Ein Gefühlt durchfährt euch, das keine Worte braucht: eine Schuld, die anerkannt wird.
 >
 > Dann gleitet etwas Gewaltiges im Dunkeln an euch vorbei, nah genug, um es zu berühren: ein Auge, länger als ein Boot, das euch die ganze Zeit im Vorbeigleiten ansieht. Es ist nicht neugierig. Es prägt sich euch ein.
 >
