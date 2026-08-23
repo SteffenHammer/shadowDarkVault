@@ -3,6 +3,7 @@ title: Die See dazwischen
 type: campaign-adventure
 campaign: "[[00-campaign|The Damned of the Black Sea]]"
 system: Shadowdark
+theme: shadowdeep
 levels: 3-5
 party-size: 3-5
 sessions: 3-4
