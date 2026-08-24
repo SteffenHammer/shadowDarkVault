@@ -140,7 +140,7 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 
 - Es bestätigt, was die tote Mannschaft gesagt hat: Rauthorn lebt; er erzählt seine eigene Geschichte; an Land vergehen Tage.
 - Den alten Mann nennt es nur „*den Fährmann*" und „*den Dieb*". (Hinweis.) Gefragt, was gestohlen wurde, sagt es: „*Was mir geschuldet wird.*"
-- Direkt gefragt „*sind wir tot?*", sagt es genau dies, und keine Szene darf weiter gehen: „*Euch wird nichts angetan. Etwas wurde* mir *angetan. Ihr seid ertrunken. Ihr werdet mir geschuldet. Der Fährmann ist ein Dieb.*" Die Behauptung eines Anklägers — der ganze Köder des Nebels würde genauso klingen. Nichts an Bord bestätigt sie. (Harte Ambiguitätsvorgabe, [[00-overview|Übersicht]].)
+- Direkt gefragt „*sind wir tot?*", sagt es genau dies, und keine Szene darf weiter gehen: „*Euch wird nichts angetan. Es ist bereits passiert. Nun gilt es, die Schuld zu begleichen — jedes Einzelnen. Der Fährmann ist ein Dieb, und die See führt ehrliche Bücher.*" Die Behauptung eines Anklägers — der ganze Köder des Nebels würde genauso klingen. Nichts an Bord bestätigt sie. (Harte Ambiguitätsvorgabe, [[00-overview|Übersicht]].)
 - **Die Arithmetik, einmal ausgesprochen, milde:** „*Mir wird eine für jeden von euch geschuldet. Beliebige Seelen gleichen es aus — gegeben, nicht genommen. Die unter Deck — niemand wird vermissen, woran sich niemand beim Einschiffen erinnert.*" Dies ist die erste vollständige Nennung der Bedingungen des Finales — einschließlich, halb überhört, seiner strengsten Klausel: Ersatz zählt nur *freiwillig gegeben* ([[00-overview|Übersicht]]).
 
 **Hazard: Das stehende Wasser**
@@ -192,11 +192,11 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Dunkel senkt sich, und mit ihm kommt aus der Ferne achteraus ein Klang über das Wasser. Kein Schrei. Kein Brüllen. Nichts Lebendiges. Es ist das Ächzen eines großen, brechenden Rumpfs — Holz und Eisen, die irgendwo in der Tiefe nachgeben, langsam, gemächlich, seiner Sache vollkommen sicher. Ein Klang, der es nicht nötig hat, sich zu beeilen.
+> Die Nacht bricht herein, und mit ihr kommt aus der Ferne ein Klang über das Wasser. Kein Schrei. Kein Brüllen. Nichts Lebendiges. Es ist das Ächzen eines großen, brechenden Rumpfs — Holz und Eisen, die irgendwo in der Tiefe nachgeben, langsam, gemächlich, seiner Sache vollkommen sicher. Ein Klang, der es nicht nötig hat, sich zu beeilen.
 >
-> Ihr kennt diesen Klang. Ihr habt ihn schon einmal gehört, in einer Kammer aus schwarzem Stein, den Moment, bevor alles endete.
+> Ihr kennt diesen Klang. Ihr habt ihn schon einmal gehört, in einer Kammer aus schwarzem Stein, den Moment, bevor alles endete — oder begann.
 >
-> Und unter euren Füßen neigt sich die See sacht nach achtern, kaum merklich, wie ein Tablett, das jemand zu kippen beginnt. Als hätte die ganze Welt angefangen, höflich bergab zu führen — dorthin, wo der Klang wohnt.
+> Und unter euren Füßen neigt sich die See sacht nach achtern, kaum merklich, wie ein Tablett, das jemand zu kippen beginnt. Als hätte die ganze Welt angefangen, höflich bergab zu führen — dorthin, wo der Klang erschallt.
 
 - **Encounter:** die Enterwelle von Nacht 5 (2d4 × [[mooring-man|Festmacher]]) schlägt mitten in der Szene ein — und der alte Mann **schläft zum ersten Mal durch den Alarm**. Die Gruppe hält das Deck allein, bis jemand ihn weckt; er kommt den Niedergang herauf, ein Jahrzehnt älter, als er hinunterging.
 - **Das Schiff vergisst sich selbst.** Die Routine eines Passagiers zerbricht vor den Augen der Gruppe — der Tisch des Spielers ist einfach *fort*, und er teilt die Karten auf die nackten Planken aus, ungerührt. Der Übungsplatz des Fechtmeisters ist kürzer geworden; seine Ausfälle enden vor der Stelle, wo der Mast einmal stand. Niemand an Bord bemerkt es außer der Gruppe.

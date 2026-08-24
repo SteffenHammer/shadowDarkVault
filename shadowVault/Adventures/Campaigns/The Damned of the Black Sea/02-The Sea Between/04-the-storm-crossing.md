@@ -24,15 +24,15 @@ tags: [act]
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Dunkel senkt sich und hebt sich nicht mehr. Der Wind, der letzte Nacht begann, ist jetzt ein voller Sturm — und er weht euch nicht vom Kurs, er weht euch *ihn entlang*, wie eine Hand im Rücken. Voraus steht quer über der ganzen Welt eine Wand aus schwarzem Wasser, höher als jede Klippe, und hinter ihr brennt eine Farbe, die ihr seit sechs Nächten nicht gesehen habt und die ihr nicht zu benennen wagt, aus Angst, euch zu irren.
+> Die Nacht bricht herein, doch diesmal finsterer als je zuvor. Der Wind, der gestern nur ein Versprechen war, ist jetzt ein Sturm, voll und zielstrebig — und er treibt euch nicht vom Kurs, sondern genau hinein, wie eine Hand im Rücken. Voraus erhebt sich quer über der ganzen Welt eine Wand aus schwarzem Wasser, höher als jede Klippe, und hinter ihr brennt eine Farbe, die ihr seit sechs Nächten nicht gesehen habt und die ihr nicht zu benennen wagt, aus Angst, euch zu irren.
 >
-> Und achtern — der Horizont trifft ein.
+> Als ihr nach achtern blickt, bemerkt ihr, dass euch der Horizont eingeholt hat.
 >
-> Nicht ein Schiff. Hunderte. Galeonen, in deren Rümpfen Fregatten stecken, in deren Rümpfen Langboote stecken; Kiele ragen aus der Masse wie gebrochene Rippen, Ankerketten hängen wie Sehnen — ein Gebirge aus allem, was die See je verschlungen hat, und alles daran segelt: ohne Segel, ohne Eile, ohne die Möglichkeit anzuhalten. Grüne Laternen brennen in tausend Bullaugen. Sechs Nächte lang habt ihr auf seine Fingerspitzen gesehen. Dies ist die Hand.
+> Nicht ein Schiff. Hunderte. Galeonen, in deren Rümpfen Fregatten stecken, in deren Rümpfen Langboote stecken; Kiele ragen aus der Masse wie gebrochene Rippen, Ankerketten hängen wie Sehnen — ein Gebirge aus allem, was die See je verschlungen hat, und es kommt näher — ohne Eile. Grüne Laternen brennen in tausend Bullaugen.
 >
-> Dann spricht alles Nasse auf einmal — die Bilge, der Regen, das Kielwasser, die Münder der Dinger, die eben die Reling erklimmen — höflich, geduldig, mit einer einzigen Stimme:
+> Plötzlich hört ihr eine Stimme, die von überall zu sprechen scheint — der Regen, das Kielwasser, die Münder der Dinger, die eben die Reling erklimmen — höflich, geduldig, mit einer einzigen Stimme:
 >
-> „Euch wird nichts angetan. Etwas wurde mir angetan. Ihr seid ertrunken. Ihr werdet mir geschuldet — eine für jeden. Beliebige Seelen gleichen es aus. Der Fährmann ist ein Dieb, und die See führt ehrliche Bücher. Zahlt, und fahrt hinüber."
+> „Euch wird nichts angetan. Es ist bereits passiert. Nun gilt es, die Schuld zu begleichen — jedes Einzelnen. Der Fährmann ist ein Dieb, und die See führt ehrliche Bücher. Eine für jeden, das gestehe ich euch zu. Zahlt aus freien Stücken, dann lasse ich euch entscheiden. Andernfalls müsst ihr euer Schicksal akzeptieren."
 
 **Hazard: Der Sturm-Spießrutenlauf (jede Runde des Akts, bis zur Überfahrt)**
 - Effect: jede Runde an Deck legt jeder SC eine DC 12 DEX- oder STR-Probe ab (eigene Wahl — festklammern oder stemmen) oder wird zu Boden geworfen und rutscht Richtung Reling; bei jeder natürlichen 1 bricht eine Welle über das Deck und verursacht 1d6 Schaden bei allen im Freien. Drei Schiffsstationen müssen jede Runde bemannt sein — **Ruder, Pumpen, Schoten** — jede eine DC 12 Probe (DC 15 in Runden, in denen der Herold an Bord ist); jede unbemannte oder misslungene Station setzt einen **Sturmstrich** auf das Schiff.
@@ -94,11 +94,11 @@ Die Optionen, mit Preis. Der Sog hält jeden Handel aufs Wort — und akzeptiert
 > Weiche nie den Wortlaut eines Handels auf und lass nie einen zurücknehmen — die absolute Verlässlichkeit des Sogs ist sein Schrecken und der künftige Hebel der Kampagne (*er führt Schuldbücher*). Aber auch: Er nimmt **nur**, was ihm geschuldet wird, und seine Bücher schreiben Ersatz nur *freiwillig gegeben* gut — was seine Finger greifen und was nicht die Schuld ist, geht ungezählt hinab, fort. In dem Moment, in dem die Summe aufgeht, lässt jeder Festmacher an Bord los, tritt rückwärts über die Reling und ist fort — mitten im Schwung, wenn es sein muss.
 
 > [!quote] Read Aloud — Die Überfahrt (wenn die Schuld aufgeht)
-> Alles Nasse verstummt auf einmal, wie eine abgeschnittene Stimme. Die Dinger auf dem Deck lassen los — mitten in der Bewegung, ohne Zorn, ohne Bosheit, so, wie ein Hafenarbeiter eine Leine fallen lässt, wenn der Knoten sitzt — und treten rückwärts über die Reling in die See, eines nach dem anderen, ordentlich wie eine Wachablösung.
+> Auf einmal herrscht Totenstille. Alle Wesen auf dem Deck treten rückwärts über die Reling in die See, eines nach dem anderen, ordentlich wie eine Wachablösung — ohne Zorn, ohne Bosheit, so, wie ein Hafenarbeiter eine Leine fallen lässt, wenn der Knoten sitzt.
 >
-> Hinter euch beginnt das Gebirge aus Rümpfen, sehr langsam, achteraus zurückzufallen. Es dreht nicht bei. Es sinkt nicht. Es hört einfach auf, interessiert zu sein — und das ist irgendwie schlimmer als alles, was es hätte tun können.
+> Hinter euch beginnt das Gebirge aus Rümpfen, sehr langsam zurückzufallen. Es dreht nicht bei. Es sinkt nicht. Es hört einfach auf, interessiert zu sein.
 >
-> Voraus lehnt sich die Wand aus schwarzem Wasser über den Mast — und der alte Mann, die Hand ruhig am Rad, segelt sie geradewegs hinein. Ein Blitz bricht einmal, nah, und für diesen einen weißen Augenblick fangen seine Augen ihn falsch — zwei Punkte kalten Lichts, wie Sterne, von unter Wasser gesehen. Dann ist es dunkel, und er ist ein alter Mann an einem Rad.
+> Voraus lehnt sich die Wand aus schwarzem Wasser über den Mast — und der alte Mann, die Hand ruhig am Rad, segelt euch geradewegs hinein. Ein Blitz durchbricht die Dunkelheit, und für einen kurzen Augenblick seht ihr etwas in den Augen des alten Mannes — zwei Punkte kalten Lichts, wie Sterne, aus den Tiefen des Meeres.
 >
 > Das Letzte, was ihr hört, bevor das Wasser allen Klang nimmt, ist der Puls der Laterne, langsam und blau im Herzen der Flamme. Das Letzte, was ihr spürt, ist das Deck, das sich unter euch hebt — wie eine Brust, die sich für einen langen Atemzug füllt.
 >
@@ -118,13 +118,11 @@ Die Optionen, mit Preis. Der Sog hält jeden Handel aufs Wort — und akzeptiert
 ### What Happens
 
 > [!quote] Read Aloud
-> Ihr erwacht keuchend, mit dem Gesicht im nassen Sand — und die Welt hat wieder Farbe. Sonnenlicht, echt und tief und golden, liegt auf dem Strand: das erste Morgengrauen, das ihr seht, soweit eure Erinnerung reicht. Es wärmt die Haut. Ihr hattet vergessen, dass Licht das tut.
+> Ihr erwacht keuchend, mit dem Gesicht im nassen Sand — und die Welt hat wieder Farbe. Sonnenlicht, echt und golden, liegt auf dem Strand: das erste Morgengrauen, das ihr seht, soweit eure Erinnerung reicht. Es wärmt die Haut. Ihr hattet vergessen, dass Licht das tut.
 >
 > Ihr seid am Strand. An *jenem* Strand. Der Unrat der Schlacht liegt überall um euch, Tage alt: ausgebrannte Feuer, ein gespaltenes Boot, Tauwerk, steif vom Salz. Die Toten jener Nacht liegen, wo sie fielen, und die See ist respektvoll mit ihnen umgegangen. Ihr erwacht mitten unter ihnen. Genau dort, wo ihr gefallen seid.
 >
-> Von der Ketsch — nichts. Kein Wrack, kein Segel, kein Kielwasser, keine einzige Planke. Nur weit draußen, am Rand des Morgendunsts, durchbricht etwas Gewaltiges ein einziges Mal die Oberfläche — ein dunkler Rücken, sonnenbeschienene Gischt, unmöglich groß — und taucht, und kommt nicht wieder herauf.
->
-> Es könnte ein Wal gewesen sein.
+> Von dem Fischerkahn und dem alten Mann — keine Spur. Kein Wrack, kein Segel, kein Kielwasser, keine einzige Planke. Nur weit draußen, am Rand des Morgendunsts, durchbricht etwas Gewaltiges die Wasseroberfläche — ein dunkler Rücken, sonnenbeschienene Gischt, unmöglich groß.
 
 - **Über den letzten Blick wird nie entschieden.** Spieler, die die Hinweisspur des Fährmanns zusammengesetzt haben ([[00-overview|Übersicht]]), werden wissen, was sie gesehen haben und was ihnen geschenkt wurde; die anderen tragen die Frage nach Hause. Weder die Identität des alten Mannes noch das, was zwischen dem Strand und dem Morgengrauen geschah, wird *jemals* bestätigt — das überdauert das Abenteuer als Kampagnenregel.
 - **Was zurückkommt.** Jeder SC erwacht mit einem kleinen Gegenstand vom Schiff in der Hand — ein noch schwach warmer Becher, ein Fetzen geflickten braunen Segels, ein Belegnagel aus Messing, ein Stummel einer Spielkarte — alltäglich, außer dass er trocken ist, während alles andere an diesem Strand durchnässt ist. Bei genauem Hinsehen trägt jeder ein winziges eingeritztes Wellenzeichen: das Symbol „*geboren in den Tiefen der See*" vom Tor der drei Bindungen. Und die Todeswunde jedes SC ist jetzt eine blasse Narbe, die in der Nähe tiefen Wassers schmerzt. Nie erklärt.
