@@ -280,6 +280,8 @@ strong { color: var(--accent); }
 .inst.down .hp { color: var(--danger); }
 .hpbtn { width: 22px; height: 22px; padding: 0; font-size: 13px; line-height: 1; font-family: var(--font-mono); background: transparent; border: 1px solid var(--border-strong); color: var(--text); cursor: pointer; }
 .hpbtn:hover { border-color: var(--accent); }
+.hpbtn:disabled { opacity: .3; cursor: not-allowed; }
+.hpbtn:disabled:hover { border-color: var(--border-strong); }
 
 /* Clock tracker */
 .clock { border: var(--border-strong-1); background: var(--well-bg); margin: 0 0 var(--space-7); }
@@ -486,11 +488,11 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
       <div class="wordmark__tag">GM Screen</div>
     </div>
   </div>
-  <a href="#ov-ladder" style="text-decoration:none"><div class="clockchip">NACHTLEITER <b id="ladderChip">0</b>/6 &nbsp;·&nbsp; INTERVENTIONEN <b id="intChip">3</b>/3</div></a>
+  <a href="#ov-ladder" style="text-decoration:none"><div class="clockchip">NACHTLEITER <b id="ladderChip">0</b>/6 &nbsp;·&nbsp; KRAFT <b id="intChip">2</b>/4</div></a>
   <div class="nav">
     <h2>Adventure</h2>
     <a href="#overview" data-spy="overview">Overview</a>
-    <a class="sub" href="#ov-ladder" data-spy="ov-ladder">Nachtleiter &amp; Abrechnung</a>
+    <a class="sub" href="#ov-ladder" data-spy="ov-ladder">Nachtleiter &amp; Kraft</a>
     <h2>Act 1 · Prolog</h2>
     <a href="#act-1" data-spy="act-1">Die Ertränkung</a>
     <a class="sub" href="#scene-collapse" data-spy="scene-collapse">Der Tempel stürzt ein <span class="dot"></span></a>
@@ -610,7 +612,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <p><strong><a class="ref" href="#npc-undertow" data-ref="npc-undertow">Der Sog</a></strong> will die Seelen der Gruppe, <strong>weil</strong> sie ertrunken sind und ertrunkene Seelen ihm geschuldet werden — der Fährmann ist ein Dieb, und die Schuld muss ausgeglichen werden. Er hat jedes Wrack eingesammelt, seit es die See gibt. Jeder Enterer aus den Nebelbänken ist der Sog, der vorausgreift; alle ihre Handel sind seine Handel; wer annimmt, wird eingesammelt. <strong>Er greift immer zuerst nach der ursprünglichen Schuld:</strong> Seine Enterer setzen einem SC zu, wo immer einer erreichbar ist, und wenden sich Ersatz erst dann zu, wenn eine Seele förmlich angeboten wird — oder wenn die Schuldner sich außer Reichweite halten. Er ist höflich, geduldig und korrekt — der Schrecken liegt darin, dass er nicht unrecht hat.</p>
         <p><strong>Die Passagiere sind der Schatz (der verborgene Twist).</strong> Jeder namenlose Passagier an Bord ist eine verkörperte Gabe des Leviathan — eine neue Fähigkeit, ein Attributspunkt, ein seltener Gegenstand, den er <em>jeder</em> Seele zugedacht hat, die er lebend an Land bringt. Das Gesetz des Todes ist Arithmetik: Ihm werden N Seelen geschuldet (eine pro SC), und es akzeptiert <em>beliebige</em> N — <strong>aber ein Ersatz zählt nur, wenn er freiwillig gegeben wird.</strong> Ein Passagier, der in einem ausgesprochenen Handel dargeboten wird, begleicht eine Seele und löscht diese gesamte Gabenkategorie für immer aus dem Spiel. Ein Passagier, der <em>mit Gewalt genommen</em> wird — über eine Reling gezerrt, vom Sturm fortgerissen — begleicht <strong>nichts</strong>: Die Gabe ist trotzdem zerstört, ungezählt dahin, und die Schuld bleibt in voller Höhe bestehen. Die Kraft des alten Mannes funktioniert genauso — nur was er am Zoll darbietet, zählt. Gewalt kann immer nur die ursprüngliche Schuld eintreiben: die SC selbst. Die Regel wird <strong>bis nach der Landung niemals erklärt</strong>: Die Spieler werden nur geneckt („<em>Das war nicht deins auszugeben</em>"). Die Gaben selbst sind Fracht an Bord des <a class="ref" href="#loc-the-gift-boat" data-ref="loc-the-gift-boat">Gabenboots</a>, entdeckt in Abenteuer III — keine Szene in diesem Abenteuer.</p>
         <p><strong>Endgültiger Verlust.</strong> Eine Seele, die der Verfolger nimmt — ein SC, der den Handel eines Enterers annimmt, über Bord geht oder im Finale gefasst wird — wird zu einem <a class="ref" href="#sb-drowned-sailor" data-ref="sb-drowned-sailor">ertrunkenen Matrosen</a>. Endgültiger Tod; die Gruppe mag später dem gegenüberstehen, was genommen wurde, mit dem Gesicht eines Freundes.</p>
-        <p><strong>Das Schuldbuch des Zolls (Währung des Finales).</strong> Der Leviathan hält <strong>3 Interventionen</strong> für den Rest der Kampagne. Jedes Stück seiner Kraft, das an der Sturmwand dem Sog gegeben wird, löscht eine davon für immer (die Laterne wird eine Stufe dunkler, der alte Mann altert um Jahre, auf der Stelle). Die <em>ganze</em> Schuld kann er niemals zahlen — mindestens eine Seele muss von Bord kommen. Halte den Rest nach dem Finale in <span class="ref-out" title="Outside this adventure — campaign overview (00-campaign.md), Threads Between Adventures">den Kampagnenfäden</span> fest.</p>
+        <p><strong>Das Schuldbuch des Zolls (Währung des Finales).</strong> Was der alte Mann an die Sturmwand bringt, ist, was die Crew ihm gelassen hat: <strong>So viele Seelen, wie er Kraft hat (0–4)</strong>, kann er dort aus eigener Kraft begleichen — jedes Stück eine <strong>Intervention</strong> des Leviathan, die danach für den Rest der Kampagne fehlt (die Laterne wird eine Stufe dunkler, der alte Mann altert um Jahre, auf der Stelle). Die <em>ganze</em> Schuld kann er niemals zahlen — mindestens eine Seele muss von Bord kommen. Er beginnt die Überfahrt mit 2; wie die Crew ihm Kraft gibt oder nimmt, steht unter <a href="#ov-ladder">Nachtleiter &amp; Kraft</a>. Ein Leviathan mit 4 ist stärker als zu Beginn; einer mit 0 muss sich in Abenteuer III erst wieder sammeln. Halte den Rest nach dem Finale in <span class="ref-out" title="Outside this adventure — campaign overview (00-campaign.md), Threads Between Adventures">den Kampagnenfäden</span> fest.</p>
         <p><strong>Aufstieg.</strong> Die Gruppe beginnt auf Stufe 3. Stufe 4 am Ende von Akt 2; Stufe 5 am Ende von Akt 3; das Finale wird auf Stufe 5 gespielt.</p>
         <p><strong>Während sie segeln.</strong> An Land vergeht die Zeit seltsam. Rauthorn überlebt, erzählt seine eigene Geschichte von der Insel und bewegt sich auf das Ritual zu — zum Einsatz gehört auch, <em>was sie bei der Rückkehr vorfinden</em> (Abenteuer III).</p>
       </div></div>
@@ -618,69 +620,70 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
     <div class="panel" id="ov-ladder">
       <header class="s-head" data-cid="ov-ladder">
-        <div class="hgroup"><span class="gr-eyebrow">Clock · GM Only</span><h3>Die Nachtleiter</h3></div>
+        <div class="hgroup"><span class="gr-eyebrow">Clock · GM Only</span><h3>Die Nachtleiter &amp; die Kraft des Fährmanns</h3></div>
         <button class="fold" aria-label="collapse">–</button>
       </header>
       <div class="s-wrap"><div class="s-body">
-        <p>Es gibt keine Sonne — aber in Abständen verdunkelt sich das graue Zwielicht zu wahrem Schwarz: eine <em>Nacht</em>. Mit jeder Nacht manifestiert sich der Verfolger einen Schritt näher, und die <a class="ref" href="#loc-the-halcyon" data-ref="loc-the-halcyon">Halcyon</a> verfällt sichtbar im Gleichschritt. Die Leiter ist eine <strong>Position</strong> (wie nah der Verfolger ist), kein Kalender — Akte werden ausgelöst, wenn die Leiter eine Stufe <strong>erreicht</strong>, egal wie viele Verdunkelungen das braucht. Klick auf eine Stufe setzt die Leiter von Hand.</p>
+        <p>Es gibt keine Sonne — aber in Abständen verdunkelt sich das graue Zwielicht zu wahrem Schwarz: eine <em>Nacht</em>. Mit jeder Nacht manifestiert sich der Verfolger einen Schritt näher, und die <a class="ref" href="#loc-the-halcyon" data-ref="loc-the-halcyon">Halcyon</a> verfällt sichtbar im Gleichschritt. Die Leiter ist ein <strong>Kalender</strong>: Jede Verdunkelung steigt sie um genau eine Stufe, und sie kennt keinen Weg zurück — sechs Nächte, dann der Sturm. Die Spieler können den Verfolger weder aufhalten noch beschleunigen; das Gesetz des Todes kommt, wann es kommt. Was sie beeinflussen, ist <em>wie viel vom Fährmann noch übrig ist</em>, wenn er sie einholt (unten). Klick auf eine Stufe setzt die Leiter von Hand; der Knopf <strong>Nachteinbruch</strong> steigt eine Stufe und schließt die Nacht ab.</p>
 
         <div class="ladder">
-          <div class="ladder__head"><span class="gr-eyebrow">Nachtleiter</span><span class="gr-meta">NACHT <b id="ladderVal">0</b> / 6 &nbsp;·&nbsp; AUSGERUHTER FÄHRMANN <b id="restVal">0</b> / 2</span></div>
+          <div class="ladder__head"><span class="gr-eyebrow">Nachtleiter</span><span class="gr-meta">NACHT <b id="ladderVal">0</b> / 6</span></div>
           <div class="ladder__steps">
             <div class="ladder-step" data-step="1"><span class="box"></span><span class="n">1</span><span class="txt">Das Kielwasser verblasst nicht mehr — bis zum Horizont straff gespannt wie eine Schleppleine.<span class="ship">Farbe blättert in Mustern wie Gezeitenlinien; Rigg hängt zur Dämmerung schlaff. Unter Deck: neun Türen.</span></span></div>
             <div class="ladder-step" data-step="2"><span class="box"></span><span class="n">2</span><span class="txt">Eine zweite Silhouette am Horizont, der Rumpf noch unter der Kimm, auf gleichem Kurs. Die Todeswunden schmerzen. <strong>Nacht der Netze.</strong><span class="ship">Sieben Türen; eine Kajüte öffnet sich jetzt auf nackte Planken.</span></span></div>
             <div class="ladder-step" data-step="3"><span class="box"></span><span class="n">3</span><span class="txt">Die Nebelbänke beginnen — erste Enterer, <a class="ref" href="#scene-pilot" data-ref="npc-pilot">der Lotse</a>. Der alte Mann beginnt zu schlafen (zuvor schlief er nie). <strong>→ Act 3.</strong><span class="ship">Die Nähte weinen; die drei Knarrlaute kommen langsamer. Sechs Türen; die Laderaumtreppe hat eine Stufe weniger.</span></span></div>
-            <div class="ladder-step" data-step="4"><span class="box"></span><span class="n">4</span><span class="txt">Die Bugwelle des Verfolgers ist sichtbar; die See fällt sanft nach achtern zu ihm ab, wie bergab. Die Laterne <strong>flackert</strong>. Die tote Mannschaft kommt; das Krähennest erscheint.<span class="ship">Segel geflickt, wo niemand flickte; ein Krähennest, das nie da war. Fünf Türen; zwei Passagiere teilen sich, was drei Räume waren.</span></span></div>
+            <div class="ladder-step" data-step="4"><span class="box"></span><span class="n">4</span><span class="txt">Die Bugwelle des Verfolgers ist sichtbar; die See fällt sanft nach achtern zu ihm ab, wie bergab. Die tote Mannschaft kommt; das Krähennest erscheint.<span class="ship">Segel geflickt, wo niemand flickte; ein Krähennest, das nie da war. Fünf Türen; zwei Passagiere teilen sich, was drei Räume waren.</span></span></div>
             <div class="ladder-step" data-step="5"><span class="box"></span><span class="n">5</span><span class="txt">Nah genug, um ihn zu <em>hören</em> — das Ächzen eines brechenden Rumpfs (der Klang des Wächters aus Abenteuer I). Der Sturm zieht auf.<span class="ship">Deck von Mast zu Mast sichtbar kürzer; Laternenkreis kaum übers Ruder hinaus. Drei Türen; der Passagierraum ein einziger Raum; der Tisch des Spielers ist fort.</span></span></div>
             <div class="ladder-step" data-step="6"><span class="box"></span><span class="n">6</span><span class="txt">Die Sturmüberfahrt — das Finale; er holt sie ein. <strong>→ Act 4.</strong><span class="ship">Ein Bruchteil ihrer selbst; Ruder und Laderaum fast ein Raum; Laternenkreis einen Schritt breit. Zwei Türen: Laderaum und Bilge.</span></span></div>
           </div>
         </div>
 
-        <h4 class="gr-section-title" style="margin:var(--space-7) 0 var(--space-5)">Einbruch der Nacht — Abrechnung</h4>
-        <p>Notiere im Spiel unauffällig Striche, sobald sie anfallen (die Kästchen unten); bei jeder Verdunkelung zähle zusammen und steige. <strong>Die Leiter steigt um 1 + (Netto-Striche) — mindestens 0, höchstens 2 pro Nacht.</strong> Versäumnisse sind Seemannschaft — ein gutes Tagwerk gleicht sie aus. Entscheidungen sind Einwilligung, und das Gesetz des Todes ist gnadenlos, was Einwilligung angeht: Ein +3 macht mehr zunichte, als ein ganzer Tag guter Striche decken kann.</p>
+        <h4 class="gr-section-title" style="margin:var(--space-7) 0 var(--space-5)">Die Kraft des Fährmanns — Abrechnung</h4>
+        <p>Der alte Mann hält Stücke seiner neugeborenen Kraft — und jedes Stück ist eine <strong>Intervention</strong>: an der Sturmwand eine Seele, die er aus eigener Kraft begleichen kann; danach, für den Rest der Kampagne, ein Moment, in dem er die Gruppe gegen Rauthorns Ritual abschirmt, ihr beisteht oder sie rettet. <strong>Er beginnt mit 2; die Spanne ist 0 bis 4.</strong> Die Crew gibt ihm Kraft zurück, indem sie ihn stützt — und verbraucht sie, indem sie ihn zwingt einzugreifen. Der Zähler ist reine SL-Sache: Die Spieler sehen ihn nur an der Laterne und an seinem Gesicht, und niemand erklärt ihnen je, was sie da sehen. Jeder Eingriff ist eine Szene — spiele sie, bevor du klickst.</p>
 
         <div class="reckon" id="reckon">
-          <div class="reckon__head"><span class="gr-eyebrow">Nachteinbruch-Striche · diese Nacht</span><span class="gr-meta">Striche werden beim Nachteinbruch geleert</span></div>
+          <div class="reckon__head"><span class="gr-eyebrow">Kraft des Fährmanns</span><span class="gr-meta">KRAFT <b id="strVal">2</b> / 4 &nbsp;·&nbsp; LATERNE <b id="strTier">voll</b> &nbsp;<button class="hpbtn" id="strMinus" title="von Hand">−</button><button class="hpbtn" id="strPlus" title="von Hand">+</button></span></div>
           <div class="reckon__cols">
             <div class="reckon__col">
-              <span class="gr-label bad">Striche dagegen</span>
-              <div class="tally" data-k="stopped" data-w="1" data-kind="count"><span class="w bad">+1</span><span class="t">Versäumnis: das Schiff lag eine Wache lang gestoppt oder trieb unbemannt</span><span class="ctl"><button class="hpbtn" data-d="-1">−</button><span class="cnt">0</span><button class="hpbtn" data-d="1">+</button></span></div>
-              <div class="tally" data-k="bilge" data-w="1" data-kind="toggle"><span class="w bad">+1</span><span class="t">Versäumnis: die Bilgentür wurde überhaupt geöffnet<small>einmal pro Nacht, egal wie oft</small></span><span class="ctl"><button class="tog bad" aria-label="toggle"></button></span></div>
-              <div class="tally" data-k="considered" data-w="3" data-kind="count"><span class="w bad">+3</span><span class="t">Entscheidung: Handel eines Enterers angenommen oder auch nur <em>erwogen</em><small>„lasst mich darüber nachdenken" zählt</small></span><span class="ctl"><button class="hpbtn" data-d="-1">−</button><span class="cnt">0</span><button class="hpbtn" data-d="1">+</button></span></div>
-              <div class="tally" data-k="given" data-w="3" data-kind="count"><span class="w bad">+3</span><span class="t">Entscheidung: ein Passagier wurde weggegeben<small>automatisch</small></span><span class="ctl"><button class="hpbtn" data-d="-1">−</button><span class="cnt">0</span><button class="hpbtn" data-d="1">+</button></span></div>
+              <span class="gr-label bad">Eingriffe · je −1</span>
+              <div class="tally"><span class="w bad">−1</span><span class="t">Das Schiff lag eine Wache lang gestoppt oder trieb unbemannt<small>Er hat es allein durch die Nacht gehalten; am Morgen ist er grauer, die Hand am Rad zittert</small></span><span class="ctl"><button class="hpbtn" data-spend="adrift" title="Eingriff">−</button></span></div>
+              <div class="tally"><span class="w bad">−1</span><span class="t">Die Bilgentür wurde geöffnet<small>einmal pro Nacht, egal wie oft — er sperrt die Stimme darunter wieder aus; man findet ihn auf der Treppe sitzend, die Hand flach an der Tür</small></span><span class="ctl"><button class="hpbtn" data-spend="bilge" title="Eingriff">−</button></span></div>
+              <div class="tally"><span class="w bad">−1</span><span class="t">Der Handel eines Enterers wurde <em>erwogen</em><small>„lasst mich darüber nachdenken" zählt — der Handel ist halb geschlossen; er tritt aus dem Licht, sagt ein einziges Wort, der Enterer verbeugt sich und weicht</small></span><span class="ctl"><button class="hpbtn" data-spend="considered" title="Eingriff">−</button></span></div>
+              <div class="tally"><span class="w bad">−1</span><span class="t">Ein SC ging über die Reling — er holt ihn zurück<small>eine Hand, zu groß für ihr Handgelenk, im Kragen; ungefragt, wenn niemand sonst mehr zugreifen kann, auf Bitte jederzeit</small></span><span class="ctl"><button class="hpbtn" data-spend="rescue" title="Eingriff">−</button></span></div>
+              <div class="tally"><span class="w bad">−1</span><span class="t">Im Sturm: der Zehnt fällt auf 6<small>er verbrennt ein Stück, nur um das Schiff zusammenzuhalten — nutze „Stück verbrennen" in <a href="#scene-toll">Der Zoll</a></small></span><span class="ctl"></span></div>
             </div>
             <div class="reckon__col">
-              <span class="gr-label">Striche dafür</span>
-              <div class="tally" data-k="repair" data-w="-1" data-kind="count"><span class="w">−1</span><span class="t">Eine Reparatur gegen DC 12 gelang<small>ab Nacht 4: DC 15</small></span><span class="ctl"><button class="hpbtn" data-d="-1">−</button><span class="cnt">0</span><button class="hpbtn" data-d="1">+</button></span></div>
-              <div class="tally" data-k="watch" data-w="-1" data-kind="toggle"><span class="w">−1</span><span class="t">Eine volle Wachrotation wurde gehalten, niemand allein</span><span class="ctl"><button class="tog" aria-label="toggle"></button></span></div>
-              <div class="tally" data-k="refused" data-w="-1" data-kind="count"><span class="w">−1</span><span class="t">Ein Handel wurde laut im Licht der Laterne ausgeschlagen</span><span class="ctl"><button class="hpbtn" data-d="-1">−</button><span class="cnt">0</span><button class="hpbtn" data-d="1">+</button></span></div>
-              <div class="tally" data-k="rested" data-w="-1" data-kind="toggle"><span class="w">−1</span><span class="t">Der alte Mann wurde am Ruder abgelöst, um zu ruhen<small>Voraussetzung für den ausgeruhten Fährmann</small></span><span class="ctl"><button class="tog" aria-label="toggle"></button></span></div>
+              <span class="gr-label">Erholung · +1 · höchstens einmal pro Nacht</span>
+              <div class="tally"><span class="w">+1</span><span class="t">Der ausgeruhte Fährmann<small>am Ruder abgelöst und wirklich geruht; das Schiff derweil gehalten (volle Wachrotation, niemand allein — oder eine Reparatur gegen DC 12, ab Nacht 4 DC 15); kein Eingriff in dieser Nacht</small></span><span class="ctl"><button class="hpbtn" data-gain="rested" title="Erholung">+</button></span></div>
+              <div class="tally"><span class="w">+1</span><span class="t">Ein Handel wurde laut im Licht der Laterne ausgeschlagen<small>auch mit Güte — die Jacke an die Toten der Gezeitenklinge; die Laterne flammt für einen Atemzug auf</small></span><span class="ctl"><button class="hpbtn" data-gain="refused" title="Erholung">+</button></span></div>
+              <p class="sbline" style="margin:var(--space-4) 0 0">Was ihn <em>nichts</em> kostet: ein angenommener Handel (kostet bereits eine Seele), ein weggegebener Passagier (kostet bereits eine Gabe). Er sagt nur: „<em>Das war nicht deins auszugeben.</em>"</p>
             </div>
           </div>
           <div class="reckon__sum">
             <div>
-              <div class="line">NETTO <b id="rkNet">0</b> &nbsp;·&nbsp; 1 + NETTO = <b id="rkRaw">1</b> &nbsp;·&nbsp; LEITER STEIGT UM <b id="rkRise">1</b></div>
-              <div class="verdict" id="rkVerdict">Die Leiter steigt eine Stufe.</div>
+              <div class="line">DIESE NACHT · EINGRIFFE <b id="rkInterv">0</b> &nbsp;·&nbsp; ERHOLT <b id="rkGain">nein</b></div>
+              <div class="verdict" id="rkVerdict"></div>
             </div>
-            <div class="btns"><button class="btn" id="rkClear">Clear</button><button class="btn" id="rkApply">Nachteinbruch</button></div>
+            <div class="btns"><button class="btn" id="rkApply">Nachteinbruch</button></div>
           </div>
         </div>
 
         <div class="gm-tip">
           <span class="gr-eyebrow">GM Guidance — die Regeln hinter dem Rechner</span>
           <ul>
-            <li><strong>Steigt die Leiter in einer Nacht um 2, spielen sich die Manifestationen beider Stufen noch in derselben Nacht ab</strong> — der Nebel rollt heran <em>und</em> die Bugwelle steigt, in einer einzigen Verdunkelung. Schlechte Nächte verstärken einander; lass den Tisch es spüren.</li>
-            <li><strong>Der ausgeruhte Fährmann (der einzige Weg zurück).</strong> Ergeben die Striche der Nacht <strong>netto −1 oder weniger</strong> <em>und</em> der alte Mann war darunter — am Ruder abgelöst und wirklich ausgeruht — gibt er die Kraft aus, die die Crew ihm geschenkt hat: Die Leiter <strong>fällt eine Stufe</strong>, statt zu halten. Am grauen Morgen steht er aufrechter, für einen Tag um Jahre jünger; das Kielwasser hängt schlaff, die Silhouette sinkt unter die Kimm, der Nebel lichtet sich. Bereits gespielte Szenen bleiben gespielt. Das schafft er <strong>zweimal pro Überfahrt</strong>; beim dritten Mal ist die Kraft schlicht nicht da, und die Gruppe sieht es. (Der Rechner zählt mit.)</li>
-            <li>Darüber hinaus steigt die Leiter niemals rückwärts — sorgfältiges Segeln bringt das Gesetz des Todes <em>ins Stocken</em>. Mindestens drei Nächte vor dem Sturm sind garantiert; eine sorgfältige Crew mag acht oder mehr erleben.</li>
-            <li><em>Beispiele:</em> volle Wachrotation + eine Reparatur → 1 + (−2) = <strong>0</strong>, die Leiter hält. Jemand sagte „lasst mich darüber nachdenken", trotz voller Rotation und einer Reparatur → 1 + 3 − 2 = <strong>2</strong> → der Verfolger springt zwei Stufen.</li>
+            <li><strong>Bei jedem Eingriff, auf der Stelle:</strong> Die Laterne wird eine Stufe dunkler, er altert um Jahre. <strong>Steht die Kraft auf 0</strong>, kann er nichts davon mehr tun — das Schiff treibt, die Stimme spricht, der Handel schließt, der SC ist fort — und die Gruppe sieht, dass er es versucht hat. (Die Knöpfe sind dann gesperrt.)</li>
+            <li><strong>Erholung höchstens einmal pro Nacht</strong>, nie über 4. Der ausgeruhte Fährmann setzt voraus, dass ihn in dieser Nacht nichts zum Eingreifen gezwungen hat — der Rechner sperrt den Knopf. Am grauen Morgen steht er aufrechter, für einen Tag um Jahre jünger; die Laterne brennt eine Stufe heller.</li>
+            <li><strong>Nachteinbruch</strong> steigt die Leiter um eine Stufe und beginnt eine neue Nacht (Bilgen- und Erholungssperre werden gelöst). Erzähle die Manifestation der neuen Stufe zusammen mit dem Verfallszustand der Halcyon.</li>
+            <li><em>Beispiele:</em> Nacht 2 — volle Rotation, er wurde abgelöst, nichts geschah → <strong>3</strong>. Nacht 3 — jemand sagte dem Lotsen „lasst uns darüber nachdenken" (−1), später wurde das Angebot laut im Licht ausgeschlagen (+1) → bleibt bei <strong>3</strong>; er hat eingegriffen, also keine Erholung obendrauf. Nacht 4 — Bilgentür offen, Schiff trieb eine Wache (−2) → <strong>1</strong>: Die Laterne flackert, die erste nasse Tauhand überschreitet die Linie.</li>
           </ul>
         </div>
 
         <h4 class="gr-section-title" style="margin:var(--space-7) 0 var(--space-5)">Der Laternenkreis — eine Zuflucht, die versagt</h4>
+        <p>Der warme Kreis um die Laterne ist seine Kraft, sichtbar gemacht. <strong>Seine Größe folgt der Leiter</strong> (Nacht 0: fast das ganze Deck; Nacht 6: ein Schritt weit — die Zustände der Halcyon). <strong>Seine Helligkeit folgt der Kraft:</strong></p>
         <div class="lantern" id="lantern">
-          <div data-min="0" data-max="3"><span class="gr-label"><b>Volles Licht</b> · Nächte 0–3</span>Zuflucht. Die Ertrunkenen <em>können</em> ihn nicht betreten, Punkt, und die geborgten Stimmen verstummen darin. Erkläre niemals, warum.</div>
-          <div data-min="4" data-max="5"><span class="gr-label"><b>Flackernd</b> · Nächte 4–5</span>Der Rand franst aus. Die Ertrunkenen überschreiten die Linie zum ersten Mal — aber alles, was sie im Licht oder ins Licht hinein versuchen, geschieht mit <strong>Nachteil</strong>, und wer darin steht, hat <strong>Vorteil</strong> auf Proben, sich gegen Packen, Fortzerren oder Täuschen zu wehren. Spiele die erste nasse Tauhand über der Linie als den Horrormoment, der sie ist.</div>
-          <div data-min="6" data-max="6"><span class="gr-label"><b>Der letzte Schritt</b> · Nacht 6</span>Derselbe Vorteil und Nachteil — aber der Kreis schützt zwei Personen, nicht mehr.</div>
+          <div data-min="2" data-max="4"><span class="gr-label"><b>Voll</b> · Kraft 2–4</span>Zuflucht. Die Ertrunkenen <em>können</em> ihn nicht betreten, Punkt, und die geborgten Stimmen verstummen darin. So beginnt die Überfahrt; bei 3 und mehr steht die Flamme höher, und der bläuliche Takt in ihrem Herzen ist für jeden zu sehen. Erkläre niemals, warum.</div>
+          <div data-min="1" data-max="1"><span class="gr-label"><b>Flackernd</b> · Kraft 1</span>Der Rand franst aus. Die Ertrunkenen überschreiten die Linie zum ersten Mal — aber alles, was sie im Licht oder ins Licht hinein versuchen, geschieht mit <strong>Nachteil</strong>, und wer darin steht, hat <strong>Vorteil</strong> auf Proben, sich gegen Packen, Fortzerren oder Täuschen zu wehren. Spiele die erste nasse Tauhand über der Linie als den Horrormoment, der sie ist — und sie haben es selbst verbraucht.</div>
+          <div data-min="0" data-max="0"><span class="gr-label"><b>Glut</b> · Kraft 0</span>Kein Kreis mehr. Die Laterne ist ein blauer Funke im Glas; Zuflucht ist nur noch, was der alte Mann mit den Händen halten kann — eine Person, an seiner Seite am Ruder.</div>
         </div>
         <p class="sbline">Der Kreis schützt; er gewinnt nicht. Feinde belagern ihn nie — sie ignorieren ihn und sammeln ein, was er nicht abdeckt: die Passagiere, die Stationen, das Schiff selbst. Eine Crew, die sich im Licht zusammendrängt, ist nicht sicher; sie wählt nur aus, was sie verliert, eine Wache nach der anderen.</p>
       </div></div>
@@ -709,13 +712,13 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div class="toll">
             <div><span class="gr-label">Schuld (SC)</span><b id="tollDebt">4</b><div class="ctl"><button class="hpbtn" id="debtMinus">−</button><button class="hpbtn" id="debtPlus">+</button></div></div>
             <div><span class="gr-label">SC eingesammelt</span><b id="tollPcs">0</b><div class="ctl"><button class="hpbtn" id="pcsMinus">−</button><button class="hpbtn" id="pcsPlus">+</button></div></div>
-            <div><span class="gr-label">Kraft des alten Mannes</span><b id="tollPower">0</b><div class="ctl"><button class="hpbtn" id="powMinus">−</button><button class="hpbtn" id="powPlus">+</button></div></div>
+            <div><span class="gr-label">Kraft gezahlt</span><b id="tollPower">0</b><div class="ctl"><button class="hpbtn" id="powMinus">−</button><button class="hpbtn" id="powPlus">+</button></div></div>
             <div class="open"><span class="gr-label">Offen</span><b id="tollOpen">4</b><div class="ctl"><span class="gr-meta">gegeben: <span id="tollGiven">0</span></span></div></div>
           </div>
           <div class="toll__note" id="tollNote"></div>
         </div>
-        <div class="counter"><span class="gr-label">Interventionen des Leviathan</span><b><span id="intVal">3</span><small>/3</small></b></div>
-        <span class="sbline">Jedes Stück „Kraft des alten Mannes" — am Zoll dargeboten <em>oder</em> im Sturm verbrannt — streicht eine Intervention. Verbrannte Stücke begleichen nichts: nutze dafür den Knopf in <a href="#scene-toll">Der Zoll</a>. Halte den Rest nach dem Finale in den Kampagnenfäden fest.</span>
+        <div class="counter"><span class="gr-label">Kraft des Fährmanns · Interventionen</span><b><span id="intVal">2</span><small>/4</small></b></div>
+        <span class="sbline">Das ist, was er noch hat — geführt unter <a href="#ov-ladder">Nachtleiter &amp; Kraft</a>. Jedes am Zoll dargebotene Stück begleicht eine Seele und ist als Intervention gestrichen; ein im Sturm verbranntes Stück begleicht nichts (Knopf in <a href="#scene-toll">Der Zoll</a>). Was bleibt, trägt er in die Kampagne: Halte es nach dem Finale in den Kampagnenfäden fest.</span>
       </div></div>
     </div>
 
@@ -800,7 +803,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="readaloud">
           <span class="gr-eyebrow">Read Aloud</span>
-          <p>Das Licht des Splitters erlischt nicht — es <em>zerbirst</em>. Ein Schlag ohne Klang, den ihr in den Zähnen spürt, und die Kammer dröhnt wie eine geschlagene Glocke, die niemand mehr zum Schweigen bringt. Die Adern im schwarzen Stein flammen auf, blau und blendend, ein rasender Puls — dann stolpert der Puls, wird dünn, verglimmt wie eine Lampe, der das Öl ausgeht.</p>
+          <p>Das Licht des Splitters erlischt nicht — es <em>zerbirst</em>. Ein Schlag ohne Klang, den ihr in den Knochen spürt. Die Kammer dröhnt wie eine geschlagene Glocke, die niemand mehr zum Schweigen bringt. Die Adern im schwarzen Stein flammen auf, blau und blendend, ein rasender Puls — dann stolpert der Puls, wird dünn, verglimmt wie eine Lampe, der das Öl ausgeht.</p>
           <p>Irgendwo unter euren Füßen, tiefer als der Tempel, tiefer als die Wurzeln der Insel, wälzt sich etwas Gewaltiges herum. Die ganze Welt bewegt sich mit.</p>
           <p>Dann reißt die Kuppel. Salzwasser schießt aus Fugen, die vor einem Herzschlag noch fester Stein waren — und mit dem Wasser kommt der Geruch: tiefes Wasser, kalt und alt und geduldig, das von unten <em>heraufdrängt</em>, als hätte die See beschlossen, den Tempel hinaufzuklettern und euch zu holen.</p>
         </div>
@@ -822,9 +825,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="readaloud">
           <span class="gr-eyebrow">Read Aloud — Das Becken öffnet sich</span>
-          <p>Hinter euch stürzt der Korridor des Wehklagens in sich zusammen. Er krümmt sich wie eine Kehle, die schluckt. Die steinernen Gesichter schreien noch, während der Korridor sie mit sich reißt. Dann ist es still. So plötzlich, dass die Stille in euren Ohren klingt. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte ruhige Ort, der euch geblieben ist.</p>
+          <p>Vor euch stürzt der Korridor des Wehklagens in sich zusammen. Er krümmt sich wie eine Kehle, die schluckt. Die steinernen Gesichter schreien noch, während der Korridor sie mit sich reißt. Dann ist es still. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte ruhige Ort, der euch geblieben ist.</p>
           <p>Das Becken in der Mitte zeigt keine Visionen mehr. Es leuchtet. Weich, tief und bläulich, wie Licht, das durch viele Meter Wasser dringt. Wo eure Spiegelbilder sein müssten, ist keine Oberfläche. Ihr seht stattdessen von unten durch flaches Wasser auf hellen Sand. Über euch kräuselt sich ein Nachthimmel. Warmes, oranges Feuerlicht tanzt von irgendwo am Ufer über das Wasser. Darüber bewegen sich verschwommene Gestalten: Beine, die durch die Brandung waten, Schatten, die über den Strand eilen.</p>
-          <p>Das Becken ist eine Tür. Es wartet nur darauf, dass ihr es begreift.</p>
         </div>
       </div>
       <div class="outcomes">
@@ -854,7 +856,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="readaloud">
           <span class="gr-eyebrow">Read Aloud</span>
-          <p>Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, <em>eure</em> Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepanzert, triefend, und hinter ihren Augen brennt ein grünes Licht wie Laternen, durch Faden von Wasser gesehen.</p>
+          <p>Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, <em>eure</em> Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepflastert und triefend. Hinter ihren Augen brennt ein grünes Licht wie Laternen, die in der tiefen See versunken sind.</p>
           <p>In der Mitte der Linie steht Kapitän Rauthorn, sein Säbel scheint schwarz im Feuerschein, und wo seine Klinge hinfährt, gehen die Ertrunkenen zu Boden. Er sieht euch in der Brandung — und einen Herzschlag lang huscht etwas über sein Gesicht, das Erleichterung sein könnte.</p>
           <p>Dann bebt die Insel erneut, und seine Augen gehen nach Norden — dorthin, wo der Tempel hinter dem verfilzten Grün der Insel verborgen liegt. Eure Blicke folgen seinem, und ihr seht ein Glühen, das von der Insel aufsteigt und in den Nachthimmel klettert.</p>
         </div>
@@ -877,7 +879,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="readaloud">
           <span class="gr-eyebrow">Read Aloud — Das Urteil</span>
-          <p>„Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er spricht mit der leisen Stimme, die er für Verräter bewahrt. Gerade diese Ruhe macht es schlimmer. „Ich gab euch mein Schiff. Meine Karte. Meine eine Chance, niemals zu sterben. Und ihr habt sie den Fischen verfüttert."</p>
+          <p>„Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er spricht mit der leisen Stimme, die er für Verräter bewahrt. Gerade diese Ruhe macht es schlimmer. „Ich gab euch mein Schiff. Mein Vertrauen. Meine eine Chance, niemals zu sterben. Und ihr habt sie den Fischen verfüttert."</p>
           <p>Das blaue Licht in seinen Augen steht plötzlich still. Kein Flackern mehr. Nur dieses kalte, gleichmäßige Leuchten. Die Männer, an deren Seite ihr eben noch geblutet habt, wenden sich euch mit finsterer Miene zu. Unsicherheit und Zwiespalt, die ihr in ihren Gesichtern seht, weichen plötzlich tödlicher Absicht.</p>
           <p>„Die See kennt keine Gnade", sagt der Kapitän noch einmal, und der Säbel steigt.</p>
         </div>
@@ -951,8 +953,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
     <div class="meta-rows">
       <div><span class="gr-label">Purpose</span><div class="val">Nächte 0–2. Etabliere die Deckgeschichte und lass die Spieler auf sie hereinfallen; führe die <a class="ref" href="#loc-the-halcyon" data-ref="loc-the-halcyon">Halcyon</a>, den alten Mann und die Passagiere ein; dann lass die Risse einen nach dem anderen erscheinen. Bis Nacht 2 absichtlich kein Kampf — die Spannung ist der Punkt.</div></div>
-      <div><span class="gr-label">World</span><div class="val">Eine glatte, windstille graue See unter einem sonnenlosen Zwielichtshimmel. Die Ketsch segelt trotzdem, stetig wie ein Herzschlag. Die <a href="#ov-ladder">Nachtleiter</a> beginnt bei Nacht 0; wickle von hier bis zum Finale bei jeder Verdunkelung die <strong>Nachteinbruch-Abrechnung</strong> ab.</div></div>
-      <div><span class="gr-label">Endings</span><div class="val">Die erste Nebelbank rollt heran, mit dem Boot des Lotsen darin → <a href="#act-3">Act 3</a>. Das geschieht bei Nacht 3 auf der Leiter, wo immer die Leiter gerade steht.</div></div>
+      <div><span class="gr-label">World</span><div class="val">Eine glatte, windstille graue See unter einem sonnenlosen Zwielichtshimmel. Die Ketsch segelt trotzdem, stetig wie ein Herzschlag. Die <a href="#ov-ladder">Nachtleiter</a> beginnt bei Nacht 0 und steigt mit jeder Verdunkelung um genau eine Stufe; der alte Mann beginnt mit <strong>2 Stücken Kraft</strong>. Wickle von hier bis zum Finale bei jedem Nachteinbruch die <a href="#ov-ladder">Abrechnung der Kraft</a> ab.</div></div>
+      <div><span class="gr-label">Endings</span><div class="val">Die erste Nebelbank rollt heran, mit dem Boot des Lotsen darin → <a href="#act-3">Act 3</a>. Das geschieht in Nacht 3.</div></div>
     </div>
 
     <div class="gm-tip">
@@ -1063,7 +1065,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div><span class="gr-label">Setup</span><div class="val">Tage (soweit man sie so nennen kann) und Nächte an Bord. Wachrotation: Ruder, Ausguck, Deck.</div></div>
         </div>
 
-        <p>Wachen zu gehen ist der Weg, wie die Gruppe <strong>−1-Nachteinbruch-Striche</strong> verdient (volle Rotation, niemand allein) — und wie die Risse sie finden. Teile sie einzeln aus, einen pro Wache, an denjenigen, der ihn bemerken kann; jeder ist für sich allein bestreitbar:</p>
+        <p>Wachen zu gehen ist der Weg, wie die Gruppe den alten Mann am Ruder ablöst und das Schiff derweil hält (volle Rotation, niemand allein) — die Bedingung für den <a href="#ov-ladder">ausgeruhten Fährmann</a>, der am grauen Morgen ein Stück Kraft zurückgewonnen hat — und wie die Risse sie finden. Teile sie einzeln aus, einen pro Wache, an denjenigen, der ihn bemerken kann; jeder ist für sich allein bestreitbar:</p>
         <ul class="plain-list">
           <li><strong>Der Himmel ist falsch.</strong> Keine Sonne, niemals — nur das starre graue Zwielicht, das sich manchmal zu wahrem Schwarz verdunkelt. Eine DC 12 INT-Probe von jedem, der sich mit Sternen auskennt (der Zauberer; die Kartographin wird <em>ihn</em> fragen): Die Sternbilder sind keine Zeichnung, die je jemand kartiert hat. Das Kielwasser des Schiffs verblasst nie — es zieht sich achteraus bis zum Horizont wie eine Narbe.</li>
           <li><strong>Spiegelungen benehmen sich falsch.</strong> In Wasser, Spiegeln und Klingenflächen: Spiegelbilder hinken eine halbe Sekunde hinterher — oder zeigen, für einen einzigen Blick, den Betrachter so, wie er in dem Moment aussah, als der Kampf am Strand endete. Am schlimmsten nahe der Bilge. Nie auf Verlangen, nie zweimal hintereinander.</li>
@@ -1118,7 +1120,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div class="enc__head"><span class="gr-eyebrow">Encounter</span><span class="name">Der Fang</span></div>
           <div class="enc__rows">
             <div><span class="gr-label">Enemies</span><div class="val">1 × <a class="ref" href="#sb-the-catch" data-ref="sb-the-catch">der Fang</a></div></div>
-            <div><span class="gr-label">Tactics</span><div class="val">Er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und notiere die <strong>+3 Nachteinbruch-Striche</strong>, falls jemand diesen Handel auch nur erwägt).</div></div>
+            <div><span class="gr-label">Tactics</span><div class="val">Er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und wird dieser Handel auch nur <em>erwogen</em>, muss der alte Mann eingreifen, um ihn zu brechen: <a href="#ov-ladder">ein Stück Kraft</a>). Zieht er jemanden über die Reling, ist es der alte Mann, der ihn zurückholt — auf Bitte oder wenn niemand sonst mehr zugreifen kann — und auch das kostet ihn ein Stück.</div></div>
             <div><span class="gr-label">Terrain</span><div class="val">Nasses Heckdeck; die Reling; der Laternenkreis mittschiffs — ins Licht wird er sich nicht selbst hineinziehen. Spiele das Deck als drei Zonen und sprich sie laut aus: Laternenkreis (sicher), offenes Deck, Heckreling.</div></div>
             <div><span class="gr-label">Treasure</span><div class="val">Im Knäuel verfangen eine Ölzeugjacke der Gezeitenklinge, das Namenszeichen in den Kragen gestickt — ein Kamerad, den die Gruppe kannte, einer, den sie zuletzt lebend am Strand gesehen hat.</div></div>
           </div>
@@ -1163,8 +1165,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
     <div class="meta-rows">
       <div><span class="gr-label">Purpose</span><div class="val">Nächte 3–5. Die Belagerung beginnt: Nebelbänke tragen Enterer heran — das süße Angebot des Lotsen, die Toten der Gezeitenklinge, Wellen von Festmachern. Das Schiff schrumpft, der alte Mann wird schwächer, die Bilgentür lockt, und das Krähennest tötet die Rettungsgeschichte. Erste Gelegenheiten, Seelen wegzuhandeln.</div></div>
-      <div><span class="gr-label">World</span><div class="val">Der Verfolger ist kein Fleck mehr. Bei Nacht 3 beginnt der alte Mann zu <em>schlafen</em> — zuvor schlief er nie — und der warme Kreis der Laterne ist jede Nacht ein wenig kleiner. Das Innere der <a class="ref" href="#loc-the-halcyon" data-ref="loc-the-halcyon">Halcyon</a> schrumpft. Führe die <a href="#ov-ladder">Nachteinbruch-Abrechnung</a> weiter durch.</div></div>
-      <div><span class="gr-label">Endings</span><div class="val">Nacht 5 endet mit dem Ächzen des brechenden Rumpfs und aufziehendem Sturm → <a href="#act-4">Act 4</a>. Eine Gruppe, die hart gehandelt hat, kommt dort womöglich mit weniger Passagieren an — und mit einer Leiter, die schnell gelaufen ist.</div></div>
+      <div><span class="gr-label">World</span><div class="val">Der Verfolger ist kein Fleck mehr. Bei Nacht 3 beginnt der alte Mann zu <em>schlafen</em> — zuvor schlief er nie — und der warme Kreis der Laterne ist jede Nacht ein wenig kleiner. Das Innere der <a class="ref" href="#loc-the-halcyon" data-ref="loc-the-halcyon">Halcyon</a> schrumpft. Die Laterne brennt so hell, wie die Crew ihn gelassen hat. Führe die <a href="#ov-ladder">Abrechnung der Kraft</a> weiter durch.</div></div>
+      <div><span class="gr-label">Endings</span><div class="val">Nacht 5 endet mit dem Ächzen des brechenden Rumpfs und aufziehendem Sturm → <a href="#act-4">Act 4</a>. Eine Gruppe, die hart gehandelt hat, kommt dort womöglich mit weniger Passagieren an — und mit einem Fährmann, dem wenig Kraft bleibt.</div></div>
     </div>
 
     <div class="gm-tip">
@@ -1227,8 +1229,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
       <div class="outcomes">
         <span class="gr-eyebrow">Outcomes</span>
         <ul>
-          <li>Angebot im Licht der Laterne laut ausgeschlagen → <span class="mark">−1 Nachteinbruch-Strich</span>; der Nebel lichtet sich bis zum Morgen → der Akt geht weiter.</li>
-          <li>Angebot erwogen („lasst uns darüber nachdenken") → <span class="mark bad">+3 Nachteinbruch-Striche</span> (eine Entscheidung, kein Versäumnis); der Lotse verbeugt sich: „<em>Ich spreche wieder vor.</em>" — und der Nebel hält ihm die Tür offen → er kehrt jede Nacht wieder, bis er ausgeschlagen oder bekämpft wird.</li>
+          <li>Angebot im Licht der Laterne laut ausgeschlagen → <span class="mark">+1 Kraft</span> für den alten Mann (höchstens einmal pro Nacht); der Nebel lichtet sich bis zum Morgen → der Akt geht weiter.</li>
+          <li>Angebot erwogen („lasst uns darüber nachdenken") → der Handel ist halb geschlossen, und der alte Mann muss ihn brechen: Er tritt aus dem Licht, sagt ein einziges Wort — <span class="mark bad">−1 Kraft</span> (hat er keines mehr, schließt der Handel) — und der Lotse verbeugt sich: „<em>Ich spreche wieder vor.</em>" — und der Nebel hält ihm die Tür offen → er kehrt jede Nacht wieder, bis er ausgeschlagen oder bekämpft wird.</li>
           <li>Ein SC steigt in sein Boot → eingesammelt, endgültig → der Tisch lernt, was die Handel kosten.</li>
         </ul>
       </div>
@@ -1253,7 +1255,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <div class="enc">
           <div class="enc__head"><span class="gr-eyebrow">Hazard</span><span class="name">Der Nebel (antwortet nicht auf die eigene Stimme)</span></div>
           <div class="enc__rows">
-            <div><span class="gr-label">Effect</span><div class="val">Im Nebel hört jeder SC, der allein an Deck ist, irgendwann die eigene Stimme — oder die eines geliebten Menschen — leise aus dem Wasser rufen, immer knapp jenseits der Reling. Laut zu antworten oder sich zum Hinsehen hinauszulehnen zieht eine Enterwelle auf diesen SC und bringt <span class="mark bad">+1 Nachteinbruch-Strich</span>, wenn es in der Dämmerung geschieht. Es zu hören und still zu bleiben kostet eine DC 12 WIS-Probe; bei Misserfolg antwortet der SC, ehe er sich stoppen kann.</div></div>
+            <div><span class="gr-label">Effect</span><div class="val">Im Nebel hört jeder SC, der allein an Deck ist, irgendwann die eigene Stimme — oder die eines geliebten Menschen — leise aus dem Wasser rufen, immer knapp jenseits der Reling. Laut zu antworten oder sich zum Hinsehen hinauszulehnen zieht eine Enterwelle auf diesen SC — und wer dabei über die Reling geht, kommt nur zurück, wenn der alte Mann ihn holt (<span class="mark bad">−1 Kraft</span>). Es zu hören und still zu bleiben kostet eine DC 12 WIS-Probe; bei Misserfolg antwortet der SC, ehe er sich stoppen kann.</div></div>
             <div><span class="gr-label">Counter</span><div class="val">Zu zweit Wache gehen (die Probe wird mit Vorteil abgelegt); im Laternenkreis bleiben (die Stimmen verstummen dort); Wachs oder Werg in die Ohren stopfen (taub für die Stimmen — und für alles andere).</div></div>
           </div>
         </div>
@@ -1262,8 +1264,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div class="enc__head"><span class="gr-eyebrow">Encounter</span><span class="name">Enterwelle</span></div>
           <div class="enc__rows">
             <div><span class="gr-label">Enemies</span><div class="val">1d4+1 × <a class="ref" href="#sb-mooring-man" data-ref="sb-mooring-man">Festmacher</a> (Nacht 3–4) oder 2d4 × <a class="ref" href="#sb-mooring-man" data-ref="sb-mooring-man">Festmacher</a> (Nacht 5)</div></div>
-            <div><span class="gr-label">Tactics</span><div class="val">Sie kommen gemeinsam über die dunkle Reling und drängen auf die ursprüngliche Schuld — immer zuerst ein SC, wo immer einer erreichbar ist, festgezurrt und Richtung Wasser geschleppt; sie schlagen nie, um zu töten, nur, um zu nehmen; bis einschließlich Nacht 3 betreten sie den Laternenkreis nicht, und ab Nacht 4 behindert sie sein flackerndes Licht nur noch (Laternenscheu) — und während der Kreis Nacht für Nacht schrumpft, gehört ihnen mehr vom Deck.</div></div>
-            <div><span class="gr-label">Terrain</span><div class="val">Der Laternenkreis (sicher, schrumpfend — flackernd ab Nacht 4); Takelage zum Klettern; Netze und Leinen überall — Deckung für sie, Stolperfallen für alle.</div></div>
+            <div><span class="gr-label">Tactics</span><div class="val">Sie kommen gemeinsam über die dunkle Reling und drängen auf die ursprüngliche Schuld — immer zuerst ein SC, wo immer einer erreichbar ist, festgezurrt und Richtung Wasser geschleppt; sie schlagen nie, um zu töten, nur, um zu nehmen; solange die Laterne voll brennt, betreten sie den Laternenkreis nicht; flackert sie (Kraft des Fährmanns 1), behindert sie das Licht nur noch (Laternenscheu) — und während der Kreis Nacht für Nacht schrumpft, gehört ihnen mehr vom Deck.</div></div>
+            <div><span class="gr-label">Terrain</span><div class="val">Der Laternenkreis (sicher, schrumpfend — flackernd, sobald die Kraft des Fährmanns auf 1 fällt); Takelage zum Klettern; Netze und Leinen überall — Deckung für sie, Stolperfallen für alle.</div></div>
             <div><span class="gr-label">Note</span><div class="val">Der Kreis schützt; er gewinnt nicht: Die Festmacher belagern ihn nie — eine Crew, die sich außerhalb ihrer Reichweite zusammendrängt, <em>macht</em> die Passagiere zu den einzigen erreichbaren Seelen und sieht zu, wie sie hinabgezerrt werden. Ein mit Gewalt genommener Passagier begleicht <strong>nichts</strong>: Die Gabe ist zerstört, ungezählt, und die Schuld bleibt in voller Höhe bestehen.</div></div>
             <div><span class="gr-label">Treasure</span><div class="val">Keiner — was sie nehmen, ist der Schatz.</div></div>
           </div>
@@ -1275,7 +1277,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="gm-tip">
           <span class="gr-eyebrow">GM Guidance</span>
-          <p>Festmacher-Wellen sind das Metronom des Akts — eine pro dunkler Wache reicht völlig, zwei in einer Nacht, in der die Leiter gesprungen ist. Ist während einer Welle ein Passagier an Deck, gehen die Festmacher zuerst auf den Passagier: billigere Fracht, kein Kampf darin. Was die Gruppe dagegen unternimmt, sagt ihnen, worum es im Finale gehen wird, ohne ein Wort der Erklärung.</p>
+          <p>Festmacher-Wellen sind das Metronom des Akts — eine pro dunkler Wache reicht völlig, zwei in einer Nacht, in der die Laterne nur noch flackert. Ist während einer Welle ein Passagier an Deck, gehen die Festmacher zuerst auf den Passagier: billigere Fracht, kein Kampf darin. Was die Gruppe dagegen unternimmt, sagt ihnen, worum es im Finale gehen wird, ohne ein Wort der Erklärung.</p>
         </div>
       </div>
       <div class="outcomes">
@@ -1334,7 +1336,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
 
         <div class="gm-tip">
           <span class="gr-eyebrow">GM Guidance</span>
-          <p>Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus <a href="#scene-nets">den Netzen</a>, nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. <span class="mark">−1 Nachteinbruch-Strich</span> für einen mit Güte ausgeschlagenen Handel.</p>
+          <p>Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus <a href="#scene-nets">den Netzen</a>, nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. <span class="mark">+1 Kraft</span> für den alten Mann — ein mit Güte ausgeschlagener Handel.</p>
         </div>
       </div>
       <div class="outcomes">
@@ -1382,7 +1384,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div class="enc__head"><span class="gr-eyebrow">Hazard</span><span class="name">Das stehende Wasser</span></div>
           <div class="enc__rows">
             <div><span class="gr-label">Effect</span><div class="val">An der Tür zuzuhören ist sicher; zu <em>verweilen</em> nicht. Für jede volle Minute am Wasserrand DC 12 WIS-Probe, oder der Zuhörer kniet nieder, um besser zu hören — ein weiterer Misserfolg, und er greift nach dem Wasser (Gefährten können ihn zurückziehen; es zu berühren kostet 1d6 Kälteschaden und eine wahre, unwillkommene Antwort, direkt in den Kopf geliefert).</div></div>
-            <div><span class="gr-label">Counter</span><div class="val">Der Zustand, um den der alte Mann gebeten hat — die Tür bleibt zu; zu gehen kostet gar keine Probe, und die Stimme verfolgt nie über die Tür hinaus. Die Bilgentür überhaupt zu öffnen ist <span class="mark bad">+1 Nachteinbruch-Strich</span> (einmal pro Nacht, egal wie oft sie geöffnet wird).</div></div>
+            <div><span class="gr-label">Counter</span><div class="val">Der Zustand, um den der alte Mann gebeten hat — die Tür bleibt zu; zu gehen kostet gar keine Probe, und die Stimme verfolgt nie über die Tür hinaus. Die Bilgentür überhaupt zu öffnen kostet den alten Mann <span class="mark bad">−1 Kraft</span> (einmal pro Nacht, egal wie oft sie geöffnet wird): Er muss die Stimme darunter wieder aussperren, und man findet ihn danach auf der Treppe sitzend, die Hand flach an der Tür.</div></div>
           </div>
         </div>
 
@@ -1395,7 +1397,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <span class="gr-eyebrow">Outcomes</span>
         <ul>
           <li>Die Gruppe geht mit Antworten und geschlossener Tür → der Akt geht weiter, schwerer.</li>
-          <li>Am Wasserrand wird ein Handel geschlossen → wickle ihn genau so ab, wie er ausgesprochen wurde — der Sog hält jeden Handel aufs Wort (ein benannter Passagier steigt in jener Nacht die Treppe hinauf und über die Reling, ohne Widerstand; der Gebende bekommt <span class="mark bad">+3 Nachteinbruch-Striche</span> und das leise Wort des alten Mannes: „<em>Das war nicht deins auszugeben.</em>"). Im <a href="#ov-ledger">Schuldbuch</a> als <em>gegeben</em> eintragen.</li>
+          <li>Am Wasserrand wird ein Handel geschlossen → wickle ihn genau so ab, wie er ausgesprochen wurde — der Sog hält jeden Handel aufs Wort (ein benannter Passagier steigt in jener Nacht die Treppe hinauf und über die Reling, ohne Widerstand; es kostet den alten Mann kein Stück — der Preis ist die Gabe — und der Gebende bekommt nur das leise Wort des alten Mannes: „<em>Das war nicht deins auszugeben.</em>"). Im <a href="#ov-ledger">Schuldbuch</a> als <em>gegeben</em> eintragen.</li>
         </ul>
       </div>
       <div class="notes"><span class="gr-label">Session Notes</span><textarea data-note="bilge" placeholder="…"></textarea></div>
@@ -1579,7 +1581,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div class="enc__rows">
             <div><span class="gr-label">Enemies</span><div class="val">2d4 × <a class="ref" href="#sb-mooring-man" data-ref="sb-mooring-man">Festmacher</a> jede zweite Runde, über die dunklen Relings — sie hören nicht auf zu kommen, bis die Schuld beglichen ist.</div></div>
             <div><span class="gr-label">Tactics</span><div class="val">Festzurren und Richtung Reling schleppen; die ursprüngliche Schuld kommt zuerst — sie setzen SC zu, wo immer einer außerhalb des schrittbreiten Laternenkreises steht, und wenden sich den unbewachten Passagieren erst zu, wenn kein Schuldner erreichbar ist; den alten Mann schlagen sie nie und sehen ihn nicht an.</div></div>
-            <div><span class="gr-label">Terrain</span><div class="val">Der Sturm-Spießrutenlauf überall; der letzte Kreis der Laterne (schützt zwei Personen); gespannte Strecktaue als Halt; die Reling ist <em>die</em> Linie — nichts, was über sie hinweggenommen wird, kommt zurück.</div></div>
+            <div><span class="gr-label">Terrain</span><div class="val">Der Sturm-Spießrutenlauf überall; der letzte Kreis der Laterne (einen Schritt weit — und so hell, wie die Crew ihn gelassen hat); gespannte Strecktaue als Halt; die Reling ist <em>die</em> Linie — nichts, was über sie hinweggenommen wird, kommt zurück.</div></div>
             <div><span class="gr-label">Treasure</span><div class="val">Keiner.</div></div>
           </div>
           <div class="tracker" data-tid="t-finale-wave">
@@ -1594,7 +1596,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
             <div><span class="gr-label">Enemies</span><div class="val">1 × <a class="ref" href="#sb-the-herald" data-ref="sb-the-herald">der Herold</a></div></div>
             <div><span class="gr-label">Trigger</span><div class="val">Die zweite Welle, oder das erste Mal, dass die Gruppe die Zahlung klar verweigert.</div></div>
             <div><span class="gr-label">Tactics</span><div class="val">Masthoch steigt er über die Reling wie über einen Zauntritt; er verkündet die Bedingungen mit allen ertrunkenen Stimmen zugleich, dann sammelt er ein — packen, tragen, über Bord; er schiebt seine eigene Masse zwischen die SC und den, den er genommen hat; er kämpft inmitten seiner eigenen Festmacher, ohne sich selbst im Weg zu stehen.</div></div>
-            <div><span class="gr-label">Terrain</span><div class="val">Sein Gewicht legt das Deck schräg (solange der Herold an Bord ist, sind alle Stationsproben DC 15); das flackernde Licht behindert ihn wie jedes ertrunkene Ding (Nachteil im Kreis oder in ihn hinein) — aber in Nacht 6 schützt der Kreis zwei Personen, nicht mehr.</div></div>
+            <div><span class="gr-label">Terrain</span><div class="val">Sein Gewicht legt das Deck schräg (solange der Herold an Bord ist, sind alle Stationsproben DC 15); das flackernde Licht behindert ihn wie jedes ertrunkene Ding (Nachteil im Kreis oder in ihn hinein) — aber in Nacht 6 ist der Kreis nur noch einen Schritt weit, und so hell, wie die Crew ihn gelassen hat.</div></div>
             <div><span class="gr-label">Treasure</span><div class="val">Keiner — aber siehe <em>Zerbrochen, nicht besiegt</em> in seinem Statblock: ihn zu fällen bricht das Entern für 1d4 Runden ab und verschafft der Verhandlung Luft zum Atmen.</div></div>
           </div>
           <div class="tracker" data-tid="t-herald">
@@ -1644,7 +1646,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <ol class="plain-list">
           <li><strong>Passagiere geben.</strong> Ein der See benannter Passagier geht ohne Widerstand zur Reling, verwirrt, sein Objekt umklammernd — das mit ihm verschwindet. Jeder gegebene Passagier: <strong>eine Seele</strong>; diese gesamte Gabenkategorie wird für immer aus dem Spiel gelöscht (nichts markiert ihr Fehlen, bis die Gruppe in Abenteuer III die Vorräte des <a class="ref" href="#loc-the-gift-boat" data-ref="loc-the-gift-boat">Gabenboots</a> öffnet und diesen Platz einfach leer findet). Der alte Mann sagt nur: „<em>Das war nicht deins auszugeben.</em>" — und ist danach stiller, dauerhaft.</li>
           <li><strong>Einen von sich selbst geben.</strong> Ein SC, der zur Reling geht, ertrinkt, endgültig — <strong>eine Seele</strong>. Er ersteht in der Kampagne als <a class="ref" href="#sb-drowned-sailor" data-ref="sb-drowned-sailor">ertrunkener Matrose</a> wieder, mit dem Gesicht eines Freundes; halte es in den Kampagnenfäden fest. Gib dem Spieler auf dem Weg hinab die Würde einer Vignette des letzten Gefechts — der zweiten seiner Laufbahn.</li>
-          <li><strong>Das leise Angebot des alten Mannes annehmen.</strong> Er kann <strong>bis zu drei Seelen</strong> mit Stücken seiner neugeborenen Kraft begleichen — aber nie die ganze Schuld: <em>Mindestens eine Seele muss von Bord kommen.</em> Für jedes gezahlte Stück, auf der Stelle: Die Laterne wird eine sichtbare Stufe dunkler, er altert in Sekunden um Jahre — und eine der drei <strong>Interventionen</strong> des Leviathan wird aus dem Rest der Kampagne gelöscht. Zeige <em>jetzt</em>, dass es Zähne hat: Der Sturm beißt härter, je dunkler die Laterne (jedes gezahlte Stück erhöht den Wellenschaden um +1) — weniger von ihm hält die See zurück.</li>
+          <li><strong>Das leise Angebot des alten Mannes annehmen.</strong> Er kann <strong>so viele Seelen, wie ihm Kraft geblieben ist (0–4)</strong>, mit Stücken seiner neugeborenen Kraft begleichen — aber nie die ganze Schuld: <em>Mindestens eine Seele muss von Bord kommen.</em> Für jedes gezahlte Stück, auf der Stelle: Die Laterne wird eine sichtbare Stufe dunkler, er altert in Sekunden um Jahre — und ein Stück Kraft, das heißt eine <strong>Intervention</strong> des Leviathan, ist für den Rest der Kampagne gelöscht. Zeige <em>jetzt</em>, dass es Zähne hat: Der Sturm beißt härter, je dunkler die Laterne (jedes gezahlte Stück erhöht den Wellenschaden um +1) — weniger von ihm hält die See zurück.</li>
           <li><strong>Langsam entscheiden ist auch eine Wahl.</strong> Für jede volle Runde, die die Schuld unbeantwortet steht, nachdem der Herold die Bedingungen erstmals benannt hat, würfle 1d6 auf den Zehnt des Sturms:</li>
         </ol>
         <div class="tablewrap"><table>
@@ -1653,10 +1655,10 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <tr><td>3</td><td>Die Laterne flackert (diese Runde kein sicherer Kreis)</td></tr>
           <tr><td>4</td><td>Die getragene Ausrüstung eines zufälligen SC geht über Bord</td></tr>
           <tr><td>5</td><td>2d6 Schaden auf einen zufälligen SC</td></tr>
-          <tr><td>6</td><td>Der alte Mann verbrennt ein Stück von sich selbst, nur um das Schiff zusammenzuhalten — eine Intervention gelöscht, die Laterne eine Stufe dunkler, und die Schuld unberührt: ausgegeben, nicht dargeboten („Stück verbrennen" oben)</td></tr>
+          <tr><td>6</td><td>Der alte Mann verbrennt ein Stück von sich selbst, nur um das Schiff zusammenzuhalten — <span class="mark bad">−1 Kraft</span>, die Laterne eine Stufe dunkler, und die Schuld unberührt: ausgegeben, nicht dargeboten („Stück verbrennen" oben; hat er kein Stück mehr, gibt stattdessen das Schiff nach: ein Sturmstrich)</td></tr>
         </table></div>
 
-        <p><strong>Verzug</strong> (niemand zahlt, das Deck wird überrannt oder der Sturm überdauert die Debatte): Gewalt kann nur die ursprüngliche Schuld eintreiben — also kommt der Sog nach der <em>Gruppe</em>, und die Passagiere, die ins Chaos geraten, werden einfach hinabgezerrt, zerstört, ohne dass etwas gutgeschrieben wird. Der alte Mann bietet jedes Stück dar, das ihm noch bleibt, um zu decken, was er kann, und es reicht nicht, und er sieht die Gruppe an, während die See entscheidet, wer von ihnen das Buch ausgleicht (die SL wählt nach der Fiktion: am nächsten an der Reling, die meisten Striche, oder der Freiwillige, der zögerte). Das schlimmste Ende trifft höflich ein, per Arithmetik — und weil sie die Wahl verweigert haben, verlieren sie die Gaben <em>und</em> zahlen die Schuld.</p>
+        <p><strong>Verzug</strong> (niemand zahlt, das Deck wird überrannt oder der Sturm überdauert die Debatte): Gewalt kann nur die ursprüngliche Schuld eintreiben — also kommt der Sog nach der <em>Gruppe</em>, und die Passagiere, die ins Chaos geraten, werden einfach hinabgezerrt, zerstört, ohne dass etwas gutgeschrieben wird. Der alte Mann bietet jedes Stück dar, das ihm noch bleibt, um zu decken, was er kann, und es reicht nicht, und er sieht die Gruppe an, während die See entscheidet, wer von ihnen das Buch ausgleicht (die SL wählt nach der Fiktion: am nächsten an der Reling, wer ihn die meisten Eingriffe gekostet hat, oder der Freiwillige, der zögerte). Das schlimmste Ende trifft höflich ein, per Arithmetik — und weil sie die Wahl verweigert haben, verlieren sie die Gaben <em>und</em> zahlen die Schuld.</p>
 
         <div class="danger">
           <span class="gr-eyebrow">Warning</span>
@@ -1676,7 +1678,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <span class="gr-eyebrow">Outcomes</span>
         <ul>
           <li>Die Schuld geht auf, in beliebiger Mischung → die Überfahrt → <a href="#scene-landing">Die Landung</a></li>
-          <li>Halte dauerhaft fest: welche Passagiere hinübergekommen sind, welche gegeben wurden, die verbleibenden Interventionen und jeden verlorenen SC (das <a href="#ov-ledger">Schuldbuch</a> oben bleibt gespeichert).</li>
+          <li>Halte dauerhaft fest: welche Passagiere hinübergekommen sind, welche gegeben wurden, die verbleibende Kraft des alten Mannes (0–4: seine Interventionen für die Kampagne) und jeden verlorenen SC (das <a href="#ov-ledger">Schuldbuch</a> oben bleibt gespeichert).</li>
         </ul>
       </div>
       <div class="notes"><span class="gr-label">Session Notes</span><textarea data-note="toll" placeholder="…"></textarea></div>
@@ -1744,7 +1746,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <div><span class="gr-label">Appearance</span><div class="val">Ein alter Mann in Ölzeug, älter als jede Mode, taugrauer Bart, wetterfarbene Augen, Hände zu groß für seine Handgelenke. Er sieht aus wie der älteste Fischer jedes Hafens und wie niemand Bestimmtes. Mit jeder Nacht der Jagd ist er sichtbar älter — im Finale versagt die Menschengestalt an den Rändern: Im Blitz, für einen Lidschlag, ist sein Umriss nicht der eines Mannes. Sein Schatten auf dem Segel ist, in laternenbeleuchteten Momenten, zu groß und falsch geformt; sieht man direkt hin, ist es der Schatten eines alten Mannes.</div></div>
           <div><span class="gr-label">Personality</span><div class="val">Still, geduldig, gütig auf eine Art, die sich nie erklärt. <em>Eigenart:</em> Er schießt jedes Tau auf, an dem er vorbeikommt, ohne es zu merken, und beantwortet jede Frage erst nach einem vollen Atemzug. Er ist ein schlechter Lügner und weiß es — also weicht er aus, statt zu lügen („<em>Graues Wasser macht seltsame Dinge mit müden Augen</em>"), und wenn er nicht ausweichen kann, schweigt er.</div></div>
           <div><span class="gr-label">Motivation</span><div class="val">(nur GM) Jede Seele an Bord lebend an Land zu bringen und seine Schuld voll zu begleichen — jede Gabe unversehrt. Die Gruppe hat den Splitter zerschlagen und ihn befreit; die Passagiere sind seine Dankbarkeit, Fleisch geworden. Er gibt seine neugeborene Kraft auf dieser Überfahrt aus, und man sieht es ihm an.</div></div>
-          <div><span class="gr-label">Secrets</span><div class="val">Er ist der Leviathan, schwach wiedergeboren — ein gebrechliches Schiff und eine Menschengestalt sind alles, was er halten kann. <strong>Er hat keinen Namen:</strong> Gefragt, antwortet er jedes Mal anders — <em>Brim</em>, <em>Mere</em>, <em>Hav</em>, <em>Ler</em> — jedes davon ein altes Wort für die See (nie darauf hinweisen). Die Laterne am Ruder ist ein Stück von ihm — sie brennt ohne Öl, pulsiert im langsamen bläulichen Takt des Splitters, wird trüber, wenn er schwächer wird, und die Ertrunkenen können ihr Licht nicht betreten. Berührt er das Wasser, wird die See glasglatt bis zum Horizont. An der Sturmwand kann er bis zu drei Seelen der Schuld aus eigener Kraft bezahlen — jedes Stück kostet die Kampagne eine seiner drei Interventionen und seine Gestalt Jahre ihres Lebens. Lässt die Crew ihn in einer gut gesegelten Nacht wirklich ruhen, kann er den Verfolger einen Schritt zurückdrängen (<a href="#ov-ladder">ausgeruhter Fährmann</a>); zweimal pro Überfahrt, nie ein drittes Mal.</div></div>
+          <div><span class="gr-label">Secrets</span><div class="val">Er ist der Leviathan, schwach wiedergeboren — ein gebrechliches Schiff und eine Menschengestalt sind alles, was er halten kann. <strong>Er hat keinen Namen:</strong> Gefragt, antwortet er jedes Mal anders — <em>Brim</em>, <em>Mere</em>, <em>Hav</em>, <em>Ler</em> — jedes davon ein altes Wort für die See (nie darauf hinweisen). Die Laterne am Ruder ist ein Stück von ihm — sie brennt ohne Öl, pulsiert im langsamen bläulichen Takt des Splitters, wird trüber, wenn er schwächer wird, und die Ertrunkenen können ihr Licht nicht betreten. Berührt er das Wasser, wird die See glasglatt bis zum Horizont. Seine Kraft ist zählbar: <strong>2 Stücke zu Beginn, 0 bis 4 im Verlauf</strong> — jedes Stück eine Intervention: an der Sturmwand eine Seele der Schuld, die er aus eigener Kraft bezahlen kann, danach ein Beistand für den Rest der Kampagne. Lässt die Crew ihn in einer gut gesegelten Nacht wirklich ruhen, gewinnt er ein Stück zurück; zwingt sie ihn einzugreifen — das Schiff allein halten, die Bilge aussperren, einen halb geschlossenen Handel brechen, einen SC von der Reling holen — verbrennt er eines, und seine Gestalt altert um Jahre, auf der Stelle (<a href="#ov-ladder">Abrechnung der Kraft</a>). Die Laterne zeigt den Stand, sein Gesicht auch.</div></div>
           <div><span class="gr-label">Relations</span><div class="val">Die fünf Passagiere sind seine Gaben in Fleisch und Blut — er behütet sie mit Blicken wie ein Mann seine letzten Münzen. <a class="ref" href="#npc-undertow" data-ref="npc-undertow">Der Sog</a> nennt ihn <em>den Fährmann</em> und <em>den Dieb</em> und hat nach seinen eigenen Büchern nicht unrecht. Er schuldet der Gruppe alles; er sagt es nie.</div></div>
           <div><span class="gr-label">Stat block</span><div class="val">Keiner — er kämpft nicht, niemals. Erreicht ihn Gewalt, landen die Schläge kraftlos und langsam, wie durch tiefes Wasser, und er vergibt sie. Alles, was er kämpfend ausgeben könnte, ist bereits anderswo versprochen.</div></div>
         </div>
@@ -1753,7 +1755,8 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
           <li><strong>Stimme:</strong> wenige Worte, lange Pausen, seemannsschlicht. Er streitet nie; er stellt fest, einmal, und lässt die See ihn bestätigen.</li>
           <li><strong>Zur Lüge:</strong> „<em>Insel ist gesunken. Hab euch treibend im Wrack gefunden. Ich segle euch heim.</em>" Diese Linie hält er die ganze Reise — aber er schwört nicht darauf, und direkt gefragt „<em>Sind wir tot?</em>", sieht er den Frager lange an und beantwortet eine andere Frage. Er bestätigt nie; er verneint nie.</li>
           <li><strong>Zu gegebenen Handeln:</strong> Wird ein Passagier ausgegeben, sagt er nur „<em>Das war nicht deins auszugeben</em>" — und ist danach stiller, dauerhaft.</li>
-          <li><strong>Bogen der Nächte:</strong> Nacht 0–2 stetig; Nacht 3 schläft er zum ersten Mal; Nacht 5 verschläft er einen Enteralarm; Nacht 6 kann er kaum stehen und hält trotzdem das Ruder.</li>
+          <li><strong>Bogen der Nächte:</strong> Nacht 0–2 stetig; Nacht 3 schläft er zum ersten Mal; Nacht 5 verschläft er einen Enteralarm; Nacht 6 kann er kaum stehen und hält trotzdem das Ruder. Die Nächte nehmen ihm die Gestalt — nur die Crew nimmt oder gibt ihm die Kraft, und wie viel Feuer in ihm bleibt, zeigt die Laterne.</li>
+          <li><strong>Wenn er eingreift:</strong> Nie mit Worten, nie mit Kampf — eine Hand im Kragen, ein Wort an einen Enterer, eine Nacht allein am Rad. Danach ist er sichtbar älter, und wer ihn darauf anspricht, bekommt einen vollen Atemzug Schweigen und dann eine Frage nach dem Wetter. Bittet ihn jemand ausdrücklich um Hilfe, sieht er den Bittsteller lange an, bevor er sie gibt — er will, dass sie den Preis sehen, auch wenn sie ihn nicht benennen können.</li>
         </ul>
       </div></div>
     </article>
@@ -1966,7 +1969,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <div class="traits">
           <p><b>Festgemacht.</b> Bei einem Treffer mit dem Tauhieb: DC 12 STR- oder DEX-Probe (Wahl des Ziels) oder vertäut: keine Bewegung, und der Festmacher ist am Ziel verankert. DC 12 STR als Aktion, um sich loszureißen; das Tau zu durchtrennen (jede Klinge, 3+ Schaden mit einem Hieb) befreit sofort.</p>
           <p><b>Fortschleppen.</b> Statt anzugreifen, zerrt er ein vertäutes Ziel near-Distanz zur Reling. Zwei Festmacher, die dasselbe Ziel schleppen, zerren mit Vorteil.</p>
-          <p><b>Laternenscheu.</b> Solange die Laterne voll brennt (bis einschließlich Nacht 3), kann er das warme Licht nicht betreten und lässt jedes Ziel fallen, mit dem er ins Licht gezerrt wird. Sobald das Licht flackert (ab Nacht 4), kann er die Linie überschreiten, aber alles, was er im Licht oder ins Licht hinein versucht, geschieht mit Nachteil, und Ziele, die er dort hält, reißen sich mit Vorteil los.</p>
+          <p><b>Laternenscheu.</b> Solange die Laterne voll brennt (Kraft des Fährmanns 2 oder mehr), kann er das warme Licht nicht betreten und lässt jedes Ziel fallen, mit dem er ins Licht gezerrt wird. Sobald das Licht flackert (Kraft 1), kann er die Linie überschreiten, aber alles, was er im Licht oder ins Licht hinein versucht, geschieht mit Nachteil, und Ziele, die er dort hält, reißen sich mit Vorteil los.</p>
         </div>
         <p class="foundin">Found in: statblocks/ dieses Abenteuers — Enterwellen überall in Act 3 und Act 4.</p>
       </div></div>
@@ -2092,7 +2095,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
         <p class="desc" style="font-family:var(--font-flavor);font-style:italic;color:var(--muted);font-size:var(--fs-flavor)">Eine verwitterte zweimastige Fischerketsch, absurd klein für die offene See, deren geflicktes braunes Segel stetig zieht, ganz ohne Wind. Sie knarrt falsch — immer dieselben drei Knarrlaute, in derselben Reihenfolge, wie ein Herzschlag — und unter Deck endet sie nicht: mehr Türen, als der Rumpf Länge hat. Niemand an Bord verliert ein Wort darüber.</p>
         <div class="defrows">
           <div><span class="gr-label">Type</span><div class="val">Schiff — die einzige Bühne des Abenteuers von Act 2 bis zur Sturmwand.</div></div>
-          <div><span class="gr-label">Ruder &amp; Laterne</span><div class="val">Der Posten des <a class="ref" href="#npc-old-sailor" data-ref="npc-old-sailor">alten Mannes</a>. Eine Laterne, die ohne Öl brennt, die einzige warme Farbe der Welt; in ihrem Herzen pulsiert die Flamme im selben langsamen bläulichen Takt wie die geäderten Wände des Tempels und der Splitter. Enterer betreten ihren Kreis nicht, solange sie voll brennt; ab Nacht 4 behindert das flackernde Licht sie nur noch — und der Kreis schrumpft, während der alte Mann schwächer wird (Nacht 0: fast das ganze Deck; Nacht 6: ein Schritt weit).</div></div>
+          <div><span class="gr-label">Ruder &amp; Laterne</span><div class="val">Der Posten des <a class="ref" href="#npc-old-sailor" data-ref="npc-old-sailor">alten Mannes</a>. Eine Laterne, die ohne Öl brennt, die einzige warme Farbe der Welt; in ihrem Herzen pulsiert die Flamme im selben langsamen bläulichen Takt wie die geäderten Wände des Tempels und der Splitter. Enterer betreten ihren Kreis nicht, solange sie voll brennt — und ihre Helligkeit folgt der Kraft des alten Mannes: Flackert sie (Kraft 1), behindert das Licht sie nur noch, statt sie auszusperren; ist sie nur noch Glut (Kraft 0), gibt es keinen Kreis mehr (<a href="#ov-ladder">Nachtleiter &amp; Kraft</a>). Der Kreis selbst schrumpft mit den Nächten, während das Schiff sich vergisst (Nacht 0: fast das ganze Deck; Nacht 6: ein Schritt weit).</div></div>
           <div><span class="gr-label">Passagierraum</span><div class="val">Ein stets brennender Ofen, der nie gefüttert wird; der Geruch von Tee, den niemand kocht; die fünf Passagiere und ihre sich wiederholenden Routinen. Hier lernt die Gruppe, an dem zu hängen, was sie vielleicht wird ausgeben müssen.</div></div>
           <div><span class="gr-label">Die Bilge</span><div class="val">Unter der Wasserlinie eine Tür, die der alte Mann geschlossen zu halten bittet. Dahinter: stehendes schwarzes Wasser, das sich nicht mit dem Schiff bewegt, in dem <a class="ref" href="#npc-undertow" data-ref="npc-undertow">der Sog</a> spricht und Spiegelbilder sich am schlimmsten danebenbenehmen (<a href="#scene-bilge">Die Bilgentür</a>).</div></div>
           <div><span class="gr-label">Krähennest</span><div class="val">Nicht vorhanden bis Nacht 4, dann erscheint es einfach an der Spitze des Großmasts: das Einzige, was das vergessende Schiff <em>wachsen lässt</em>, weil sie dem Leben nah genug ist, um es zu sehen. Vom Masttopp aus, und nur von dort, erhaschen scharfe Augen die <em>andere</em> See (<a href="#scene-crows-nest">Das Krähennest</a>).</div></div>
@@ -2150,8 +2153,11 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
   S.hp = S.hp || {};
   S.notes = S.notes || {};
   if (typeof S.ladder !== 'number') S.ladder = 0;
-  if (typeof S.rest !== 'number') S.rest = 0;
-  S.rk = S.rk || {};
+  if (typeof S.strength !== 'number') S.strength = 2;
+  S.night = S.night || {};
+  if (typeof S.night.interv !== 'number') S.night.interv = 0;
+  if (typeof S.night.gained !== 'number') S.night.gained = 0;
+  if (typeof S.night.bilge !== 'number') S.night.bilge = 0;
   S.pax = S.pax || {};
   if (typeof S.debt !== 'number') S.debt = 4;
   if (typeof S.pcs !== 'number') S.pcs = 0;
@@ -2222,10 +2228,6 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
       s.classList.toggle('current', n === S.ladder + 1);
     });
     ['ladderVal', 'ladderChip'].forEach(function(id){ var e = $(id); if (e) e.textContent = S.ladder; });
-    var r = $('restVal'); if (r) r.textContent = S.rest;
-    document.querySelectorAll('#lantern > div').forEach(function(d){
-      d.classList.toggle('now', S.ladder >= +d.dataset.min && S.ladder <= +d.dataset.max);
-    });
   }
   steps.forEach(function(s){
     s.addEventListener('click', function(e){
@@ -2236,67 +2238,61 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
     });
   });
 
-  /* ---- Nightfall reckoning ---- */
-  var tallies = document.querySelectorAll('.tally[data-k]');
-  function rkNet(){
-    var net = 0;
-    tallies.forEach(function(t){
-      var k = t.dataset.k, w = +t.dataset.w, v = S.rk[k] || 0;
-      net += w * (t.dataset.kind === 'toggle' ? (v ? 1 : 0) : v);
+  /* ---- The ferryman's strength (0–4) ---- */
+  var TIER = ['Glut', 'flackernd', 'voll', 'voll · hoch', 'voll · hoch'];
+  var VERDICT = [
+    'Glut. Kein Kreis mehr — die Laterne ist ein blauer Funke im Glas. Er kann nicht mehr eingreifen; am Zoll kann er nichts zahlen.',
+    'Flackernd. Die erste nasse Tauhand überschreitet die Linie. Ein Stück bleibt ihm — für einen Eingriff oder eine Seele am Zoll.',
+    'Voll. Zuflucht, wie zu Beginn der Überfahrt. Zwei Stücke — zwei Seelen, die er am Zoll tragen kann.',
+    'Voll, und die Flamme steht höher; der bläuliche Takt ist für jeden zu sehen. Er steht aufrechter, um Jahre jünger.',
+    'Voll, und heller, als die Gruppe sie je gesehen hat. Vier Stücke — mehr, als er vor der Überfahrt hatte.'
+  ];
+  function paintStrength(){
+    ['strVal', 'intVal', 'intChip'].forEach(function(id){ var e = $(id); if (e) e.textContent = S.strength; });
+    var tier = $('strTier'); if (tier) tier.textContent = TIER[S.strength];
+    document.querySelectorAll('#lantern > div').forEach(function(d){
+      d.classList.toggle('now', S.strength >= +d.dataset.min && S.strength <= +d.dataset.max);
     });
-    return net;
-  }
-  function rkCompute(){
-    var net = rkNet(), raw = 1 + net, rise = clamp(raw, 0, 2);
-    var fall = net <= -1 && !!S.rk.rested && S.rest < 2;
-    var spent = net <= -1 && !!S.rk.rested && S.rest >= 2;
-    return { net: net, raw: raw, rise: rise, fall: fall, spent: spent };
-  }
-  function paintReckon(){
-    tallies.forEach(function(t){
-      var k = t.dataset.k, v = S.rk[k] || 0;
-      if (t.dataset.kind === 'toggle') {
-        t.querySelector('.tog').classList.toggle('on', !!v);
-      } else {
-        t.querySelector('.cnt').textContent = v;
-      }
+    var iv = $('rkInterv'); if (iv) iv.textContent = S.night.interv;
+    var gn = $('rkGain'); if (gn) gn.textContent = S.night.gained ? 'ja' : 'nein';
+    document.querySelectorAll('[data-spend]').forEach(function(b){
+      b.disabled = S.strength <= 0 || (b.dataset.spend === 'bilge' && !!S.night.bilge);
     });
-    var c = rkCompute();
-    $('rkNet').textContent = (c.net > 0 ? '+' : '') + c.net;
-    $('rkRaw').textContent = c.raw;
-    $('rkRise').textContent = c.fall ? '−1' : c.rise;
-    var vd = $('rkVerdict'); vd.className = 'verdict';
-    if (c.fall) {
-      vd.textContent = 'Der ausgeruhte Fährmann: Die Leiter fällt eine Stufe (' + (S.rest + 1) + '. von 2 Mal). Er steht aufrechter, das Kielwasser hängt schlaff, der Nebel lichtet sich.';
-      vd.classList.add('fall');
-    } else if (c.spent) {
-      vd.textContent = 'Die Leiter hält — aber die Kraft für einen dritten Rückschritt ist schlicht nicht da, und die Gruppe sieht es.';
-    } else if (c.rise === 0) {
-      vd.textContent = 'Die Leiter hält. Sorgfältiges Segeln bringt das Gesetz des Todes ins Stocken.';
-    } else if (c.rise === 1) {
-      vd.textContent = 'Die Leiter steigt eine Stufe.';
-    } else {
-      vd.textContent = 'Der Verfolger springt zwei Stufen — beide Manifestationen treffen noch in dieser Nacht ein.';
-      vd.classList.add('jump');
+    document.querySelectorAll('[data-gain]').forEach(function(b){
+      b.disabled = S.strength >= 4 || !!S.night.gained || (b.dataset.gain === 'rested' && S.night.interv > 0);
+    });
+    var vd = $('rkVerdict');
+    if (vd) {
+      vd.className = 'verdict' + (S.strength <= 1 ? ' jump' : (S.strength >= 3 ? ' fall' : ''));
+      vd.textContent = VERDICT[S.strength];
     }
+    var sm = $('strMinus'), sp = $('strPlus');
+    if (sm) sm.disabled = S.strength <= 0;
+    if (sp) sp.disabled = S.strength >= 4;
   }
-  tallies.forEach(function(t){
-    var k = t.dataset.k;
-    if (t.dataset.kind === 'toggle') {
-      t.querySelector('.tog').addEventListener('click', function(){ S.rk[k] = S.rk[k] ? 0 : 1; save(); paintReckon(); });
-    } else {
-      t.querySelectorAll('.hpbtn[data-d]').forEach(function(b){
-        b.addEventListener('click', function(){ S.rk[k] = Math.max(0, (S.rk[k] || 0) + (+b.dataset.d)); save(); paintReckon(); });
-      });
-    }
+  document.querySelectorAll('[data-spend]').forEach(function(b){
+    b.addEventListener('click', function(){
+      if (S.strength <= 0) return;
+      if (b.dataset.spend === 'bilge') { if (S.night.bilge) return; S.night.bilge = 1; }
+      S.strength -= 1; S.night.interv += 1;
+      save(); paintStrength(); paintLedger();
+    });
   });
-  $('rkClear').addEventListener('click', function(){ S.rk = {}; save(); paintReckon(); });
+  document.querySelectorAll('[data-gain]').forEach(function(b){
+    b.addEventListener('click', function(){
+      if (S.strength >= 4 || S.night.gained) return;
+      if (b.dataset.gain === 'rested' && S.night.interv > 0) return;
+      S.strength += 1; S.night.gained = 1;
+      save(); paintStrength(); paintLedger();
+    });
+  });
+  var strM = $('strMinus'), strP = $('strPlus');
+  if (strM) strM.addEventListener('click', function(){ S.strength = clamp(S.strength - 1, 0, 4); save(); paintStrength(); paintLedger(); });
+  if (strP) strP.addEventListener('click', function(){ S.strength = clamp(S.strength + 1, 0, 4); save(); paintStrength(); paintLedger(); });
   $('rkApply').addEventListener('click', function(){
-    var c = rkCompute();
-    if (c.fall) { S.ladder = Math.max(0, S.ladder - 1); S.rest += 1; }
-    else S.ladder = Math.min(6, S.ladder + c.rise);
-    S.rk = {};
-    save(); paintLadder(); paintReckon();
+    S.ladder = Math.min(6, S.ladder + 1);
+    S.night = { interv: 0, gained: 0, bilge: 0 };
+    save(); paintLadder(); paintStrength();
     var lv = $('ladderVal'); if (lv) { lv.style.transition = 'none'; lv.style.opacity = '0'; setTimeout(function(){ lv.style.transition = 'opacity .4s'; lv.style.opacity = '1'; }, 30); }
   });
 
@@ -2312,13 +2308,13 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
     var given = paxCount('given');
     var paid = given + S.pcs + S.power;
     var open = Math.max(0, S.debt - paid);
-    var ints = Math.max(0, 3 - S.power - S.burned);
+    var ints = S.strength;
     [['tollDebt', S.debt], ['tollDebt2', S.debt], ['tollPcs', S.pcs], ['tollPower', S.power], ['tollPower2', S.power], ['tollGiven', given], ['tollPaid2', paid], ['tollOpen', open], ['tollOpen2', open], ['intVal', ints], ['intChip', ints]].forEach(function(pair){ var e = $(pair[0]); if (e) e.textContent = pair[1]; });
     var note = $('tollNote'); note.className = 'toll__note';
     if (S.debt <= 0) {
       note.textContent = 'Keine Schuld eingetragen — setze die Zahl der SC.';
     } else if (open > 0) {
-      note.textContent = 'Offen: ' + open + ' Seele' + (open === 1 ? '' : 'n') + '. Der alte Mann kann höchstens ' + Math.min(3, Math.max(0, S.debt - 1)) + ' tragen — mindestens eine Seele muss von Bord kommen. ' + (paxCount('taken') ? paxCount('taken') + ' Passagier(e) mit Gewalt genommen: Gabe zerstört, nichts beglichen.' : '');
+      note.textContent = 'Offen: ' + open + ' Seele' + (open === 1 ? '' : 'n') + '. Der alte Mann kann höchstens ' + Math.min(S.strength + S.power, Math.max(0, S.debt - 1)) + ' tragen (' + S.strength + ' Stück' + (S.strength === 1 ? '' : 'e') + ' hat er noch) — mindestens eine Seele muss von Bord kommen. ' + (paxCount('taken') ? paxCount('taken') + ' Passagier(e) mit Gewalt genommen: Gabe zerstört, nichts beglichen.' : '');
     } else if (given + S.pcs === 0) {
       note.textContent = 'Rechnerisch aufgegangen — aber nur durch die Kraft des alten Mannes. Das geht nicht: Mindestens eine Seele muss von Bord kommen.';
       note.classList.add('bad');
@@ -2327,6 +2323,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
       note.classList.add('ok');
     }
     var wd = $('waveDmg'); if (wd) { var extra = S.power + S.burned; wd.textContent = '1d6' + (extra ? '+' + extra : ''); }
+    paintStrength();
   }
   document.querySelectorAll('.pax[data-pax] .seg button').forEach(function(b){
     b.addEventListener('click', function(){ S.pax[b.closest('.pax').dataset.pax] = b.dataset.s; save(); paintLedger(); });
@@ -2336,10 +2333,10 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
   bind('debtPlus', function(){ S.debt = Math.min(12, S.debt + 1); });
   bind('pcsMinus', function(){ S.pcs = Math.max(0, S.pcs - 1); });
   bind('pcsPlus', function(){ S.pcs = Math.min(12, S.pcs + 1); });
-  bind('powMinus', function(){ S.power = Math.max(0, S.power - 1); });
-  bind('powPlus', function(){ if (S.power + S.burned < 3) S.power += 1; });
-  bind('payPower', function(){ if (S.power + S.burned < 3) S.power += 1; });
-  bind('burnPower', function(){ if (S.power + S.burned < 3) S.burned += 1; });
+  bind('powMinus', function(){ if (S.power > 0) { S.power -= 1; S.strength = Math.min(4, S.strength + 1); } });
+  bind('powPlus', function(){ if (S.strength > 0) { S.power += 1; S.strength -= 1; } });
+  bind('payPower', function(){ if (S.strength > 0) { S.power += 1; S.strength -= 1; } });
+  bind('burnPower', function(){ if (S.strength > 0) { S.burned += 1; S.strength -= 1; } else { S.storm = Math.min(3, S.storm + 1); paintStorm(); } });
 
   /* ---- Storm strikes ---- */
   function paintStorm(){
@@ -2350,7 +2347,7 @@ figcaption { font-family: var(--font-mono); font-size: var(--fs-label); letter-s
   if (sm) sm.addEventListener('click', function(){ S.storm = Math.max(0, S.storm - 1); save(); paintStorm(); });
   if (sp) sp.addEventListener('click', function(){ S.storm = S.storm >= 3 ? 0 : S.storm + 1; save(); paintStorm(); });
 
-  paintLadder(); paintReckon(); paintLedger(); paintStorm();
+  paintLadder(); paintLedger(); paintStorm();
 
   /* ---- Notes ---- */
   function paintNoteDot(slug, has){

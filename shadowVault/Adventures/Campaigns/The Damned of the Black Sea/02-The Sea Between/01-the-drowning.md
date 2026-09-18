@@ -24,7 +24,7 @@ tags: [act]
 ### What Happens
 
 > [!quote] Read Aloud
-> Das Licht des Splitters erlischt nicht — es *zerbirst*. Ein Schlag ohne Klang, den ihr in den Zähnen spürt, und die Kammer dröhnt wie eine geschlagene Glocke, die niemand mehr zum Schweigen bringt. Die Adern im schwarzen Stein flammen auf, blau und blendend, ein rasender Puls — dann stolpert der Puls, wird dünn, verglimmt wie eine Lampe, der das Öl ausgeht.
+> Das Licht des Splitters erlischt nicht — es *zerbirst*. Ein Schlag ohne Klang, den ihr in den Knochen spürt. Die Kammer dröhnt wie eine geschlagene Glocke, die niemand mehr zum Schweigen bringt. Die Adern im schwarzen Stein flammen auf, blau und blendend, ein rasender Puls — dann stolpert der Puls, wird dünn, verglimmt wie eine Lampe, der das Öl ausgeht.
 >
 > Irgendwo unter euren Füßen, tiefer als der Tempel, tiefer als die Wurzeln der Insel, wälzt sich etwas Gewaltiges herum. Die ganze Welt bewegt sich mit.
 >
@@ -40,11 +40,9 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 > Lass den Einsturz nicht zum TPK werden — diese Szene tötet niemanden. Ihre Aufgabe sind Tempo und die Botschaft: *Der Tempel verausgabt sich, um euch in eine ganz bestimmte Richtung zu schieben.* Wenn der Korridor fällt, lass es den klügsten Spieler zuerst aussprechen: Das Becken ist die einzige Tür, die noch bleibt.
 
 > [!quote] Read Aloud — Das Becken öffnet sich
-> Hinter euch stürzt der Korridor des Wehklagens in sich zusammen. Er krümmt sich wie eine Kehle, die schluckt. Die steinernen Gesichter schreien noch, während der Korridor sie mit sich reißt. Dann ist es still. So plötzlich, dass die Stille in euren Ohren klingt. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte ruhige Ort, der euch geblieben ist.
+> Vor euch stürzt der Korridor des Wehklagens in sich zusammen. Er krümmt sich wie eine Kehle, die schluckt. Die steinernen Gesichter schreien noch, während der Korridor sie mit sich reißt. Dann ist es still. Staub rollt über den Boden und legt sich wie Schnee. Die runde Kammer ist der letzte ruhige Ort, der euch geblieben ist.
 >
 > Das Becken in der Mitte zeigt keine Visionen mehr. Es leuchtet. Weich, tief und bläulich, wie Licht, das durch viele Meter Wasser dringt. Wo eure Spiegelbilder sein müssten, ist keine Oberfläche. Ihr seht stattdessen von unten durch flaches Wasser auf hellen Sand. Über euch kräuselt sich ein Nachthimmel. Warmes, oranges Feuerlicht tanzt von irgendwo am Ufer über das Wasser. Darüber bewegen sich verschwommene Gestalten: Beine, die durch die Brandung waten, Schatten, die über den Strand eilen.
->
-> Das Becken ist eine Tür. Es wartet nur darauf, dass ihr es begreift.
 
 
 ### Outcomes
@@ -61,7 +59,7 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 ### What Happens
 
 > [!quote] Read Aloud
-> Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, *eure* Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepanzert, triefend, und hinter ihren Augen brennt ein grünes Licht wie Laternen, durch Faden von Wasser gesehen.
+> Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, *eure* Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepflastert und triefend. Hinter ihren Augen brennt ein grünes Licht wie Laternen, die in der tiefen See versunken sind.
 >
 > In der Mitte der Linie steht Kapitän Rauthorn, sein Säbel scheint schwarz im Feuerschein, und wo seine Klinge hinfährt, gehen die Ertrunkenen zu Boden. Er sieht euch in der Brandung — und einen Herzschlag lang, huscht etwas über sein Gesicht, das Erleichterung sein könnte.
 >
@@ -76,7 +74,7 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 Lass die Gruppe eine oder zwei echte Runden an der Seite ihrer Kameraden kämpfen. Dann erreicht Rauthorn sie und fragt — leise, fast ein Flüstern — was im Tempel geschehen ist. **Wenn die Gruppe ihm sagt, dass der Splitter zerstört ist** (oder schlecht lügt; er hat gehört, wie die See sich verändert hat), wird er sehr still.
 
 > [!quote] Read Aloud — Das Urteil
-> „Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er spricht mit der leisen Stimme, die er für Verräter bewahrt. Gerade diese Ruhe macht es schlimmer. „Ich gab euch mein Schiff. Meine Karte. Meine eine Chance, niemals zu sterben. Und ihr habt sie den Fischen verfüttert."
+> „Die See kennt keine Gnade", sagt Rauthorn. Er schreit nicht. Er spricht mit der leisen Stimme, die er für Verräter bewahrt. Gerade diese Ruhe macht es schlimmer. „Ich gab euch mein Schiff. Mein Vertrauen. Meine eine Chance, niemals zu sterben. Und ihr habt sie den Fischen verfüttert."
 >
 > Das blaue Licht in seinen Augen steht plötzlich still. Kein Flackern mehr. Nur dieses kalte, gleichmäßige Leuchten. Die Männer, an deren Seite ihr eben noch geblutet habt, wenden sich euch mit finsterer Miene zu. Unsicherheit und Zwiespalt, die ihr in ihren Gesichtern seht, weichen plötzlich tödlicher Absicht.
 >
