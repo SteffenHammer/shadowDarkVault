@@ -9,8 +9,8 @@ tags: [act]
 ## Act Overview
 
 - **Purpose:** Nächte 0–2. Etabliere die Deckgeschichte und lass die Spieler auf sie hereinfallen; führe die [[the-halcyon|Halcyon]], den alten Mann und die Passagiere ein; dann lass die Risse einen nach dem anderen erscheinen. Bis Nacht 2 absichtlich kein Kampf — die Spannung ist der Punkt.
-- **State of the world:** Eine glatte, windstille graue See unter einem sonnenlosen Zwielichtshimmel. Die Ketsch segelt trotzdem, stetig wie ein Herzschlag. Die Nachtleiter (siehe [[00-overview|die Übersicht]]) beginnt bei Nacht 0; wickle von hier bis zum Finale bei jeder Verdunkelung die **Nachteinbruch-Abrechnung** ab.
-- **Ways it can end:** Die erste Nebelbank rollt heran, mit dem Boot des Lotsen darin → [[03-the-fog-banks|Act 3]]. Das geschieht bei Nacht 3 auf der Leiter, wo immer die Leiter gerade steht.
+- **State of the world:** Eine glatte, windstille graue See unter einem sonnenlosen Zwielichtshimmel. Die Ketsch segelt trotzdem, stetig wie ein Herzschlag. Die Nachtleiter (siehe [[00-overview|die Übersicht]]) beginnt bei Nacht 0 und steigt mit jeder Verdunkelung um genau eine Stufe; der alte Mann beginnt mit **2 Stücken Kraft**. Wickle von hier bis zum Finale bei jedem Nachteinbruch die **Abrechnung der Kraft** ab.
+- **Ways it can end:** Die erste Nebelbank rollt heran, mit dem Boot des Lotsen darin → [[03-the-fog-banks|Act 3]]. Das geschieht in Nacht 3.
 
 > [!tip] GM Guidance — die Deckgeschichte spielen
 > Die Geschichte des alten Mannes ist *plausibel*: Die Insel ist versunken, er hat sie treibend im Wrack gefunden, er segelt sie nach Hause. Untergrabe sie niemals selbst — lass die Spieler die Zweifel äußern. Jeder Riss unten ist für sich allein bestreitbar; es ist die Anhäufung, die nagt. Und denk an die harte Vorgabe: Nichts darf bestätigen, was am Strand geschehen ist.
@@ -55,7 +55,7 @@ Der alte Mann beantwortet Fragen bereitwillig, aber knapp (siehe [[the-old-sailo
 ### What Happens
 
 > [!quote] Read Aloud
-> Der Passagierraum ist warm. Ein kleiner Eisenofen glüht in der Ecke, und die Luft riecht nach frisch aufgegossenem Tee, obwohl nirgendwo eine Kanne steht. Fünf Menschen blicken auf, als ihr den Niedergang herunterkommt. Jeder nickt euch zu, freundlich und beiläufig, als wärt ihr euch vor Jahren vorgestellt worden und hättet euch bloß lange nicht gesehen.
+> Der Passagierraum ist warm. Ein kleiner Eisenofen glüht in der Ecke, und die Luft riecht nach frisch aufgegossenem Tee, obwohl nirgendwo eine Kanne steht. Vier Menschen blicken auf, als ihr den Niedergang herunterkommt. Sie nicken euch zu, freundlich und beiläufig, als wärt ihr euch vor Jahren vorgestellt worden und hättet euch bloß lange nicht gesehen.
 >
 > Ein aufrechter silberhaariger Mann ölt eine Fechtklinge mit einem Tuch, in langen, liebevollen Strichen. In einer Hängematte sitzt ein Mädchen von vielleicht zehn Jahren im Schneidersitz, knüpft Knoten in eine Schlaufe aus Schnur, löst sie wieder und summt dabei eine Melodie. In der Ecke schläft ein großer Mann, um eine Seekiste gekrümmt wie um etwas Geliebtes. Eine Frau mit Tinte bis zu den Ellbogen hat Karten über die halbe Tischlänge ausgebreitet und zeichnet Küstenlinien mit ruhiger Hand. Und an der anderen Hälfte teilt ein Mann in einem guten, schäbig gewordenen Mantel Karten aus — an Plätze, an denen niemand sitzt — während die ganze Zeit fremdartige Münzen über seine Knöchel wandern, ohne dass er ihnen je zusieht.
 
@@ -84,7 +84,7 @@ Niemand — nicht der alte Mann, nicht die Passagiere selbst — erinnert sich d
 
 ### What Happens
 
-Wachen zu gehen ist der Weg, wie die Gruppe **−1-Nachteinbruch-Striche** verdient (volle Rotation, niemand allein) — und wie die Risse sie finden. Teile sie einzeln aus, einen pro Wache, an denjenigen, der ihn bemerken kann; jeder ist für sich allein bestreitbar:
+Wachen zu gehen ist der Weg, wie die Gruppe den alten Mann am Ruder ablöst und das Schiff derweil hält (volle Rotation, niemand allein) — die Bedingung für den **ausgeruhten Fährmann** ([[00-overview|Übersicht]]), der am grauen Morgen ein Stück Kraft zurückgewonnen hat — und wie die Risse sie finden. Teile sie einzeln aus, einen pro Wache, an denjenigen, der ihn bemerken kann; jeder ist für sich allein bestreitbar:
 
 - **Der Himmel ist falsch.** Keine Sonne, niemals — nur das starre graue Zwielicht, das sich manchmal zu wahrem Schwarz verdunkelt. Eine DC 12 INT-Probe von jedem, der sich mit Sternen auskennt (der Zauberer; die Kartographin wird *ihn* fragen): Die Sternbilder sind keine Zeichnung, die je jemand kartiert hat. Das Kielwasser des Schiffs verblasst nie — es zieht sich achteraus bis zum Horizont wie eine Narbe.
 - **Spiegelungen benehmen sich falsch.** In Wasser, Spiegeln und Klingenflächen: Spiegelbilder hinken eine halbe Sekunde hinterher — oder zeigen, für einen einzigen Blick, den Betrachter so, wie er in dem Moment aussah, als der Kampf am Strand endete. Am schlimmsten nahe der Bilge. Nie auf Verlangen, nie zweimal hintereinander.
@@ -120,7 +120,7 @@ Wachen zu gehen ist der Weg, wie die Gruppe **−1-Nachteinbruch-Striche** verdi
 
 **Encounter: Der Fang**
 - Enemies: 1 × [[the-catch|der Fang]]
-- Tactics: er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und notiere die **+3 Nachteinbruch-Striche**, falls jemand diesen Handel auch nur erwägt)
+- Tactics: er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und wird dieser Handel auch nur *erwogen*, muss der alte Mann eingreifen, um ihn zu brechen: **ein Stück Kraft**, [[00-overview|Übersicht]]); zieht er jemanden über die Reling, ist es der alte Mann, der ihn zurückholt — auf Bitte oder wenn niemand sonst mehr zugreifen kann — und auch das kostet ihn ein Stück
 - Terrain: nasses Heckdeck; die Reling; der Laternenkreis mittschiffs — ins Licht wird er sich nicht selbst hineinziehen
 - Treasure: im Knäuel verfangen eine Ölzeugjacke der Gezeitenklinge, das Namenszeichen in den Kragen gestickt — ein Kamerad, den die Gruppe kannte, einer, den sie zuletzt lebend am Strand gesehen hat
 
