@@ -21,6 +21,6 @@ Enterer aus nassem Tau, Seepocken und grünem Laternenlicht — die Finger des S
 >
 > **Fortschleppen.** Statt anzugreifen, zerrt er ein vertäutes Ziel near-Distanz zur Reling. Zwei Festmacher, die dasselbe Ziel schleppen, zerren mit Vorteil.
 >
-> **Laternenscheu.** Solange die Laterne voll brennt (bis einschließlich Nacht 3), kann er das warme Licht nicht betreten und lässt jedes Ziel fallen, mit dem er ins Licht gezerrt wird. Sobald das Licht flackert (ab Nacht 4 — siehe die [[00-overview|Übersicht]]), kann er die Linie überschreiten, aber alles, was er im Licht oder ins Licht hinein versucht, geschieht mit Nachteil, und Ziele, die er dort hält, reißen sich mit Vorteil los.
+> **Laternenscheu.** Solange die Laterne voll brennt (Kraft des Fährmanns 2 oder mehr), kann er das warme Licht nicht betreten und lässt jedes Ziel fallen, mit dem er ins Licht gezerrt wird. Sobald das Licht flackert (Kraft 1 — siehe die [[00-overview|Übersicht]]), kann er die Linie überschreiten, aber alles, was er im Licht oder ins Licht hinein versucht, geschieht mit Nachteil, und Ziele, die er dort hält, reißen sich mit Vorteil los. Ist die Laterne nur noch Glut (Kraft 0), gibt es keinen Kreis mehr.
 
 - **Found in:** `statblocks/` dieses Abenteuers — Enterwellen überall in [[03-the-fog-banks|Act 3]] und [[04-the-storm-crossing|Act 4]].

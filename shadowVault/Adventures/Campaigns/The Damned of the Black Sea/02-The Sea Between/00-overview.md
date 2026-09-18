@@ -40,39 +40,48 @@ Vom eigenen Kapitän getötet, weil sie den Splitter der Tiefe zerstört haben, 
 | 6     | Die Sturmüberfahrt — das Finale; er holt sie ein.                                                            |
 
 > [!info] Einbruch der Nacht — Vorgehen
-> Die Leiter ist eine *Position* (wie nah der Verfolger ist), kein Kalender — Akte werden ausgelöst, wenn die Leiter eine Stufe **erreicht**, egal wie viele Verdunkelungen das braucht. Notiere im Spiel unauffällig Striche, sobald sie anfallen; bei jeder Verdunkelung zähle zusammen und steige.
+> Die Leiter ist ein Kalender: **Jede Verdunkelung steigt sie um genau eine Stufe**, und sie kennt keinen Weg zurück. Sechs Nächte, dann der Sturm — die Spieler können den Verfolger weder aufhalten noch beschleunigen; das Gesetz des Todes kommt, wann es kommt. Was sie beeinflussen, ist etwas anderes: *wie viel vom Fährmann noch übrig ist*, wenn er sie einholt. Erzähle die Manifestation jeder neuen Stufe zusammen mit dem passenden Verfallszustand der [[the-halcyon|Halcyon]] — und wickle bei jedem Nachteinbruch die **Abrechnung der Kraft** ab (unten).
+
+**Die Kraft des Fährmanns (der Einsatz).** Der alte Mann hält Stücke seiner neugeborenen Kraft — und jedes Stück ist eine **Intervention**: an der Sturmwand eine Seele, die er aus eigener Kraft begleichen kann; danach, für den Rest der Kampagne, ein Moment, in dem er die Gruppe gegen Rauthorns Ritual abschirmen, ihr beistehen oder sie retten kann. **Er beginnt die Überfahrt mit 2 Stücken; die Spanne ist 0 bis 4.** Die Crew gibt ihm Kraft zurück, indem sie ihn stützt — und verbraucht sie, indem sie ihn zwingt einzugreifen. Der Zähler ist reine SL-Sache: Die Spieler sehen ihn nur an der Laterne und an seinem Gesicht (siehe den Laternenkreis unten), und niemand erklärt ihnen je, was sie da sehen.
+
+> [!info] Abrechnung der Kraft — Vorgehen
+> Notiere im Spiel unauffällig, wann er eingreift; beim Nachteinbruch prüfe, ob er sich erholt hat.
 >
-> **Die Leiter steigt um 1 + (Netto-Striche) — mindestens 0, höchstens 2 pro Nacht.**
+> **Er gewinnt ein Stück (+1; höchstens einmal pro Nacht; nie über 4)**, wenn eines davon zutrifft:
 >
-> | Striche dagegen | | Striche dafür |
-> | --- | --- | --- |
-> | **+1** — *Versäumnis:* das Schiff lag eine Wache lang gestoppt oder trieb unbemannt | | **−1** — eine Reparatur gegen DC 12 gelang (ab Nacht 4 DC 15) |
-> | **+1** — *Versäumnis:* die Bilgentür wurde überhaupt geöffnet (einmal pro Nacht, egal wie oft) | | **−1** — eine volle Wachrotation wurde gehalten, niemand allein |
-> | **+3** — *Entscheidung:* jemand hat den Handel eines Enterers angenommen oder auch nur *erwogen* — „lasst mich darüber nachdenken" zählt | | **−1** — ein Handel wurde laut im Licht der Laterne ausgeschlagen |
-> | **+3** — *Entscheidung:* ein Passagier wurde weggegeben (automatisch) | | **−1** — der alte Mann wurde am Ruder abgelöst, um zu ruhen |
+> - **Der ausgeruhte Fährmann:** Er wurde am Ruder abgelöst und hat wirklich geruht; das Schiff wurde derweil gehalten (eine volle Wachrotation, niemand allein — *oder* eine gelungene Reparatur gegen DC 12, ab Nacht 4 DC 15); *und* nichts hat ihn in dieser Nacht zum Eingreifen gezwungen.
+> - **Ein Handel wurde laut im Licht der Laterne ausgeschlagen** — auch mit Güte (die Jacke an [[the-dead-crew|die Toten der Gezeitenklinge]]). Die Laterne flammt für einen Atemzug auf. Das Gesetz des Todes nimmt Einwilligung ernst — und ihr Gegenteil ebenso.
 >
-> Versäumnisse sind Seemannschaft — ein gutes Tagwerk gleicht sie aus. Entscheidungen sind Einwilligung, und das Gesetz des Todes ist gnadenlos, was Einwilligung angeht: Ein +3 macht mehr zunichte, als ein ganzer Tag guter Striche decken kann, und braucht zwei Nächte mit ausgeruhtem Fährmann, um wieder hereingeholt zu werden.
+> Am grauen Morgen steht er aufrechter, für einen Tag um Jahre jünger; die Laterne brennt eine Stufe heller.
 >
-> **Steigt die Leiter in einer Nacht um 2, spielen sich die Manifestationen beider Stufen noch in derselben Nacht ab** — der Nebel rollt heran *und* die Bugwelle steigt, in einer einzigen Verdunkelung. Schlechte Nächte verstärken einander; lass den Tisch es spüren.
+> **Er verliert ein Stück (−1 je Eingriff; nie unter 0)**, wann immer er gezwungen ist, für die Crew einzugreifen. Jeder Eingriff ist eine Szene — spiele sie, bevor du zählst:
 >
-> *Beispiele:* volle Wachrotation + eine Reparatur gegen DC 12 → 1 + (−2) = **0**, die Leiter hält. Jemand sagte „lasst mich darüber nachdenken", trotz voller Rotation und einer Reparatur → 1 + 3 − 2 = 2 → der Verfolger springt zwei Stufen, und beide Manifestationen treffen noch in dieser Nacht ein.
+> | Eingriff | Was die Gruppe sieht |
+> | --- | --- |
+> | Das Schiff lag eine Wache lang gestoppt oder trieb unbemannt | Er hat es allein durch die Nacht gehalten; am Morgen ist er grauer, die Hand am Rad zittert |
+> | Die Bilgentür wurde geöffnet (einmal pro Nacht, egal wie oft) | Er hat die Stimme darunter wieder ausgesperrt; man findet ihn auf der Treppe sitzend, die Hand flach an der Tür |
+> | Jemand hat den Handel eines Enterers *erwogen* — „lasst mich darüber nachdenken" zählt | Der Handel ist halb geschlossen. Er tritt aus dem Licht, sagt ein einziges Wort, und der Enterer verbeugt sich und weicht. Es kostet ihn sichtbar |
+> | Ein SC geht über die Reling — und er holt ihn zurück | Eine Hand, zu groß für ihr Handgelenk, im Kragen, und der SC liegt an Deck. Er tut das ungefragt, wenn niemand sonst mehr zugreifen kann, und auf Bitte jederzeit |
+> | Im Sturm: der Zehnt fällt auf 6 | Er verbrennt ein Stück, nur um das Schiff zusammenzuhalten (siehe [[04-the-storm-crossing|Akt 4]]) |
 >
-> **Der ausgeruhte Fährmann (der einzige Weg zurück).** Wenn die Striche der Nacht **netto −1 oder weniger** ergeben *und* der alte Mann darunter war — am Ruder abgelöst und wirklich ausgeruht — gibt er die Kraft aus, die die Crew ihm geschenkt hat: Die Leiter **fällt eine Stufe**, statt zu halten. Am grauen Morgen steht er aufrechter, für einen Tag um Jahre jünger; das Kielwasser hängt schlaff, die Silhouette sinkt unter die Kimm, der Nebel lichtet sich. Bereits gespielte Szenen bleiben gespielt — die See gibt Abstand zurück, nicht das Geschehene. Das schafft er **zweimal pro Überfahrt**; beim dritten Mal ist die Kraft schlicht nicht da, und die Gruppe sieht es.
+> Bei jedem Eingriff, auf der Stelle: Die Laterne wird eine Stufe dunkler, er altert um Jahre. **Steht die Kraft auf 0**, kann er nichts davon mehr tun — das Schiff treibt, die Stimme spricht, der Handel schließt, der SC ist fort — und die Gruppe sieht, dass er es versucht hat.
 >
-> Darüber hinaus steigt die Leiter niemals rückwärts — sorgfältiges Segeln bringt das Gesetz des Todes *ins Stocken*. Die Begrenzung garantiert mindestens drei Nächte vor dem Sturm; eine sorgfältige Crew mag acht oder mehr erleben. Erzähle die Manifestation jeder neuen Stufe zusammen mit dem passenden Verfallszustand der [[the-halcyon|Halcyon]].
+> **Was ihn nichts kostet:** Ein angenommener Handel kostet bereits eine Seele; ein weggegebener Passagier kostet bereits eine Gabe. Beides kostet ihn *kein* Stück — der Preis ist schon bezahlt. Er sagt nur: „*Das war nicht deins auszugeben.*"
+>
+> *Beispiele:* Nacht 2 — volle Rotation, er wurde abgelöst, nichts geschah → **3**. Nacht 3 — jemand sagte dem Lotsen „lasst uns darüber nachdenken" (−1), später am Abend wurde das Angebot laut im Licht ausgeschlagen (+1) → bleibt bei **3**; er hat eingegriffen, also keine Erholung obendrauf. Nacht 4 — die Bilgentür stand offen und das Schiff trieb eine Wache (−2) → **1**: Die Laterne flackert, und die erste nasse Tauhand überschreitet die Linie.
 
 > [!info] Der Laternenkreis — eine Zuflucht, die versagt
-> Der warme Kreis um die Laterne des Fährmanns ist sein Schutz, sichtbar gemacht, und er versagt, wie er selbst versagt:
+> Der warme Kreis um die Laterne des Fährmanns ist seine Kraft, sichtbar gemacht. **Seine Größe folgt der Leiter** (Nacht 0: fast das ganze Deck; Nacht 6: ein Schritt weit — die Zustände der [[the-halcyon|Halcyon]]). **Seine Helligkeit folgt der Kraft:**
 >
-> - **Volles Licht (Nächte 0–3):** Zuflucht. Die Ertrunkenen *können* ihn nicht betreten, Punkt, und die geborgten Stimmen verstummen darin. Erkläre niemals, warum.
-> - **Flackernd (Nächte 4–5):** Der Rand franst aus. Die Ertrunkenen können die Linie zum ersten Mal überschreiten — aber alles, was sie im Licht oder ins Licht hinein versuchen, geschieht mit **Nachteil**, und wer darin steht, hat **Vorteil** auf Proben, sich dagegen zu wehren, gepackt, fortgezerrt oder getäuscht zu werden. Spiele die erste nasse Tauhand, die die Linie überquert, als den Horrormoment, der sie ist: Das, worauf die Spieler sich absolut verlassen haben, hat zu versagen begonnen.
-> - **Der letzte Schritt (Nacht 6):** derselbe Vorteil und Nachteil — aber der Kreis schützt zwei Personen, nicht mehr.
+> - **Voll (Kraft 2–4):** Zuflucht. Die Ertrunkenen *können* ihn nicht betreten, Punkt, und die geborgten Stimmen verstummen darin. So beginnt die Überfahrt; bei 3 und mehr steht die Flamme höher, und der bläuliche Takt in ihrem Herzen ist für jeden zu sehen. Erkläre niemals, warum.
+> - **Flackernd (Kraft 1):** Der Rand franst aus. Die Ertrunkenen können die Linie zum ersten Mal überschreiten — aber alles, was sie im Licht oder ins Licht hinein versuchen, geschieht mit **Nachteil**, und wer darin steht, hat **Vorteil** auf Proben, sich dagegen zu wehren, gepackt, fortgezerrt oder getäuscht zu werden. Spiele die erste nasse Tauhand, die die Linie überquert, als den Horrormoment, der sie ist: Das, worauf die Spieler sich absolut verlassen haben, hat zu versagen begonnen — und sie haben es selbst verbraucht.
+> - **Glut (Kraft 0):** Kein Kreis mehr. Die Laterne ist ein blauer Funke im Glas; Zuflucht ist nur noch, was der alte Mann mit den Händen halten kann — eine Person, an seiner Seite am Ruder.
 >
 > Der Kreis schützt; er gewinnt nicht. Feinde belagern ihn nie — sie ignorieren ihn und sammeln ein, was er nicht abdeckt: die Passagiere, die Stationen, das Schiff selbst. Eine Crew, die sich im Licht zusammendrängt, ist nicht sicher; sie wählt nur aus, was sie verliert, eine Wache nach der anderen.
 
 **Endgültiger Verlust.** Eine Seele, die der Verfolger nimmt — ein SC, der den Handel eines Enterers annimmt, über Bord geht oder im Finale gefasst wird — wird zu einem [[drowned-sailor|ertrunkenen Matrosen]]. Endgültiger Tod; die Gruppe mag später dem gegenüberstehen, was genommen wurde, mit dem Gesicht eines Freundes.
 
-**Das Schuldbuch des Zolls (Währung des Finales).** Der Leviathan hält **3 Interventionen** für den Rest der Kampagne — Momente, in denen er die Gruppe gegen Rauthorns Ritual abschirmen, ihr beistehen oder sie retten kann. Jedes Stück seiner Kraft, das an der Sturmwand dem Sog gegeben wird, löscht eine davon für immer (und die Laterne wird eine Stufe dunkler, und der alte Mann altert um Jahre, auf der Stelle). Halte nach dem Finale in [[00-campaign|den Kampagnenfäden]] fest, was übrig bleibt. Die *ganze* Schuld kann er niemals zahlen — mindestens eine Seele muss von Bord kommen.
+**Das Schuldbuch des Zolls (Währung des Finales).** Was der alte Mann an die Sturmwand bringt, ist, was die Crew ihm gelassen hat: **So viele Seelen, wie er Kraft hat (0–4)**, kann er dort aus eigener Kraft begleichen. Jedes Stück, das dem Sog gegeben wird, ist als Intervention für den Rest der Kampagne gelöscht (und die Laterne wird eine Stufe dunkler, und der alte Mann altert um Jahre, auf der Stelle). Was übrig bleibt, trägt er hinüber — halte es nach dem Finale in [[00-campaign|den Kampagnenfäden]] fest: Ein Leviathan mit 4 ist stärker als zu Beginn der Überfahrt; einer mit 0 muss sich in Abenteuer III erst wieder sammeln. Die *ganze* Schuld kann er niemals zahlen — mindestens eine Seele muss von Bord kommen.
 
 **Das Fährmann-Rätsel (Spur der Hinweise).** Die Identität des alten Mannes ist ein Puzzle, niemals eine Enthüllung. Der Aufbau streut diese Hinweise; lass den Tisch sie verbinden:
 

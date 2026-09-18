@@ -9,8 +9,8 @@ tags: [act]
 ## Act Overview
 
 - **Purpose:** Nächte 3–5. Die Belagerung beginnt: Nebelbänke tragen Enterer heran — das süße Angebot des Lotsen, die Toten der Gezeitenklinge, Wellen von Festmachern. Das Schiff schrumpft, der alte Mann wird schwächer, die Bilgentür lockt, und das Krähennest tötet die Rettungsgeschichte. Erste Gelegenheiten, Seelen wegzuhandeln.
-- **State of the world:** Der Verfolger ist kein Fleck mehr. Bei Nacht 3 beginnt der alte Mann zu *schlafen* — zuvor schlief er nie — und der warme Kreis der Laterne ist jede Nacht ein wenig kleiner. Das Innere der [[the-halcyon|Halcyon]] schrumpft (Zustände in ihrer Datei). Führe die **Nachteinbruch-Abrechnung** weiter durch ([[00-overview|Übersicht]]).
-- **Ways it can end:** Nacht 5 endet mit dem Ächzen des brechenden Rumpfs und aufziehendem Sturm → [[04-the-storm-crossing|Act 4]]. Eine Gruppe, die hart gehandelt hat, kommt dort womöglich mit weniger Passagieren an — und mit einer Leiter, die schnell gelaufen ist.
+- **State of the world:** Der Verfolger ist kein Fleck mehr. Bei Nacht 3 beginnt der alte Mann zu *schlafen* — zuvor schlief er nie — und der warme Kreis der Laterne ist jede Nacht ein wenig kleiner. Das Innere der [[the-halcyon|Halcyon]] schrumpft (Zustände in ihrer Datei). Die Laterne brennt so hell, wie die Crew ihn gelassen hat. Führe die **Abrechnung der Kraft** weiter durch ([[00-overview|Übersicht]]).
+- **Ways it can end:** Nacht 5 endet mit dem Ächzen des brechenden Rumpfs und aufziehendem Sturm → [[04-the-storm-crossing|Act 4]]. Eine Gruppe, die hart gehandelt hat, kommt dort womöglich mit weniger Passagieren an — und mit einem Fährmann, dem wenig Kraft bleibt.
 
 > [!tip] GM Guidance — die Form des Akts
 > Die Nebelbank-Szenen sind ein Werkzeugkasten, kein Schienenstrang: Der Lotse kommt in Nacht 3, die tote Mannschaft in Nacht 4, und Festmacher-Wellen füllen das Dunkel dazwischen. Die Bilgentür und das Krähennest zünden, wann immer die Spieler suchen gehen — lege die Sichtung im Krähennest spätestens auf Nacht 4–5, denn die Rettungsgeschichte muss vor dem Sturm tot sein. Alle Handel, aus dem Mund jedes Enterers, sind die Handel des Sogs ([[the-undertow|der Sog]]): Wer annimmt, wird eingesammelt — endgültig, nach der Regel des endgültigen Verlusts.
@@ -52,8 +52,8 @@ Der Vortrag des Lotsen, über so viele Gesprächsrunden, wie die Spieler ihm geb
 
 ### Outcomes
 
-- Angebot im Licht der Laterne laut ausgeschlagen → **−1 Nachteinbruch-Strich**; der Nebel lichtet sich bis zum Morgen → der Akt geht weiter.
-- Angebot erwogen („lasst uns darüber nachdenken") → **+3 Nachteinbruch-Striche** (eine Entscheidung, kein Versäumnis); der Lotse verbeugt sich: „*Ich spreche wieder vor.*" — und der Nebel hält ihm die Tür offen → er kehrt jede Nacht wieder, bis er ausgeschlagen oder bekämpft wird.
+- Angebot im Licht der Laterne laut ausgeschlagen → **+1 Kraft** für den alten Mann (höchstens einmal pro Nacht; [[00-overview|Übersicht]]); der Nebel lichtet sich bis zum Morgen → der Akt geht weiter.
+- Angebot erwogen („lasst uns darüber nachdenken") → der Handel ist halb geschlossen, und der alte Mann muss ihn brechen: Er tritt aus dem Licht, sagt ein einziges Wort — **−1 Kraft** (hat er keines mehr, schließt der Handel) — und der Lotse verbeugt sich: „*Ich spreche wieder vor.*" — und der Nebel hält ihm die Tür offen → er kehrt jede Nacht wieder, bis er ausgeschlagen oder bekämpft wird.
 - Ein SC steigt in sein Boot → eingesammelt, endgültig → der Tisch lernt, was die Handel kosten.
 
 ## Scene: Nebel & die Festmacher
@@ -65,18 +65,18 @@ Der Vortrag des Lotsen, über so viele Gesprächsrunden, wie die Spieler ihm geb
 ### What Happens
 
 **Hazard: Der Nebel (antwortet nicht auf die eigene Stimme)**
-- Effect: im Nebel hört jeder SC, der allein an Deck ist, irgendwann die eigene Stimme — oder die eines geliebten Menschen — leise aus dem Wasser rufen, immer knapp jenseits der Reling. Laut zu antworten oder sich zum Hinsehen hinauszulehnen zieht eine Enterwelle auf diesen SC und bringt **+1 Nachteinbruch-Strich**, wenn es in der Dämmerung geschieht. Es zu hören und still zu bleiben kostet eine DC 12 WIS-Probe; bei Misserfolg antwortet der SC, ehe er sich stoppen kann.
+- Effect: im Nebel hört jeder SC, der allein an Deck ist, irgendwann die eigene Stimme — oder die eines geliebten Menschen — leise aus dem Wasser rufen, immer knapp jenseits der Reling. Laut zu antworten oder sich zum Hinsehen hinauszulehnen zieht eine Enterwelle auf diesen SC — und wer dabei über die Reling geht, kommt nur zurück, wenn der alte Mann ihn holt ([[00-overview|ein Stück Kraft]]). Es zu hören und still zu bleiben kostet eine DC 12 WIS-Probe; bei Misserfolg antwortet der SC, ehe er sich stoppen kann.
 - Counter: zu zweit Wache gehen (die Probe wird mit Vorteil abgelegt); im Laternenkreis bleiben (die Stimmen verstummen dort); Wachs oder Werg in die Ohren stopfen (taub für die Stimmen — und für alles andere).
 
 **Encounter: Enterwelle**
 - Enemies: 1d4+1 × [[mooring-man|Festmacher]] (Nacht 3–4) oder 2d4 × [[mooring-man|Festmacher]] (Nacht 5)
-- Tactics: sie kommen gemeinsam über die dunkle Reling und drängen auf die ursprüngliche Schuld — immer zuerst ein SC, wo immer einer erreichbar ist, festgezurrt und Richtung Wasser geschleppt; sie schlagen nie, um zu töten, nur, um zu nehmen; bis einschließlich Nacht 3 betreten sie den Laternenkreis nicht, und ab Nacht 4 behindert sie sein flackerndes Licht nur noch (Laternenscheu; siehe die [[00-overview|Übersicht]]) — und während der Kreis Nacht für Nacht schrumpft, gehört ihnen mehr vom Deck
-- Terrain: der Laternenkreis (sicher, schrumpfend — flackernd ab Nacht 4); Takelage zum Klettern; Netze und Leinen überall — Deckung für sie, Stolperfallen für alle
+- Tactics: sie kommen gemeinsam über die dunkle Reling und drängen auf die ursprüngliche Schuld — immer zuerst ein SC, wo immer einer erreichbar ist, festgezurrt und Richtung Wasser geschleppt; sie schlagen nie, um zu töten, nur, um zu nehmen; solange die Laterne voll brennt, betreten sie den Laternenkreis nicht; flackert sie (Kraft des Fährmanns 1), behindert sie das Licht nur noch (Laternenscheu; siehe die [[00-overview|Übersicht]]) — und während der Kreis Nacht für Nacht schrumpft, gehört ihnen mehr vom Deck
+- Terrain: der Laternenkreis (sicher, schrumpfend — flackernd, sobald die Kraft des Fährmanns auf 1 fällt); Takelage zum Klettern; Netze und Leinen überall — Deckung für sie, Stolperfallen für alle
 - Der Kreis schützt; er gewinnt nicht: Die Festmacher belagern ihn nie — eine Crew, die sich außerhalb ihrer Reichweite zusammendrängt, *macht* die Passagiere zu den einzigen erreichbaren Seelen und sieht zu, wie sie hinabgezerrt werden. Ein mit Gewalt genommener Passagier begleicht **nichts** ([[00-overview|Übersicht]]): Die Gabe ist zerstört, ungezählt, und die Schuld bleibt in voller Höhe bestehen
 - Treasure: keiner — was sie nehmen, ist der Schatz
 
 > [!tip] GM Guidance
-> Festmacher-Wellen sind das Metronom des Akts — eine pro dunkler Wache reicht völlig, zwei in einer Nacht, in der die Leiter gesprungen ist. Ist während einer Welle ein Passagier an Deck, gehen die Festmacher zuerst auf den Passagier: billigere Fracht, kein Kampf darin. Was die Gruppe dagegen unternimmt, sagt ihnen, worum es im Finale gehen wird, ohne ein Wort der Erklärung.
+> Festmacher-Wellen sind das Metronom des Akts — eine pro dunkler Wache reicht völlig, zwei in einer Nacht, in der die Laterne nur noch flackert. Ist während einer Welle ein Passagier an Deck, gehen die Festmacher zuerst auf den Passagier: billigere Fracht, kein Kampf darin. Was die Gruppe dagegen unternimmt, sagt ihnen, worum es im Finale gehen wird, ohne ein Wort der Erklärung.
 
 ### Outcomes
 
@@ -112,7 +112,7 @@ Was sie wollen und was sie mitbringen ([[the-dead-crew|die tote Mannschaft]] fü
 - Treasure: Mareks Bootsmannspfeife, falls sie vernichtet werden — sie klingt nur unter Wasser (nie erklären)
 
 > [!tip] GM Guidance
-> Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus [[02-the-smooth-sea|den Netzen]], nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. **−1 Nachteinbruch-Strich** für einen mit Güte ausgeschlagenen Handel.
+> Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus [[02-the-smooth-sea|den Netzen]], nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. **+1 Kraft** für den alten Mann — ein mit Güte ausgeschlagener Handel ([[00-overview|Übersicht]]).
 
 ### Outcomes
 
@@ -145,7 +145,7 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 
 **Hazard: Das stehende Wasser**
 - Effect: an der Tür zuzuhören ist sicher; zu *verweilen* nicht. Für jede volle Minute am Wasserrand DC 12 WIS-Probe, oder der Zuhörer kniet nieder, um besser zu hören — ein weiterer Misserfolg, und er greift nach dem Wasser (Gefährten können ihn zurückziehen; es zu berühren kostet 1d6 Kälteschaden und eine wahre, unwillkommene Antwort, direkt in den Kopf geliefert)
-- Counter: der Zustand, um den der alte Mann gebeten hat — die Tür bleibt zu; zu gehen kostet gar keine Probe, und die Stimme verfolgt nie über die Tür hinaus. Die Bilgentür überhaupt zu öffnen ist **+1 Nachteinbruch-Strich** (einmal pro Nacht, egal wie oft sie geöffnet wird).
+- Counter: der Zustand, um den der alte Mann gebeten hat — die Tür bleibt zu; zu gehen kostet gar keine Probe, und die Stimme verfolgt nie über die Tür hinaus. Die Bilgentür überhaupt zu öffnen kostet den alten Mann **ein Stück Kraft** (einmal pro Nacht, egal wie oft sie geöffnet wird): Er muss die Stimme darunter wieder aussperren, und man findet ihn danach auf der Treppe sitzend, die Hand flach an der Tür ([[00-overview|Übersicht]]).
 
 > [!tip] GM Guidance
 > Dieser Raum ist das Druckventil der SL: Wenn die Spieler verloren sind, wohnt hier die Wahrheit, die verführt. Gib gerade Antworten in der Stimme des Sogs und lass ihre Genauigkeit der Schrecken sein. Er erhebt nie die Stimme, droht nie und dankt ihnen beim Gehen: „*Lasst euch Zeit. Ich habe sie ganz.*"
@@ -153,7 +153,7 @@ Wie auch immer die Gruppe antwortet, die Stimme fährt fort, milde: „*Ihr habt
 ### Outcomes
 
 - Die Gruppe geht mit Antworten und geschlossener Tür → der Akt geht weiter, schwerer.
-- Am Wasserrand wird ein Handel geschlossen → wickle ihn genau so ab, wie er ausgesprochen wurde — der Sog hält jeden Handel aufs Wort (ein benannter Passagier steigt in jener Nacht die Treppe hinauf und über die Reling, ohne Widerstand; der Gebende bekommt **+3 Nachteinbruch-Striche** und das leise Wort des alten Mannes: „*Das war nicht deins auszugeben.*").
+- Am Wasserrand wird ein Handel geschlossen → wickle ihn genau so ab, wie er ausgesprochen wurde — der Sog hält jeden Handel aufs Wort (ein benannter Passagier steigt in jener Nacht die Treppe hinauf und über die Reling, ohne Widerstand; es kostet den alten Mann kein Stück — der Preis ist die Gabe — und der Gebende bekommt nur das leise Wort des alten Mannes: „*Das war nicht deins auszugeben.*").
 
 ## Scene: Das Krähennest
 
