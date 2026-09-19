@@ -28,7 +28,7 @@ tags: [act]
 >
 > Über euch zieht ein geflicktes braunes Segel, prall und stetig — dabei rührt sich kein Wind. Das Boot ist klein. Zwei Masten, achtern trocknende Netze, ein Ruder am Heck — eine Fischerketsch, die Sorte, die morgens eine Küste befischt und abends vor dem Wetter nach Hause läuft. Es gibt keine Küste. Die See liegt glatt wie gegossenes Glas von Horizont zu Horizont, unter einem grauen Zwielicht, das nirgendwo eine Sonne enthält.
 >
-> Am Ruder steht ein alter Mann in Ölzeug, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
+> Am Ruder steht ein alter Mann in einem schweren, geteerten Mantel, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
 >
 > „Die Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
 
@@ -122,7 +122,7 @@ Wachen zu gehen ist der Weg, wie die Gruppe den alten Mann am Ruder ablöst und 
 - Enemies: 1 × [[the-catch|der Fang]]
 - Tactics: er spricht mit den Stimmen derer an Deck, um Zögern einzufrieren, verstrickt jeden, der einholt, und versucht, ein Opfer über die Reling zu ziehen, statt jemanden zu töten; er lässt augenblicklich nach, wenn ihm stattdessen ein Passagier angeboten wird (erkläre nicht, warum — und wird dieser Handel auch nur *erwogen*, muss der alte Mann eingreifen, um ihn zu brechen: **ein Stück Kraft**, [[00-overview|Übersicht]]); zieht er jemanden über die Reling, ist es der alte Mann, der ihn zurückholt — auf Bitte oder wenn niemand sonst mehr zugreifen kann — und auch das kostet ihn ein Stück
 - Terrain: nasses Heckdeck; die Reling; der Laternenkreis mittschiffs — ins Licht wird er sich nicht selbst hineinziehen
-- Treasure: im Knäuel verfangen eine Ölzeugjacke der Gezeitenklinge, das Namenszeichen in den Kragen gestickt — ein Kamerad, den die Gruppe kannte, einer, den sie zuletzt lebend am Strand gesehen hat
+- Treasure: im Knäuel verfangen eine Teerjacke der Gezeitenklinge, das Namenszeichen in den Kragen gestickt — ein Kamerad, den die Gruppe kannte, einer, den sie zuletzt lebend am Strand gesehen hat
 
 > [!tip] GM Guidance — den Fang inszenieren
 > Er wurde nie gefangen: Das Netz *ist* sein Körper, und das Knäuel an Deck ist nur die Spitze einer größeren Masse, die noch im Wasser hängt. Verwandle ihn nicht in eine Monstergestalt — er bleibt den ganzen Kampf über Tau, Tang, Fische und Hände; nur das Verhalten ändert sich (alle Fische drehen den Kopf zugleich in dieselbe Richtung; die Fischmäuler sprechen im Chor; die Hände klettern durch das Geflecht wie Matrosen im Rigg). Seine Netzglieder sind geworfene Maschenschlingen, die ein Ziel einschnüren — weshalb eine Schneide augenblicklich befreit. Er zerrt niemanden mit Gewalt: Sobald jemand verstrickt ist, *sinkt* die untergetauchte Hälfte einfach, und die Hände holen geduldig die Lose ein. Spiele das Deck als drei Zonen und sprich sie laut aus — Laternenkreis (sicher), offenes Deck, Heckreling — mit jemandem, der jede Runde eine Zone näher an einem Ende ist. Zerschnitten stirbt er nicht; er geht auf, jeder Knoten auf einmal, und lässt nur gewöhnlichen Unrat zurück und die Jacke.

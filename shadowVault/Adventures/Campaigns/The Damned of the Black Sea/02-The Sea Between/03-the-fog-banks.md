@@ -112,7 +112,7 @@ Was sie wollen und was sie mitbringen ([[the-dead-crew|die tote Mannschaft]] fü
 - Treasure: Mareks Bootsmannspfeife, falls sie vernichtet werden — sie klingt nur unter Wasser (nie erklären)
 
 > [!tip] GM Guidance
-> Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Ölzeugjacke aus [[02-the-smooth-sea|den Netzen]], nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. **+1 Kraft** für den alten Mann — ein mit Güte ausgeschlagener Handel ([[00-overview|Übersicht]]).
+> Spiele sie warm. Der Schrecken ist, dass hier nichts feindselig ist — nur falsch und traurig und geduldig. Gibt die Gruppe ihnen die Teerjacke aus [[02-the-smooth-sea|den Netzen]], nimmt Tams sie, dankt ihnen mit dem Namen des toten Mannes, und die drei gehen ohne ein weiteres Wort über Bord: Die Szene endet, kein Kampf, und die Gruppe hat Trauer gegen Trauer getauscht. **+1 Kraft** für den alten Mann — ein mit Güte ausgeschlagener Handel ([[00-overview|Übersicht]]).
 
 ### Outcomes
 

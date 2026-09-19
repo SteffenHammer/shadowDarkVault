@@ -210,7 +210,7 @@ FACTS, IMAGES AND DIALOGUE THAT MUST SURVIVE (all load-bearing; the old man's li
 - A patched brown sail above, full and steady — though not a breath of wind stirs.
 - The boat is small: two masts, drying nets aft, a stern rudder — a fishing ketch, the kind that fishes a coast in the morning and runs home before the weather in the evening. There is no coast. There is no evening.
 - The sea lies flat as poured glass from horizon to horizon, under a grey twilight that contains no sun anywhere.
-- At the helm: an old man in oilskins, older than any fashion, one big calm hand on the wheel. Beside him a lantern burns warm and low — the only warm color in the world. (The lantern is the adventure's central protective object — keep "the only warm color in the world" or an equally strong version of it.)
+- At the helm: an old man in a heavy tarred canvas coat, older than any fashion, one big calm hand on the wheel. Beside him a lantern burns warm and low — the only warm color in the world. (The lantern is the adventure's central protective object — keep "the only warm color in the world" or an equally strong version of it.)
 - He watches them sit up one by one and nods. Without surprise. As if they were on time.
 - His line, verbatim: „Die Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
 
@@ -224,7 +224,7 @@ Ihr erwacht auf warmen, trockenen Planken, und das Erste, was ihr wahrnehmt, ist
 
 Über euch zieht ein geflicktes braunes Segel, prall und stetig — dabei rührt sich kein Wind. Das Boot ist klein. Zwei Masten, achtern trocknende Netze, ein Ruder am Heck — eine Fischerketsch, die Sorte, die morgens eine Küste befischt und abends vor dem Wetter nach Hause läuft. Es gibt keine Küste. Die See liegt glatt wie gegossenes Glas von Horizont zu Horizont, unter einem grauen Zwielicht, das nirgendwo eine Sonne enthält.
 
-Am Ruder steht ein alter Mann in Ölzeug, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
+Am Ruder steht ein alter Mann in einem schweren, geteerten Mantel, eine große, ruhige Hand am Rad. Neben ihm brennt eine Laterne, warm und niedrig — die einzige warme Farbe auf der Welt. Er sieht zu, wie ihr euch aufsetzt, einer nach dem anderen, und nickt. Ohne Überraschung. Als wärt ihr pünktlich.
 
 „Die Insel ist versunken", sagt er. „Hab euch treibend im Wrack gefunden. Ich segle euch nach Hause."
 

@@ -6,7 +6,7 @@ tags: [statblock]
 
 # Bootsmann des Lotsen
 
-Die Ruderer des Lotsen: vermummte Gestalten in Ölzeug, die in vollkommener Stille rudern, die Gesichter stets im Schatten ihrer Kapuzen, ganz gleich, wo das Licht steht. Sie führen ihre Bootshaken wie Männer, die seit sehr langer Zeit Fracht bewegen — und Seelen sind Fracht.
+Die Ruderer des Lotsen: vermummte Gestalten in geteertem Segeltuch, die in vollkommener Stille rudern, die Gesichter stets im Schatten ihrer Kapuzen, ganz gleich, wo das Licht steht. Sie führen ihre Bootshaken wie Männer, die seit sehr langer Zeit Fracht bewegen — und Seelen sind Fracht.
 
 > [!info]+ Bootsmann des Lotsen — LV 4
 > **AC** 13 · **HP** 20 · **MV** near (schwimmend) · **AL** C
