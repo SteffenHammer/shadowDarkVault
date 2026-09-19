@@ -61,9 +61,9 @@ Die Gruppe flieht den Weg zurück, den sie gekommen ist — und kommt genau eine
 > [!quote] Read Aloud
 > Ihr brecht durch die Oberfläche in kaltes Salz und Lärm — mitten in eine Schlacht hinein. Der Strand ist zerrissener Feuerschein und rennende Männer: die Mannschaft der Gezeitenklinge, *eure* Mannschaft, in einer brechenden Linie an der Wasserkante. Und aus dem schwarzen Wasser waten ihnen Matrosen entgegen, die nie mit euch gesegelt sind — aufgedunsen, von Seepocken gepflastert und triefend. Hinter ihren Augen brennt ein grünes Licht wie Laternen, die in der tiefen See versunken sind.
 >
-> In der Mitte der Linie steht Kapitän Rauthorn, sein Säbel scheint schwarz im Feuerschein, und wo seine Klinge hinfährt, gehen die Ertrunkenen zu Boden. Er sieht euch in der Brandung — und einen Herzschlag lang, huscht etwas über sein Gesicht, das Erleichterung sein könnte.
+> In der Mitte der Linie steht Kapitän Rauthorn, sein Säbel scheint schwarz im Feuerschein, und wo seine Klinge hinfährt, gehen die Ertrunkenen zu Boden. Er sieht euch in der Brandung — und einen Herzschlag lang huscht etwas über sein Gesicht, das Erleichterung sein könnte.
 >
-> Dann bebt die Insel erneut, und seine Augen gehen nach Norden — dorthin, wo der Tempel hinter dem verfilzten Grün der Insel verborgen liegt. Eure Blick folgen seinen und ihr seht ein Glühen, das von der Insel aufsteigt und in den Nachthimmel klettert.
+> Dann bebt die Insel erneut, und seine Augen gehen nach Norden — dorthin, wo der Tempel hinter dem verfilzten Grün der Insel verborgen liegt. Eure Blicke folgen seinem, und ihr seht ein Glühen, das von der Insel aufsteigt und in den Nachthimmel klettert.
 
 **Encounter: Die Linie der Ertrunkenen**
 - Enemies: 1d4+1 × [[drowned-sailor|ertrunkener Matrose]] (pro gebundenem SC, weitere waten dahinter heraus — das ist Kulisse, kein Set-Piece)
@@ -104,9 +104,9 @@ Lass die Gruppe eine oder zwei echte Runden an der Seite ihrer Kameraden kämpfe
 > [!quote] Read Aloud — Die Wiedergeburtsvision
 > Dunkelheit. Kälte. Ihr sinkt. Langsam. Immer weiter. Unter euch ist nichts, was euch auffängt. Kein Grund. Nur die endlose Tiefe.
 >
-> Und dann wird eure Vision aus dem Tempel Wirklichkeit. Rine sturmzerrissene schwarze See, und aus ihr steigt eine Gestalt, für die es keine Maße gibt — größer als Schiffe, größer als Klippen, Wasser stürzt von ihren Flanken wie einbrechende Küstenlinien. Ihre Augen brennen wie zwei kalte Sterne. Sie erwacht nicht. Sie wird *geboren* — und die See selbst macht ihr Platz.
+> Und dann wird eure Vision aus dem Tempel Wirklichkeit. Eine sturmzerrissene schwarze See, und aus ihr steigt eine Gestalt, für die es keine Maße gibt — größer als Schiffe, größer als Klippen, Wasser stürzt von ihren Flanken wie einbrechende Küstenlinien. Ihre Augen brennen wie zwei kalte Sterne. Sie erwacht nicht. Sie wird *geboren* — und die See selbst macht ihr Platz.
 >
-> Ihr Blick findet euch. Jeden Einzelnen von euch. Ein Gefühlt durchfährt euch, das keine Worte braucht: eine Schuld, die anerkannt wird.
+> Ihr Blick findet euch. Jeden Einzelnen von euch. Ein Gefühl durchfährt euch, das keine Worte braucht: eine Schuld, die anerkannt wird.
 >
 > Dann gleitet etwas Gewaltiges im Dunkeln an euch vorbei, nah genug, um es zu berühren: ein Auge, länger als ein Boot, das euch die ganze Zeit im Vorbeigleiten ansieht. Es ist nicht neugierig. Es prägt sich euch ein.
 >
